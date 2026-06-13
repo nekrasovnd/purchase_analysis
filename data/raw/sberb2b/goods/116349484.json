@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "3ca96aa8-fd81-490b-97b5-d3cc270540f8",
+        "c_description": "Конверт С5 111 силикон бумага офсетная 80 г/м2, окно правое. 45х90мм, печать 1+0",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 100000.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": "17.23.12.110",
+        "c_attachments": []
+      },
+      {
+        "c_id": "669d325d-b98d-406d-9dc5-475d32fe9471",
+        "c_description": "Конверт С4 111 силикон печать 1+0, окно 45х90 мм, вн. запечатка, бумага офсетная 90 г/м2 ",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 7000.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": "17.23.12.110",
+        "c_attachments": []
+      }
+    ]
+  }
+}

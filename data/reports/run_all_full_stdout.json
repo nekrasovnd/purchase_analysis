@@ -1,0 +1,24 @@
+{
+  "entities_total": 24,
+  "entities_with_observed_lots": 14,
+  "lots_total": 3549,
+  "lots_duplicates_removed": 65,
+  "lots_with_disclosed_price": 2375,
+  "price_coverage_ratio": 0.6692,
+  "items_total": 5305,
+  "items_with_unit_price": 2232,
+  "document_links_total": 4108,
+  "document_texts_total": 150,
+  "document_text_chars_total": 4002092,
+  "participants_total": 616,
+  "winners_total": 0,
+  "unit_price_benchmarks_total": 686,
+  "unit_price_anomalies_total": 7,
+  "macro_days_total": 613,
+  "macro_has_inflation": true,
+  "source_breakdown": {
+    "sberbank_ast": 2933,
+    "roseltorg": 616
+  },
+  "coverage_note": "EIS works as official coverage control; Roseltorg and Sberbank-AST supply the observed lot-level sample; SberB2B public cards enrich AST rows with goods, documents, and any public participant data; ZakazRF and Lot-Online are reproduced as exact probe sources."
+}

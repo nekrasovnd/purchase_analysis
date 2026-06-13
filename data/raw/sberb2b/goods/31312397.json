@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 3,
+    "goods": [
+      {
+        "c_id": "63eacd69-fa2f-44f7-b147-20f9829c53cb",
+        "c_description": "Металлическая шведская стенка со съёмным турником-брусьями 3 в 1 «Звезда»",
+        "c_comment": "Модель металлической шведской стенки 3 в 1-м «Звезда» позволяет менять высоту установки турника-брусьев при необходимости или вообще снять, что практично и удобно. Комплектация: стенка металлическая; съемный турник-брусья З в 1-м; комплект крепежа. Подходит для занятий физкультурой, спортом. Выдерживает суммарную нагрузку до 200 кг! Порошковая окраска, на перекладинах прорезиненный материал. Гарантия 2 года, крепеж в комплекте. Вес-40 кг; Высота/ширина - 232/70 см; Бренд «Походокросс»",
+        "c_priceWithTax": 39000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 39000.0,
+        "c_okpd2Code": "32.30.14.121",
+        "c_okpd2Name": "Тренажеры силовые",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "65c2ab8b-58e5-4cf8-8e85-228ea50c07f3",
+        "c_description": "Чугунная гиря «Torneo» в оболочке из ПВХ, 16 кг.",
+        "c_comment": "Покрытие: ПВХ Материал: чугун Вес: 16 кг",
+        "c_priceWithTax": 17000.0,
+        "c_count": 2.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 17000.0,
+        "c_okpd2Code": "32.30.14.129",
+        "c_okpd2Name": "Оборудование для занятий физкультурой, гимнастикой и атлетикой, занятий в спортзалах, фитнес-центрах прочее, не включенное в другие группировки",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "f4956dbe-5941-4538-8ae7-9bee0c02e9ce",
+        "c_description": "Набор гантели и штанга переходник «Torneo», 43 кг.",
+        "c_comment": "Покрытие: ПВХ Материал: пластик, цемент, сталь Вес: 43 кг",
+        "c_priceWithTax": 22000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 22000.0,
+        "c_okpd2Code": "32.30.14.119",
+        "c_okpd2Name": "Инвентарь для занятий физкультурой, гимнастикой и атлетикой прочий, не включенный в другие группировки",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

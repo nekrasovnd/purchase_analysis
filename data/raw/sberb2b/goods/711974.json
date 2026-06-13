@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "23282521-7a48-4f38-9e3c-a6ede9fcb49f",
+        "c_description": "питьевая вода 19 л.",
+        "c_comment": "АРТЕЗИАНСКАЯ ПИТЬЕВАЯ ВОДА ВЫСШЕЙ КАТЕГОРИИ негазированная",
+        "c_priceWithTax": 450.0,
+        "c_count": 120.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 450.0,
+        "c_okpd2Code": "36.00.11.000",
+        "c_okpd2Name": "Вода питьевая",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "65b6411c-bda9-4c9e-98a3-3862cc92e3bb",
+        "c_description": "Аренда кулера ",
+        "c_comment": "1шт. на срок действия договора\nНапряжение 220 В\nТип установки напольный\nТип охлаждения электронный\nТип нагревательного элемента ТЭН\nМатериал корпуса пластик/металл\nРазмещение бутыли с водой верхняя загрузка\nКоличество кранов 2 шт\nКран с охлаждением воды есть\nКран с нагревом воды есть",
+        "c_priceWithTax": 450.0,
+        "c_count": 12.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 450.0,
+        "c_okpd2Code": "77.39.19.119",
+        "c_okpd2Name": "Услуги по аренде и лизингу прочих машин и оборудования научного и промышленного назначения",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "31b6fc4d-2baa-4771-a57c-a506bed79133",
+        "c_unitName": "мес",
+        "c_unitOkeiCode": "362",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

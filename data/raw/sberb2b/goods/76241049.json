@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "7ea39521-dddc-4c23-acc5-67c72301f295",
+        "c_description": "Ноутбук ASUS, B1402CBA-EB4232 14\", Core i3, 256 Гб",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 5.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "c6aab383-e95f-4a33-85cf-63b06e9a8c4a",
+        "c_description": "Ноутбук Lenovo IdeaPad Slim 3 15AMN8 15.6\" ",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "0f9385cb-240b-4f1e-8b18-6931f484b565",
+        "c_description": "Планшет Samsung Galaxy Tab A9+ 8, диагональ 11\", 128 Гб ",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "f955c040-2019-4527-872f-9bf352f273c9",
+        "c_description": "Умная колонка «Сбербум» ",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

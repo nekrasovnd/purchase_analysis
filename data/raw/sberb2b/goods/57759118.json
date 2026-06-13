@@ -1,0 +1,133 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 3,
+    "goods": [
+      {
+        "c_id": "4da04ba0-ff8c-4390-92d3-e981003b3f5f",
+        "c_description": "Диван трехместный",
+        "c_comment": "Диван трехместный\nРазмеры, мм (Ш*Г*В): 1730*850*700 +/-5%\nРазмер от пола до вернего края спинки 700 мм.\nРазмер от пола до верхнего края подлокотника 700 мм.\nМатериал обивки экокожа\nТест на истираемость по Мартиндейлу не менее 100 000 циклов.\nЦвет темно серый, по согласованию с Заказчиком\nОпора хромированная\nМаксимальный вес на 1 место не менее 100 кг\nНаполнитель ППУ\nВ соответствии с визуализацией",
+        "c_priceWithTax": 73000.0,
+        "c_count": 2.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 73000.0,
+        "c_okpd2Code": "31.09.12.119",
+        "c_okpd2Name": "Диваны, софы, кушетки с деревянным каркасом, трансформируемые в кровати, прочие",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "ba602427-e0f5-434a-b6c6-849695a33d0b",
+            "is_deletable": true,
+            "name": "b95d9287448445786328cfca1e4507ca.docx",
+            "original_name": "Диван.docx",
+            "size": 25636,
+            "type": "document",
+            "web_path": "/uploads/documents/b9/5d9/287/",
+            "created_at": "2025-12-25T18:12:13+03:00",
+            "created_by": {
+              "name": null,
+              "patronymic": "",
+              "surname": null
+            },
+            "file": {
+              "id": "da3c30dc-f3cc-44f2-a742-4162d0221275",
+              "name": "b95d9287448445786328cfca1e4507ca.docx",
+              "original_name": "Диван.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/b9/5d9/287/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "47e476f1-ca55-452b-a38b-b87433c319b6",
+        "c_description": "Кресло",
+        "c_comment": "Кресло посетителя\nРазмеры, мм (Ш*Г*В): 560х650x1040 +/-5%\nМаксимально допустимый вес не менее 120 кг\nМатериал обивки экокожа \nТест на истираемость по Мартиндейлу не менее 100 000 циклов.\nЦвет темно серый, по согласованию с Заказчиком\nКаркас: металлические полозья, цвет хром.\nВ соответствии с визуализацией",
+        "c_priceWithTax": 41000.0,
+        "c_count": 6.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 41000.0,
+        "c_okpd2Code": "31.01.12.160",
+        "c_okpd2Name": "Мебель для сидения, преимущественно с деревянным каркасом",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "6b919f7c-81f8-4290-ba78-7457dd5b25f3",
+            "is_deletable": true,
+            "name": "171f7757f57e51d9a625d880aa4a8cc6.docx",
+            "original_name": "Кресло.docx",
+            "size": 535544,
+            "type": "document",
+            "web_path": "/uploads/documents/17/1f7/757/",
+            "created_at": "2025-12-25T18:12:13+03:00",
+            "created_by": {
+              "name": null,
+              "patronymic": "",
+              "surname": null
+            },
+            "file": {
+              "id": "8042b865-1910-402d-8384-4a882025e30d",
+              "name": "171f7757f57e51d9a625d880aa4a8cc6.docx",
+              "original_name": "Кресло.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/17/1f7/757/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "2b8d2caa-7646-4664-bbf3-8f8612026363",
+        "c_description": "Стол",
+        "c_comment": "Стол переговорный\nРазмеры, мм (Д*Г*В): 2400*1200*750 +/-5%\nКаркас столов: металлокаркас\nТолщина столешницы (мм): 25\nМатериал столешницы: ЛДСП\nЦвет Тиквуд или аналог по согласованию с Заказчиком\nВ соответствии с визуализацией",
+        "c_priceWithTax": 107000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 107000.0,
+        "c_okpd2Code": "31.01.12.110",
+        "c_okpd2Name": "Столы письменные деревянные для офисов, административных помещений",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "93c1cd6b-7db1-4127-877f-7cb59894e438",
+            "is_deletable": true,
+            "name": "24a5f2a02ed266bb0ce99e061032f5f4.docx",
+            "original_name": "Стол.docx",
+            "size": 38920,
+            "type": "document",
+            "web_path": "/uploads/documents/24/a5f/2a0/",
+            "created_at": "2025-12-25T18:12:13+03:00",
+            "created_by": {
+              "name": null,
+              "patronymic": "",
+              "surname": null
+            },
+            "file": {
+              "id": "2aa041f1-02c3-44af-9ffe-808b460a7934",
+              "name": "24a5f2a02ed266bb0ce99e061032f5f4.docx",
+              "original_name": "Стол.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/24/a5f/2a0/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

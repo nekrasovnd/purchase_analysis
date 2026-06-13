@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "9dda7d6f-a5ba-497c-97cc-716488297cac",
+        "c_description": "Печати, штампы, факсимиле на автоматической оснастке",
+        "c_comment": "В соответствии с Техническим заданием",
+        "c_priceWithTax": 132840.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 132840.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "72ca93c0-d996-4b7e-a851-8ef2280db868",
+            "is_deletable": true,
+            "name": "191344422ba1797d0e454b8bce878705.docx",
+            "original_name": "Техническое задание.docx",
+            "size": 15231,
+            "type": "document",
+            "web_path": "/uploads/documents/19/134/442/",
+            "created_at": "2025-10-08T11:37:00+03:00",
+            "created_by": {
+              "name": "Виолетта",
+              "patronymic": "",
+              "surname": "Селютина"
+            },
+            "file": {
+              "id": "3fc9c234-af37-4502-b958-98973e05f08a",
+              "name": "191344422ba1797d0e454b8bce878705.docx",
+              "original_name": "Техническое задание.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/19/134/442/"
+            }
+          },
+          {
+            "id": "d351e4b8-e54e-410d-9b46-a5e29bea32aa",
+            "is_deletable": true,
+            "name": "a6a105e7ad828af307fdf39a2713f26f.docx",
+            "original_name": "Проект договора.docx",
+            "size": 362716,
+            "type": "document",
+            "web_path": "/uploads/documents/a6/a10/5e7/",
+            "created_at": "2025-10-08T11:37:05+03:00",
+            "created_by": {
+              "name": "Виолетта",
+              "patronymic": "",
+              "surname": "Селютина"
+            },
+            "file": {
+              "id": "7bafe4b5-a313-4f5d-ab36-81a32a6ed57d",
+              "name": "a6a105e7ad828af307fdf39a2713f26f.docx",
+              "original_name": "Проект договора.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/a6/a10/5e7/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

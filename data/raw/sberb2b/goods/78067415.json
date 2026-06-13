@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "62b7d6fb-51c5-4364-87ba-3f91fdff9d62",
+        "c_description": "Менеджмент проекта",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "94.99.16.110",
+        "c_okpd2Name": "Услуги объединений, создаваемых с целью проведения культурных и развлекательных мероприятий и организации досуга, кроме спорта или игр",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "822ca7ca-47fe-485a-9bd3-feb5246df374",
+        "c_description": "Разработка и наполнение контент-плана публикации",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "94.99.16.110",
+        "c_okpd2Name": "Услуги объединений, создаваемых с целью проведения культурных и развлекательных мероприятий и организации досуга, кроме спорта или игр",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

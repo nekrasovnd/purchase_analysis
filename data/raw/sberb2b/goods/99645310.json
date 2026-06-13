@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "7e6c04bc-8af9-4de2-963f-5b1906e2c1ac",
+        "c_description": "Поставка офисных кресел Easy Chair 304 (чёрные, сетка/ткань, пластик) - 10 шт. (дополнительная закупка)",
+        "c_comment": "В соответствии с техническими требованиями (см. вложением). \nМеханизм качания - Top Gun.",
+        "c_priceWithTax": 7000.0,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 7000.0,
+        "c_okpd2Code": "31.01.11.150",
+        "c_okpd2Name": "Мебель для сидения, преимущественно с металлическим каркасом",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "a1bcd5d5-c5f6-4e9c-a2df-f31ad0ee64b1",
+            "is_deletable": true,
+            "name": "7abd1de81543f0d3ab196e679bd6e041.JPG",
+            "original_name": "Технические требования - кресла офисные.JPG",
+            "size": 38301,
+            "type": "image",
+            "web_path": "/uploads/images/7a/bd1/de8/",
+            "created_at": "2025-12-08T13:40:48+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "f1dd7699-406a-4780-aeb9-50710f748643",
+              "name": "7abd1de81543f0d3ab196e679bd6e041.JPG",
+              "original_name": "Технические требования - кресла офисные.JPG",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/7a/bd1/de8/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

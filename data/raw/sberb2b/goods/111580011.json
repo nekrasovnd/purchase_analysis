@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "24f5863d-cb7d-4a2b-8d7b-4363ae94b732",
+        "c_description": "Погрузка, взвешивание, вывоз и конфиденциальное уничтожение информации на бумажных носителях весом не менее 1000 кг. не более 3 000 кг.",
+        "c_comment": "Описание услуг, Техническое задание - в приложении \"Запрос КП\"",
+        "c_priceWithTax": 0.0,
+        "c_count": 3000.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "82e2bbbe-75bb-4a68-87ba-a75d269c334f",
+        "c_unitName": "кг",
+        "c_unitOkeiCode": "166",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "e6944d16-3535-490d-b8d0-a7e420cda75b",
+            "is_deletable": true,
+            "name": "280c2e9373220980d33d33e8a27a4dab.docx",
+            "original_name": "Запрос КП.docx",
+            "size": 28519,
+            "type": "document",
+            "web_path": "/uploads/documents/28/0c2/e93/",
+            "created_at": "2025-08-12T18:58:43+03:00",
+            "created_by": {
+              "name": "Максим",
+              "patronymic": null,
+              "surname": "Токарев"
+            },
+            "file": {
+              "id": "555c4a14-54f7-41e8-a55f-a5c807d70b80",
+              "name": "280c2e9373220980d33d33e8a27a4dab.docx",
+              "original_name": "Запрос КП.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/28/0c2/e93/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

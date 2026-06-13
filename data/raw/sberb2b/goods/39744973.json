@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "82e5feab-4290-4026-9e8f-6244a107ae30",
+        "c_description": "Программа для ЭВМ \"1С Битрикс24\". Лицензия Энтерпрайз (12 мес., продление)",
+        "c_comment": "",
+        "c_priceWithTax": 389700.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 389700.0,
+        "c_okpd2Code": "62.01.29",
+        "c_okpd2Name": "Оригиналы программного обеспечения прочие",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

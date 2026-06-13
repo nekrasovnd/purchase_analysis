@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "9d76eeb1-3ffc-4e28-b9ca-aed5b3b56517",
+        "c_description": "Визитка",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "58.19.11.200",
+        "c_okpd2Name": "Прочая издательская продукция печатная",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "aa8f582d-75f7-4501-bc7d-06e6864a9dde",
+        "c_description": "Бланк",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "d529f391-5014-4c66-8f56-e939778802fd",
+        "c_description": "Изготовление макета",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "5b52fdef-53b3-4599-b6b2-dac7bfa50b46",
+        "c_description": "Доставка",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

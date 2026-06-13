@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "3e7a25fb-0b9e-45c7-b429-3af04ca4b2d8",
+        "c_description": "Стол высокий",
+        "c_comment": "",
+        "c_priceWithTax": 191065.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 191065.0,
+        "c_okpd2Code": "31.01.12.110",
+        "c_okpd2Name": "Столы письменные деревянные для офисов, административных помещений",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "f24a3ece-ed54-4839-af1c-f3c844e59a48",
+        "c_description": "Журнальный стол",
+        "c_comment": "",
+        "c_priceWithTax": 39487.0,
+        "c_count": 5.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 39487.0,
+        "c_okpd2Code": "31.01.12.110",
+        "c_okpd2Name": "Столы письменные деревянные для офисов, административных помещений",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

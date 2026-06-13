@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "3c3c638f-bdf1-44c2-ba29-5489cf6fb0e9",
+        "c_description": "Оптический трансивер SFP-10G-SR, производство РФ (или аналог) ",
+        "c_comment": "Оптический трансивер SFP-10G-SR, производство РФ (или аналог) ",
+        "c_priceWithTax": 3625.6,
+        "c_count": 8.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 3625.6,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "ef2dc524-5a39-433f-baef-b44f94939241",
+        "c_description": "Оптический трансивер SFP-10G-LR,  производство РФ (или аналог)",
+        "c_comment": "Оптический трансивер SFP-10G-LR,  производство РФ (или аналог)",
+        "c_priceWithTax": 7800.0,
+        "c_count": 4.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 7800.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "be347d37-2805-44d3-9a76-6fc09a595365",
+        "c_description": "Оптический патч-корд LC-LC 3м, производство РФ (многомодовое волокно (MMF), совместимость с модулями SFP-10G-SR)",
+        "c_comment": "Оптический патч-корд LC-LC 3м, производство РФ (многомодовое волокно (MMF), совместимость с модулями SFP-10G-SR)",
+        "c_priceWithTax": 544.7,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 544.7,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "9c2e3d93-d11d-4046-ba2f-5f04f56451c7",
+        "c_description": "Оптический патч-корд LC-LC 5м,  производство РФ (многомодовое волокно (MMF), совместимость с модулями SFP-10G-SR)",
+        "c_comment": "Оптический патч-корд LC-LC 5м,  производство РФ (многомодовое волокно (MMF), совместимость с модулями SFP-10G-SR)",
+        "c_priceWithTax": 553.8,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 553.8,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

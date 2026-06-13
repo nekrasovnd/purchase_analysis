@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "ea2653b0-26d4-4dca-9a52-9dc0bc8252de",
+        "c_description": "Оказание услуг тренера по баскетболу",
+        "c_comment": "В соответствии с файлом запроса",
+        "c_priceWithTax": 0.0,
+        "c_count": 12.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "93.19.11.000",
+        "c_okpd2Name": "Услуги по содействию в подготовке спортивных и развлекательных мероприятий",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "31b6fc4d-2baa-4771-a57c-a506bed79133",
+        "c_unitName": "мес",
+        "c_unitOkeiCode": "362",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

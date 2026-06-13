@@ -17,4 +17,8 @@ class RunConfig:
     date_to: str = "31.12.2025"
     max_pages: int = 20
     request_timeout: int = 30
+    max_sberb2b_details: int = 500
+    download_documents_limit: int = 100
+    max_document_size_bytes: int = 10_000_000
+    max_sberb2b_api_probes: int = 10
     entity_scope_path: Path = CONFIG_DIR / "entity_scope.csv"

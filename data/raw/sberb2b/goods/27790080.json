@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 3,
+    "goods": [
+      {
+        "c_id": "a70cf847-8a3e-420c-b4f9-5b427ec78bb6",
+        "c_description": "Жалюзи горизонтальные тип 1",
+        "c_comment": "25 мм. Цвет 7005. 101*150 см с боковой фиксацией. Материал - алюминий",
+        "c_priceWithTax": 0.0,
+        "c_count": 4.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "25.99.99.200",
+        "c_okpd2Name": "Услуги по изготовлению готовых металлических изделий хозяйственного назначения по индивидуальному заказу населения",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "557c9c31-b461-4d10-9fe3-eae9223444c0",
+        "c_description": "Жалюзи горизонтальные тип 2",
+        "c_comment": "25 мм. Цвет 7005. 105,5*140 см с боковой фиксацией. Материал - алюминий",
+        "c_priceWithTax": 0.0,
+        "c_count": 2.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "25.99.99.200",
+        "c_okpd2Name": "Услуги по изготовлению готовых металлических изделий хозяйственного назначения по индивидуальному заказу населения",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "fdad86a7-0025-420f-ae5e-42e92c1b47b9",
+        "c_description": "Жалюзи горизонтальные тип 3",
+        "c_comment": "25 мм. Цвет 7005. 81,5*160,5 см с боковой фиксацией. Материал - алюминий",
+        "c_priceWithTax": 0.0,
+        "c_count": 11.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "25.99.99.200",
+        "c_okpd2Name": "Услуги по изготовлению готовых металлических изделий хозяйственного назначения по индивидуальному заказу населения",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

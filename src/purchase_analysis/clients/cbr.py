@@ -9,6 +9,7 @@ from purchase_analysis.utils.text import normalize_spaces, parse_ru_decimal
 
 USD_XML_URL = "https://www.cbr.ru/scripts/XML_dynamic.asp"
 KEY_RATE_URL = "https://www.cbr.ru/hd_base/keyrate/"
+INFLATION_URL = "https://www.cbr.ru/hd_base/infl/"
 
 
 def create_session(timeout: int = 30) -> requests.Session:
@@ -92,6 +93,49 @@ def fetch_key_rate(
                     normalize_spaces(str(record["factor_date"])), "%d.%m.%Y"
                 ).date().isoformat(),
                 "key_rate": rate_value,
+            }
+        )
+    return rows
+
+
+def fetch_inflation_yoy(
+    date_from: str,
+    date_to: str,
+    session: requests.Session | None = None,
+    timeout: int = 30,
+) -> list[dict]:
+    session = session or create_session(timeout=timeout)
+    response = session.get(
+        INFLATION_URL,
+        params={
+            "UniDbQuery.Posted": "True",
+            "UniDbQuery.From": date_from,
+            "UniDbQuery.To": date_to,
+        },
+        timeout=timeout,
+    )
+    response.raise_for_status()
+    tables = pd.read_html(StringIO(response.text))
+    if not tables:
+        return []
+    table = tables[0]
+    table.columns = ["month", "key_rate_month_end", "inflation_yoy_pct", "inflation_target_pct"]
+    rows: list[dict] = []
+    for record in table.to_dict(orient="records"):
+        month_text = normalize_spaces(str(record["month"]))
+        if "." not in month_text:
+            continue
+        month, year = month_text.split(".", 1)
+        month_date = datetime(int(year), int(month), 1).date().isoformat()
+        inflation = parse_ru_decimal(str(record["inflation_yoy_pct"]))
+        target = parse_ru_decimal(str(record["inflation_target_pct"]))
+        key_rate = parse_ru_decimal(str(record["key_rate_month_end"]))
+        rows.append(
+            {
+                "month_date": month_date,
+                "inflation_yoy_pct": inflation / 100 if inflation and inflation > 100 else inflation,
+                "inflation_target_pct": target / 100 if target and target > 100 else target,
+                "key_rate_month_end": key_rate / 100 if key_rate and key_rate > 100 else key_rate,
             }
         )
     return rows

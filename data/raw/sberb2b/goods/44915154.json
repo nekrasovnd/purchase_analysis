@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "2f0bbda6-bf27-4601-9cc9-49515f184904",
+        "c_description": "Чистка коврового покрытия",
+        "c_comment": "Требования в файле Форма предоставления КП_25. Коммерческое предложение предоставить в данной форме.",
+        "c_priceWithTax": 60000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 60000.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 3,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

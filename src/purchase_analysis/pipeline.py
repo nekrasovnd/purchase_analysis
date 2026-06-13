@@ -4,6 +4,7 @@ import csv
 from dataclasses import asdict, dataclass
 import json
 from pathlib import Path
+import re
 from typing import Any
 
 import pandas as pd
@@ -12,6 +13,7 @@ from purchase_analysis.analysis import (
     build_anomalies_mart,
     build_category_yoy_mart,
     build_category_mix_mart,
+    build_document_texts_frame,
     build_document_links_frame,
     build_duplicate_stats_frame,
     build_entity_source_links_frame,
@@ -19,16 +21,20 @@ from purchase_analysis.analysis import (
     build_external_factors_frame,
     build_integration_probe_frame,
     build_llm_prompt_context,
+    build_macro_diagnostics_mart,
     build_monthly_activity_mart,
     build_monthly_macro_join_mart,
+    build_participants_frame,
     build_procurement_items_frame,
     build_procurements_frame,
     build_quality_summary,
     build_source_assessment_frame,
+    build_unit_price_benchmarks_mart,
     build_yearly_summary_mart,
 )
-from purchase_analysis.clients import cbr, eis, lot_online, roseltorg, sberbank_ast, zakazrf
+from purchase_analysis.clients import cbr, eis, lot_online, roseltorg, sberb2b, sberbank_ast, zakazrf
 from purchase_analysis.config import CURATED_DIR, RAW_DIR, REPORTS_DIR, RunConfig
+from purchase_analysis.documents import extract_text_from_document
 from purchase_analysis.llm import maybe_write_llm_summary
 from purchase_analysis.utils.io import ensure_dir, write_json, write_text
 from purchase_analysis.utils.text import safe_slug
@@ -83,6 +89,77 @@ def _candidate_queries(scope: ScopeEntity, resolved_inn: str | None) -> list[str
     return deduped
 
 
+def _safe_document_filename(procedure_number: str, index: int, original_name: str) -> str:
+    suffix = Path(original_name).suffix
+    stem = original_name[: -len(suffix)] if suffix else original_name
+    stem = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", stem)
+    stem = re.sub(r"\s+", " ", stem).strip(" ._")[:100] or "document"
+    return f"{procedure_number}_{index:03d}_{stem}{suffix or '.bin'}"
+
+
+def _sberb2b_api_probe_rows(need_id: str, condition_id: str, session, timeout: int) -> list[dict[str, Any]]:
+    candidates = [
+        (
+            "goods_customer",
+            f"https://sberb2b.ru/request/api/{condition_id}/get-from-description-goods-items/customer?page=1&limit=20",
+        ),
+        (
+            "goods_supplier",
+            f"https://sberb2b.ru/request/api/{condition_id}/get-from-description-goods-items/supplier?page=1&limit=20",
+        ),
+        (
+            "offers_by_condition_guess",
+            f"https://sberb2b.ru/request/api/{condition_id}/offers/customer?page=1&limit=20",
+        ),
+        (
+            "suppliers_by_condition_guess",
+            f"https://sberb2b.ru/request/api/{condition_id}/get-supplier-list/customer?page=1&limit=20",
+        ),
+        (
+            "offers_by_need_guess",
+            f"https://sberb2b.ru/request/api/{need_id}/offers/customer?page=1&limit=20",
+        ),
+    ]
+    rows: list[dict[str, Any]] = []
+    for probe_mode, url in candidates:
+        try:
+            response = session.get(url, timeout=timeout, allow_redirects=False)
+            rows.append(
+                {
+                    "source_system": "sberb2b_public_card",
+                    "entity_name": "",
+                    "probe_mode": probe_mode,
+                    "query_used": url,
+                    "matched_external_id": condition_id or need_id,
+                    "matched_external_name": "",
+                    "matched_external_inn": "",
+                    "matched_external_role": "hidden_api_probe",
+                    "records_total": 1 if response.ok else 0,
+                    "candidate_rank": 1,
+                    "included_in_core": probe_mode.startswith("goods_") and response.ok,
+                    "note": f"HTTP {response.status_code}; content-type={response.headers.get('content-type', '')}",
+                }
+            )
+        except Exception as error:
+            rows.append(
+                {
+                    "source_system": "sberb2b_public_card",
+                    "entity_name": "",
+                    "probe_mode": probe_mode,
+                    "query_used": url,
+                    "matched_external_id": condition_id or need_id,
+                    "matched_external_name": "",
+                    "matched_external_inn": "",
+                    "matched_external_role": "hidden_api_probe",
+                    "records_total": 0,
+                    "candidate_rank": 1,
+                    "included_in_core": False,
+                    "note": f"Probe failed: {error}",
+                }
+            )
+    return rows
+
+
 def _source_assessment_rows() -> list[dict[str, Any]]:
     return [
         {
@@ -114,6 +191,22 @@ def _source_assessment_rows() -> list[dict[str, Any]]:
             "access_mode": "public_html_plus_public_json",
             "rationale": "Public long dictionary and search endpoint support reproducible customer resolution and paging.",
             "coverage_note": "Used for large 2024-2025 procurement samples on SberB2B / AST public registry.",
+        },
+        {
+            "source_system": "sberb2b_public_card",
+            "platform_name": "SberB2B public need cards",
+            "platform_url": "https://sberb2b.ru/needs/",
+            "operational_status": "operational",
+            "inclusion_status": "used_as_enrichment",
+            "access_mode": "public_vue_state_plus_public_json_api",
+            "rationale": (
+                "Public need pages expose embedded JSON and a public goods-items API with OKPD2, quantities, "
+                "unit prices, and downloadable customer documents."
+            ),
+            "coverage_note": (
+                "Used to enrich Sberbank-AST rows whose detail_url points to sberb2b.ru; public participant/"
+                "winner endpoints are recorded as probes in etp_integration_probe.csv."
+            ),
         },
         {
             "source_system": "zakazrf",
@@ -180,6 +273,7 @@ class PipelineRunner:
         self.eis_session = eis.create_session(timeout=self.config.request_timeout)
         self.roseltorg_session = roseltorg.create_session(timeout=self.config.request_timeout)
         self.sberbank_ast_session = sberbank_ast.create_session(timeout=self.config.request_timeout)
+        self.sberb2b_session = sberb2b.create_session(timeout=self.config.request_timeout)
         self.zakazrf_session = zakazrf.create_session(timeout=self.config.request_timeout)
         self.lot_online_session = lot_online.create_session(timeout=self.config.request_timeout)
         self.cbr_session = cbr.create_session(timeout=self.config.request_timeout)
@@ -196,6 +290,9 @@ class PipelineRunner:
         ensure_dir(RAW_DIR / "roseltorg" / "search")
         ensure_dir(RAW_DIR / "roseltorg" / "detail")
         ensure_dir(RAW_DIR / "sberbank_ast" / "search")
+        ensure_dir(RAW_DIR / "sberb2b" / "detail")
+        ensure_dir(RAW_DIR / "sberb2b" / "goods")
+        ensure_dir(RAW_DIR / "sberb2b" / "documents")
         ensure_dir(RAW_DIR / "zakazrf")
         ensure_dir(RAW_DIR / "lot_online")
         ensure_dir(RAW_DIR / "cbr")
@@ -222,6 +319,12 @@ class PipelineRunner:
         search_rows: list[dict[str, Any]] = []
         detail_rows: list[dict[str, Any]] = []
         document_rows: list[dict[str, Any]] = []
+        document_text_rows: list[dict[str, Any]] = []
+        item_rows: list[dict[str, Any]] = []
+        participant_rows: list[dict[str, Any]] = []
+        sberb2b_details_processed = 0
+        sberb2b_documents_downloaded = 0
+        sberb2b_api_probes_done = 0
 
         for scope in scope_entities:
             slug = safe_slug(scope.entity_name)
@@ -305,6 +408,21 @@ class PipelineRunner:
                         lot_number=item.lot_number,
                     )
                     detail_rows.append(roseltorg.detail_to_dict(detail))
+                    if detail.seller_name or detail.seller_tax_id:
+                        participant_rows.append(
+                            {
+                                "source_system": item.source_system,
+                                "procedure_number": item.procedure_number,
+                                "lot_number": item.lot_number,
+                                "participant_role": "seller_from_public_schema",
+                                "participant_name": detail.seller_name,
+                                "participant_inn": detail.seller_tax_id,
+                                "participant_external_id": "",
+                                "offer_price_rub": detail.detail_price_rub,
+                                "is_winner": False,
+                                "evidence_source": "roseltorg_json_ld_offers_seller",
+                            }
+                        )
                     document_rows.extend(documents)
 
             resolved_inn = best_payload.get("inn") or scope.inn
@@ -372,6 +490,130 @@ class PipelineRunner:
                         item_payload = sberbank_ast.search_item_to_dict(item)
                         item_payload["search_url"] = search_response.search_url
                         search_rows.append(item_payload)
+                        if (
+                            sberb2b.is_public_need_url(item.detail_url)
+                            and sberb2b_details_processed < self.config.max_sberb2b_details
+                        ):
+                            try:
+                                detail_html = sberb2b.fetch_public_need_page(
+                                    item.detail_url,
+                                    session=self.sberb2b_session,
+                                    timeout=self.config.request_timeout,
+                                )
+                                write_text(
+                                    RAW_DIR / "sberb2b" / "detail" / f"{item.procedure_number}.html",
+                                    detail_html,
+                                )
+                                public_need = sberb2b.parse_public_need(detail_html)
+                                detail_rows.append(sberb2b.public_need_to_detail_dict(public_need))
+                                participant_rows.extend(sberb2b.extract_public_participants(public_need))
+
+                                if public_need.condition_id:
+                                    goods_payload = sberb2b.fetch_all_goods_items(
+                                        public_need.condition_id,
+                                        side="customer",
+                                        session=self.sberb2b_session,
+                                        timeout=self.config.request_timeout,
+                                    )
+                                    self._write_payload(
+                                        RAW_DIR / "sberb2b" / "goods" / f"{item.procedure_number}.json",
+                                        goods_payload,
+                                    )
+                                    item_rows.extend(
+                                        sberb2b.goods_payload_to_item_rows(
+                                            goods_payload,
+                                            public_need=public_need,
+                                            source_system=item.source_system,
+                                            entity_name=item.entity_name,
+                                        )
+                                    )
+
+                                if (
+                                    public_need.condition_id
+                                    and sberb2b_api_probes_done < self.config.max_sberb2b_api_probes
+                                ):
+                                    probe_rows = _sberb2b_api_probe_rows(
+                                        need_id=public_need.need_id,
+                                        condition_id=public_need.condition_id,
+                                        session=self.sberb2b_session,
+                                        timeout=self.config.request_timeout,
+                                    )
+                                    for row in probe_rows:
+                                        row["entity_name"] = item.entity_name
+                                    integration_probe_rows.extend(probe_rows)
+                                    sberb2b_api_probes_done += 1
+
+                                for doc_index, document in enumerate(
+                                    sberb2b.iter_public_documents(public_need.raw_need),
+                                    start=1,
+                                ):
+                                    document_row = {
+                                        "source_system": item.source_system,
+                                        "procedure_number": item.procedure_number,
+                                        "lot_number": item.lot_number,
+                                        **document,
+                                    }
+                                    if (
+                                        sberb2b_documents_downloaded < self.config.download_documents_limit
+                                        and int(document.get("document_size_bytes") or 0)
+                                        <= self.config.max_document_size_bytes
+                                    ):
+                                        response = self.sberb2b_session.get(
+                                            document["document_url"],
+                                            timeout=self.config.request_timeout,
+                                        )
+                                        response.raise_for_status()
+                                        local_name = _safe_document_filename(
+                                            item.procedure_number,
+                                            doc_index,
+                                            document["document_name"],
+                                        )
+                                        local_path = RAW_DIR / "sberb2b" / "documents" / local_name
+                                        local_path.write_bytes(response.content)
+                                        extraction = extract_text_from_document(
+                                            local_path,
+                                            mime_type=document.get("document_mime_type", ""),
+                                        )
+                                        document_row["local_path"] = str(local_path)
+                                        document_row["extraction_method"] = extraction.extraction_method
+                                        document_row["text_chars"] = extraction.text_chars
+                                        document_row["ocr_required"] = extraction.ocr_required
+                                        document_row["pii_findings_count"] = extraction.pii_findings_count
+                                        document_text_rows.append(
+                                            {
+                                                "source_system": item.source_system,
+                                                "procedure_number": item.procedure_number,
+                                                "lot_number": item.lot_number,
+                                                "document_name": document["document_name"],
+                                                "document_url": document["document_url"],
+                                                "local_path": str(local_path),
+                                                "extraction_method": extraction.extraction_method,
+                                                "text_chars": extraction.text_chars,
+                                                "ocr_required": extraction.ocr_required,
+                                                "pii_findings_count": extraction.pii_findings_count,
+                                                "text_preview": extraction.text[:1000],
+                                            }
+                                        )
+                                        sberb2b_documents_downloaded += 1
+                                    document_rows.append(document_row)
+                                sberb2b_details_processed += 1
+                            except Exception as error:
+                                integration_probe_rows.append(
+                                    {
+                                        "source_system": "sberb2b",
+                                        "entity_name": item.entity_name,
+                                        "probe_mode": "public_need_enrichment_error",
+                                        "query_used": item.detail_url,
+                                        "matched_external_id": item.procedure_number,
+                                        "matched_external_name": "",
+                                        "matched_external_inn": "",
+                                        "matched_external_role": "",
+                                        "records_total": 0,
+                                        "candidate_rank": 0,
+                                        "included_in_core": False,
+                                        "note": f"SberB2B enrichment failed: {error}",
+                                    }
+                                )
                     if offset + len(raw_page_items) >= search_response.total:
                         break
 
@@ -399,7 +641,11 @@ class PipelineRunner:
                     timeout=self.config.request_timeout,
                 )
                 write_text(RAW_DIR / "zakazrf" / f"{slug}_customer_search.html", customer_search_html)
-                zakazrf_candidates = zakazrf.parse_customer_candidates(customer_search_html)
+                raw_zakazrf_candidates = zakazrf.parse_customer_candidates(customer_search_html)
+                zakazrf_candidates = zakazrf.filter_exact_customer_candidates(
+                    raw_zakazrf_candidates,
+                    resolved_inn,
+                )
                 if not zakazrf_candidates:
                     integration_probe_rows.append(
                         {
@@ -411,10 +657,13 @@ class PipelineRunner:
                             "matched_external_name": "",
                             "matched_external_inn": resolved_inn,
                             "matched_external_role": "",
-                            "records_total": 0,
+                            "records_total": len(raw_zakazrf_candidates),
                             "candidate_rank": 0,
                             "included_in_core": False,
-                            "note": "No exact customer registry match by INN in the public selector dialog.",
+                            "note": (
+                                "No exact customer registry match by INN in the public selector dialog; "
+                                "non-exact candidates are kept out of the core mart."
+                            ),
                         }
                     )
                 for candidate_rank, candidate in enumerate(zakazrf_candidates, start=1):
@@ -628,22 +877,32 @@ class PipelineRunner:
             session=self.cbr_session,
             timeout=self.config.request_timeout,
         )
+        inflation_rows = cbr.fetch_inflation_yoy(
+            self.config.date_from,
+            self.config.date_to,
+            session=self.cbr_session,
+            timeout=self.config.request_timeout,
+        )
 
         entities_df = build_entities_frame(entity_records)
         entity_source_links_df = build_entity_source_links_frame(entity_source_link_rows)
         integration_probe_df = build_integration_probe_frame(integration_probe_rows)
         source_assessment_df = build_source_assessment_frame(source_assessment_rows)
         lots_df = build_procurements_frame(search_rows, detail_rows)
-        items_df = build_procurement_items_frame(lots_df)
+        items_df = build_procurement_items_frame(lots_df, extra_item_rows=item_rows)
         document_links_df = build_document_links_frame(document_rows)
+        document_texts_df = build_document_texts_frame(document_text_rows)
+        participants_df = build_participants_frame(participant_rows)
         duplicate_stats_df = build_duplicate_stats_frame(lots_df)
-        external_factors_df = build_external_factors_frame(usd_rows, key_rate_rows)
+        external_factors_df = build_external_factors_frame(usd_rows, key_rate_rows, inflation_rows)
         monthly_activity_df = build_monthly_activity_mart(lots_df)
         yearly_summary_df = build_yearly_summary_mart(lots_df)
         category_mix_df = build_category_mix_mart(lots_df)
         category_yoy_df = build_category_yoy_mart(lots_df)
         anomalies_df = build_anomalies_mart(lots_df)
         monthly_macro_df = build_monthly_macro_join_mart(lots_df, external_factors_df)
+        unit_price_benchmarks_df = build_unit_price_benchmarks_mart(items_df)
+        macro_diagnostics_df = build_macro_diagnostics_mart(monthly_macro_df)
 
         self._write_csv("entity_coverage.csv", entities_df)
         self._write_csv("entity_source_links.csv", entity_source_links_df)
@@ -652,6 +911,8 @@ class PipelineRunner:
         self._write_csv("procurement_lots.csv", lots_df)
         self._write_csv("procurement_items.csv", items_df)
         self._write_csv("document_links.csv", document_links_df)
+        self._write_csv("document_texts.csv", document_texts_df)
+        self._write_csv("procurement_participants.csv", participants_df)
         self._write_csv("duplicate_stats.csv", duplicate_stats_df)
         self._write_csv("external_factors_daily.csv", external_factors_df)
         self._write_csv("mart_monthly_activity.csv", monthly_activity_df)
@@ -660,11 +921,15 @@ class PipelineRunner:
         self._write_csv("mart_category_yoy.csv", category_yoy_df)
         self._write_csv("mart_anomalies.csv", anomalies_df)
         self._write_csv("mart_monthly_macro_join.csv", monthly_macro_df)
+        self._write_csv("mart_unit_price_benchmarks.csv", unit_price_benchmarks_df)
+        self._write_csv("mart_macro_diagnostics.csv", macro_diagnostics_df)
 
         usd_path = RAW_DIR / "cbr" / "usd_rates.csv"
         key_rate_path = RAW_DIR / "cbr" / "key_rate.csv"
+        inflation_path = RAW_DIR / "cbr" / "inflation_yoy.csv"
         pd.DataFrame(usd_rows).to_csv(usd_path, index=False, encoding="utf-8-sig")
         pd.DataFrame(key_rate_rows).to_csv(key_rate_path, index=False, encoding="utf-8-sig")
+        pd.DataFrame(inflation_rows).to_csv(inflation_path, index=False, encoding="utf-8-sig")
 
         quality = build_quality_summary(
             entities_df=entities_df,
@@ -672,6 +937,9 @@ class PipelineRunner:
             items_df=items_df,
             document_links_df=document_links_df,
             external_factors_df=external_factors_df,
+            document_texts_df=document_texts_df,
+            participants_df=participants_df,
+            unit_price_benchmarks_df=unit_price_benchmarks_df,
         )
         write_json(REPORTS_DIR / "quality_summary.json", quality)
         llm_prompt_pack = build_llm_prompt_context(
@@ -680,6 +948,9 @@ class PipelineRunner:
             yearly_summary_df=yearly_summary_df,
             category_yoy_df=category_yoy_df,
             anomalies_df=anomalies_df,
+            unit_price_benchmarks_df=unit_price_benchmarks_df,
+            macro_diagnostics_df=macro_diagnostics_df,
+            document_texts_df=document_texts_df,
         )
         write_text(
             REPORTS_DIR / "llm_prompt_pack.md",

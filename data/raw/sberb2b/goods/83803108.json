@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "780b7494-3044-4a6e-b8b7-8b4a5acabf8a",
+        "c_description": "Подлокотники к креслу «Aero LUX» с фурнитурой крепления ( по 2 штуки в комплекте).\nМатериал: пластик\nЦвет: черный\nРазмеры: ширина 75 мм, длина 24,5 мм, толщина 20 мм\nРегулировка по высоте.",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "22.29.26.110",
+        "c_okpd2Name": "Фурнитура для мебели, транспортных средств и аналогичные изделия пластмассовые",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "f738ea41-889a-4bdd-9674-40c612d5e567",
+        "c_unitName": "компл",
+        "c_unitOkeiCode": "839",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

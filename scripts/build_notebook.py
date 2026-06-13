@@ -9,13 +9,29 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 CURATED_DIR = ROOT_DIR / "data" / "curated"
 REPORTS_DIR = ROOT_DIR / "data" / "reports"
 NOTEBOOK_PATH = ROOT_DIR / "notebooks" / "purchase_analysis.ipynb"
+ENTITY_ID_COLUMNS = [
+    "inn",
+    "resolved_inn",
+    "eis_resolved_inn",
+    "eis_resolved_kpp",
+    "eis_resolved_ogrn",
+]
+SOURCE_LINK_ID_COLUMNS = [
+    "external_customer_key",
+    "external_inn",
+    "external_kpp",
+]
 
 
-def _read_csv(name: str) -> pd.DataFrame:
+def _read_csv(name: str, id_columns: list[str] | None = None) -> pd.DataFrame:
     path = CURATED_DIR / name
     if not path.exists():
         return pd.DataFrame()
-    return pd.read_csv(path)
+    df = pd.read_csv(path, dtype={column: "string" for column in id_columns or []})
+    for column in id_columns or []:
+        if column in df.columns:
+            df[column] = df[column].fillna("")
+    return df
 
 
 def _metric(value: float | None) -> str:
@@ -25,9 +41,9 @@ def _metric(value: float | None) -> str:
 
 
 def build_notebook() -> None:
-    entities = _read_csv("entity_coverage.csv")
+    entities = _read_csv("entity_coverage.csv", id_columns=ENTITY_ID_COLUMNS)
     source_assessment = _read_csv("source_assessment.csv")
-    entity_links = _read_csv("entity_source_links.csv")
+    entity_links = _read_csv("entity_source_links.csv", id_columns=SOURCE_LINK_ID_COLUMNS)
     lots = _read_csv("procurement_lots.csv")
     yearly = _read_csv("mart_yearly_summary.csv")
     monthly = _read_csv("mart_monthly_activity.csv")
@@ -36,12 +52,29 @@ def build_notebook() -> None:
     anomalies = _read_csv("mart_anomalies.csv")
     duplicate_stats = _read_csv("duplicate_stats.csv")
     macro = _read_csv("mart_monthly_macro_join.csv")
+    macro_diagnostics = _read_csv("mart_macro_diagnostics.csv")
+    items = _read_csv("procurement_items.csv")
+    document_texts = _read_csv("document_texts.csv")
+    participants = _read_csv("procurement_participants.csv")
+    unit_price_benchmarks = _read_csv("mart_unit_price_benchmarks.csv")
 
     total_entities = int(len(entities))
     total_lots = int(len(lots))
     total_duplicates_removed = int(duplicate_stats["duplicate_rows_removed"].sum()) if not duplicate_stats.empty else 0
     price_coverage = float(lots["price_rub"].notna().mean()) if not lots.empty else 0.0
     disclosed_value = float(lots["price_rub"].fillna(0).sum()) if not lots.empty else 0.0
+    unit_price_rows = (
+        int(items["unit_price_rub"].notna().sum())
+        if not items.empty and "unit_price_rub" in items.columns
+        else 0
+    )
+    extracted_docs = int(len(document_texts))
+    participants_count = int(len(participants))
+    unit_anomalies = (
+        int(unit_price_benchmarks["unit_price_anomaly_flag"].fillna(False).sum())
+        if not unit_price_benchmarks.empty and "unit_price_anomaly_flag" in unit_price_benchmarks.columns
+        else 0
+    )
     source_breakdown = (
         lots["source_system"].value_counts().to_dict() if not lots.empty and "source_system" in lots.columns else {}
     )
@@ -72,7 +105,11 @@ def build_notebook() -> None:
             f"- Лотов в итоговом слое после дедупликации: `{total_lots}`\n"
             f"- Удалено дублей: `{total_duplicates_removed}`\n"
             f"- Покрытие ценой: `{price_coverage:.0%}`\n"
-            f"- Сумма раскрытых цен: `{disclosed_value:,.2f}` RUB".replace(",", " ")
+            f"- Сумма раскрытых цен: `{disclosed_value:,.2f}` RUB\n"
+            f"- Строк с unit price: `{unit_price_rows}`\n"
+            f"- Извлечено документов: `{extracted_docs}`\n"
+            f"- Строк участников/продавцов: `{participants_count}`\n"
+            f"- Unit-price аномалий: `{unit_anomalies}`".replace(",", " ")
         )
     )
 
@@ -97,9 +134,19 @@ def build_notebook() -> None:
             "ROOT = Path.cwd().resolve().parent if Path.cwd().name == 'notebooks' else Path.cwd().resolve()\n"
             "CURATED = ROOT / 'data' / 'curated'\n"
             "\n"
-            "entities = pd.read_csv(CURATED / 'entity_coverage.csv')\n"
+            "ENTITY_ID_COLUMNS = ['inn', 'resolved_inn', 'eis_resolved_inn', 'eis_resolved_kpp', 'eis_resolved_ogrn']\n"
+            "SOURCE_LINK_ID_COLUMNS = ['external_customer_key', 'external_inn', 'external_kpp']\n"
+            "\n"
+            "def read_csv_with_ids(path, id_columns=()):\n"
+            "    df = pd.read_csv(path, dtype={column: 'string' for column in id_columns})\n"
+            "    for column in id_columns:\n"
+            "        if column in df.columns:\n"
+            "            df[column] = df[column].fillna('')\n"
+            "    return df\n"
+            "\n"
+            "entities = read_csv_with_ids(CURATED / 'entity_coverage.csv', ENTITY_ID_COLUMNS)\n"
             "source_assessment = pd.read_csv(CURATED / 'source_assessment.csv')\n"
-            "entity_links = pd.read_csv(CURATED / 'entity_source_links.csv')\n"
+            "entity_links = read_csv_with_ids(CURATED / 'entity_source_links.csv', SOURCE_LINK_ID_COLUMNS)\n"
             "lots = pd.read_csv(CURATED / 'procurement_lots.csv')\n"
             "yearly = pd.read_csv(CURATED / 'mart_yearly_summary.csv')\n"
             "monthly = pd.read_csv(CURATED / 'mart_monthly_activity.csv')\n"
@@ -108,6 +155,11 @@ def build_notebook() -> None:
             "anomalies = pd.read_csv(CURATED / 'mart_anomalies.csv')\n"
             "duplicate_stats = pd.read_csv(CURATED / 'duplicate_stats.csv')\n"
             "macro = pd.read_csv(CURATED / 'mart_monthly_macro_join.csv')\n"
+            "macro_diagnostics = pd.read_csv(CURATED / 'mart_macro_diagnostics.csv')\n"
+            "items = pd.read_csv(CURATED / 'procurement_items.csv')\n"
+            "document_texts = pd.read_csv(CURATED / 'document_texts.csv')\n"
+            "participants = pd.read_csv(CURATED / 'procurement_participants.csv')\n"
+            "unit_price_benchmarks = pd.read_csv(CURATED / 'mart_unit_price_benchmarks.csv')\n"
             "\n"
             "source_assessment[['source_system', 'operational_status', 'inclusion_status', 'coverage_note']]"
         )
@@ -205,7 +257,10 @@ def build_notebook() -> None:
     cells.append(
         nbf.v4.new_markdown_cell(
             "## 5. Топ дорогих лотов\n\n"
-            "После фильтрации out-of-scope процедур можно построить уже осмысленный список дорогих закупок."
+            "Здесь рассматриваются все закупочные лоты после фильтрации out-of-scope процедур: товары, работы и услуги. "
+            "В 44-ФЗ и 223-ФЗ оказание услуг также относится к закупкам, поэтому строки вида `Оказание услуг...` корректно попадают в общий рейтинг. "
+            "Этот блок нужен для отбора крупных процедур и ручной проверки, а не для вывода о завышенной цене за единицу. "
+            "Для проверки завышения цен ниже используется отдельный контур unit-price benchmarks по сопоставимым позициям с единицами измерения."
         )
     )
 
@@ -253,13 +308,16 @@ def build_notebook() -> None:
             "ax2 = ax1.twinx()\n"
             "ax2.plot(macro['publication_month'], macro['avg_usd_rub'], color='#003049', marker='s', label='USD/RUB')\n"
             "ax2.plot(macro['publication_month'], macro['avg_key_rate'], color='#669BBC', marker='^', label='Ключевая ставка')\n"
+            "if 'inflation_yoy_pct' in macro:\n"
+            "    ax2.plot(macro['publication_month'], macro['inflation_yoy_pct'], color='#2A9D8F', marker='x', label='ИПЦ г/г')\n"
             "ax2.set_ylabel('Макрофакторы')\n"
             "lines_1, labels_1 = ax1.get_legend_handles_labels()\n"
             "lines_2, labels_2 = ax2.get_legend_handles_labels()\n"
             "ax1.legend(lines_1 + lines_2, labels_1 + labels_2, loc='upper left')\n"
             "plt.title('Открытая закупочная активность и макрофакторы')\n"
             "plt.tight_layout()\n"
-            "plt.show()"
+            "plt.show()\n"
+            "display(macro_diagnostics)"
         )
     )
 
@@ -276,7 +334,7 @@ def build_notebook() -> None:
     cells.append(
         nbf.v4.new_markdown_cell(
             "## 7. Дедупликация, документы и ПДн\n\n"
-            "Отдельно фиксируем служебные аспекты качества данных."
+            "Отдельно фиксируем служебные аспекты качества данных: дубли, документы, извлечение текста и обезличивание."
         )
     )
 
@@ -284,20 +342,59 @@ def build_notebook() -> None:
         nbf.v4.new_code_cell(
             "display(duplicate_stats)\n"
             "docs = pd.read_csv(CURATED / 'document_links.csv')\n"
-            "docs.head(20)"
+            "display(docs.head(20))\n"
+            "display(document_texts[['procedure_number', 'document_name', 'extraction_method', 'text_chars', 'ocr_required', 'pii_findings_count']].head(30))\n"
+            "document_texts[['text_chars', 'pii_findings_count']].describe()"
         )
     )
 
     cells.append(
         nbf.v4.new_markdown_cell(
-            "Observation: после объединения источников были обнаружены и удалены дубли, в текущем прогоне — ограниченно и в основном в контуре `ООО Сбербанк-Телеком`.\n\n"
-            "Interpretation: дубли возникают из-за нескольких customer-ключей одной и той же сущности на площадке и должны убираться до аналитического слоя.\n\n"
-            "Significance: это напрямую влияет на корректность KPI, YoY-сравнений и аномалий.\n\n"
-            "Limitation: документы сейчас учитываются только как безопасные метаданные ссылок; бинарные вложения и текст из них не скачиваются, чтобы не заносить ПДн в витрину."
+            "Observation: документы SberB2B скачиваются ограниченным лимитом, текст извлекается из DOCX/PDF, а email/телефоны и похожие идентификаторы маскируются до попадания в витрину.\n\n"
+            "Interpretation: это превращает вложения из формального списка файлов в источник требований, номенклатуры и признаков цены.\n\n"
+            "Significance: блок закрывает ожидаемый в ТЗ навык проверки скачанных данных, обезличивания и подготовки данных для LLM/OCR-контура.\n\n"
+            "Limitation: если PDF почти не содержит текстового слоя, строка помечается `ocr_required=True`; OCR вынесен как следующий контролируемый шаг, чтобы не смешивать уверенный текст с распознаванием сомнительного качества."
         )
     )
 
-    cells.append(nbf.v4.new_markdown_cell("## 8. Аномалии"))
+    cells.append(nbf.v4.new_markdown_cell("## 8. Участники и продавцы"))
+
+    cells.append(
+        nbf.v4.new_code_cell(
+            "display(participants.head(50))\n"
+            "participants.groupby(['source_system', 'participant_role', 'is_winner'], dropna=False).size().reset_index(name='rows')"
+        )
+    )
+
+    cells.append(
+        nbf.v4.new_markdown_cell(
+            "Observation: Roseltorg detail cards expose `seller` from public JSON-LD, while public SberB2B cards in tested access mode do not expose winner/offer lists.\n\n"
+            "Interpretation: участники вынесены в отдельную таблицу с evidence_source, чтобы не смешивать продавца из карточки и фактического победителя.\n\n"
+            "Significance: это честный participant-level слой: он показывает, что извлечено, и явно фиксирует отсутствие победителей в публичном контуре.\n\n"
+            "Limitation: `winners_total=0` означает не провал парсинга, а отсутствие подтверждённого публичного winner endpoint без авторизации."
+        )
+    )
+
+    cells.append(nbf.v4.new_markdown_cell("## 9. Unit-price benchmarks"))
+
+    cells.append(
+        nbf.v4.new_code_cell(
+            "unit_flags = unit_price_benchmarks[unit_price_benchmarks['unit_price_anomaly_flag'] == True]\n"
+            "display(unit_flags.head(50))\n"
+            "unit_price_benchmarks['observations'].describe()"
+        )
+    )
+
+    cells.append(
+        nbf.v4.new_markdown_cell(
+            "Observation: SberB2B goods API даёт строковые позиции с OKPD2, количеством, единицей измерения и unit price.\n\n"
+            "Interpretation: это позволяет перейти от анализа дорогих лотов к сравнению типовых товаров: бумага, мебель, спортинвентарь, печать, бытовая техника.\n\n"
+            "Significance: именно здесь появляется максимальная бизнес-ценность тестового — поиск завышенных цен по сопоставимым позициям, а не только красивый dashboard.\n\n"
+            "Limitation: benchmark требует достаточного числа наблюдений и нормализации наименований; поэтому флаги являются shortlist для ручной проверки, а не автоматическим обвинением."
+        )
+    )
+
+    cells.append(nbf.v4.new_markdown_cell("## 10. Аномалии"))
 
     cells.append(
         nbf.v4.new_code_cell(
@@ -311,18 +408,18 @@ def build_notebook() -> None:
             "Observation: доминирующий тип аномалий — `price_outlier`, что естественно для публичного слоя с заметным перекосом в крупные и редкие процедуры.\n\n"
             "Interpretation: самые крупные телеком- и инфраструктурные закупки выбиваются относительно медианы своих категорий на порядки.\n\n"
             "Significance: это уже полезный short-list для ручной проверки, аудита категории и сценариев anti-fraud/anti-waste.\n\n"
-            "Limitation: для сценариев вроде `единственный участник = победитель` нам пока не хватает открытых participant-level данных из источников."
+            "Limitation: крупный лот не равен завышенной цене; более строгий контур находится в unit-price benchmarks и документах."
         )
     )
 
     cells.append(
         nbf.v4.new_markdown_cell(
-            "## 9. LLM-автоматизация\n\n"
+            "## 11. LLM-автоматизация\n\n"
             "В репозитории дополнительно генерируется `data/reports/llm_prompt_pack.md` — компактный контекст-пакет для LLM.\n\n"
             "Практический смысл:\n\n"
             "- можно быстро отдавать витрины модели для генерации первичных выводов,\n"
             "- можно автоматизировать drafting аналитической записки,\n"
-            "- можно использовать этот же пакет как основу для дальнейшего document/question-answer контура.\n\n"
+            "- можно использовать этот же пакет вместе с извлечёнными документами как основу для document/question-answer контура.\n\n"
             "Это не заменяет ручную проверку, но ускоряет интерпретацию и подготовку narrative-части."
         )
     )

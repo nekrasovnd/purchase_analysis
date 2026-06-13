@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "051c68d0-7c12-4115-96f5-12833bb6a0b8",
+        "c_description": "Услуги по комплексной уборке офиса для нужд Байкальского регионального филиала АО «Сбербанк Лизинг»",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 12.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "31b6fc4d-2baa-4771-a57c-a506bed79133",
+        "c_unitName": "мес",
+        "c_unitOkeiCode": "362",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "63718f2c-dd06-421a-b645-a1f6356549b9",
+            "is_deletable": true,
+            "name": "6319cb1cf2822cbb469834eb73f73e3b.doc",
+            "original_name": "ТЗ услуги клининга.doc",
+            "size": 59904,
+            "type": "document",
+            "web_path": "/uploads/documents/63/19c/b1c/",
+            "created_at": "2024-10-16T19:03:30+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Владимирович",
+              "surname": "Карташов"
+            },
+            "file": {
+              "id": "384ad03c-da5b-42ee-87e6-89801d377b78",
+              "name": "6319cb1cf2822cbb469834eb73f73e3b.doc",
+              "original_name": "ТЗ услуги клининга.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/63/19c/b1c/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

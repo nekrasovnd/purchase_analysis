@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "234a748e-f0b4-4fb3-be96-cca11566ac1d",
+        "c_description": "Рамочный договор на изготовление визитных карточек",
+        "c_comment": "В соответствии с ТЗ",
+        "c_priceWithTax": 342336.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 342336.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "234109e0-c652-4a68-bb94-0b3548339011",
+            "is_deletable": true,
+            "name": "cb19840e3debe6b03d081159bafa1b04.docx",
+            "original_name": "Техническое задание - Визитки.docx",
+            "size": 126732,
+            "type": "document",
+            "web_path": "/uploads/documents/cb/198/40e/",
+            "created_at": "2025-10-15T14:44:39+03:00",
+            "created_by": {
+              "name": "Виолетта",
+              "patronymic": "",
+              "surname": "Селютина"
+            },
+            "file": {
+              "id": "6376b550-debd-491e-a530-ee7abf108587",
+              "name": "cb19840e3debe6b03d081159bafa1b04.docx",
+              "original_name": "Техническое задание - Визитки.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/cb/198/40e/"
+            }
+          },
+          {
+            "id": "3884c47b-0f60-4a2e-b7f5-a578299ae26c",
+            "is_deletable": true,
+            "name": "d16eb194d5bb740a6f7475d29cda3927.docx",
+            "original_name": "Проект договора_Визитки_СБСЖ.docx",
+            "size": 45374,
+            "type": "document",
+            "web_path": "/uploads/documents/d1/6eb/194/",
+            "created_at": "2025-10-15T14:44:30+03:00",
+            "created_by": {
+              "name": "Виолетта",
+              "patronymic": "",
+              "surname": "Селютина"
+            },
+            "file": {
+              "id": "894bd344-df28-4485-b180-f0aee6f7058a",
+              "name": "d16eb194d5bb740a6f7475d29cda3927.docx",
+              "original_name": "Проект договора_Визитки_СБСЖ.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/d1/6eb/194/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

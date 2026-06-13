@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "e8a55542-fbcc-465c-8126-8d19cdfa2906",
+        "c_description": "Набор школьных принадлежностей в подарочной коробке BRAUBERG \"ПЕРВОКЛАССНИК 43 предмета\"",
+        "c_comment": "В приложении \"Техническое задание\"\nАналоги не рассматриваются",
+        "c_priceWithTax": 1020.53,
+        "c_count": 19.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 1020.53,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

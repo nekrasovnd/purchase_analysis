@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "8c003833-4056-4443-9025-4b4d80e34e4a",
+        "c_description": "оказание информационно-консультационных услуг по вопросам обеспечения безопасности ",
+        "c_comment": "приложены в составе тз",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "74.90.20",
+        "c_okpd2Name": "Услуги профессиональные, технические и коммерческие, прочие, не включенные в другие группировки",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "1e3b846a-96af-45b1-9e59-69d27a042273",
+            "is_deletable": true,
+            "name": "279103262ed83417c3fd9dbd7e99a926.docx",
+            "original_name": "ТЗ + спека .docx",
+            "size": 46849,
+            "type": "document",
+            "web_path": "/uploads/documents/27/910/326/",
+            "created_at": "2025-11-13T17:28:34+03:00",
+            "created_by": {
+              "name": "Ольга",
+              "patronymic": "Евгеньевна",
+              "surname": "Корноухова"
+            },
+            "file": {
+              "id": "b984d3b7-c435-49ce-b485-3d7d531ba006",
+              "name": "279103262ed83417c3fd9dbd7e99a926.docx",
+              "original_name": "ТЗ + спека .docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/27/910/326/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

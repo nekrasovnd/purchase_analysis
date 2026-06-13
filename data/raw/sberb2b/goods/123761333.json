@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 3,
+    "goods": [
+      {
+        "c_id": "b4bfe59a-aaf8-487b-b911-ac7321b7b03c",
+        "c_description": "Конверт почтовый бумажный с размерами 162 х 229 мм.",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 65000.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "caf1427b-035a-43fc-a7bc-3d37148b4c9b",
+        "c_description": "Папка-регистратор с арочным механизмом ",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1450.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "719a9615-25b4-45df-a1b1-ec42913fb5f6",
+        "c_description": "Файлы-вкладыши перфорированные (матовые).",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 550.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "38a17a74-0376-4af9-83de-a2b4f3f1dfba",
+        "c_unitName": "упак",
+        "c_unitOkeiCode": "778",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

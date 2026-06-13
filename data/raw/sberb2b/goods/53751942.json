@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "843bcb6e-971b-4fb3-816c-046d87bae3c9",
+        "c_description": "Рамка для дипломов, грамот А4",
+        "c_comment": "Фоторамка пластик формат А4, цвет золото, 35х26,5 см",
+        "c_priceWithTax": 422.28,
+        "c_count": 5.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 422.28,
+        "c_okpd2Code": "16.29.14.110",
+        "c_okpd2Name": "Рамы деревянные для картин, фотографий, зеркал или аналогичных предметов из дерева",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "66d95ed5-b2e2-45ca-b380-98742e1c9ac0",
+        "c_description": "Вкладыши в трудовые книжки (50 шт.)",
+        "c_comment": "Требуется поставка вкладышей в трудовые книжки в количестве 50 шт. нового образца (ГОЗНАК)",
+        "c_priceWithTax": 650.0,
+        "c_count": 50.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 650.0,
+        "c_okpd2Code": "17.23.13.141",
+        "c_okpd2Name": "Бланки личных документов строгого учета",
+        "c_warrantyPeriodMonths": 1,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "c702ec8b-8af4-4369-a6b0-8cc36dc2e5ea",
+            "is_deletable": true,
+            "name": "7f3989f19a00422b59d6add21e02a86f.JPG",
+            "original_name": "Технические требования.JPG",
+            "size": 19103,
+            "type": "image",
+            "web_path": "/uploads/images/7f/398/9f1/",
+            "created_at": "2025-10-17T13:48:57+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "3d188328-4c08-4db8-973e-812755667b61",
+              "name": "7f3989f19a00422b59d6add21e02a86f.JPG",
+              "original_name": "Технические требования.JPG",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/7f/398/9f1/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

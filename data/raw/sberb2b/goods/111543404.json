@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "e746d02e-625e-4c26-9051-6ae00d49b979",
+        "c_description": "Оказание услуг по аренде пурифайеров",
+        "c_comment": "В соответствии с ТЗ",
+        "c_priceWithTax": 0.0,
+        "c_count": 12.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "77.29.12.000",
+        "c_okpd2Name": "Услуги по прокату мебели и прочих бытовых приборов",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "31b6fc4d-2baa-4771-a57c-a506bed79133",
+        "c_unitName": "мес",
+        "c_unitOkeiCode": "362",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "28c13fd1-2891-4e32-b021-edf5f4351684",
+        "c_description": "Оказание услуг по техническому обслуживанию пурифайеров",
+        "c_comment": "В соответствии с ТЗ",
+        "c_priceWithTax": 0.0,
+        "c_count": 12.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "33.12.19.000",
+        "c_okpd2Name": "Услуги по ремонту и техническому обслуживанию прочего оборудования общего назначения, не включенного в другие группировки",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "31b6fc4d-2baa-4771-a57c-a506bed79133",
+        "c_unitName": "мес",
+        "c_unitOkeiCode": "362",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

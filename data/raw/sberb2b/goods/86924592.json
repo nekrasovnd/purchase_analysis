@@ -1,0 +1,92 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "4b0093a8-e423-40b0-bd8b-03928f6d1adc",
+        "c_description": "Крышка с кнопкой в комплекте ST-17 1929900283 (Gustavsber Basic и Nordic 390)",
+        "c_comment": "В соответствии с техническими требованиями (см. вложение).",
+        "c_priceWithTax": 7000.0,
+        "c_count": 3.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 7000.0,
+        "c_okpd2Code": "22.23.12.130",
+        "c_okpd2Name": "Унитазы, сиденья и крышки для них, смывные бачки пластмассовые",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "17d45533-0469-4204-9deb-48d5f2971602",
+            "is_deletable": true,
+            "name": "75ba207c695a1e2328213e88c9d11512.JPG",
+            "original_name": "Технические требования - Крышка бачка с кнопкой унитаза Gustavberg Basic и Nordic 390.JPG",
+            "size": 30836,
+            "type": "image",
+            "web_path": "/uploads/images/75/ba2/07c/",
+            "created_at": "2025-12-02T10:14:30+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "9e977630-83b1-4eb0-8220-02ef9b72271f",
+              "name": "75ba207c695a1e2328213e88c9d11512.JPG",
+              "original_name": "Технические требования - Крышка бачка с кнопкой унитаза Gustavberg Basic и Nordic 390.JPG",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/75/ba2/07c/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "8bd4851f-1527-4880-b74c-a8e826c29a7e",
+        "c_description": "Рычаг с вилкой сливного устройства ST 1929900209 (Gustavsber Basic, Skandic)",
+        "c_comment": "В соответствии с техническими требованиями (см. вложение).",
+        "c_priceWithTax": 4000.0,
+        "c_count": 3.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 4000.0,
+        "c_okpd2Code": "22.23.12.130",
+        "c_okpd2Name": "Унитазы, сиденья и крышки для них, смывные бачки пластмассовые",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "d89d61b2-4bad-4913-be72-fdc809f524db",
+            "is_deletable": true,
+            "name": "3cf2a299eb29fd394830da1c3045c2f9.JPG",
+            "original_name": "Технические требования - рычаг с вилкой сливного механизма унитаза Gustavberg Basic Skandic.JPG",
+            "size": 47139,
+            "type": "image",
+            "web_path": "/uploads/images/3c/f2a/299/",
+            "created_at": "2025-12-02T10:14:35+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "0dc3a3f9-ab89-4e2b-bb61-1214f8e43271",
+              "name": "3cf2a299eb29fd394830da1c3045c2f9.JPG",
+              "original_name": "Технические требования - рычаг с вилкой сливного механизма унитаза Gustavberg Basic Skandic.JPG",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/3c/f2a/299/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

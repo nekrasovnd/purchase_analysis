@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 3,
+    "goods": [
+      {
+        "c_id": "dc230420-ea14-46c9-894d-137cfd459eed",
+        "c_description": "Подписка Security Updates на 1 год для UserGate VE до 16 ядер (кластер из 2 нод) *",
+        "c_comment": "* Поставка эквивалента не допускается в связи с необходимостью совместимости закупаемых модулей и подписки с программным обеспечением, имеющимся у заказчика (Решение UserGate)",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "7f75561e-f3b3-4117-804a-ce6e8a84e13e",
+        "c_description": "Модуль Advanced Threat Protection на 1 год для UserGate VE до 16 ядер *",
+        "c_comment": "* Поставка эквивалента не допускается в связи с необходимостью совместимости закупаемых модулей и подписки с программным обеспечением, имеющимся у заказчика (Решение UserGate)",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "307b9eb2-54b2-49c0-98a6-902592eccc2a",
+        "c_description": "Модуль Stream Antivirus на 1 год для UserGate VE до 16 ядер *",
+        "c_comment": "* Поставка эквивалента не допускается в связи с необходимостью совместимости закупаемых модулей и подписки с программным обеспечением, имеющимся у заказчика (Решение UserGate)",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

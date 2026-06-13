@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "aed064bb-ff37-4991-b7a4-0fe54409f573",
+        "c_description": "Мобильная перегородка",
+        "c_comment": "Мобильная перегородка\nРазмеры (Ш*Г*В): 1200*27*1800 мм (+/-1%)\nОбивка рогожка Bahama, или аналог не уступающий по свойствам и харакреристикам\nЦвет - СЕРЫЙ\nПерегородка из ДСП толщиной не менее 16 мм, обтянута изолоном 5 мм для мягкости\nЧехлы съемные, выполнены из рогожки плотностью 300г/кв.м. с устойчивостью к истиранию более 100 000 циклов. Перегородки оснащены нерегулируемыми черными металлическими опорами с колесами d-500 мм из прорезиненного пластика. Для опор используется сквозное крепление с помощью шестигранников.",
+        "c_priceWithTax": 22000.0,
+        "c_count": 2.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 22000.0,
+        "c_okpd2Code": "31.01.12.190",
+        "c_okpd2Name": "Мебель офисная деревянная прочая",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "d4725dd9-fa24-4407-8e9f-79d95a6fec4f",
+            "is_deletable": true,
+            "name": "6b0ee1116ac759c7eba64d9e7dceb206.docx",
+            "original_name": "Фото.docx",
+            "size": 1401427,
+            "type": "document",
+            "web_path": "/uploads/documents/6b/0ee/111/",
+            "created_at": "2025-12-15T06:44:05+03:00",
+            "created_by": {
+              "name": null,
+              "patronymic": "",
+              "surname": null
+            },
+            "file": {
+              "id": "1013fc29-7858-4781-aa1b-354b24ff4679",
+              "name": "6b0ee1116ac759c7eba64d9e7dceb206.docx",
+              "original_name": "Фото.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/6b/0ee/111/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

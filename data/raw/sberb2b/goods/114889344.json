@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "6ab0decc-e45e-4525-8300-09cb1ff73860",
+        "c_description": "Кофе в зернах EGOISTE «Noir» 1 кг, арабика 100%, ГЕРМАНИЯ",
+        "c_comment": " 1 кг, арабика 100%, ГЕРМАНИЯ",
+        "c_priceWithTax": 3030.97,
+        "c_count": 32.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 3030.97,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "2ff3c465-e415-458d-89fd-1aeb0b7840d2",
+        "c_description": "Чай GREENFIELD «Classic Breakfast» черный, 100 пакетиков в конвертах по 2 г",
+        "c_comment": " черный, 100 пакетиков в конвертах по 2 г",
+        "c_priceWithTax": 391.3,
+        "c_count": 18.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "14188b3f-54d0-45d0-8e61-03fb48425339",
+        "c_description": "Чай GREENFIELD «Earl Grey Fantasy» черный с бергамотом и цитрусом, 100 пакетиков в конвертах по 2 г",
+        "c_comment": "черный с бергамотом и цитрусом, 100 пакетиков в конвертах по 2 г",
+        "c_priceWithTax": 391.31,
+        "c_count": 18.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 391.31,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "f66fb7a1-cf64-4dec-b537-aea31eaf6eec",
+        "c_description": "Сахар-рафинад РУССКИЙ 1 кг (196 кусочков, размер 15×16×21 мм)",
+        "c_comment": " 1 кг (196 кусочков, размер 15×16×21 мм)",
+        "c_priceWithTax": 151.7,
+        "c_count": 20.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

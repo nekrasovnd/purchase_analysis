@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "59f27ad9-9af2-4ef6-9c85-16842f1d3554",
+        "c_description": "Основные Работы/Услуги на Объекте Заказчика",
+        "c_comment": "В соответствии с техническим заданием, квадратный метр в месяц",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "21fc50ac-fd23-4021-a5a9-e463374538aa",
+        "c_unitName": "м^2",
+        "c_unitOkeiCode": "055",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "9fd16560-c886-4fee-9c75-7130362a9c87",
+        "c_description": "Дополнительные Услуги на Объекте Заказчика",
+        "c_comment": "В соответствии с техническим заданием",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "52c16270-6c40-4035-aa89-64be0df1d8f0",
+        "c_unitName": "чел.ч",
+        "c_unitOkeiCode": "539",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

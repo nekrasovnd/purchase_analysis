@@ -1,6 +1,7 @@
 import unittest
 
 from purchase_analysis.clients.zakazrf import (
+    filter_exact_customer_candidates,
     parse_customer_candidates,
     parse_customer_dialog_context,
     parse_main_page_id,
@@ -103,6 +104,13 @@ class ZakazRfClientTest(unittest.TestCase):
         self.assertEqual(candidates[0].role_name, "Заказчик")
         self.assertEqual(candidates[1].internal_id, "465053")
         self.assertEqual(candidates[1].full_name, 'ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"')
+
+    def test_filter_exact_customer_candidates_by_inn(self) -> None:
+        candidates = parse_customer_candidates(CUSTOMER_RESULTS_HTML)
+        exact = filter_exact_customer_candidates(candidates, "7707083893")
+        self.assertEqual(len(exact), 2)
+        self.assertEqual(filter_exact_customer_candidates(candidates, ""), [])
+        self.assertEqual(filter_exact_customer_candidates(candidates, "0000000000"), [])
 
     def test_parse_notification_rows(self) -> None:
         self.assertEqual(parse_total_rows(NOTIFICATION_RESULTS_HTML), 2)

@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "b6ec91fa-15b3-4315-bb9d-c8bf435c1d92",
+        "c_description": "Брендированная гирлянда",
+        "c_comment": "Гирлянда 3 метра, 20 лампочек, 10 подвесок индивидуальной формы.\nУпаковка картонная коробка с полноцветной наклейкой\nМакет свободный, согласовывается с заказчиком",
+        "c_priceWithTax": 1298.0,
+        "c_count": 385.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 1298.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "c8192a3c-b5c1-4e65-9719-6ebc143ae1cd",
+            "is_deletable": true,
+            "name": "d697fa5bae5162a7d4acf0dcb910b678.docx",
+            "original_name": "Техническое задание гирлянда.docx",
+            "size": 2146059,
+            "type": "document",
+            "web_path": "/uploads/documents/d6/97f/a5b/",
+            "created_at": "2025-11-17T14:50:48+03:00",
+            "created_by": {
+              "name": "Анна",
+              "patronymic": "Андреевна",
+              "surname": "Постолова"
+            },
+            "file": {
+              "id": "11190916-5f2d-42b9-8d78-674aef7a6d98",
+              "name": "d697fa5bae5162a7d4acf0dcb910b678.docx",
+              "original_name": "Техническое задание гирлянда.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/d6/97f/a5b/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

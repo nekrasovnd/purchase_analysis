@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "d474b980-6900-4ebb-9fed-363168c5b248",
+        "c_description": "Оптический патчкорд LC-LC duplex MM( многомодовый) ",
+        "c_comment": "",
+        "c_priceWithTax": 486.0,
+        "c_count": 15.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 486.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "c92b8722-eb64-4c5a-a870-88949f55b283",
+        "c_description": "Патч-корд Cat6 UTP ",
+        "c_comment": "",
+        "c_priceWithTax": 387.68,
+        "c_count": 4.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 387.68,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "bbb7ab04-9fc2-407b-8882-99b6ff243108",
+        "c_description": "Трансивер Avago AFBR 709SMZ SFP+ 10G, LC MM 300m, 850nm \n",
+        "c_comment": "",
+        "c_priceWithTax": 3041.67,
+        "c_count": 24.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 3041.67,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "4e806f4e-9c1b-4927-a889-50932d6329e2",
+        "c_description": "Шкаф телекоммуникационный напольный 42U дверь перфорированная (с ключем)",
+        "c_comment": "",
+        "c_priceWithTax": 75843.67,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 75843.67,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

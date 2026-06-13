@@ -99,6 +99,11 @@ create table if not exists core.procurement_lot (
     tags text,
     delivery_place text,
     focus_category text,
+    sberb2b_need_id text,
+    sberb2b_condition_id text,
+    sberb2b_status text,
+    sberb2b_state text,
+    sberb2b_public_request_status text,
     search_url text,
     duplicate_group_size integer not null default 1,
     unique (source_system, procedure_number, lot_number)
@@ -113,6 +118,14 @@ create table if not exists core.procurement_item (
     okpd_name text,
     quantity numeric(18, 4),
     unit text,
+    okei_code text,
+    item_description text,
+    item_id_external text,
+    unit_price_rub numeric(18, 2),
+    line_total_rub numeric(18, 2),
+    unit_price_source text,
+    sberb2b_need_id text,
+    sberb2b_condition_id text,
     focus_category text,
     price_rub numeric(18, 2)
 );
@@ -122,9 +135,48 @@ create table if not exists core.document_link (
     lot_id bigint not null references core.procurement_lot(lot_id),
     document_name text,
     document_url text,
+    document_storage_name text,
+    document_mime_type text,
+    document_size_bytes bigint,
+    document_hash text,
+    local_path text,
+    extraction_method text,
+    text_chars integer,
+    ocr_required boolean not null default false,
+    pii_findings_count integer not null default 0,
     is_available boolean not null default true,
     pii_masked boolean not null default true,
     discovered_at timestamptz not null default now()
+);
+
+create table if not exists core.document_text (
+    document_text_id bigserial primary key,
+    document_id bigint references core.document_link(document_id),
+    lot_id bigint references core.procurement_lot(lot_id),
+    document_name text,
+    local_path text,
+    extraction_method text,
+    text_chars integer not null default 0,
+    ocr_required boolean not null default false,
+    pii_findings_count integer not null default 0,
+    text_preview text,
+    extracted_at timestamptz not null default now()
+);
+
+create table if not exists core.procurement_participant (
+    participant_id bigserial primary key,
+    lot_id bigint references core.procurement_lot(lot_id),
+    source_system text not null,
+    procedure_number text not null,
+    lot_number text not null,
+    participant_role text not null,
+    participant_name text,
+    participant_inn text,
+    participant_external_id text,
+    offer_price_rub numeric(18, 2),
+    is_winner boolean not null default false,
+    evidence_source text,
+    loaded_at timestamptz not null default now()
 );
 
 create table if not exists core.external_factor_daily (
@@ -132,5 +184,8 @@ create table if not exists core.external_factor_daily (
     usd_rub numeric(18, 6),
     nominal numeric(18, 6),
     key_rate numeric(8, 4),
+    inflation_yoy_pct numeric(8, 4),
+    inflation_target_pct numeric(8, 4),
+    key_rate_month_end numeric(8, 4),
     loaded_at timestamptz not null default now()
 );

@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "cbc55d16-962e-4027-80ec-efb44c32f532",
+        "c_description": "Права на программу для ЭВМ «Astra Linux Special Edition» ",
+        "c_comment": "Права на программу для ЭВМ Astra Linux SE для x86-64, Версия 1.7, уровень Максимальный (Смоленск), (ФСТЭК), серверная до 2 сокетов или 1 виртуальный сервер, с upd Тип1 на 12 мес.",
+        "c_priceWithTax": 79500.0,
+        "c_count": 2.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 79500.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

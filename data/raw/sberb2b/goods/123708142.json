@@ -1,0 +1,92 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "18dd97c3-7f50-4234-9d52-d8006e2e0f13",
+        "c_description": "Помпа дренажная Sauermann Si-27, 20 л/ч",
+        "c_comment": "Технические требования указаны во вложении",
+        "c_priceWithTax": 12621.25,
+        "c_count": 3.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 12621.25,
+        "c_okpd2Code": "28.13.14.190",
+        "c_okpd2Name": "Насосы прочие",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "c12fdf8d-e340-4c7c-b01d-fc09c7c68436",
+            "is_deletable": true,
+            "name": "f89899694fea7057a32824105e73628b.JPG",
+            "original_name": "Технические требования к товару - помпа дренажная Sauermann Si-27.JPG",
+            "size": 36649,
+            "type": "image",
+            "web_path": "/uploads/images/f8/989/969/",
+            "created_at": "2025-11-05T18:56:57+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "1e8dcf9c-4954-432c-85a1-fddc01c7f499",
+              "name": "f89899694fea7057a32824105e73628b.JPG",
+              "original_name": "Технические требования к товару - помпа дренажная Sauermann Si-27.JPG",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/f8/989/969/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "00e1f262-07b1-4196-ba9f-95583301dd2b",
+        "c_description": "Дренажная помпа Ballu Machine TOP Power 1.8L (накопительная, 125 л/ч, h-4м, L-20м)",
+        "c_comment": "Технические требования указаны во вложении",
+        "c_priceWithTax": 7500.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 7500.0,
+        "c_okpd2Code": "28.13.14.190",
+        "c_okpd2Name": "Насосы прочие",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "6c2a9a14-779a-45ba-89a6-7f5f7c10b383",
+            "is_deletable": true,
+            "name": "05d8e76e7fe705ac96f567ad55254b58.JPG",
+            "original_name": "Технические требования к товару - помпа дренажная Ballu Machine TOP Power 1.8L (накопительная, 125 л_ч, h-4м, L-20м).JPG",
+            "size": 40924,
+            "type": "image",
+            "web_path": "/uploads/images/05/d8e/76e/",
+            "created_at": "2025-11-05T18:57:36+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "1a90fb22-2f4f-4bca-9d05-2cd83234a2eb",
+              "name": "05d8e76e7fe705ac96f567ad55254b58.JPG",
+              "original_name": "Технические требования к товару - помпа дренажная Ballu Machine TOP Power 1.8L (накопительная, 125 л_ч, h-4м, L-20м).JPG",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/05/d8e/76e/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

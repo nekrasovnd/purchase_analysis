@@ -110,6 +110,52 @@ from core.procurement_lot
 group by 1, 2
 order by duplicate_rows_removed desc, duplicate_groups desc;
 
+-- Unit price benchmark: детальные товарные строки SberB2B позволяют искать завышение цены за единицу.
+create or replace view mart.v_unit_price_benchmarks as
+with base as (
+    select
+        l.source_system,
+        e.entity_name,
+        l.procedure_number,
+        l.lot_number,
+        i.line_no,
+        i.item_name,
+        i.okpd_code,
+        i.okpd_name,
+        i.quantity,
+        i.unit,
+        i.unit_price_rub,
+        i.line_total_rub,
+        concat(left(coalesce(i.okpd_code, ''), 8), '|', lower(coalesce(i.unit, '')), '|', lower(coalesce(i.item_name, ''))) as benchmark_key
+    from core.procurement_item i
+    join core.procurement_lot l
+        on l.lot_id = i.lot_id
+    left join core.entity_scope e
+        on e.entity_id = l.entity_id
+    where i.unit_price_rub is not null
+),
+stats as (
+    select
+        benchmark_key,
+        count(*) as observations,
+        percentile_cont(0.5) within group (order by unit_price_rub) as median_unit_price_rub,
+        percentile_cont(0.75) within group (order by unit_price_rub) as p75_unit_price_rub
+    from base
+    group by 1
+)
+select
+    b.*,
+    s.observations,
+    s.median_unit_price_rub,
+    s.p75_unit_price_rub,
+    b.unit_price_rub / nullif(s.median_unit_price_rub, 0) as ratio_to_median_unit_price,
+    s.observations >= 2
+        and b.unit_price_rub / nullif(s.median_unit_price_rub, 0) >= 1.8 as unit_price_anomaly_flag
+from base b
+join stats s
+    on s.benchmark_key = b.benchmark_key
+order by unit_price_anomaly_flag desc, ratio_to_median_unit_price desc nulls last;
+
 -- База для корреляции: присоединяем месячный объём закупок к среднему USD и ключевой ставке.
 create or replace view mart.v_macro_correlation_base as
 with lot_month as (
@@ -125,7 +171,9 @@ macro_month as (
     select
         date_trunc('month', factor_date)::date as month_date,
         avg(usd_rub) as avg_usd_rub,
-        avg(key_rate) as avg_key_rate
+        avg(key_rate) as avg_key_rate,
+        avg(inflation_yoy_pct) as inflation_yoy_pct,
+        avg(inflation_target_pct) as inflation_target_pct
     from core.external_factor_daily
     group by 1
 )
@@ -134,7 +182,9 @@ select
     l.lots_count,
     l.total_price_rub,
     m.avg_usd_rub,
-    m.avg_key_rate
+    m.avg_key_rate,
+    m.inflation_yoy_pct,
+    m.inflation_target_pct
 from lot_month l
 left join macro_month m
     on m.month_date = l.month_date

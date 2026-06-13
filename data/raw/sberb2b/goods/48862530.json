@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "89517de9-c91d-4ec4-b1a3-360a3681857d",
+        "c_description": "Ноутбук Lenovo ThinkPad E14 G4\n[21E30077CD_PRO] (КЛАВ.РУС.ГРАВ.)\nSilver 14\" {FHD IPS 100sRGB i7-\n1260P/16GB/512GB SSD/W11Pro\nrus",
+        "c_comment": "",
+        "c_priceWithTax": 125000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 125000.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

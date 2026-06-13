@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "32dc1be8-14b0-4db2-afd9-66c1377ebbd6",
+        "c_description": "кофе в зернах 1 кг",
+        "c_comment": "Бренд: один из Poetti; Jardin;  Rioba Espresso Gold;  Kimbo Aroma Intenso",
+        "c_priceWithTax": 0.0,
+        "c_count": 28.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "82e2bbbe-75bb-4a68-87ba-a75d269c334f",
+        "c_unitName": "кг",
+        "c_unitOkeiCode": "166",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "5d0fd422-e29e-446f-8080-b5f7f0d1307a",
+        "c_description": "чай черный пакетированный 100шт",
+        "c_comment": "Бренд: один из GREENFIELD, CURTIS, TESS, AHMAD; Greenfield Earl Grey Fantasy",
+        "c_priceWithTax": 0.0,
+        "c_count": 15.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "19851201-1ba2-4d98-96a7-32f3e90ae247",
+        "c_description": "чай зеленый пакетированный 100шт",
+        "c_comment": "Бренд: один из GREENFIELD, CURTIS, TESS, AHMAD; Greenfield Green Melissa; Greenfield Summer Bouquet фруктовый. ",
+        "c_priceWithTax": 0.0,
+        "c_count": 15.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "2af24803-746f-4da7-9aab-d4f51c6339b5",
+        "c_description": "сахар рафинад ",
+        "c_comment": "тз",
+        "c_priceWithTax": 0.0,
+        "c_count": 15.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "82e2bbbe-75bb-4a68-87ba-a75d269c334f",
+        "c_unitName": "кг",
+        "c_unitOkeiCode": "166",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

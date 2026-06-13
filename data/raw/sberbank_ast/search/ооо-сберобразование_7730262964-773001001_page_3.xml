@@ -1,0 +1,752 @@
+<datarow>
+  <total>
+    <value>113</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2961672</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/2961672</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>23.06.2025 08:00</RequestAcceptDate>
+      <RequestDate>23.06.2025 08:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2506170068.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.06.2025 14:57</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка канцелярских товаров для нужд ООО «СберОбразование»</BidName>
+      <purchCodeTerm>SBR028-2506170068.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3173317</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.06.2025 16:00</RequestStartDate>
+      <EndDate>27.06.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Поставка канцелярских товаров для нужд ООО «СберОбразование»</purchName>
+      <purchAmount>1400000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1750172220000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2961646</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/2961646</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>23.06.2025 08:00</RequestAcceptDate>
+      <RequestDate>23.06.2025 08:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2506170067.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.06.2025 14:44</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка хозяйственных товаров для нужд ООО «СберОбразование»</BidName>
+      <purchCodeTerm>SBR028-2506170067.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3173294</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.06.2025 15:00</RequestStartDate>
+      <EndDate>27.06.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Поставка хозяйственных товаров для нужд ООО «СберОбразование»</purchName>
+      <purchAmount>1300000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1750171440000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>a751f30c-8c14-49e0-9601-7a6cb5fc98b0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №53942692 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>53942692</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/a751f30c-8c14-49e0-9601-7a6cb5fc98b0</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>19.05.2025 16:54</RequestStartDate>
+      <EndDate>30.05.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>30.05.2025 10:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Аудит комплаенс</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>53942692</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.05.2025 16:54</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1747673640000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>4bea842a-aca7-45b8-ad8d-411328e7e9f9</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №76155638 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>76155638</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/4bea842a-aca7-45b8-ad8d-411328e7e9f9</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>15.05.2025 08:48</RequestStartDate>
+      <EndDate>22.05.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>22.05.2025 08:48</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка канцелярских товаров</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>76155638</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>15.05.2025 08:48</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1747298880000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>914b3bd4-fd6c-41d4-99ca-a84947da3818</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №16078112 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>16078112</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/914b3bd4-fd6c-41d4-99ca-a84947da3818</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>13.05.2025 16:12</RequestStartDate>
+      <EndDate>22.05.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>22.05.2025 16:12</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка продовольственных товаров</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>16078112</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.05.2025 16:12</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1747152720000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>d4a1ec2a-3d7a-4d13-92de-60d8446726c9</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №97652689 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>97652689</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/d4a1ec2a-3d7a-4d13-92de-60d8446726c9</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>05.05.2025 10:11</RequestStartDate>
+      <EndDate>14.05.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>14.05.2025 11:11</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка хозяйственных товаров</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>97652689</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>05.05.2025 10:11</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1746439860000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2919820</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/2919820</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>07.05.2025 09:00</RequestAcceptDate>
+      <RequestDate>07.05.2025 09:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504290018.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.04.2025 15:35</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка сувенирной продукции</BidName>
+      <purchCodeTerm>SBR028-2504290018.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3034972</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.04.2025 16:00</RequestStartDate>
+      <EndDate>07.05.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Поставка сувенирной продукции для нужд ООО «СберОбразование»</purchName>
+      <purchAmount>508783</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1745940900000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2919821</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/2919821</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>07.05.2025 09:00</RequestAcceptDate>
+      <RequestDate>07.05.2025 09:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504290018.2</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.04.2025 15:35</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка сувенирной продукции</BidName>
+      <purchCodeTerm>SBR028-2504290018.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3034972</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.04.2025 16:00</RequestStartDate>
+      <EndDate>07.05.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Поставка сувенирной продукции для нужд ООО «СберОбразование»</purchName>
+      <purchAmount>668134</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1745940900000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2919822</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/2919822</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>07.05.2025 09:00</RequestAcceptDate>
+      <RequestDate>07.05.2025 09:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504290018.3</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.04.2025 15:35</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка сувенирной продукции</BidName>
+      <purchCodeTerm>SBR028-2504290018.3</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3034972</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.04.2025 16:00</RequestStartDate>
+      <EndDate>07.05.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Поставка сувенирной продукции для нужд ООО «СберОбразование»</purchName>
+      <purchAmount>288078</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1745940900000</sort>
+    <sort>3</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2903442</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2903442</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>22.04.2025 08:00</RequestAcceptDate>
+      <RequestDate>22.04.2025 08:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504140066.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>14.04.2025 13:57</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Выполнение работ по разработке графического интерфейса платформы ООО «СберОбразование»</BidName>
+      <purchCodeTerm>SBR028-2504140066.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2981849</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.04.2025 14:20</RequestStartDate>
+      <EndDate>28.04.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Выполнение работ по разработке графического интерфейса платформы ООО «СберОбразование»</purchName>
+      <purchAmount>8000000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1744639020000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2903010</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/2903010</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.04.2025 08:00</RequestAcceptDate>
+      <RequestDate>18.04.2025 08:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504140036.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>14.04.2025 10:46</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Услуги по адаптации и сопровождению экземпляров системы КонсультантПлюс</BidName>
+      <purchCodeTerm>SBR028-2504140036.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/2981050</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.04.2025 12:00</RequestStartDate>
+      <EndDate>23.04.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Услуги по адаптации и сопровождению экземпляров системы КонсультантПлюс</purchName>
+      <purchAmount>1508145</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1744627560000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2902302</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2902302</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.04.2025 08:00</RequestAcceptDate>
+      <RequestDate>19.04.2025 08:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504110024.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>11.04.2025 16:26</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Выполнение работ по разработке брендбука для нужд ООО «СберОбразование»</BidName>
+      <purchCodeTerm>SBR028-2504110024.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2973710</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>11.04.2025 16:30</RequestStartDate>
+      <EndDate>25.04.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Выполнение работ по разработке брендбука для нужд ООО «СберОбразование»</purchName>
+      <purchAmount>4215333.33</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1744388760000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>ea4c6ad9-9172-4ca2-8030-de1ddd54ef14</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №96601766 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>96601766</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/ea4c6ad9-9172-4ca2-8030-de1ddd54ef14</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>27.03.2025 11:51</RequestStartDate>
+      <EndDate>04.04.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>04.04.2025 14:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Аудит закупочной деятельности</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>96601766</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>27.03.2025 11:51</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1743076260000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>b79a33e1-5219-4cb7-9e1a-912d989617ac</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №76241049 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>76241049</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/b79a33e1-5219-4cb7-9e1a-912d989617ac</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>25.03.2025 09:26</RequestStartDate>
+      <EndDate>02.04.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>02.04.2025 09:25</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Офисная техника</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>76241049</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>25.03.2025 09:26</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1742894760000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>06723568-df8c-47ed-a3ec-27ecbb4b7798</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №19258287 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>19258287</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/06723568-df8c-47ed-a3ec-27ecbb4b7798</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>19.03.2025 16:19</RequestStartDate>
+      <EndDate>26.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.03.2025 16:19</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Аудит закупочной деятельности</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>19258287</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.03.2025 16:19</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1742401140000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>518f78fc-3eaf-47f4-acfa-1cd58915f74a</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №33018811 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>33018811</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/518f78fc-3eaf-47f4-acfa-1cd58915f74a</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>10.03.2025 11:37</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>14.03.2025 16:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Доступ к правовой системе Консультант Плюс</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>33018811</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>10.03.2025 11:37</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1741606620000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2861197</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/2861197</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>11.03.2025 08:00</RequestAcceptDate>
+      <RequestDate>11.03.2025 08:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2503050013.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>05.03.2025 10:42</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Услуги по организации и проведению сбора данных маркетинговых исследований</BidName>
+      <purchCodeTerm>SBR028-2503050013.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/2832062</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>05.03.2025 11:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Услуги по организации и проведению сбора данных маркетинговых исследований</purchName>
+      <purchAmount>2500000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1741171320000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>a977ccc3-f78f-4598-8679-eeddb80c25bf</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №123036276 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>123036276</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/a977ccc3-f78f-4598-8679-eeddb80c25bf</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>27.02.2025 12:17</RequestStartDate>
+      <EndDate>10.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>10.03.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Предоставить КП (ТО МФУ)</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>123036276</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>27.02.2025 12:17</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1740658620000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>4784c15e-8042-4784-9d1e-a33caa3980b6</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №22928052 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>22928052</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/4784c15e-8042-4784-9d1e-a33caa3980b6</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>13.02.2025 15:19</RequestStartDate>
+      <EndDate>21.02.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>21.02.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Озеленение пространства офиса</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>22928052</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.02.2025 15:19</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1739459940000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>697051bb-02e3-4951-98f3-64e782be2848</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №130584037 от покупателя ООО "СБЕРОБРАЗОВАНИЕ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>130584037</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/697051bb-02e3-4951-98f3-64e782be2848</objectHrefTerm>
+      <OrgName>ООО "СБЕРОБРАЗОВАНИЕ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>06.02.2025 16:29</RequestStartDate>
+      <EndDate>13.02.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>13.02.2025 08:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Срочно. Проверка контрагентов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>130584037</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>06.02.2025 16:29</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1738859340000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

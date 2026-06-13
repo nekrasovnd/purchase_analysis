@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "6d5b39fa-2799-4cec-8854-726da329be68",
+        "c_description": "Простая неисключительная лицензия программного обеспечения Яндекс.Браузер (для корпоративного использования) , срок действия 1 год",
+        "c_comment": "В соответствии с техническим заданием",
+        "c_priceWithTax": 0.0,
+        "c_count": 400.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

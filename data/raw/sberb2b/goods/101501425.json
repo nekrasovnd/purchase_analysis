@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "de30bca7-ece2-46cc-957c-e454ac5b65ee",
+        "c_description": "Шкаф-купе Gloss 9ШКЗ.012",
+        "c_comment": "цвет ivory, габариты (ДхШхВ) 806×450×1150 мм",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "31.01.12.130",
+        "c_okpd2Name": "Шкафы офисные деревянные",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

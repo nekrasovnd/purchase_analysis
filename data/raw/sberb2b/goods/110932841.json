@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "b806ba61-b9e8-434f-b4e7-b9a45e9e684b",
+        "c_description": "Ноутбук HP EliteBook 840 G11 (A36XTET) ",
+        "c_comment": "В техническом задании*",
+        "c_priceWithTax": 128147.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 128147.0,
+        "c_okpd2Code": "26.20.11.110",
+        "c_okpd2Name": "Компьютеры портативные массой не более 10 кг, такие как ноутбуки, планшетные компьютеры, карманные компьютеры, в том числе совмещающие функции мобильного телефонного аппарата",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "5c568416-254d-4141-8322-5ffe704bd98e",
+            "is_deletable": true,
+            "name": "9094d1280b5ac1ddbb8691373e77bf99.docx",
+            "original_name": "Документация к анализу предложений.docx",
+            "size": 33082,
+            "type": "document",
+            "web_path": "/uploads/documents/90/94d/128/",
+            "created_at": "2025-10-06T19:54:50+03:00",
+            "created_by": {
+              "name": "Анна",
+              "patronymic": "Андреевна",
+              "surname": "Постолова"
+            },
+            "file": {
+              "id": "c89f28c9-b502-457f-bf99-12bcfffcd9e7",
+              "name": "9094d1280b5ac1ddbb8691373e77bf99.docx",
+              "original_name": "Документация к анализу предложений.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/90/94d/128/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

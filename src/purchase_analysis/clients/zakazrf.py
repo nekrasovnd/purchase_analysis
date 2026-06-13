@@ -252,6 +252,24 @@ def parse_customer_candidates(html_text: str) -> list[ZakazRfCustomerCandidate]:
     return candidates
 
 
+def _normalize_inn(value: str | None) -> str:
+    return re.sub(r"\D+", "", value or "")
+
+
+def filter_exact_customer_candidates(
+    candidates: list[ZakazRfCustomerCandidate],
+    expected_inn: str | None,
+) -> list[ZakazRfCustomerCandidate]:
+    normalized_expected = _normalize_inn(expected_inn)
+    if not normalized_expected:
+        return []
+    return [
+        candidate
+        for candidate in candidates
+        if _normalize_inn(candidate.inn) == normalized_expected
+    ]
+
+
 def fetch_notifications(
     customer_id: str,
     *,

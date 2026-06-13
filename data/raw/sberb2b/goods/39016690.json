@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "603c0236-362c-47ea-80c7-ed12d1de958d",
+        "c_description": "Seagate Constellation ES.3 ST4000NM0033 (Жесткий диск Seagate Constellation ES.3 ST4000NM0033 объемом 4 терабайта)",
+        "c_comment": "Seagate Constellation ES.3 ST4000NM0033\n(Жесткий диск Seagate Constellation ES.3 ST4000NM0033 объемом 4 терабайта)\n",
+        "c_priceWithTax": 15000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 15000.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "3673886f-f5b6-4142-a49d-0ccbfdc4681a",
+        "c_description": "HP EG0300FBVFL 300Gb SAS 2,5\" (Жесткий диск HP EG0300FBVFL 300Gb SAS 2,5\" HDD)",
+        "c_comment": "HP EG0300FBVFL 300Gb SAS 2,5\"\n(Жесткий диск HP EG0300FBVFL 300Gb SAS 2,5\" HDD)\n",
+        "c_priceWithTax": 15000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 15000.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

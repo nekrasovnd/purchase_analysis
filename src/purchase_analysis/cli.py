@@ -14,6 +14,10 @@ def build_parser() -> argparse.ArgumentParser:
     run_all.add_argument("--date-to", default="31.12.2025")
     run_all.add_argument("--max-pages", type=int, default=20)
     run_all.add_argument("--request-timeout", type=int, default=30)
+    run_all.add_argument("--max-sberb2b-details", type=int, default=500)
+    run_all.add_argument("--download-documents-limit", type=int, default=100)
+    run_all.add_argument("--max-document-size-bytes", type=int, default=10_000_000)
+    run_all.add_argument("--max-sberb2b-api-probes", type=int, default=10)
     return parser
 
 
@@ -26,6 +30,10 @@ def main() -> None:
             date_to=args.date_to,
             max_pages=args.max_pages,
             request_timeout=args.request_timeout,
+            max_sberb2b_details=args.max_sberb2b_details,
+            download_documents_limit=args.download_documents_limit,
+            max_document_size_bytes=args.max_document_size_bytes,
+            max_sberb2b_api_probes=args.max_sberb2b_api_probes,
         )
         result = PipelineRunner(config=config).run_all()
         print(json.dumps(result, ensure_ascii=False, indent=2))

@@ -41,7 +41,12 @@ select
     i.okpd_name,
     i.quantity,
     i.unit,
+    i.unit_price_rub,
+    i.line_total_rub,
+    i.unit_price_source,
     l.detail_url,
+    l.sberb2b_need_id,
+    l.sberb2b_condition_id,
     l.duplicate_group_size
 from core.procurement_lot l
 left join core.entity_scope e
@@ -92,3 +97,39 @@ select
     note,
     checked_at
 from core.integration_probe;
+
+create or replace view mart.v_procurement_participants as
+select
+    p.source_system,
+    p.procedure_number,
+    p.lot_number,
+    e.entity_name,
+    p.participant_role,
+    p.participant_name,
+    p.participant_inn,
+    p.offer_price_rub,
+    p.is_winner,
+    p.evidence_source
+from core.procurement_participant p
+left join core.procurement_lot l
+    on l.source_system = p.source_system
+    and l.procedure_number = p.procedure_number
+    and l.lot_number = p.lot_number
+left join core.entity_scope e
+    on e.entity_id = l.entity_id;
+
+create or replace view mart.v_document_texts as
+select
+    l.source_system,
+    l.procedure_number,
+    l.lot_number,
+    d.document_name,
+    d.local_path,
+    d.extraction_method,
+    d.text_chars,
+    d.ocr_required,
+    d.pii_findings_count,
+    d.text_preview
+from core.document_text d
+left join core.procurement_lot l
+    on l.lot_id = d.lot_id;

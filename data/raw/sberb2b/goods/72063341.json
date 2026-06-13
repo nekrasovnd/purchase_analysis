@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "01167da1-7099-429b-9404-77a74247fb4b",
+        "c_description": "Оказание услуг по проведению маркетингового исследования страхового рынка",
+        "c_comment": "В соответствии с Техническим заданием",
+        "c_priceWithTax": 451850.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 451850.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "52f40bbe-ef00-4fc3-9ffb-7afaa9206f0e",
+            "is_deletable": true,
+            "name": "703c4555e964cfdabc2e8db89305d171.docx",
+            "original_name": "Договор возмездного оказания услуг.docx",
+            "size": 59282,
+            "type": "document",
+            "web_path": "/uploads/documents/70/3c4/555/",
+            "created_at": "2025-11-05T13:01:25+03:00",
+            "created_by": {
+              "name": "Виолетта",
+              "patronymic": "",
+              "surname": "Селютина"
+            },
+            "file": {
+              "id": "bf6e6a55-149f-4335-8998-dbc591945508",
+              "name": "703c4555e964cfdabc2e8db89305d171.docx",
+              "original_name": "Договор возмездного оказания услуг.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/70/3c4/555/"
+            }
+          },
+          {
+            "id": "bcd88ce5-60eb-4518-82a7-fd65ecf044c4",
+            "is_deletable": true,
+            "name": "78715e1dafe5d8411bd6a9ffa5172bda.docx",
+            "original_name": "ТЗ+КП исследование рынка.docx",
+            "size": 23440,
+            "type": "document",
+            "web_path": "/uploads/documents/78/715/e1d/",
+            "created_at": "2025-11-05T13:01:24+03:00",
+            "created_by": {
+              "name": "Виолетта",
+              "patronymic": "",
+              "surname": "Селютина"
+            },
+            "file": {
+              "id": "d1a1ebf8-7d7b-4b71-91bb-cd4bbd7d2c2b",
+              "name": "78715e1dafe5d8411bd6a9ffa5172bda.docx",
+              "original_name": "ТЗ+КП исследование рынка.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/78/715/e1d/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

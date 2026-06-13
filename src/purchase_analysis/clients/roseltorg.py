@@ -17,6 +17,21 @@ BASE_URL = "https://www.roseltorg.ru"
 SEARCH_URL = f"{BASE_URL}/procedures/search_ajax"
 
 
+def _parse_price(value: str | None) -> float | None:
+    if not value:
+        return None
+    cleaned = normalize_spaces(value)
+    if "не указано" in cleaned.lower():
+        return None
+    # Roseltorg search cards can duplicate visible/hidden price text in one node.
+    # Parse the first money-like fragment instead of concatenating all digits.
+    for match in re.finditer(r"\d[\d\s\xa0]*(?:[,.]\d{1,2})?", cleaned):
+        parsed = parse_ru_decimal(match.group(0))
+        if parsed is not None:
+            return parsed
+    return parse_ru_decimal(cleaned)
+
+
 @dataclass(slots=True)
 class RoseltorgSearchItem:
     source_system: str
@@ -168,7 +183,7 @@ def parse_search_items(
                         for tag in block.select(".search-results__type")
                     )
                 ),
-                price_rub=None if "не указано" in raw_price.lower() else parse_ru_decimal(raw_price),
+                price_rub=_parse_price(raw_price),
                 deadline_at=deadline.isoformat() if deadline else None,
                 detail_url=urljoin(BASE_URL, subject_link.get("href", "")) if subject_link else "",
                 tags=" | ".join(tag_texts),
@@ -289,9 +304,7 @@ def parse_lot_detail(
         lot_number=lot_number,
         published_at=published_at,
         application_deadline=deadline.isoformat() if deadline else None,
-        detail_price_rub=None
-        if "\u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u043e" in price_text.lower()
-        else parse_ru_decimal(str(offers.get("price"))),
+        detail_price_rub=_parse_price(str(offers.get("price") or price_text)),
         okpd_code=normalize_spaces(
             additional.get("\u041a\u043e\u0434 \u041e\u041a\u041f\u0414", "")
         ),

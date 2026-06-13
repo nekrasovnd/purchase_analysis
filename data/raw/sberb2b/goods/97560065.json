@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "21c449eb-6e5f-47f6-9142-4cc9e4aa52f8",
+        "c_description": "Простая неисключительная лицензия на ПО MFlash для интеграции с модулем совместной работы и онлайн редактирования сроком использования на 2 года",
+        "c_comment": "Предназначено для защищённого файлового обмена и доступа к данным в корпоративных условиях (MF-OFFICE-API)",
+        "c_priceWithTax": 4800.0,
+        "c_count": 50.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 4800.0,
+        "c_okpd2Code": "58.29",
+        "c_okpd2Name": "Услуги по изданию прочего программного обеспечения",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

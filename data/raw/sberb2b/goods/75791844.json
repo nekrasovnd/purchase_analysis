@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "74c62be9-d90d-462c-a3f1-b1ea028e3e10",
+        "c_description": "Оказание услуг по комплексной уборке помещения АО «Сбербанк Лизинг» по адресу: г. Иркутск, ул. 5-ой Армии, д. 2/1, 3 этаж, общей площадью 59,80 кв.м. сроком 12 месяцев",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "81.21.10.000",
+        "c_okpd2Name": "Услуги по общей уборке зданий",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

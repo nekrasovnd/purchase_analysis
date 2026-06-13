@@ -1,0 +1,92 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "6111d57a-12d5-4025-824d-f87eae5d6801",
+        "c_description": "Перегородка пластиковая для ящика",
+        "c_comment": "Высота: 86 мм. Ширина: 82 мм. Глубина: 1 мм. Вес: не более 0,1 кг. Цвет: прозрачный Материал: пластик Совместимость с ящиком Б Ш 92",
+        "c_priceWithTax": 112.0,
+        "c_count": 100.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 112.0,
+        "c_okpd2Code": "31.01.12.190",
+        "c_okpd2Name": "Мебель офисная деревянная прочая",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "003666f6-fb89-4c7b-8561-e9ed6420fa0e",
+            "is_deletable": true,
+            "name": "4ea311d0e648ea01c023fd1343a3f95a.jpg",
+            "original_name": "Перегородка.jpg",
+            "size": 22920,
+            "type": "image",
+            "web_path": "/uploads/images/4e/a31/1d0/",
+            "created_at": "2025-12-05T17:12:04+03:00",
+            "created_by": {
+              "name": null,
+              "patronymic": "",
+              "surname": null
+            },
+            "file": {
+              "id": "893d0b34-74f0-47a4-80e1-78d3bae495bf",
+              "name": "4ea311d0e648ea01c023fd1343a3f95a.jpg",
+              "original_name": "Перегородка.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/4e/a31/1d0/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "e10a3fef-8d14-4cdc-b62f-b83700a691c4",
+        "c_description": "Полка (Диком 22.3109-100 или эквивалент",
+        "c_comment": "Высота: 39мм. (± 1%) Ширина: 596 мм. (± 1%) Глубина: 1300 мм. (± 1%) Вес: не более 7,5 кг. Толщина: не менее 0,8 мм. Материал: оцинкованный металл Цвет: неокрашенный металл Нагрузка на полку: не менее 200 кг. Совместимость со стеллажами серии СТ-031",
+        "c_priceWithTax": 3800.0,
+        "c_count": 12.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 3800.0,
+        "c_okpd2Code": "31.09.11.130",
+        "c_okpd2Name": "Полки и полочки металлические хозяйственно-бытового назначения",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "8a01599a-c3ec-42fc-a6f9-ec9a5eafe49b",
+            "is_deletable": true,
+            "name": "2d6c0ea1ea0e54bb8088905606b8094c.jpg",
+            "original_name": "Полка.jpg",
+            "size": 6626,
+            "type": "image",
+            "web_path": "/uploads/images/2d/6c0/ea1/",
+            "created_at": "2025-12-05T17:12:04+03:00",
+            "created_by": {
+              "name": null,
+              "patronymic": "",
+              "surname": null
+            },
+            "file": {
+              "id": "c7aca3dc-2358-4335-94e0-94d53ff1dffe",
+              "name": "2d6c0ea1ea0e54bb8088905606b8094c.jpg",
+              "original_name": "Полка.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/2d/6c0/ea1/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

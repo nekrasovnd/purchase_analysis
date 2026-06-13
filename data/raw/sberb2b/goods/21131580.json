@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "236588af-af69-4bd4-b9e5-88c8fa9b4be4",
+        "c_description": "Бумага туалетная рулонная Luscan Professional T2 1-слойная белая 12 рулонов по 200 метров (вторичная целлюлоза) или аналог",
+        "c_comment": "Количество слоев 1 слой\nМатериал любой\nЦвет белый\nПерфорация нет\nВлажная нет\nКоличество рулонов/пачек в упаковке 12 шт\nРастворимая втулка нет\nДлина рулона 170/200 м\nТиснение нет\nНаличие втулки да",
+        "c_priceWithTax": 1097.0,
+        "c_count": 24.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 1097.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "da2ca8af-6353-4b77-b9bd-ed9ab6271a46",
+        "c_description": "Professional H2 Z-сложение 2-слойные белые 20 пачек по 144 листов или аналог",
+        "c_comment": "Технические характеристики \nТип сложения  Z-сложение\nКоличество слоев 2\nДиспенсерная система  H2\nТип полотенец  листовой\nСырьё любое\nКоличество листов в пачке 144\nЦвет белый\nПерфорация Нет\nТиснение  Да\nБелизна  не менее 84%\nСтрана происхождения  Росси",
+        "c_priceWithTax": 1927.0,
+        "c_count": 36.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 1927.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

@@ -29,7 +29,7 @@ HTML_SNIPPET = """
     <p>Запрос цен</p>
   </div>
   <div class="search-results__sum">
-    <p>33 990,00 ₽</p>
+    <p>33 990,00 ₽ 33 990,00</p>
   </div>
   <div class="search-results__time">
     <p>До 31.03.2026 12:00</p>

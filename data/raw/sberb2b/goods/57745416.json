@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "a8c35022-4cc4-4a8b-a56b-65ed15667d4e",
+        "c_description": "Покрывало спасательное изотермическое",
+        "c_comment": "",
+        "c_priceWithTax": 107.0,
+        "c_count": 300.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 107.0,
+        "c_okpd2Code": "22.22.12.130",
+        "c_okpd2Name": "Мешки из полипропилена",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

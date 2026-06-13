@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "e981f2be-2cc3-4d82-b751-4f0178b87a24",
+        "c_description": "Простой слайд (Здесь и далее – в соотношении сторон 16:9)",
+        "c_comment": "Согласно Техническому заданию",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "73.1",
+        "c_okpd2Name": "Услуги рекламные",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "d7d6e2c5-b6b8-4a0a-93a2-b5067fa8f422",
+        "c_description": "Слайд с инфографикой/сложный слайд",
+        "c_comment": "Согласно Техническому заданию",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "73.1",
+        "c_okpd2Name": "Услуги рекламные",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "d7de0268-5ef8-41b7-94fa-196a609fb9b2",
+        "c_description": "Презентация \"под ключ\" на основе имеющегося шаблона (15 слайдов) ",
+        "c_comment": "Согласно Техническому заданию",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "73.1",
+        "c_okpd2Name": "Услуги рекламные",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "970a0912-cd05-4a77-8fb1-3c0ad40eb73d",
+        "c_description": "Презентация \"под ключ\" создание с \"нуля\" по брендбуку (15 слайдов) ",
+        "c_comment": "Согласно Техническому заданию",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "73.1",
+        "c_okpd2Name": "Услуги рекламные",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

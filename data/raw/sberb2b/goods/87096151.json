@@ -1,0 +1,174 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 4,
+    "goods": [
+      {
+        "c_id": "a7b77d4c-2aca-4deb-9938-4e57443e4109",
+        "c_description": "Чай чёрный Tess Pleasure 100 пакетиков (яблоко, шиповник)",
+        "c_comment": "Чай чёрный Tess Pleasure 100 пакетиков (яблоко, шиповник)",
+        "c_priceWithTax": 320.0,
+        "c_count": 9.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 320.0,
+        "c_okpd2Code": "10.83.13.120",
+        "c_okpd2Name": "Чай черный (ферментированный) в упаковках массой не более 3 кг",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "8eed2a54-f9b7-4c01-b178-c8f6bb2d9534",
+            "is_deletable": true,
+            "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+            "original_name": "ТЗ.doc",
+            "size": 208896,
+            "type": "document",
+            "web_path": "/uploads/documents/7f/47b/81f/",
+            "created_at": "2025-12-15T14:36:31+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "f4298569-a814-4672-8b4a-1a76aac6ad68",
+              "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+              "original_name": "ТЗ.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/7f/47b/81f/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "3b627ecb-179f-4783-88fb-ec8278b3e6fd",
+        "c_description": "Чай зеленый Tess Flirt 100 пакетиков (белый персик, клубника)",
+        "c_comment": "Чай зеленый Tess Flirt 100 пакетиков (белый персик, клубника)",
+        "c_priceWithTax": 5.0,
+        "c_count": 420.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 5.0,
+        "c_okpd2Code": "10.83.13.110",
+        "c_okpd2Name": "Чай зеленый (неферментированный) в упаковках массой не более 3 кг",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "5223b45e-a667-47b2-9175-2b9f576acd75",
+            "is_deletable": true,
+            "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+            "original_name": "ТЗ.doc",
+            "size": 208896,
+            "type": "document",
+            "web_path": "/uploads/documents/7f/47b/81f/",
+            "created_at": "2025-12-15T14:37:12+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "f4298569-a814-4672-8b4a-1a76aac6ad68",
+              "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+              "original_name": "ТЗ.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/7f/47b/81f/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "cd8e1aab-0671-41c1-8074-d7448035e2f1",
+        "c_description": "Чай чёрный Greenfield Spring Melody 100 пакетиков (черная смородина, мята, чабрец)",
+        "c_comment": "Чай чёрный Greenfield Spring Melody 100 пакетиков (черная смородина, мята, чабрец)",
+        "c_priceWithTax": 350.0,
+        "c_count": 9.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 350.0,
+        "c_okpd2Code": "10.83.13.120",
+        "c_okpd2Name": "Чай черный (ферментированный) в упаковках массой не более 3 кг",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "17aff710-c0df-40d8-88f6-1ba06be3b97f",
+            "is_deletable": true,
+            "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+            "original_name": "ТЗ.doc",
+            "size": 208896,
+            "type": "document",
+            "web_path": "/uploads/documents/7f/47b/81f/",
+            "created_at": "2025-12-15T14:38:04+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "f4298569-a814-4672-8b4a-1a76aac6ad68",
+              "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+              "original_name": "ТЗ.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/7f/47b/81f/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "5a3b17c6-bcca-4a37-86bd-1323e7edf431",
+        "c_description": "Чай ягодный фруктовый Greenfield Summer Bouquet 100 пакетиков (малина)",
+        "c_comment": "Чай ягодный фруктовый Greenfield Summer Bouquet 100 пакетиков (малина)",
+        "c_priceWithTax": 430.0,
+        "c_count": 9.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 430.0,
+        "c_okpd2Code": "10.83.13.110",
+        "c_okpd2Name": "Чай зеленый (неферментированный) в упаковках массой не более 3 кг",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "40299cc4-268f-4ae6-a101-5d69504c6382",
+            "is_deletable": true,
+            "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+            "original_name": "ТЗ.doc",
+            "size": 208896,
+            "type": "document",
+            "web_path": "/uploads/documents/7f/47b/81f/",
+            "created_at": "2025-12-15T14:39:07+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "f4298569-a814-4672-8b4a-1a76aac6ad68",
+              "name": "7f47b81fd21bd2b024babf4ef52c7ec8.doc",
+              "original_name": "ТЗ.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/7f/47b/81f/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,807 @@
+<datarow>
+  <total>
+    <value>2075</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633473</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633473</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220026.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:19</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Москва-1. Адрес забора оборудования: г. Москва, ш.Энтузиастов, 14.</BidName>
+      <purchCodeTerm>SBR028-2407220026.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147831</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:19</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Москва-1. Процедура продажи б.у. ИТ оборудования в количестве 7 штук.</purchName>
+      <purchAmount>42000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657940000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633468</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633468</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 12:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220025.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:17</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Хабаровск. Адрес забора оборудования: г. Хабаровск, ул. Краснореченская, 111в.</BidName>
+      <purchCodeTerm>SBR028-2407220025.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147826</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:17</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Хабаровск. Процедура продажи б.у. ИТ оборудования в количестве 19 штук.</purchName>
+      <purchAmount>17440</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657820000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633466</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633466</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220024.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:16</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Владимир 1. Адрес забора оборудования: г.Владимир, пр.Ленина, д.36.</BidName>
+      <purchCodeTerm>SBR028-2407220024.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147823</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:16</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Владимир 1. Процедура продажи б.у. ИТ оборудования в количестве 12 штук.</purchName>
+      <purchAmount>48000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657760000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633463</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633463</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220023.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:16</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Владимир. Адрес забора оборудования: г.Владимир, пр.Ленина, д.36.</BidName>
+      <purchCodeTerm>SBR028-2407220023.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147820</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:16</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Владимир. Процедура продажи б.у. ИТ оборудования в количестве 51 штук.</purchName>
+      <purchAmount>81600</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657760000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633458</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633458</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 09:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 09:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220022.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:14</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Чита3 . Адрес забора оборудования: г. Чита, ул. Полины Осипенко, 40.</BidName>
+      <purchCodeTerm>SBR028-2407220022.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147815</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:14</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Чита3 . Процедура продажи б.у. ИТ оборудования в количестве 20 штук.</purchName>
+      <purchAmount>18000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657640000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633453</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633453</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 09:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 09:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220020.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:13</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Чита1 . Адрес забора оборудования: г. Чита, ул. Полины Осипенко, 40.</BidName>
+      <purchCodeTerm>SBR028-2407220020.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147810</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:13</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Чита1 . Процедура продажи б.у. ИТ оборудования в количестве 15 штук.</purchName>
+      <purchAmount>15000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657580000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633456</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633456</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 09:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 09:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220021.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:13</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Чита2 . Адрес забора оборудования: г. Чита, ул. Полины Осипенко, 40.</BidName>
+      <purchCodeTerm>SBR028-2407220021.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147813</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:13</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Чита2 . Процедура продажи б.у. ИТ оборудования в количестве 20 штук.</purchName>
+      <purchAmount>20000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657580000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2633452</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2633452</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.07.2024 09:00</RequestAcceptDate>
+      <RequestDate>26.07.2024 09:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407220019.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.07.2024 14:12</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Чита . Адрес забора оборудования: г. Чита, ул. Полины Осипенко, 40.</BidName>
+      <purchCodeTerm>SBR028-2407220019.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2147809</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.07.2024 14:12</RequestStartDate>
+      <EndDate>22.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Чита . Процедура продажи б.у. ИТ оборудования в количестве 15 штук.</purchName>
+      <purchAmount>15000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1721657520000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621952</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621952</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080044.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:29</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Ростов-на-Дону 1. Адрес забора оборудования: г. Ростов-на-Дону, ул. Нансена, 160.</BidName>
+      <purchCodeTerm>SBR028-2407080044.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108845</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:29</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Ростов-на-Дону 1. Процедура продажи б.у. ИТ оборудования в количестве 122 штук.</purchName>
+      <purchAmount>94900</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459740000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621953</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621953</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080045.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:29</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Ростов-на-Дону 2. Адрес забора оборудования: г. Ростов-на-Дону, ул. Нансена, 160.</BidName>
+      <purchCodeTerm>SBR028-2407080045.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108846</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:29</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Ростов-на-Дону 2. Процедура продажи б.у. ИТ оборудования в количестве 29 штук.</purchName>
+      <purchAmount>29000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459740000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621951</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621951</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080043.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:28</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Воронеж-2. Адрес забора оборудования: г. Воронеж, ул. 9 января 302а.</BidName>
+      <purchCodeTerm>SBR028-2407080043.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108844</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:28</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Воронеж-2. Процедура продажи б.у. ИТ оборудования в количестве 169 штук.</purchName>
+      <purchAmount>88300</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459680000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621949</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621949</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080042.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:27</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Воронеж-1. Адрес забора оборудования: г. Воронеж, ул. 9 января 302а.</BidName>
+      <purchCodeTerm>SBR028-2407080042.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108842</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:27</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Воронеж-1. Процедура продажи б.у. ИТ оборудования в количестве 34 штук.</purchName>
+      <purchAmount>95200</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459620000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621944</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621944</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080040.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:26</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Москва 1. Адрес забора оборудования: г. Москва, ул. Б. Андроньевская, 8.</BidName>
+      <purchCodeTerm>SBR028-2407080040.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108837</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:26</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Москва 1. Процедура продажи б.у. ИТ оборудования в количестве 196 штук.</purchName>
+      <purchAmount>154100</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459560000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621946</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621946</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080041.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:26</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Москва 1. Адрес забора оборудования: г. Москва, ул. Б. Андроньевская, 8.</BidName>
+      <purchCodeTerm>SBR028-2407080041.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108839</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:26</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Москва 6. Процедура продажи б.у. ИТ оборудования в количестве 231 штук.</purchName>
+      <purchAmount>209300</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459560000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621940</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621940</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080039.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:22</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Москва. Адрес забора оборудования: г. Москва, Новоданиловская набережная, 10.</BidName>
+      <purchCodeTerm>SBR028-2407080039.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108832</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:22</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Москва. Процедура продажи б.у. ИТ оборудования в количестве 24 штук.</purchName>
+      <purchAmount>123800</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459320000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621936</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621936</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080038.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:20</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Сыктывкар. Адрес забора оборудования: г. Сыктывкар. ул. Морозова, д. 89.</BidName>
+      <purchCodeTerm>SBR028-2407080038.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108828</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:20</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Сыктывкар. Процедура продажи б.у. ИТ оборудования в количестве 55 штук.</purchName>
+      <purchAmount>110000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459200000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621935</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621935</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080037.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:20</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Санкт-Петербург 3. Адрес забора оборудования: г. Санкт-Петербург, ул. Коллонтай, д.24, к.2.</BidName>
+      <purchCodeTerm>SBR028-2407080037.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108827</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:20</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Санкт-Петербург 3. Процедура продажи б.у. ИТ оборудования в количестве 40 штук.</purchName>
+      <purchAmount>12000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459200000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621934</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621934</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080036.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:19</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Петрозаводск. Адрес забора оборудования: г. Петрозаводск, ул. Антикайнена, д.2.</BidName>
+      <purchCodeTerm>SBR028-2407080036.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108826</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:19</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Петрозаводск. Процедура продажи б.у. ИТ оборудования в количестве 42 штук.</purchName>
+      <purchAmount>84000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459140000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621931</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621931</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080035.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:17</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Москва-8. Адрес забора оборудования: г. Москва, ш.Энтузиастов, 14.</BidName>
+      <purchCodeTerm>SBR028-2407080035.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108823</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:17</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Москва-8. Процедура продажи б.у. ИТ оборудования в количестве 11 штук.</purchName>
+      <purchAmount>66000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720459020000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2621929</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Простая продажа (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ПАО СБЕРБАНК</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/18/3/0/2621929</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.07.2024 14:00</RequestAcceptDate>
+      <RequestDate>12.07.2024 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков (ранее ТС "Закупки и продажи")</SourceTerm>
+      <purchCode>SBR028-2407080034.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.07.2024 17:16</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продажа б.у. ИТ оборудования  - самовывоз из города Москва-7. Адрес забора оборудования: г. Москва, ш.Энтузиастов, 14.</BidName>
+      <purchCodeTerm>SBR028-2407080034.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/2108821</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>08.07.2024 17:16</RequestStartDate>
+      <EndDate>08.07.2024</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <purchName>г. Москва-7. Процедура продажи б.у. ИТ оборудования в количестве 29 штук.</purchName>
+      <purchAmount>46400</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1720458960000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

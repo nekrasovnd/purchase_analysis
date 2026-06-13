@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "f94f84b8-05d8-4c6b-b018-2e5c76f75e24",
+        "c_description": "Печать, изготовление и поставка баннеров",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 60.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "58.19.15.000",
+        "c_okpd2Name": "Материалы торгово-рекламные, каталоги торговые и аналогичная издательская продукция печатная",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

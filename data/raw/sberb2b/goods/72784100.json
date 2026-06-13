@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "ad752096-233e-4ae7-916b-49ac0bbe9f30",
+        "c_description": "Поставка ноутбука Lenovo",
+        "c_comment": "ThinkPad X1 Carbon G13 14\" Aura Edition WUXGA(1920x1200)IPS 500N, Ultra 7 265U, 16GB Soldered LPDDR5x, 1TB SSD M.2, Int Graphics, WiFi6E, BT, TPM2, FPR, IR Cam, 57Wh, 65W USB-C, Win 11 ProEng,1,1kg,1",
+        "c_priceWithTax": 220000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 220000.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

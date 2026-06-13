@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "1ec67fec-86f9-4b2a-9644-3c3af28f3308",
+        "c_description": "Wi-Fi модем для счётчиков воды «Ватериус»",
+        "c_comment": "шт. Срок поставки товара: не позднее истечения 6 (шести) недель с даты подписания Договора\r\nГарантийный срок: не менее 12 (двенадцати) месяцев со дня подписания сторонами универсального передаточного документа",
+        "c_priceWithTax": 0.0,
+        "c_count": 100.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

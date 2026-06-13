@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "ee9cbe65-c85f-4651-9f88-32f081ed119b",
+        "c_description": "Сетевой фильтр BigTech ST510-3-W на 5 розеток 3 метра",
+        "c_comment": "Сетевой фильтр BigTech ST510-3-W на 5 розеток 3 метра",
+        "c_priceWithTax": 750.0,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 750.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "a81eac66-297f-4dcc-add3-0632f09b9562",
+            "is_deletable": true,
+            "name": "7bee1125fbd954a35d4cdc869b72db60.doc",
+            "original_name": "ТЗ.doc",
+            "size": 187392,
+            "type": "document",
+            "web_path": "/uploads/documents/7b/ee1/125/",
+            "created_at": "2025-12-15T14:21:36+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "9778fc0e-80d9-4bce-945f-a8acee2d508d",
+              "name": "7bee1125fbd954a35d4cdc869b72db60.doc",
+              "original_name": "ТЗ.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/7b/ee1/125/"
+            }
+          },
+          {
+            "id": "da1830a9-5a41-4da0-8e90-b1e06dfe287b",
+            "is_deletable": true,
+            "name": "c27b96b382091ce6b22f0e12682cbf1b.jpg",
+            "original_name": "Технические требования - Сетевые фильтры.jpg",
+            "size": 51979,
+            "type": "image",
+            "web_path": "/uploads/images/c2/7b9/6b3/",
+            "created_at": "2025-12-15T14:21:36+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "af490414-39db-4da0-8b08-6f82640ce844",
+              "name": "c27b96b382091ce6b22f0e12682cbf1b.jpg",
+              "original_name": "Технические требования - Сетевые фильтры.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/c2/7b9/6b3/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "5e10e0ea-fe88-48ee-9fc0-e9e466ff0422",
+        "c_description": "Услуги по комплексной уборке офиса",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

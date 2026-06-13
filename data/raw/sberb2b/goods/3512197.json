@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "d5d10973-37bb-4c56-a456-2954cba22ab2",
+        "c_description": "Пластиковая лакированная шариковая ручка с металлизированным серебристым клипом, кольцом и наконечником Euro Chrome,\nЦвет: белый\nБрендирование: УФ-печать \nдо 50мм Х 5 мм \nМесто нанесения: корпус, напротив клипа\n Срок производства: 21 рабочий день",
+        "c_comment": "",
+        "c_priceWithTax": 51.32,
+        "c_count": 1000.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 51.32,
+        "c_okpd2Code": "32.99.12.110",
+        "c_okpd2Name": "Ручки шариковые",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "47e92540-14bc-489e-9dea-9936b8a7ad6f",
+        "c_description": "Блокнот Issa в клетку, белый на пружине с обложкой из белого мелованного картона плотностью 270 г/м² Ламинация: 1+0 софт-тач.\nВ блоке 50 листов в клетку из бумаги плотностью 70 г/м².\nБрендирование: офсетная печать \n110 мм Х 20 мм \nпечать 4+0 \nобложка 4+0\nСрок производства: 21 рабочий день",
+        "c_comment": "",
+        "c_priceWithTax": 219.0,
+        "c_count": 1000.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 219.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

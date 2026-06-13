@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "7818548f-92be-4718-8914-355606ae9709",
+        "c_description": "Huawei  MateBook D 14 MDG-X (53014BSB) ",
+        "c_comment": "В техническом задании*",
+        "c_priceWithTax": 53352.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 53352.0,
+        "c_okpd2Code": "26.20.11.110",
+        "c_okpd2Name": "Компьютеры портативные массой не более 10 кг, такие как ноутбуки, планшетные компьютеры, карманные компьютеры, в том числе совмещающие функции мобильного телефонного аппарата",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "c82fa7c6-0049-4b93-968c-730104b8e6d6",
+            "is_deletable": true,
+            "name": "a2cfbdf1eb0b6023f965c5176aa09b42.doc",
+            "original_name": "Договор поставки №1 от 13.11.2025.docx.doc",
+            "size": 92672,
+            "type": "document",
+            "web_path": "/uploads/documents/a2/cfb/df1/",
+            "created_at": "2025-11-19T11:12:04+03:00",
+            "created_by": {
+              "name": "Анна",
+              "patronymic": "Андреевна",
+              "surname": "Постолова"
+            },
+            "file": {
+              "id": "816c84be-a8b2-44db-8da2-3170de4bf397",
+              "name": "a2cfbdf1eb0b6023f965c5176aa09b42.doc",
+              "original_name": "Договор поставки №1 от 13.11.2025.docx.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/a2/cfb/df1/"
+            }
+          },
+          {
+            "id": "da197b9c-7bd1-422b-a97e-2553dcb2fd15",
+            "is_deletable": true,
+            "name": "77b7c460a6bfef064de94b99699a240f.docx",
+            "original_name": "Техническое задание ноутбук.docx",
+            "size": 19218,
+            "type": "document",
+            "web_path": "/uploads/documents/77/b7c/460/",
+            "created_at": "2025-11-19T11:11:37+03:00",
+            "created_by": {
+              "name": "Анна",
+              "patronymic": "Андреевна",
+              "surname": "Постолова"
+            },
+            "file": {
+              "id": "500cb259-2729-4414-b34f-63e10955becf",
+              "name": "77b7c460a6bfef064de94b99699a240f.docx",
+              "original_name": "Техническое задание ноутбук.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/77/b7c/460/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

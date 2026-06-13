@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "8550b95b-c1b9-498b-aa2d-55c56d578834",
+        "c_description": "Тонометр MediTech MT30 (манжета 22-36 см, с поверкой РФ)",
+        "c_comment": "Тонометр MediTech MT30 (манжета 22-36 см, с поверкой РФ)",
+        "c_priceWithTax": 3000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 3000.0,
+        "c_okpd2Code": "26.60.12.120",
+        "c_okpd2Name": "Аппараты для функциональных диагностических исследований или для контроля физиологических параметров, применяемые в медицинских целях, не включенные в другие группировки",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "6cb1f209-2a81-4505-8a10-58323ac638ae",
+            "is_deletable": true,
+            "name": "59ed4dffc7ac74d9119609dac5a8509a.jpg",
+            "original_name": "Технические требования - тонометр.jpg",
+            "size": 30862,
+            "type": "image",
+            "web_path": "/uploads/images/59/ed4/dff/",
+            "created_at": "2025-12-15T14:31:12+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "02134b47-0961-4965-8996-4d22c59e5ade",
+              "name": "59ed4dffc7ac74d9119609dac5a8509a.jpg",
+              "original_name": "Технические требования - тонометр.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/59/ed4/dff/"
+            }
+          },
+          {
+            "id": "b16d84a4-5033-4524-b3c7-675b759dbbcd",
+            "is_deletable": true,
+            "name": "e4b7284431283a735e5577eac8ecc45a.doc",
+            "original_name": "ТЗ.doc",
+            "size": 107008,
+            "type": "document",
+            "web_path": "/uploads/documents/e4/b72/844/",
+            "created_at": "2025-12-15T14:31:13+03:00",
+            "created_by": {
+              "name": "Дмитрий",
+              "patronymic": "Юрьевич",
+              "surname": "Махотин"
+            },
+            "file": {
+              "id": "5b2e32f0-2a2f-4ace-83f9-9ec43b7e6d63",
+              "name": "e4b7284431283a735e5577eac8ecc45a.doc",
+              "original_name": "ТЗ.doc",
+              "type": "application/msword",
+              "web_path": "/uploads/documents/e4/b72/844/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

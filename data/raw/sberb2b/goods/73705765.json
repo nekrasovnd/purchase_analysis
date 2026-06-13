@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "0113ef24-27f6-4cea-87bf-eb3b6630e79d",
+        "c_description": "Наполнитель для коробок",
+        "c_comment": "Для упоковки подарков \nготовый материал, зеленого цвета",
+        "c_priceWithTax": 1406.2,
+        "c_count": 20.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 1406.2,
+        "c_okpd2Code": "17.12.14.190",
+        "c_okpd2Name": "Бумага оберточная и упаковочная всех видов (без бумаги для гофрирования)",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "82e2bbbe-75bb-4a68-87ba-a75d269c334f",
+        "c_unitName": "кг",
+        "c_unitOkeiCode": "166",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

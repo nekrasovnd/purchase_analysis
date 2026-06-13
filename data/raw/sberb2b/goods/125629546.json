@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 3,
+    "goods": [
+      {
+        "c_id": "ceabe9d8-f3db-435a-87ce-df06300cb409",
+        "c_description": "Аренда помещения",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "21fc50ac-fd23-4021-a5a9-e463374538aa",
+        "c_unitName": "м^2",
+        "c_unitOkeiCode": "055",
+        "c_code": "68.20.12.900",
+        "c_attachments": []
+      },
+      {
+        "c_id": "d0688a5c-6f15-454c-bb22-e9b3e54563ef",
+        "c_description": "Эксплуатационные платежи",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "21fc50ac-fd23-4021-a5a9-e463374538aa",
+        "c_unitName": "м^2",
+        "c_unitOkeiCode": "055",
+        "c_code": "68.20.12.900",
+        "c_attachments": []
+      },
+      {
+        "c_id": "9cd05a34-223c-46ce-b404-927f316f6d2b",
+        "c_description": "Коммунальные услуги  (стоимость указывается ориентировочно)\n",
+        "c_comment": "",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "21fc50ac-fd23-4021-a5a9-e463374538aa",
+        "c_unitName": "м^2",
+        "c_unitOkeiCode": "055",
+        "c_code": "68.20.12.900",
+        "c_attachments": []
+      }
+    ]
+  }
+}

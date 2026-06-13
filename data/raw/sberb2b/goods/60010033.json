@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "d5886374-3dd3-41b5-8540-53696512701f",
+        "c_description": "Журнал выдачи и приёма ключей от помещений",
+        "c_comment": "Обложка: лицевая сторона-твердый переплет, переплетный картон 1,5 мм, переплетный материал бумвинил зеленый, наклейка с наименованием журнала на самоклеящейся бумаге; \n\nБлок: титульный лист 1 (страницы 1-2), листы журнал с 2 по 50 (страницы 3-99), заверительная надпись (страница 100); Бумага: офсетная 80 гр., печать ризографа 1+1, формат 297х210 (альбомная), черно-белая печать, прошивка блока с нитью.",
+        "c_priceWithTax": 690.0,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 690.0,
+        "c_okpd2Code": "17.23.13.140",
+        "c_okpd2Name": "Бланки из бумаги или картона",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "f8c6c08f-0891-4756-bb45-df88e41fc624",
+            "is_deletable": true,
+            "name": "2966aac0527602c5fa91174c89480137.docx",
+            "original_name": "Приложение (2).docx",
+            "size": 16039,
+            "type": "document",
+            "web_path": "/uploads/documents/29/66a/ac0/",
+            "created_at": "2025-12-30T10:40:04+03:00",
+            "created_by": {
+              "name": null,
+              "patronymic": "",
+              "surname": null
+            },
+            "file": {
+              "id": "38849152-e101-4e3d-be2e-f176e28f8ed6",
+              "name": "2966aac0527602c5fa91174c89480137.docx",
+              "original_name": "Приложение (2).docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/29/66a/ac0/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "428ece7c-9cf4-4471-85f7-f43d6b3831a4",
+        "c_description": "Оказание услуг по организации розыгрыша, трансляции в онлайн-формате и реализации тура на запуск ракеты на космодроме Байконур для 11 победителей",
+        "c_comment": "В соответствии с ТЗ",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "93.29.29.000",
+        "c_okpd2Name": "Услуги зрелищно-развлекательные, не включенные в другие группировки",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}
