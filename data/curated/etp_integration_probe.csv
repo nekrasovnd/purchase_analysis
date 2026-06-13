@@ -1,0 +1,39 @@
+﻿source_system,entity_name,probe_mode,query_used,matched_external_id,matched_external_name,matched_external_inn,matched_external_role,records_total,candidate_rank,included_in_core,note
+lot_online,АО Сбербанк Лизинг,customer_exact,7707009586,7707009586,,7707009586,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,АО Сбербанк Лизинг,organizer_exact,7707009586,7707009586,,7707009586,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,АО Сбербанк Лизинг,title_mentions,Сбербанк Лизинг,,,7707009586,,20,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,АО Сбербанк-АСТ,customer_exact,7707308480,7707308480,,7707308480,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,АО Сбербанк-АСТ,organizer_exact,7707308480,7707308480,,7707308480,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,АО Сбербанк-АСТ,title_mentions,Сбербанк-АСТ,,,7707308480,,20,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,ООО СК Сбербанк Страхование Жизни,customer_exact,7744002123,7744002123,,7744002123,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО СК Сбербанк Страхование Жизни,organizer_exact,7744002123,7744002123,,7744002123,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО СК Сбербанк Страхование Жизни,title_mentions,Сбербанк Страхование Жизни,,,7744002123,,20,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,ООО Сбербанк Капитал,customer_exact,7736581290,7736581290,,7736581290,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк Капитал,organizer_exact,7736581290,7736581290,,7736581290,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк Капитал,title_mentions,Сбербанк Капитал,,,7736581290,,20,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,ООО Сбербанк Факторинг,customer_exact,7802754982,7802754982,,7802754982,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк Факторинг,organizer_exact,7802754982,7802754982,,7802754982,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк Факторинг,title_mentions,Сбербанк Факторинг,,,7802754982,,7,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,ООО Сбербанк-Телеком,customer_exact,7736264044,7736264044,,7736264044,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк-Телеком,organizer_exact,7736264044,7736264044,,7736264044,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк-Телеком,title_mentions,Сбербанк-Телеком,,,7736264044,,15,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,ООО Сбербанк-Технологии.Нойдорф,customer_exact,7819315503,7819315503,,7819315503,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк-Технологии.Нойдорф,organizer_exact,7819315503,7819315503,,7819315503,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Сбербанк-Технологии.Нойдорф,title_mentions,Сбербанк-Технологии,,,7819315503,,20,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,ООО Страховой брокер Сбербанка,customer_exact,7706810730,7706810730,,7706810730,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Страховой брокер Сбербанка,organizer_exact,7706810730,7706810730,,7706810730,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ООО Страховой брокер Сбербанка,title_mentions,Страховой брокер Сбербанка,,,7706810730,,20,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+lot_online,ПАО Сбербанк России,customer_exact,7707083893,7707083893,,7707083893,customer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ПАО Сбербанк России,organizer_exact,7707083893,7707083893,,7707083893,organizer,0,1,False,"Exact INN filter reproduced successfully, but returned zero public rows."
+lot_online,ПАО Сбербанк России,title_mentions,Сбербанк,,,7707083893,,6,1,False,Title search is intentionally excluded from the core mart because it captures many contextual mentions and false positives.
+zakazrf,АО Сбербанк Лизинг,customer_lookup,7707009586,,,7707009586,,0,0,False,No exact customer registry match by INN in the public selector dialog.
+zakazrf,АО Сбербанк-АСТ,customer_exact_notifications,7707308480,202380,"АКЦИОНЕРНОЕ ОБЩЕСТВО ""СБЕРБАНК-АВТОМАТИЗИРОВАННАЯ СИСТЕМА ТОРГОВ""",7707308480,Оператор электронной площадки,0,1,False,"Exact customer resolved, but NotificationEx returned zero public records."
+zakazrf,ООО СК Сбербанк Страхование Жизни,customer_lookup,7744002123,,,7744002123,,0,0,False,No exact customer registry match by INN in the public selector dialog.
+zakazrf,ООО Сбербанк Капитал,customer_lookup,7736581290,,,7736581290,,0,0,False,No exact customer registry match by INN in the public selector dialog.
+zakazrf,ООО Сбербанк Факторинг,customer_lookup,7802754982,,,7802754982,,0,0,False,No exact customer registry match by INN in the public selector dialog.
+zakazrf,ООО Сбербанк-Телеком,customer_lookup,7736264044,,,7736264044,,0,0,False,No exact customer registry match by INN in the public selector dialog.
+zakazrf,ООО Сбербанк-Технологии.Нойдорф,customer_lookup,7819315503,,,7819315503,,0,0,False,No exact customer registry match by INN in the public selector dialog.
+zakazrf,ООО Страховой брокер Сбербанка,customer_exact_notifications,7706810730,544394,"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ""СТРАХОВОЙ БРОКЕР СБЕРБАНКА""",7706810730,"Заказчик, осуществляющий закупку на проведение обязательного аудита;IS - Оператор информационной системы, взаимодействующей с ЕИС",0,1,False,"Exact customer resolved, but NotificationEx returned zero public records."
+zakazrf,ПАО Сбербанк России,customer_exact_notifications,7707083893,2384,"ОАО ""Сбербанка России"" Октябрьское отделение № 4676",7707083893,Заказчик,0,1,False,"Exact customer resolved, but NotificationEx returned zero public records."
+zakazrf,ПАО Сбербанк России,customer_exact_notifications,7707083893,465053,"ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО ""СБЕРБАНК РОССИИ""",7707083893,Банк,0,2,False,"Exact customer resolved, but NotificationEx returned zero public records."
+zakazrf,ПАО Сбербанк России,customer_exact_notifications,7707083893,471142,"филиал Открытого акционерного общества ""Сбербанк России"" - Ульяновское отделение № 8588",7707083893,,0,3,False,"Exact customer resolved, but NotificationEx returned zero public records."

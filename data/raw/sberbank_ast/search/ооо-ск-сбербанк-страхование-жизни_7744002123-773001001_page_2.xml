@@ -1,0 +1,42 @@
+<datarow>
+  <total>
+    <value>21</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>dd26cccb-47cf-4be6-88b0-7de420625e82</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №120665706 от покупателя ООО СК "СБЕРБАНК СТРАХОВАНИЕ ЖИЗНИ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>120665706</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/dd26cccb-47cf-4be6-88b0-7de420625e82</objectHrefTerm>
+      <OrgName>ООО СК "СБЕРБАНК СТРАХОВАНИЕ ЖИЗНИ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>24.09.2024 13:10</RequestStartDate>
+      <EndDate>27.09.2024</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>27.09.2024 16:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка самоспасателей изолирующих противопожарных СИП-1М (или аналог)</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>120665706</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.09.2024 13:10</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1727183400000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

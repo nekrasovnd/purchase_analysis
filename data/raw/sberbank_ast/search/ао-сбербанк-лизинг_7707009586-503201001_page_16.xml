@@ -1,0 +1,805 @@
+<datarow>
+  <total>
+    <value>701</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>61a25ea4-a383-4836-9c0f-ddb46517b7c5</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №100315525 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>100315525</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/61a25ea4-a383-4836-9c0f-ddb46517b7c5</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>20.03.2025 17:17</RequestStartDate>
+      <EndDate>26.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.03.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка продовольственных товаров (чай, кофе, сахар, соль) для нужд Среднерусского регионального филиала АО "Сбербанк Лизинг" в г. Москве</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>100315525</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.03.2025 17:17</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1742491020000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2877341</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2877341</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>29.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>29.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503200004.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>20.03.2025 09:23</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Грузовик легкий 2824LN, 2023, Идентификационный номер: XU42824LNP3000095</BidName>
+      <purchCodeTerm>SBR065-2503200004.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2884785</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>20.03.2025 10:00</RequestStartDate>
+      <EndDate>30.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Грузовик легкий 2824LN, 2023, Идентификационный номер: XU42824LNP3000095), находящегося по адресу: Республика Бурятия, г. Улан-Удэ, ул. Чертенкова, д. 71, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>2978000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742462580000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2877339</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2877339</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>29.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>29.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503200003.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>20.03.2025 09:22</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специальный, автобетоносмеситель 5814Z9, 2023, Идентификационный номер: X6S5814Z9P0001750</BidName>
+      <purchCodeTerm>SBR065-2503200003.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2884783</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>20.03.2025 10:00</RequestStartDate>
+      <EndDate>30.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специальный, автобетоносмеситель 5814Z9, 2023, Идентификационный номер: X6S5814Z9P0001750), находящегося по адресу: Республика Татарстан, г. Казань, микр. Кадышево, ул. Новая, д. 8/1, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>4313000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1742462520000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2877334</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2877334</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>29.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>29.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503200001.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>20.03.2025 09:21</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал FAW J6, 2022, Идентификационный номер: LFWMXXRX4P1F00227</BidName>
+      <purchCodeTerm>SBR065-2503200001.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2884778</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>20.03.2025 10:00</RequestStartDate>
+      <EndDate>30.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал FAW J6, 2022, Идентификационный номер: LFWMXXRX4P1F00227), находящегося по адресу: Самарская область, Самара, ул. Утевская, д. 30, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>4550000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742462460000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2877336</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2877336</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>29.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>29.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503200002.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>20.03.2025 09:21</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал FAW J6, 2022, Идентификационный номер: LFWMXXRX0P1F00225</BidName>
+      <purchCodeTerm>SBR065-2503200002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2884780</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>20.03.2025 10:00</RequestStartDate>
+      <EndDate>30.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал FAW J6, 2022, Идентификационный номер: LFWMXXRX0P1F00225), находящегося по адресу: Самарская область, Самара, ул. Утевская, д. 30, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>4722000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742462460000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>7e1e95f2-ea22-40c4-8aa6-74cbfe384628</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №124861610 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>124861610</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/7e1e95f2-ea22-40c4-8aa6-74cbfe384628</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>19.03.2025 17:09</RequestStartDate>
+      <EndDate>25.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>25.03.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка расходных материалов  для специализированного печатающего оборудования</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>124861610</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.03.2025 17:09</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1742404140000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2875846</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2875846</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>28.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>28.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503190004.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.03.2025 09:26</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, рефрижератор ТОНАР 97861, 2023, Идентификационный номер: X0T978610P0003281</BidName>
+      <purchCodeTerm>SBR065-2503190004.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2880543</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>19.03.2025 10:00</RequestStartDate>
+      <EndDate>29.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, рефрижератор ТОНАР 97861, 2023, Идентификационный номер: X0T978610P0003281), находящегося по адресу: Московская область, Ногинский р-н, дер. Тимохово, ул. Совхозная, 25, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>6393000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742376360000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2875849</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2875849</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>28.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>28.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503190005.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.03.2025 09:26</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал FAW J6, 2023, Идентификационный номер: LFWKVXRP0P1F04580</BidName>
+      <purchCodeTerm>SBR065-2503190005.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2880546</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>19.03.2025 10:00</RequestStartDate>
+      <EndDate>29.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал FAW J6, 2023, Идентификационный номер: LFWKVXRP0P1F04580), находящегося по адресу: Московская область, Ногинский р-н, дер. Тимохово, ул. Совхозная, 25, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>4100000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1742376360000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2875843</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2875843</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>28.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>28.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503190003.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.03.2025 09:25</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Седельный тягач SITRAK ZZ4186V361HE, 2023, Идентификационный номер: LZZ7CCWD3PC612400</BidName>
+      <purchCodeTerm>SBR065-2503190003.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2880540</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>19.03.2025 10:00</RequestStartDate>
+      <EndDate>29.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Седельный тягач SITRAK ZZ4186V361HE, 2023, Идентификационный номер: LZZ7CCWD3PC612400), находящегося по адресу: Московская область, Ногинский р-н, дер. Тимохово, ул. Совхозная, 25, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>5199000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1742376300000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2875840</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2875840</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>28.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>28.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503190001.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.03.2025 09:24</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX331863366, 2023, Идентификационный номер: LZGJX4Z61PX012263</BidName>
+      <purchCodeTerm>SBR065-2503190001.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2880537</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>19.03.2025 10:00</RequestStartDate>
+      <EndDate>29.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX331863366, 2023, Идентификационный номер: LZGJX4Z61PX012263), находящегося по адресу: Ростовская область, г. Аксай, ул. Промышленная, 5в, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>4595000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742376240000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2875842</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2875842</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>28.05.2025 09:59</RequestAcceptDate>
+      <RequestDate>28.05.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503190002.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.03.2025 09:24</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, полуприцеп изотермический ТОНАР 97861, 2023, Идентификационный номер: X0T978610P0002929</BidName>
+      <purchCodeTerm>SBR065-2503190002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2880539</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>19.03.2025 10:00</RequestStartDate>
+      <EndDate>29.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, полуприцеп изотермический ТОНАР 97861, 2023, Идентификационный номер: X0T978610P0002929), находящегося по адресу: Московская область, Ногинский р-н, дер. Тимохово, ул. Совхозная, 25, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>3772000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742376240000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2874274</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2874274</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>14.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503180006.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.03.2025 09:15</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Агрегат бороновальный АБ-18, 2022, Идентификационный номер: 220112</BidName>
+      <purchCodeTerm>SBR065-2503180006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2876491</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>18.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи сельскохозяйственной техники (Агрегат бороновальный АБ-18, 2022, Идентификационный номер: 220112), находящейся по адресу: Новосибирская область, г. Новосибирск, ул. Дукача, д. 10/1, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>470000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742289300000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2874269</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2874269</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>14.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503180004.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.03.2025 09:14</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX33186V366, 2022, Идентификационный номер: LZGJX4V6XNX044938</BidName>
+      <purchCodeTerm>SBR065-2503180004.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2876486</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>18.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX33186V366, 2022, Идентификационный номер: LZGJX4V6XNX044938), находящегося по адресу: Амурская область, Благовещенский район, с. Владимировка, ул. Центральная, д. 73/3, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>4496000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742289240000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2874272</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2874272</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>14.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503180005.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.03.2025 09:14</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Седельный тягач FAW CA4180P77K25E5, 2023, Идентификационный номер: LFWNHXSD0P1H01267</BidName>
+      <purchCodeTerm>SBR065-2503180005.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2876489</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>18.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Седельный тягач FAW CA4180P77K25E5, 2023, Идентификационный номер: LFWNHXSD0P1H01267), находящегося по адресу: Московская область, Солнечногорский р-н, п. 2-ая Смирновка, Ленинградское шоссе, 71 км., принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>3957000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742289240000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2874268</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Отменен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2874268</CreateRequestHrefTerm>
+      <BidStatusName>Отменен(-а)</BidStatusName>
+      <RequestAcceptDate>14.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>14.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503180003.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.03.2025 09:13</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX33186V366, 2022, Идентификационный номер: LZGJX4V69NX036684</BidName>
+      <purchCodeTerm>SBR065-2503180003.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2876485</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>18.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX33186V366, 2022, Идентификационный номер: LZGJX4V69NX036684), находящегося по адресу: Амурская область, Благовещенский район, с. Владимировка, ул. Центральная, д. 73/3, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>4637000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Отменен(-а)</UnitedStateName>
+    </_source>
+    <sort>1742289180000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2874265</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2874265</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>14.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503180002.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.03.2025 09:12</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX33186V366, 2023, Идентификационный номер: LZGJX4V67PX030563</BidName>
+      <purchCodeTerm>SBR065-2503180002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2876482</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>18.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX33186V366, 2023, Идентификационный номер: LZGJX4V67PX030563), находящегося по адресу: Амурская область, Благовещенский район, с. Владимировка, ул. Центральная, д. 73/3, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>5432000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742289120000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2872785</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2872785</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>13.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>13.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503170005.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.03.2025 09:49</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T66NX03</BidName>
+      <purchCodeTerm>SBR065-2503170005.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2872890</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T66NX034426), находящегося по адресу: Челябинская область, г. Челябинск, Свердловский тракт, 3д/2, принадлежащего АО «Сбербанк Лизинг»</purchName>
+      <purchAmount>4269000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742204940000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2872781</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Отменен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2872781</CreateRequestHrefTerm>
+      <BidStatusName>Отменен(-а)</BidStatusName>
+      <RequestAcceptDate>13.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>13.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503170004.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.03.2025 09:48</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T68NX034427</BidName>
+      <purchCodeTerm>SBR065-2503170004.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2872885</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T68NX034427), находящегося по адресу: Челябинская область, г. Челябинск, Свердловский тракт, 3д/2, принадлежащего АО «Сбербанк Лизинг»</purchName>
+      <purchAmount>4241000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Отменен(-а)</UnitedStateName>
+    </_source>
+    <sort>1742204880000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2872780</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2872780</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>13.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>13.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503170003.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.03.2025 09:48</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T69NX038227</BidName>
+      <purchCodeTerm>SBR065-2503170003.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2872884</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T69NX038227), находящегося по адресу: Новосибирская область, г. Новосибирск, ул. Дукача, д. 10/1, принадлежащего АО «Сбербанк Лизинг»</purchName>
+      <purchAmount>3949000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742204880000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2872778</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/2872778</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>13.09.2025 09:59</RequestAcceptDate>
+      <RequestDate>13.09.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2503170002.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.03.2025 09:47</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T64NX038216</BidName>
+      <purchCodeTerm>SBR065-2503170002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/2872882</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.03.2025 10:00</RequestStartDate>
+      <EndDate>15.09.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Специализированный, автомобиль - самосвал SHACMAN SX33186T366, 2022, Идентификационный номер: LZGJX4T64NX038216), находящегося по адресу: Новосибирская область, г. Новосибирск, ул. Дукача, д. 10/1, принадлежащего АО «Сбербанк Лизинг»</purchName>
+      <purchAmount>3495000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1742204820000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

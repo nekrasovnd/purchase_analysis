@@ -1,0 +1,788 @@
+<datarow>
+  <total>
+    <value>239</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2836630</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2836630</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.05.2025 15:00</RequestAcceptDate>
+      <RequestDate>12.05.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2502100009.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>10.02.2025 14:49</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право заключения договора купли-продажи земельного участка площадью 731 963 кв.м., расположенного по адресу: Воронежская область, г. Воронеж, ул. Тепличная, 1.</BidName>
+      <purchCodeTerm>SBR065-2502100009.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2756744</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>10.02.2025 15:00</RequestStartDate>
+      <EndDate>14.05.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 731 963 кв.м., расположенного по адресу: Воронежская область, г. Воронеж, ул. Тепличная, 1, принадлежащего СПК «Воронежский тепличный комбинат»</purchName>
+      <purchAmount>2000000000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739198940000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821510</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821510</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к 36 лицам</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>171857.78</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821511</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821511</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.3</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к АО «Газпром газораспределение Ярославль» (ИНН 7604012347)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.3</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>9669.38</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>3</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821512</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821512</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.4</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «Град М-строй» (ИНН 7705326558)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.4</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>16250</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>4</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821513</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821513</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.5</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ИП Астанин Сергей Владимирович (ИНН 760705041275)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.5</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>10625</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>5</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821514</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821514</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.6</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ЗАО  «Ростовагропромсервис» (ИНН 7609001758)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.6</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>17313.75</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>6</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821515</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821515</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.7</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «Спецстройинвест» (ИНН 7606076603)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.7</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>13036.91</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>7</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821516</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821516</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.8</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «ХайТек Фасад» (ИНН 7604226395)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.8</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>77384.7</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>8</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821517</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821517</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.9</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «Электродел» (ИНН 5036100826)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.9</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>37231.25</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>9</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821518</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821518</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.11</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «Град М-строй» (ИНН 7705326558)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.11</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>11625</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>11</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821519</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821519</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.12</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «Магистраль» (ИНН 6325045051)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.12</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>18168.79</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>12</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821520</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821520</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.13</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к АСДОР-Азия (Рег. номер: 25554-3300-ООО (ИУ))</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.13</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>178634.55</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>13</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821521</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821521</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.14</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «Объединенные заводы» (ИНН 7723667832)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.14</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>97331.72</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>14</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821522</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821522</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.15</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к АО «Управление механизации №63» (ИНН 5053013700)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.15</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>97531.11</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>15</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821523</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821523</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.16</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к Спесивцеву Сергею Анатольевичу (ИНН 500504245821)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.16</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>62500</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>16</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821524</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821524</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.17</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ООО «Стэн-Строй» (ИНН 5056002714)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.17</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>46250</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>17</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821525</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16745748</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821525</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240024-0.18</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 16:01</PublicDate>
+      <IntegratorCodeTerm>16745748</IntegratorCodeTerm>
+      <BidName>Права требования к ИП Ковалеву Вячеславу Николаевичу (ИНН 672900075356)</BidName>
+      <purchCodeTerm>SBR013-2501240024-0.18</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708732</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по продаже прав требований ОАО "АСДОР"</purchName>
+      <purchAmount>51051.63</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734460000</sort>
+    <sort>18</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2821497</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16754915</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2821497</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.03.2025 00:00</RequestAcceptDate>
+      <RequestDate>14.03.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501240022-0.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.01.2025 15:55</PublicDate>
+      <IntegratorCodeTerm>16754915</IntegratorCodeTerm>
+      <BidName>Право аренды земельного участка с кадастровым номером: 76:02:012701:13; общая площадь: 36 000 кв.м., срок аренды: с 24.11.2016 г. по 24.11.2065 г., Вид – здание (проходная АБЗ), назначение: нежилое; площадь: 48,6 кв. м.; кадастровый номер: 76:02:010101:178</BidName>
+      <purchCodeTerm>SBR013-2501240022-0.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2708625</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>27.01.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Публичное предложение по реализации имущества ОАО "АСДОР" (ЯО)</purchName>
+      <purchAmount>63338.13</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737734100000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2814344</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16625250</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2814344</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>05.04.2025 00:00</RequestAcceptDate>
+      <RequestDate>05.04.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501170001-1.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.01.2025 09:04</PublicDate>
+      <IntegratorCodeTerm>16625250</IntegratorCodeTerm>
+      <BidName>Право аренды 10 земельных участков, имеющих кадастровые номера: 90:07:210201:209; 90:07:210201:210; 90:07:040401:385; 90:07:040401:386; 90:07:040401:387; 90:07:040401:388; 90:07:040401:389; 90:07:040401:390; 90:07:040401:391; 90:04:040401:78; - ветроэнергетические установки FL 2500 №№ 211-220 с оборудованием в количестве 10 шт. (залог ООО «КапиталЮгИнвест»); - оборудование на Останинской ВЭС (КРУМ-35) (залог ООО «КапиталЮгИнвест»);- транспортное средство - УАЗ PATRIOT АВАНТЮРИН МЕТАЛЛИК VIN XTT316300F1000958, ГРЗ: А553УЕ82;- оргтехника, мебель, ТМЦ - 129 позиций</BidName>
+      <purchCodeTerm>SBR013-2501170001-1.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2689593</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>20.01.2025 00:00</RequestStartDate>
+      <EndDate>07.04.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Открытые торги в форме публичного предложения по продаже имущества ООО «Ветряной парк Керченский»</purchName>
+      <purchAmount>655972717</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737104640000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>2814345</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Открытое публичное предложение</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>16625250</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/15/3/0/2814345</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>05.04.2025 00:00</RequestAcceptDate>
+      <RequestDate>05.04.2025 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2501170001-1.2</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.01.2025 09:04</PublicDate>
+      <IntegratorCodeTerm>16625250</IntegratorCodeTerm>
+      <BidName>Право аренды 41 земельного участка, находящихся по адресу: Республика Крым, Ленинский район, Марфовский сельский совет</BidName>
+      <purchCodeTerm>SBR013-2501170001-1.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/15/0/0/2689593</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>20.01.2025 00:00</RequestStartDate>
+      <EndDate>07.04.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Открытые торги в форме публичного предложения по продаже имущества ООО «Ветряной парк Керченский»</purchName>
+      <purchAmount>2099676.5</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1737104640000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

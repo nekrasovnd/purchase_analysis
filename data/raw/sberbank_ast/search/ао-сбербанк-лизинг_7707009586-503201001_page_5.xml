@@ -1,0 +1,731 @@
+<datarow>
+  <total>
+    <value>701</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>17d73d56-0197-45b0-ac9a-aae07de5c360</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №108305899 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>108305899</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/17d73d56-0197-45b0-ac9a-aae07de5c360</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>29.09.2025 16:10</RequestStartDate>
+      <EndDate>03.10.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>03.10.2025 10:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Оказание услуг по  оценке рыночной стоимости восстановительного ремонта недвижимого имущества АО Сбербанк Лизинг г. Санкт-Петербург</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>108305899</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>29.09.2025 16:10</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1759162200000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>86e7a850-078c-4850-b8d8-dcbc067b1972</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №97501503 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>97501503</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/86e7a850-078c-4850-b8d8-dcbc067b1972</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>23.09.2025 16:55</RequestStartDate>
+      <EndDate>26.09.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.09.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>закупка кофемашины для Оренбургского филиала АО Сбербанк Лизинг</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>97501503</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>23.09.2025 16:55</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1758646500000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>04a4f12a-0b87-435f-9c3a-a04a135265cb</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №86840010 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>86840010</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/04a4f12a-0b87-435f-9c3a-a04a135265cb</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>19.09.2025 08:22</RequestStartDate>
+      <EndDate>25.09.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>25.09.2025 14:30</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка канцелярских и хозяйственных товаров для нужд Поволжского регионального филиала АО «Сбербанк Лизинг» в г. Самара</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>86840010</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.09.2025 08:22</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1758270120000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>8a9f6ab2-a191-40de-83f4-236fb708f5de</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №111388569 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>111388569</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/8a9f6ab2-a191-40de-83f4-236fb708f5de</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>17.09.2025 05:01</RequestStartDate>
+      <EndDate>24.09.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>24.09.2025 09:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Срочно! Услуги по проведению ежедневной комплексной уборки помещений для нужд Байкальского регионального филиала АО «Сбербанк Лизинг».</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>111388569</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>17.09.2025 05:01</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1758085260000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>493a1cda-d77d-4ae6-a861-9e9c4206a10a</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №41836594 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>41836594</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/493a1cda-d77d-4ae6-a861-9e9c4206a10a</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>13.08.2025 18:40</RequestStartDate>
+      <EndDate>15.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>15.08.2025 10:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка продуктов питания (пирожное капкейк)</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>41836594</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.08.2025 18:40</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1755110400000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>479433ac-8934-49de-985a-732b1de031f8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №73546136 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>73546136</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/479433ac-8934-49de-985a-732b1de031f8</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>13.08.2025 11:38</RequestStartDate>
+      <EndDate>18.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>18.08.2025 12:36</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>1. Оказание услуг по организации спортивного командообразующего мероприятия –турнир по стрельбе для нужд Поволжского регионального филиала АО «Сбербанк Лизинг».г. Самара</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>73546136</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.08.2025 11:38</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1755085080000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>229c5d3f-f596-41f4-92d5-aaf0574e10a5</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №127677288 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>127677288</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/229c5d3f-f596-41f4-92d5-aaf0574e10a5</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>12.08.2025 19:04</RequestStartDate>
+      <EndDate>22.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>22.08.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Услуги по уничтожению документов, содержащих конфиденциальную информацию, в г. Воронеже для нужд АО «Сбербанк Лизинг».</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>127677288</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>12.08.2025 19:04</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1755025440000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>cf461c44-2fd6-4d89-b717-aba43c312fcf</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №111580011 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>111580011</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/cf461c44-2fd6-4d89-b717-aba43c312fcf</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>12.08.2025 19:00</RequestStartDate>
+      <EndDate>22.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>22.08.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка услуг по уничтожению документов, содержащих конфиденциальную информацию, в г. Воронеже для нужд АО «НОРД».</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>111580011</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>12.08.2025 19:00</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1755025200000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>a1fdb69a-b571-48c8-9945-4abf6cc3bf94</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №3953473 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>3953473</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/a1fdb69a-b571-48c8-9945-4abf6cc3bf94</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>12.08.2025 18:55</RequestStartDate>
+      <EndDate>22.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>22.08.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Услуги по уничтожению документов, содержащих конфиденциальную информацию, в г. Воронеже для нужд АО «Сбербанк Лизинг».</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>3953473</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>12.08.2025 18:55</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1755024900000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>592a4ea2-8d08-44a9-ba21-d25a48d8bf56</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №67006568 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>67006568</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/592a4ea2-8d08-44a9-ba21-d25a48d8bf56</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>11.08.2025 11:42</RequestStartDate>
+      <EndDate>15.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>15.08.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка услуг по организации и проведению тренировок по волейболу для сотрудников</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>67006568</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>11.08.2025 11:42</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1754912520000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>af28eced-79b4-4558-9592-791761f5e38e</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №96556890 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>96556890</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/af28eced-79b4-4558-9592-791761f5e38e</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>11.08.2025 11:27</RequestStartDate>
+      <EndDate>15.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>15.08.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Услуги по организации и проведению тренировок по бегу для сотрудников</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>96556890</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>11.08.2025 11:27</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1754911620000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>637c2460-8011-405e-a702-e19b9f7045a8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №8989082 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>8989082</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/637c2460-8011-405e-a702-e19b9f7045a8</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>08.08.2025 10:01</RequestStartDate>
+      <EndDate>13.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>13.08.2025 09:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка продуктов в г.Москва, ул. Поклонная д3.  (АО "Сбербанк Лизинг")</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>8989082</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>08.08.2025 10:01</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1754647260000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>3c9239a5-8bf1-4fbb-9849-800ee1999541</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №122314324 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>122314324</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/3c9239a5-8bf1-4fbb-9849-800ee1999541</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>05.08.2025 09:34</RequestStartDate>
+      <EndDate>08.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>08.08.2025 09:30</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Услуги по организации развлекательной программы на корпоративном мероприятии для нужд Центрально-Черноземного регионального филиала АО "Сбербанк Лизинг".</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>122314324</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>05.08.2025 09:34</PublicDate>
+      <purchAmount>373500</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1754386440000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>5ea413be-33d7-4a6b-a6ed-fccf5fbb522c</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №112946838 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>112946838</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/5ea413be-33d7-4a6b-a6ed-fccf5fbb522c</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>04.08.2025 06:37</RequestStartDate>
+      <EndDate>07.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>07.08.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Оказание услуг по организации и проведению производственного мероприятия для нужд Юго-Западного регионального филиала АО «Сбербанк Лизинг» в г. Ростов-на-Дону</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>112946838</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>04.08.2025 06:37</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1754289420000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>8ba5e323-33a5-4e30-87bb-7a8b8b69bb72</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №49188119 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>49188119</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/8ba5e323-33a5-4e30-87bb-7a8b8b69bb72</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>01.08.2025 17:16</RequestStartDate>
+      <EndDate>07.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>07.08.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка расходных материалов для компьютерной техники</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>49188119</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>01.08.2025 17:16</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1754068560000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>fd9481a9-ea7c-462e-98f9-b29eb7a2938d</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №61504798 от покупателя АО "СБЕРБАНК ЛИЗИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>61504798</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/fd9481a9-ea7c-462e-98f9-b29eb7a2938d</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК ЛИЗИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>31.07.2025 15:12</RequestStartDate>
+      <EndDate>05.08.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>05.08.2025 10:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка товара (Ковровая плитка)</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>61504798</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>31.07.2025 15:12</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1753974720000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3023667</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/3023667</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>09.10.2025 09:59</RequestAcceptDate>
+      <RequestDate>09.10.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2507310006.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.07.2025 09:37</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Полуприцеп - контейнеровоз ТОНАР 9989, 2023, Идентификационный номер: X0T998900P0001307</BidName>
+      <purchCodeTerm>SBR065-2507310006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/3296438</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.07.2025 10:00</RequestStartDate>
+      <EndDate>10.10.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Полуприцеп - контейнеровоз ТОНАР 9989, 2023, Идентификационный номер: X0T998900P0001307), находящегося по адресу Ростовская область, г. Аксай, ул. Промышленная, 5в, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>2321000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1753954620000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3023639</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/3023639</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>09.10.2025 09:59</RequestAcceptDate>
+      <RequestDate>09.10.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2507310005.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.07.2025 09:32</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Полуприцеп изотермический CTTM CARGOLINE 972200-10.00.00.000, 2023, Идентификационный номер: XD2972200P9000880</BidName>
+      <purchCodeTerm>SBR065-2507310005.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/3296425</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.07.2025 10:00</RequestStartDate>
+      <EndDate>10.10.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Полуприцеп изотермический CTTM CARGOLINE 972200-10.00.00.000, 2023, Идентификационный номер: XD2972200P9000880), находящегося по адресу Челябинская область, г. Челябинск, Свердловский тракт, 3д/2, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>5492000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1753954320000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3023624</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/3023624</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>09.10.2025 09:59</RequestAcceptDate>
+      <RequestDate>09.10.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2507310004.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.07.2025 09:29</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Полуприцеп изотермический CTTM CARGOLINE 972200-10.00.00.000, 2023, Идентификационный номер: XD2972200P9000881</BidName>
+      <purchCodeTerm>SBR065-2507310004.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/3296419</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.07.2025 10:00</RequestStartDate>
+      <EndDate>10.10.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Полуприцеп изотермический CTTM CARGOLINE 972200-10.00.00.000, 2023, Идентификационный номер: XD2972200P9000881), находящегося по адресу Краснодарский край, г. Краснодар, пос. Индустриальный, ул. Им. Безуленко И.В., з/у 15, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>5492000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1753954140000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3023617</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Публичное предложение (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/21/3/0/3023617</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>09.10.2025 09:59</RequestAcceptDate>
+      <RequestDate>09.10.2025 09:59</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2507310003.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.07.2025 09:27</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Полуприцеп изотермический CTTM CARGOLINE 972200-10.00.00.000, 2023, Идентификационный номер: XD2972200P9000846</BidName>
+      <purchCodeTerm>SBR065-2507310003.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/21/0/0/3296418</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.07.2025 10:00</RequestStartDate>
+      <EndDate>10.10.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Публичное предложение на право заключения договора купли-продажи транспортного средства (Полуприцеп изотермический CTTM CARGOLINE 972200-10.00.00.000, 2023, Идентификационный номер: XD2972200P9000846), находящегося по адресу Ростовская область, р-н Мясниковский, хутор Калинин, ж/д станция Хапры на земельном участке с  к. н. 61:25:0601001:1130, принадлежащего АО «Сбербанк Лизинг».</purchName>
+      <purchAmount>5492000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1753954020000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>
