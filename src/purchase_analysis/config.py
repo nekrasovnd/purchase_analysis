@@ -15,10 +15,10 @@ NOTEBOOKS_DIR = ROOT_DIR / "notebooks"
 class RunConfig:
     date_from: str = "01.01.2024"
     date_to: str = "31.12.2025"
-    max_pages: int = 20
+    max_pages: int = 120
     request_timeout: int = 30
-    max_sberb2b_details: int = 500
-    download_documents_limit: int = 100
+    max_sberb2b_details: int = 1000
+    download_documents_limit: int = 250
     max_document_size_bytes: int = 10_000_000
-    max_sberb2b_api_probes: int = 10
+    max_sberb2b_api_probes: int = 25
     entity_scope_path: Path = CONFIG_DIR / "entity_scope.csv"

@@ -2,6 +2,7 @@ import unittest
 
 from purchase_analysis.clients.sberbank_ast import (
     SberbankAstCustomerCandidate,
+    SberbankAstSearchItem,
     build_request_xml,
     is_procurement_relevant,
     parse_search_items,
@@ -75,6 +76,30 @@ TABLE_XML = """
   </hits>
 </datarow>
 """
+
+
+def make_item(subject: str, platform_section: str = "Торги коммерческих заказчиков") -> SberbankAstSearchItem:
+    return SberbankAstSearchItem(
+        source_system="sberbank_ast",
+        platform_section=platform_section,
+        entity_name="ПАО Сбербанк России",
+        customer_query="ПАО Сбербанк России",
+        procedure_number="SBR028-TEST",
+        lot_number="1",
+        subject=subject,
+        customer_name="ПАО Сбербанк России",
+        region="",
+        status="Завершена",
+        tender_type="Запрос предложений",
+        price_rub=100000.0,
+        deadline_at=None,
+        detail_url="https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/18/0/0/1",
+        tags=platform_section,
+        published_at=None,
+        application_deadline=None,
+        method_name="Запрос предложений",
+        currency="RUB",
+    )
 
 
 class SberbankAstClientTest(unittest.TestCase):
@@ -163,6 +188,20 @@ class SberbankAstClientTest(unittest.TestCase):
             customer_query="ПАО Сбербанк России",
         )[0]
         self.assertFalse(is_procurement_relevant(item))
+
+    def test_filter_excludes_vip_asset_sales_by_subject(self) -> None:
+        item = make_item("Процедура продажи б.у. ИТ оборудования")
+        self.assertFalse(is_procurement_relevant(item))
+
+    def test_filter_keeps_procurements_with_false_positive_words(self) -> None:
+        kept_subjects = [
+            "Поставка канализационной насосной установки Sololift (с измельчителем отходов)",
+            "Оказание услуг по организации розыгрыша, трансляции и реализации тура",
+            "Выполнение работ по предпродажной подготовке, техническому обслуживанию и ремонту автомобилей",
+        ]
+        for subject in kept_subjects:
+            with self.subTest(subject=subject):
+                self.assertTrue(is_procurement_relevant(make_item(subject)))
 
 
 if __name__ == "__main__":

@@ -1,133 +1,238 @@
 # Отчет об инженерной доработке проекта
 
-Дата финального прогона: 2026-06-14.
+Дата финального прогона: `2026-06-14`.
+
+Этот отчет фиксирует не аудит, а фактическое усиление проекта как незавершенного исследования закупок группы Сбер. Главный результат итерации - не механический рост количества строк, а рост количества достоверных закупок, расширение периметра источников, извлечение товаров/документов/участников и документирование технических пределов открытого контура.
 
 ## Краткий итог
 
-Проект доработан из базового сбора закупок до воспроизводимого open-data pipeline с несколькими источниками, проверкой качества, enriched SberB2B-данными, участниками, документами, unit-price benchmark и макрофакторами.
-
 Финальные метрики из `data/reports/quality_summary.json`:
 
-- Юрлиц в scope: 24.
-- Юрлиц с наблюдаемыми лотами: 14.
-- Лотов после дедупликации: 3549.
-- Источники core-лотов: Sberbank-AST - 2933, Roseltorg - 616.
-- Лотов с раскрытой ценой: 2375, покрытие ценой 66.92%.
-- Товарных строк: 5305.
-- Строк с unit price из SberB2B goods API: 2232.
-- Ссылок на документы: 4108.
-- Документов с извлеченным текстом: 150.
-- Извлечено текста: 4002092 символа.
-- Строк участников/продавцов: 616.
-- Подтвержденных победителей: 0, потому что публичный winner/offer endpoint не раскрыт без закрытого доступа.
-- Unit-price benchmark rows: 686.
-- Unit-price anomaly flags: 7.
-- Макродней ЦБ: 613.
-- ИПЦ добавлен и используется в macro diagnostics.
+| Метрика | Значение |
+|---|---:|
+| Юрлиц в scope | 24 |
+| Юрлиц с фактическими lot-строками | 13 |
+| Core-лотов после дедупликации | 1556 |
+| Удалено дублей | 65 |
+| Sberbank-AST core | 940 |
+| Roseltorg core | 616 |
+| Лотов с раскрытой ценой | 382 |
+| Товарных строк | 3331 |
+| Товарных строк с unit price | 2310 |
+| Ссылок на документы | 4147 |
+| Документов с извлеченным текстом | 250 |
+| Символов текста документов | 4328100 |
+| Строк участников/продавцов | 616 |
+| Подтвержденных победителей | 0 |
+| Unit-price benchmark rows | 709 |
+| Unit-price anomaly flags | 7 |
+| Макродней ЦБ | 613 |
 
-## Что было улучшено
+По сравнению со старым README-состоянием проекта:
 
-1. Расширен список компаний группы Сбер
+- scope вырос с 9 до 24 юрлиц;
+- core-витрина выросла с 927 до 1556 лотов, то есть на 629 строк и примерно на 67.9%;
+- появились участники, документы, тексты документов, unit-price строки, hidden API probes, macro diagnostics и LLM-ready пакет;
+- данные стали строже: из Sberbank-AST исключены процедуры продажи/утилизации имущества, которые раньше попадали в закупочный слой.
 
-Scope расширен до 24 юридических лиц и брендов/компаний экосистемы. Для части компаний ИНН подтверждается через ЕИС/AST, для части scope оставлен как candidate-expanded без жесткого присвоения ИНН. Это честнее, чем вручную подставлять непроверенные идентификаторы.
+## Что удалось получить дополнительно
 
-2. Увеличено покрытие источников
+1. Расширенный периметр группы Сбер
 
-Core-слой строится из Sberbank-AST и Roseltorg. ЕИС используется как контрольный слой entity resolution и покрытия 223-ФЗ. ZakazRF и LotOnline оставлены как exact-probe/research-only источники: их запросы воспроизводятся, но ненадежные или пустые результаты не попадают в core.
+`configs/entity_scope.csv` содержит 24 сущности и бренда экосистемы. Для части компаний подтверждены ИНН и внешние ключи через ЕИС/Sberbank-AST, для части сохранен честный candidate-expanded статус без искусственного присвоения ИНН.
 
-3. Исправлена критическая ошибка качества ZakazRF
+2. Достоверный core-слой закупок
 
-До исправления ZakazRF при пустом ИНН возвращал общий справочник клиентов, и чужие закупки могли попадать в core. Теперь кандидаты фильтруются строго по exact-INN. Результат: `zakazrf_core = 0`, а все ZakazRF проверки остаются в `etp_integration_probe.csv`.
+Итоговый `procurement_lots.csv` содержит 1556 строк:
 
-4. Исправлена критическая ошибка качества Roseltorg price parsing
+- 940 из Sberbank-AST;
+- 616 из Roseltorg.
 
-Одна Roseltorg-карточка давала цену порядка `2e24` из-за склейки дублированных числовых фрагментов в HTML. Добавлен money-parser для первого money-like значения и приоритет detail JSON-LD price. Финально max Roseltorg price: 2125525 RUB.
+Sberbank-AST как единый реестр включает не только закупки, но и продажи имущества. В предыдущем расширенном прогоне было 2933 AST-строки, но значительная часть относилась к формулировкам вроде "простая продажа", "процедура продажи б.у. оборудования", "реализация/утилизация имущества". Новый фильтр исключает эти процедуры, но сохраняет реальные закупки с потенциально опасными словами, например "измельчитель отходов", "реализация тура", "предпродажная подготовка".
 
-5. Добавлен SberB2B public-card enrichment
+3. Товары и unit price из скрытого SberB2B API
 
-Для AST-строк с `sberb2b.ru` реализован разбор публичных карточек `need-for-public-page`, извлечение embedded JSON, condition id, customer data, deadline, total price, документов и товарных строк.
+Найден и встроен endpoint:
 
-6. Найден и использован скрытый SberB2B goods API
+```text
+/request/api/{condition_id}/get-from-description-goods-items/customer
+```
 
-Используется endpoint:
+Он дает OKPD2, наименование, количество, единицу измерения, цену за единицу и сумму строки. Это переводит анализ с уровня заголовков лотов на уровень конкретных товаров и услуг.
 
-`/request/api/{condition_id}/get-from-description-goods-items/customer`
+Финальный результат:
 
-Он дает OKPD2, наименование, количество, единицу измерения, цену за единицу и сумму строки. Это самый ценный прирост проекта, потому что позволяет анализировать типовые товары, а не только заголовки лотов.
+- 3331 товарная строка;
+- 2310 строк с unit price;
+- 709 benchmark rows;
+- 7 unit-price anomaly flags.
 
-7. Добавлен retry/backoff для SberB2B
+4. Документы и текст документов
 
-SberB2B иногда отдавал transient `502 Bad Gateway`. После ручной проверки URL повторно открывались. В клиент добавлен retry по 429/500/502/503/504. Это вернуло unit-price coverage до 2232 строк и снизило SberB2B enrichment errors до одного реального 404.
+Собраны:
 
-8. Добавлены документы, извлечение текста и обезличивание
+- 4147 ссылок на документы;
+- 250 скачанных и разобранных документов;
+- 4.33 млн символов извлеченного текста.
 
-Скачивается ограниченный набор документов SberB2B. DOCX разбирается напрямую через Word XML, PDF через текстовый слой при наличии `pypdf`. Email, телефоны и похожие идентификаторы маскируются до записи preview в витрину. Один PDF помечен `ocr_required=True`.
+DOCX разбирается через Word XML, PDF - через текстовый слой при наличии `pypdf`. В preview маскируются email, телефоны, паспортные и похожие идентификаторы. Unsupported/scan-only файлы сохраняются с диагностикой, а не теряются.
 
-9. Добавлены участники/продавцы
+5. Участники/продавцы
 
-Из Roseltorg detail JSON-LD извлекается `offers.seller`. Данные записываются в `procurement_participants.csv` с `evidence_source`. Победители не подменяются продавцами: `winners_total=0`, потому что публичного подтвержденного winner source нет.
+Из Roseltorg detail JSON-LD извлечено 616 строк `seller_from_public_schema`. Они вынесены в `procurement_participants.csv` с evidence source.
 
-10. Добавлен unit-price benchmark и поиск завышенных цен
+Важно: эти seller-строки не подменяют победителей. Победитель фиксируется только при наличии подтвержденного public winner source. Поэтому `winners_total=0` является честным результатом исследования, а не недоработкой в учете.
 
-Построена витрина `mart_unit_price_benchmarks.csv`: benchmark key по OKPD2, единице и нормализованному наименованию, медиана, p75, ratio к медиане, anomaly flag при ratio >= 1.8 и достаточном числе наблюдений.
+6. Внешние факторы
 
-Финальные флаги включают:
+Через данные Банка России добавлены:
 
-- бытовая техника для АО Сбербанк Лизинг: 200000 RUB против медианы 75000 RUB;
-- бумага офисная А3 для ООО Домклик: 724.26 RUB против медианы 362.10 RUB;
-- стол монтажный для ПАО Сбербанк России: 140000 RUB против медианы 70095 RUB;
-- навесные элементы и спортинвентарь для ПАО Сбербанк России;
-- визитные карточки для ООО СберТех.
+- USD/RUB;
+- ключевая ставка;
+- ИПЦ год-к-году;
+- monthly macro join;
+- macro diagnostics с Pearson r и приближенным p-value.
 
-Это shortlist для ручной проверки, а не автоматическое обвинение.
+На текущем покрытии заметный исследовательский сигнал: `lots_count vs avg_usd_rub`, `r = -0.5025`, `p ~= 0.0113`. Интерпретация ограничена открытым покрытием и не является причинным выводом.
 
-11. Добавлены макрофакторы
+## Какие источники были исследованы
 
-К курсу USD/RUB и ключевой ставке ЦБ добавлен ИПЦ год-к-году. Построена `mart_macro_diagnostics.csv` с Pearson r и приближенным p-value через Fisher z.
+| Источник | Статус | Решение |
+|---|---|---|
+| ЕИС | operational | Используется для entity resolution и контрольного 223-ФЗ покрытия |
+| Roseltorg | operational | Используется в core: 616 лотов, документы, seller JSON-LD |
+| Sberbank-AST | operational | Используется в core: 940 закупочных процедур после фильтра out-of-scope |
+| SberB2B public cards | operational enrichment | Товары, unit price, документы, текст документов, API probes |
+| ZakazRF | operational probe-only | Hidden form submit воспроизведен, exact-INN уведомления дают 0 строк |
+| Lot-Online | operational probe-only | `searchServlet` воспроизведен, exact customer/organizer probes дают 0 строк |
+| RTS-Tender | blocked | Из текущего окружения возвращает Anti-DDoS |
+| Tektorg | research_only | Поиск доступен, но точность по юрлицам слабая |
+| ETP GPB | research_only | Страница доступна, plain HTTP не воспроизводит фильтрованные результаты |
+| Банк России | operational | Макрофакторы для аналитики |
 
-Наиболее заметный сигнал: `lots_count vs avg_usd_rub` имеет `r = -0.5665`, `p ~= 0.0032`. Интерпретация ограничена покрытием открытых источников.
+## Что проверено reverse engineering
 
-12. Обновлены SQL DDL/views/marts
+SberB2B:
 
-Добавлены поля и представления для:
+- открытая карточка `request/supplier/preview/<uuid>` редиректит на `needs/<need_id>`;
+- public HTML содержит embedded `need-for-public-page`;
+- goods API по `condition_id` возвращает JSON HTTP 200;
+- browser inspection завершенной карточки не показал `window.Routing`;
+- public page не делает offer/supplier XHR при загрузке;
+- JS bundle содержит route names вроде `need_offer_list`, `need_selected_supplier_list`, `commerce_need_procedure_results_offers_list_api`, `competitive_analysis_list_api`, но public FOS route export не раскрыт;
+- candidate offer/supplier endpoints по `condition_id`, `need_id` и номеру дали 404/403/login redirects;
+- поэтому winner/offer данные не извлекаются без закрытого доступа.
 
-- SberB2B identifiers;
-- unit price;
-- document text;
-- procurement participants;
-- macro inflation;
-- unit-price benchmarks.
+ZakazRF:
 
-13. Обновлен notebook
+- воспроизведены `_orm_PageID`, hidden dialog state и customer selector;
+- exact-INN customer lookup работает;
+- `NotificationEx?Customer=<id>` дает 0 публичных уведомлений для найденных customer ids.
 
-`notebooks/purchase_analysis.ipynb` пересобран через `scripts/build_notebook.py`. В notebook добавлены разделы по документам, участникам, unit-price benchmarks, macro diagnostics и LLM automation.
+Lot-Online:
 
-14. Добавлены тесты
+- найден скрытый `https://tender.lot-online.ru/etp/searchServlet`;
+- воспроизведены exact customer, organizer и title search payloads;
+- exact INN probes дают 0 строк;
+- title search дает много упоминаний, но они слишком шумные для core attribution.
 
-Финальный прогон:
+Playwright/браузер:
 
-`PYTHONPATH=src python -m unittest discover -s tests`
+- CLI Playwright проверен через `npx.cmd`, так как `npx.ps1` блокируется PowerShell execution policy;
+- встроенный браузер использован для проверки SberB2B public page, ресурсов и отсутствия публичного route map.
 
-Результат: 19 tests OK.
+## Какие гипотезы добавлены
 
-## За какие дополнительные баллы это работает
+1. Asset-sale contamination в Sberbank-AST
 
-- Больше данных: 3549 core-лотов, 5305 item rows, 4108 документов.
-- Несколько источников: AST, Roseltorg, ЕИС, SberB2B, ZakazRF probe, LotOnline probe.
-- Глубина reverse engineering: SberB2B embedded Vue JSON и hidden goods API; LotOnline searchServlet probes; ZakazRF hidden form dialog.
-- Качество данных: strict ZakazRF exact-INN, Roseltorg price sanity, дедупликация, source assessment.
-- Entity resolution: scope расширен до 24, фиксация resolved_inn и coverage per source.
-- Участники: 616 seller rows с evidence source.
-- Документы: 150 extracted documents, PII masking, OCR-required flag.
-- Аналитика типовых товаров: unit-price benchmark и 7 anomaly flags.
-- Макроанализ: USD, ключевая ставка, ИПЦ, корреляции и p-value.
-- LLM-ready контур: `llm_prompt_pack.md` содержит quality summary, source assessment, anomalies, unit-price flags и document extracts.
+Гипотеза подтвердилась. Единый AST-реестр смешивает закупки и продажи имущества. Без фильтра продажи б.у. оборудования и доходной утилизации искажают price coverage, anomalies и category mix.
 
-## Ограничения, которые нужно честно проговорить на защите
+2. SberB2B goods API как главный источник типовых товаров
 
-- `winners_total=0`: публичные SberB2B карточки и Roseltorg JSON-LD не дают надежного winner source без авторизации.
-- Roseltorg `seller` не равен победителю, поэтому он вынесен как `seller_from_public_schema`.
-- Некоторые компании expanded scope не имеют подтвержденного ИНН в открытом резолвинге. Они остаются в coverage/audit, но не форсируются в core.
-- LotOnline title search дает возможные упоминания, но слишком шумен для core.
-- ZakazRF технически воспроизведен, но в core не включен из-за строгого exact-INN контроля.
-- Unit-price anomaly flag является shortlist для эксперта, а не юридическим выводом о завышении.
+Гипотеза подтвердилась. Hidden API дает unit price и OKPD2, что позволяет строить benchmark не по заголовкам, а по строкам товаров.
+
+3. Победители скрыты за авторизованным контуром
+
+Гипотеза частично подтвердилась технически: JS route names есть, но public route map/XHR/endpoints не раскрываются. Открытые данные дают sellers/participants, но не надежный winner status.
+
+4. Title search на альтернативных ЭТП слишком шумный
+
+Подтверждено для Lot-Online: title_mentions дают строки, но exact customer/organizer probes пустые. В core оставлены только источники с точной атрибуцией.
+
+5. Unit-price outliers лучше защищать как shortlist
+
+Подтверждено: 7 флагов дают практичный список для ручной проверки, но не юридический вывод о завышении.
+
+6. Макрофакторы полезны как exploratory layer
+
+Добавлены USD/RUB, ставка ЦБ и ИПЦ. Сигналы есть, но требуют осторожной интерпретации из-за неполного открытого покрытия.
+
+## Примеры unit-price flags
+
+| Компания | Предмет | Unit price | Медиана | Ratio |
+|---|---|---:|---:|---:|
+| АО Сбербанк Лизинг | Бытовая техника для ДВРФ | 200000 | 75000 | 2.67 |
+| ООО Домклик | Бумага офисная А3 | 724.26 | 362.10 | 2.00 |
+| ПАО Сбербанк России | Стол монтажный | 140000 | 70095 | 2.00 |
+| ПАО Сбербанк России | Лоток навесной на экран | 55600 | 28925 | 1.92 |
+| ПАО Сбербанк России | Комплект блинов Barbel | 22128.07 | 11861.52 | 1.87 |
+| ПАО Сбербанк России | Крючок навесной на экран | 2250 | 1220 | 1.84 |
+| ООО СберТех | Визитные карточки | 14930 | 8215 | 1.82 |
+
+## Насколько выросло покрытие данных
+
+Относительно старого README-состояния:
+
+- scope: 9 -> 24 юрлица;
+- lots: 927 -> 1556;
+- duplicates removed: 2 -> 65;
+- documents: из metadata-only подхода до 4147 ссылок и 250 текстов;
+- participants: с отсутствующего слоя до 616 строк;
+- unit-price: с отсутствующего слоя до 2310 строк;
+- macro: USD/RUB + key rate дополнены ИПЦ и diagnostics;
+- источники: от 3 рабочих источников до 3 core/enrichment источников плюс 2 reproducible probe adapters и 3 исследованных ограничения.
+
+Относительно промежуточного "много строк" прогона:
+
+- AST core: 2933 -> 940;
+- уменьшение является улучшением качества, потому что исключены out-of-scope продажи/утилизации имущества;
+- Roseltorg, SberB2B goods, документы, тексты, participants и macro layers сохранены.
+
+## Какие новые баллы это может дать на защите
+
+- Data collection: больше источников, больше юрлиц, больше raw evidence, reproducible probes.
+- Data engineering: устойчивый ETL, retry/backoff, graceful handling нестабильного ЕИС, UTF-8 BOM CSV, PostgreSQL DDL/views/marts.
+- OSINT/reverse engineering: hidden APIs ZakazRF, Lot-Online, SberB2B, анализ JS bundle и browser network.
+- Data quality: строгий entity resolution, exact-INN контроль, фильтр AST asset-sale, дедупликация, price sanity.
+- Procurement analytics: category mix, YoY, monthly activity, anomalies, unit-price benchmarks.
+- Document intelligence: скачивание документов, DOCX/PDF extraction, PII masking, OCR-required diagnostics.
+- Participants/winners: участники извлечены, победители не сфабрикованы; техническое доказательство ограничения сохранено.
+- Macro analytics: USD/RUB, ставка ЦБ, ИПЦ, correlation diagnostics.
+- LLM readiness: `llm_prompt_pack.md` дает компактный контекст для аналитической записки без ручной сборки таблиц.
+- Защитная позиция: проект честно показывает, где открытые данные закончились и где нужны закрытые доступы.
+
+## Оставшиеся ограничения
+
+- Полные winner/offer данные SberB2B, вероятно, требуют авторизованного доступа.
+- RTS-Tender блокируется Anti-DDoS из текущего окружения.
+- Tektorg и ETP GPB требуют более дорогого browser-side request discovery, а не простого HTTP.
+- OCR для scan-only PDF не развернут на весь корпус, потому что это даст заметные вычислительные затраты и риск PII без отдельного контура.
+- Market-price comparison пока построен на внутренних unit-price медианах, а не на закрытых каталогах или коммерческих прайсах.
+
+## Проверка
+
+Выполнено:
+
+```powershell
+$env:PYTHONPATH='src'; python -m unittest discover -s tests -v
+```
+
+Результат: `21 tests OK`.
+
+Финальный полный прогон:
+
+```powershell
+$env:PYTHONPATH='src'; python -m purchase_analysis.cli run-all
+```
+
+Результат сохранен в `data/reports/quality_summary.json`, `data/curated/*.csv`, `notebooks/purchase_analysis.ipynb`.

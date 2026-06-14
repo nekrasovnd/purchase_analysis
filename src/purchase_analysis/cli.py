@@ -10,14 +10,15 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     run_all = subparsers.add_parser("run-all", help="Fetch data and build marts")
-    run_all.add_argument("--date-from", default="01.01.2024")
-    run_all.add_argument("--date-to", default="31.12.2025")
-    run_all.add_argument("--max-pages", type=int, default=20)
-    run_all.add_argument("--request-timeout", type=int, default=30)
-    run_all.add_argument("--max-sberb2b-details", type=int, default=500)
-    run_all.add_argument("--download-documents-limit", type=int, default=100)
-    run_all.add_argument("--max-document-size-bytes", type=int, default=10_000_000)
-    run_all.add_argument("--max-sberb2b-api-probes", type=int, default=10)
+    defaults = RunConfig()
+    run_all.add_argument("--date-from", default=defaults.date_from)
+    run_all.add_argument("--date-to", default=defaults.date_to)
+    run_all.add_argument("--max-pages", type=int, default=defaults.max_pages)
+    run_all.add_argument("--request-timeout", type=int, default=defaults.request_timeout)
+    run_all.add_argument("--max-sberb2b-details", type=int, default=defaults.max_sberb2b_details)
+    run_all.add_argument("--download-documents-limit", type=int, default=defaults.download_documents_limit)
+    run_all.add_argument("--max-document-size-bytes", type=int, default=defaults.max_document_size_bytes)
+    run_all.add_argument("--max-sberb2b-api-probes", type=int, default=defaults.max_sberb2b_api_probes)
     return parser
 
 

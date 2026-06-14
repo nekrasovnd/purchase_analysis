@@ -729,10 +729,8 @@ def build_quality_summary(
     if not lots_df.empty and "duplicate_group_size" in lots_df.columns:
         duplicate_lots_removed = int((lots_df["duplicate_group_size"] - 1).clip(lower=0).sum())
     non_zero_entities = 0
-    if not entities_df.empty:
-        lot_columns = [column for column in entities_df.columns if column.endswith("_lot_count")]
-        if lot_columns:
-            non_zero_entities = int((entities_df[lot_columns].fillna(0).sum(axis=1) > 0).sum())
+    if not lots_df.empty and "entity_name" in lots_df.columns:
+        non_zero_entities = int(lots_df["entity_name"].nunique())
     price_coverage = 0.0
     if not lots_df.empty and "price_rub" in lots_df.columns:
         price_coverage = float(lots_df["price_rub"].notna().mean())

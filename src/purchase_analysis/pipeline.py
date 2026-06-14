@@ -8,6 +8,7 @@ import re
 from typing import Any
 
 import pandas as pd
+import requests
 
 from purchase_analysis.analysis import (
     build_anomalies_mart,
@@ -190,7 +191,10 @@ def _source_assessment_rows() -> list[dict[str, Any]]:
             "inclusion_status": "used_in_pipeline",
             "access_mode": "public_html_plus_public_json",
             "rationale": "Public long dictionary and search endpoint support reproducible customer resolution and paging.",
-            "coverage_note": "Used for large 2024-2025 procurement samples on SberB2B / AST public registry.",
+            "coverage_note": (
+                "Used for large 2024-2025 procurement samples on SberB2B / AST public registry; asset-sale, "
+                "bankruptcy, and VIP sale/disposal procedures are filtered before the core mart."
+            ),
         },
         {
             "source_system": "sberb2b_public_card",
@@ -204,8 +208,9 @@ def _source_assessment_rows() -> list[dict[str, Any]]:
                 "unit prices, and downloadable customer documents."
             ),
             "coverage_note": (
-                "Used to enrich Sberbank-AST rows whose detail_url points to sberb2b.ru; public participant/"
-                "winner endpoints are recorded as probes in etp_integration_probe.csv."
+                "Used to enrich Sberbank-AST rows whose detail_url points to sberb2b.ru; Browser and JS-bundle "
+                "inspection confirmed the public page does not expose a route map or authenticated offer/winner "
+                "endpoints, so failed winner probes are kept as evidence in etp_integration_probe.csv."
             ),
         },
         {
@@ -347,14 +352,18 @@ class PipelineRunner:
             eis_url = ""
             best_payload: dict[str, Any] = {}
             if best_candidate:
-                eis_count, results_html, eis_url = eis.count_procurements_223(
-                    best_candidate,
-                    date_from=self.config.date_from,
-                    date_to=self.config.date_to,
-                    session=self.eis_session,
-                    timeout=self.config.request_timeout,
-                )
-                write_text(RAW_DIR / "eis" / f"{slug}_results.html", results_html)
+                eis_resolution_method = "eis_choose_organization"
+                try:
+                    eis_count, results_html, eis_url = eis.count_procurements_223(
+                        best_candidate,
+                        date_from=self.config.date_from,
+                        date_to=self.config.date_to,
+                        session=self.eis_session,
+                        timeout=self.config.request_timeout,
+                    )
+                    write_text(RAW_DIR / "eis" / f"{slug}_results.html", results_html)
+                except requests.RequestException as exc:
+                    eis_resolution_method = f"eis_choose_organization_{exc.__class__.__name__}"
                 best_payload = asdict(best_candidate)
                 entity_source_link_rows.append(
                     {
@@ -365,7 +374,7 @@ class PipelineRunner:
                         "external_inn": best_candidate.inn,
                         "external_kpp": best_candidate.kpp,
                         "query_used": scope.eis_search_term,
-                        "resolution_method": "eis_choose_organization",
+                        "resolution_method": eis_resolution_method,
                         "records_total": eis_count,
                         "candidate_rank": 1,
                     }
