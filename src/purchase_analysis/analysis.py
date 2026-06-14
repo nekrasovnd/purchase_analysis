@@ -781,7 +781,8 @@ def build_quality_summary(
         "coverage_note": (
             "EIS works as official coverage control; Roseltorg and Sberbank-AST supply the observed lot-level "
             "sample; SberB2B public cards enrich AST rows with goods, documents, and any public participant data; "
-            "ZakazRF and Lot-Online are reproduced as exact probe sources."
+            "ZakazRF, Lot-Online, RTS-Tender, ETP GPB, and Tektorg are reproduced or documented as exact "
+            "probe sources with zero new 2024-2025 core rows after deduplication and precision checks."
         ),
     }
 

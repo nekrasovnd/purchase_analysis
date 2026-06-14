@@ -47,14 +47,16 @@
 ## Повторное исследование ЭТП
 
 Все площадки из ТЗ были повторно исследованы и отражены в `data/curated/source_assessment.csv`.
+Дополнительный точечный проход по новым источникам выполнен `2026-06-14`; итоговая доказательная сводка лежит в `output/data_discovery/final_data_expansion_report.md`.
+
+Главный результат этого прохода: `0` новых достоверных закупок добавлено в core после дедупликации. Это не пустой прогон, а результат exact-INN/role/date проверок: найденные RTS Sber-карточки уже присутствовали в `procurement_lots.csv`, а остальные совпадения были нулевыми или ложными операторскими совпадениями.
 
 Статусы:
 
 - `operational / used_in_pipeline`: `ЕИС`, `Росэлторг`, `Сбербанк-АСТ`
 - `operational / enrichment`: `SberB2B public need cards`
-- `operational / probe-only`: `ЗаказРФ`, `ЛотОнлайн`
-- `research_only`: `ТЭК-Торг`, `ЭТП ГПБ`
-- `blocked`: `РТС-Тендер` из текущего окружения возвращает `Anti-DDoS`
+- `operational / probe-only`: `ЗаказРФ`, `ЛотОнлайн`, `РТС-Тендер`
+- `research_only / exact-probe-zero`: `ТЭК-Торг`, `ЭТП ГПБ`
 
 Почему в итоговый пайплайн вошли только три ЭТП:
 
@@ -67,9 +69,9 @@
 
 - `ЗаказРФ`: публичный реестр и hidden form submit воспроизведены; exact-INN customer matches дают `0` публичных уведомлений в текущем scope.
 - `ЛотОнлайн`: скрытый `searchServlet` воспроизведён; exact customer/organizer INN probes дают `0` строк, title search слишком шумный для core.
-- `ТЭК-Торг`: поиск доступен, но слишком слабая точность по юрлицам.
-- `ЭТП ГПБ`: страница доступна, но plain HTTP не воспроизводит фильтрованные результаты.
-- `РТС-Тендер`: внешний блокер Anti-DDoS.
+- `РТС-Тендер`: Anti-DDoS пройден через Chrome/Playwright; скрытая модель `/poisk/api/TabValues/0`, JS-бандлы и frontend-validated поиск воспроизведены. Строгий `rts_only` по 13 INN, ролям заказчика/организатора и датам публикации 2024–2025 дал `0`; all-ETP режим нашёл 3 точные Sber-процедуры, но все уже были в core из `Сбербанк-АСТ`.
+- `ТЭК-Торг`: официальный SOAP API `https://api.tektorg.ru/procedures/wsdl` проверен по `customerINN` и `organizerINN`; exact Sber-INN пробы дали только нулевые SOAP faults.
+- `ЭТП ГПБ`: через Nuxt/Playwright network trace найдены `api/v2/procedures` и `api/v2/customers`; exact customer API подтвердил только `СберОбразование`, но его процедуры относятся к 2022 году, не к 2024–2025.
 
 ## Архитектура
 
@@ -159,6 +161,8 @@ python -m unittest discover -s tests -v
 - `data/reports/improvement_report.md`
 - `data/reports/llm_prompt_pack.md`
 - `data/reports/llm_summary.md`
+- `output/data_discovery/final_data_expansion_report.md`
+- `output/data_discovery/final_data_expansion_kpi.json`
 
 ## PostgreSQL-схема
 
@@ -238,7 +242,7 @@ python -m unittest discover -s tests -v
 ## Ограничения
 
 - Открытый контур не покрывает всю закупочную активность группы Сбер.
-- Часть ЭТП из ТЗ либо недоступны для стабильной автоматизации, либо требуют авторизованного browser/network reverse engineering.
+- Часть ЭТП из ТЗ даёт нулевые exact-INN результаты по 2024–2025, либо требует авторизованного browser/network reverse engineering для winner/offer слоя.
 - `ЕИС` в текущем периметре полезнее как слой идентификации и контроля покрытия, чем как рабочий источник лотов.
 - `winners_total=0`: публичные SberB2B/Roseltorg данные дают участников/продавцов, но не подтверждённых победителей.
 - Годовые и макро-витрины в основном опираются на AST-строки с датами публикации; Roseltorg даёт важное покрытие лотов, но не всегда полноценную временную ось.

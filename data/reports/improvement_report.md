@@ -35,6 +35,8 @@
 - появились участники, документы, тексты документов, unit-price строки, hidden API probes, macro diagnostics и LLM-ready пакет;
 - данные стали строже: из Sberbank-AST исключены процедуры продажи/утилизации имущества, которые раньше попадали в закупочный слой.
 
+Дополнительный data-expansion проход `2026-06-14` был сфокусирован только на новых источниках и покрытии. Проверены RTS-Тендер, ЭТП ГПБ, ТЭК-Торг, ЛотОнлайн и ЗаказРФ. KPI прохода: `0` новых core-лотов после exact-INN/role/date проверок и дедупликации. Это зафиксировано как техническое доказательство: RTS дал 3 точных Sber-процедуры в all-ETP режиме, но все они уже были в core; strict `rts_only` дал 0 строк; остальные площадки дали 0 accepted 2024-2025 строк.
+
 ## Что удалось получить дополнительно
 
 1. Расширенный периметр группы Сбер
@@ -105,9 +107,9 @@ DOCX разбирается через Word XML, PDF - через текстов
 | SberB2B public cards | operational enrichment | Товары, unit price, документы, текст документов, API probes |
 | ZakazRF | operational probe-only | Hidden form submit воспроизведен, exact-INN уведомления дают 0 строк |
 | Lot-Online | operational probe-only | `searchServlet` воспроизведен, exact customer/organizer probes дают 0 строк |
-| RTS-Tender | blocked | Из текущего окружения возвращает Anti-DDoS |
-| Tektorg | research_only | Поиск доступен, но точность по юрлицам слабая |
-| ETP GPB | research_only | Страница доступна, plain HTTP не воспроизводит фильтрованные результаты |
+| RTS-Tender | operational probe-only | Anti-DDoS пройден через Chrome/Playwright; strict RTS-only exact probes дали 0, all-ETP нашел только 3 уже учтенных AST-дубля |
+| Tektorg | research_only exact-probe-zero | Официальный SOAP API/WSDL проверен по `customerINN` и `organizerINN`; accepted строк 0 |
+| ETP GPB | research_only exact-probe-zero | Через Nuxt/Playwright найдены `api/v2/procedures` и `api/v2/customers`; exact 2024-2025 строк 0 |
 | Банк России | operational | Макрофакторы для аналитики |
 
 ## Что проверено reverse engineering
@@ -135,6 +137,29 @@ Lot-Online:
 - воспроизведены exact customer, organizer и title search payloads;
 - exact INN probes дают 0 строк;
 - title search дает много упоминаний, но они слишком шумные для core attribution.
+
+RTS-Tender:
+
+- Anti-DDoS пройден в persistent Chrome/Playwright context;
+- найдены `/poisk/api/TabValues/0`, `/poisk/Suggestion/ETP`, JS-бандлы `listings.js`, `filters.js`, `detailcard.js`;
+- прямой API-запрос без frontend token возвращал 400, поэтому поиск воспроизведен через frontend-validated flow;
+- выполнено 52 exact запроса: 13 INN, роли customer/organizer, режимы all-ETP и strict RTS-only, публикация 2024-2025;
+- strict RTS-only дал 0 строк;
+- all-ETP дал 3 точные Sber-процедуры, все уже есть в `procurement_lots.csv`;
+- срабатывания по `АО Сбербанк-АСТ` как организатору отвергнуты как операторские процедуры сторонних заказчиков.
+
+ETP GPB:
+
+- исследованы Nuxt-бандлы и browser network trace;
+- найдены `https://etpgpb.ru/api/v2/procedures/` и `https://etpgpb.ru/api/v2/customers/`;
+- exact customer API подтвердил только `СберОбразование`, но найденные процедуры относятся к 2022 году;
+- за 2024-2025 exact строк не найдено.
+
+Tektorg:
+
+- воспроизведен официальный SOAP endpoint `https://api.tektorg.ru/procedures/soap`;
+- WSDL `https://api.tektorg.ru/procedures/wsdl` содержит фильтры `customerINN` и `organizerINN`;
+- 24 exact запроса по Sber-INN дали нулевые SOAP faults, поэтому безопасных строк для core нет.
 
 Playwright/браузер:
 
@@ -214,8 +239,8 @@ Playwright/браузер:
 ## Оставшиеся ограничения
 
 - Полные winner/offer данные SberB2B, вероятно, требуют авторизованного доступа.
-- RTS-Tender блокируется Anti-DDoS из текущего окружения.
-- Tektorg и ETP GPB требуют более дорогого browser-side request discovery, а не простого HTTP.
+- RTS-Tender больше не считается непройденным Anti-DDoS-блокером: публичный поиск воспроизведен через Playwright, но strict RTS-only exact probes дали 0 новых строк.
+- Tektorg и ETP GPB исследованы через официальный SOAP/API и browser-side discovery соответственно; ограничение теперь не в доступе к поиску, а в отсутствии exact Sber 2024-2025 строк в открытом контуре.
 - OCR для scan-only PDF не развернут на весь корпус, потому что это даст заметные вычислительные затраты и риск PII без отдельного контура.
 - Market-price comparison пока построен на внутренних unit-price медианах, а не на закрытых каталогах или коммерческих прайсах.
 

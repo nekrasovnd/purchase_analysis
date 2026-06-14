@@ -21,16 +21,60 @@ SOURCE_LINK_ID_COLUMNS = [
     "external_inn",
     "external_kpp",
 ]
+ID_COLUMN_HINTS = (
+    "inn",
+    "kpp",
+    "ogrn",
+    "fz94",
+    "fz223",
+    "procedure_number",
+    "external_customer_key",
+    "customer_key",
+    "tax_id",
+    "participant_external_id",
+    "matched_external_id",
+    "matched_external_inn",
+)
+
+
+def _is_identifier_column(column: str) -> bool:
+    lower = column.lower()
+    return any(hint in lower for hint in ID_COLUMN_HINTS)
+
+
+def _format_identifier(value: object) -> str:
+    if value is None or pd.isna(value):
+        return ""
+    text = str(value).strip()
+    if text.lower() in {"", "nan", "none", "<na>"}:
+        return ""
+    if text.endswith(".0") and text[:-2].isdigit():
+        return text[:-2]
+    if "e" in text.lower():
+        try:
+            number = float(text)
+        except ValueError:
+            return text
+        if number.is_integer():
+            return str(int(number))
+    return text
+
+
+def _id_columns_for(columns: list[str], explicit: list[str] | None = None) -> list[str]:
+    explicit_set = set(explicit or [])
+    return [column for column in columns if column in explicit_set or _is_identifier_column(column)]
 
 
 def _read_csv(name: str, id_columns: list[str] | None = None) -> pd.DataFrame:
     path = CURATED_DIR / name
     if not path.exists():
         return pd.DataFrame()
-    df = pd.read_csv(path, dtype={column: "string" for column in id_columns or []})
-    for column in id_columns or []:
+    header = pd.read_csv(path, nrows=0)
+    resolved_id_columns = _id_columns_for(header.columns.tolist(), id_columns)
+    df = pd.read_csv(path, dtype={column: "string" for column in resolved_id_columns})
+    for column in resolved_id_columns:
         if column in df.columns:
-            df[column] = df[column].fillna("")
+            df[column] = df[column].map(_format_identifier).astype("string")
     return df
 
 
@@ -120,7 +164,7 @@ def build_notebook() -> None:
             "- `ЕИС` используется для резолвинга юридических лиц и контрольной проверки открытого покрытия по 223-ФЗ.\n"
             "- `Росэлторг` и `Сбербанк-АСТ` используются как рабочие источники публичных карточек процедур.\n"
             "- Для `Сбербанк-АСТ` дополнительно применяется фильтр по предметной области: из единого реестра исключены процедуры реализации имущества и банкротные продажи, чтобы в аналитический слой попадали только procurement-релевантные записи.\n"
-            "- Остальные ЭТП повторно исследованы и отражены в `source_assessment.csv` как `operational`, `research_only` или `blocked`.\n\n"
+            "- Остальные ЭТП повторно исследованы и отражены в `source_assessment.csv` как exact-probe / research sources; RTS дополнительно проверен через Playwright и браузерный network trace.\n\n"
             "Это важно, потому что задача не только про сбор данных, но и про честную оценку покрытия."
         )
     )
@@ -128,6 +172,7 @@ def build_notebook() -> None:
     cells.append(
         nbf.v4.new_code_cell(
             "from pathlib import Path\n"
+            "from IPython.display import display as _ipython_display\n"
             "import pandas as pd\n"
             "import matplotlib.pyplot as plt\n"
             "\n"
@@ -136,30 +181,77 @@ def build_notebook() -> None:
             "\n"
             "ENTITY_ID_COLUMNS = ['inn', 'resolved_inn', 'eis_resolved_inn', 'eis_resolved_kpp', 'eis_resolved_ogrn']\n"
             "SOURCE_LINK_ID_COLUMNS = ['external_customer_key', 'external_inn', 'external_kpp']\n"
+            "ID_COLUMN_HINTS = ('inn', 'kpp', 'ogrn', 'fz94', 'fz223', 'procedure_number', 'external_customer_key', 'customer_key', 'tax_id', 'participant_external_id', 'matched_external_id', 'matched_external_inn')\n"
+            "\n"
+            "pd.set_option('display.float_format', lambda value: f'{value:,.2f}')\n"
+            "pd.set_option('display.max_colwidth', 120)\n"
+            "\n"
+            "def is_identifier_column(column):\n"
+            "    lower = str(column).lower()\n"
+            "    return any(hint in lower for hint in ID_COLUMN_HINTS)\n"
+            "\n"
+            "def format_identifier(value):\n"
+            "    if value is None or pd.isna(value):\n"
+            "        return ''\n"
+            "    text = str(value).strip()\n"
+            "    if text.lower() in {'', 'nan', 'none', '<na>'}:\n"
+            "        return ''\n"
+            "    if text.endswith('.0') and text[:-2].isdigit():\n"
+            "        return text[:-2]\n"
+            "    if 'e' in text.lower():\n"
+            "        try:\n"
+            "            number = float(text)\n"
+            "        except ValueError:\n"
+            "            return text\n"
+            "        if number.is_integer():\n"
+            "            return str(int(number))\n"
+            "    return text\n"
+            "\n"
+            "def id_columns_for(columns, explicit=()):\n"
+            "    explicit = set(explicit)\n"
+            "    return [column for column in columns if column in explicit or is_identifier_column(column)]\n"
             "\n"
             "def read_csv_with_ids(path, id_columns=()):\n"
-            "    df = pd.read_csv(path, dtype={column: 'string' for column in id_columns})\n"
-            "    for column in id_columns:\n"
+            "    header = pd.read_csv(path, nrows=0)\n"
+            "    resolved_id_columns = id_columns_for(header.columns.tolist(), id_columns)\n"
+            "    df = pd.read_csv(path, dtype={column: 'string' for column in resolved_id_columns})\n"
+            "    for column in resolved_id_columns:\n"
             "        if column in df.columns:\n"
-            "            df[column] = df[column].fillna('')\n"
+            "            df[column] = df[column].map(format_identifier).astype('string')\n"
             "    return df\n"
             "\n"
+            "def clean_display_object(obj):\n"
+            "    if isinstance(obj, pd.DataFrame):\n"
+            "        frame = obj.copy()\n"
+            "        for column in frame.columns:\n"
+            "            if is_identifier_column(column):\n"
+            "                frame[column] = frame[column].map(format_identifier).astype('string')\n"
+            "            elif pd.api.types.is_object_dtype(frame[column]) or pd.api.types.is_string_dtype(frame[column]):\n"
+            "                frame[column] = frame[column].fillna('')\n"
+            "        return frame\n"
+            "    if isinstance(obj, pd.Series) and is_identifier_column(obj.name or ''):\n"
+            "        return obj.map(format_identifier).astype('string')\n"
+            "    return obj\n"
+            "\n"
+            "def display(*objects, **kwargs):\n"
+            "    return _ipython_display(*(clean_display_object(obj) for obj in objects), **kwargs)\n"
+            "\n"
             "entities = read_csv_with_ids(CURATED / 'entity_coverage.csv', ENTITY_ID_COLUMNS)\n"
-            "source_assessment = pd.read_csv(CURATED / 'source_assessment.csv')\n"
+            "source_assessment = read_csv_with_ids(CURATED / 'source_assessment.csv')\n"
             "entity_links = read_csv_with_ids(CURATED / 'entity_source_links.csv', SOURCE_LINK_ID_COLUMNS)\n"
-            "lots = pd.read_csv(CURATED / 'procurement_lots.csv')\n"
-            "yearly = pd.read_csv(CURATED / 'mart_yearly_summary.csv')\n"
-            "monthly = pd.read_csv(CURATED / 'mart_monthly_activity.csv')\n"
-            "category_mix = pd.read_csv(CURATED / 'mart_category_mix.csv')\n"
-            "category_yoy = pd.read_csv(CURATED / 'mart_category_yoy.csv')\n"
-            "anomalies = pd.read_csv(CURATED / 'mart_anomalies.csv')\n"
-            "duplicate_stats = pd.read_csv(CURATED / 'duplicate_stats.csv')\n"
-            "macro = pd.read_csv(CURATED / 'mart_monthly_macro_join.csv')\n"
-            "macro_diagnostics = pd.read_csv(CURATED / 'mart_macro_diagnostics.csv')\n"
-            "items = pd.read_csv(CURATED / 'procurement_items.csv')\n"
-            "document_texts = pd.read_csv(CURATED / 'document_texts.csv')\n"
-            "participants = pd.read_csv(CURATED / 'procurement_participants.csv')\n"
-            "unit_price_benchmarks = pd.read_csv(CURATED / 'mart_unit_price_benchmarks.csv')\n"
+            "lots = read_csv_with_ids(CURATED / 'procurement_lots.csv')\n"
+            "yearly = read_csv_with_ids(CURATED / 'mart_yearly_summary.csv')\n"
+            "monthly = read_csv_with_ids(CURATED / 'mart_monthly_activity.csv')\n"
+            "category_mix = read_csv_with_ids(CURATED / 'mart_category_mix.csv')\n"
+            "category_yoy = read_csv_with_ids(CURATED / 'mart_category_yoy.csv')\n"
+            "anomalies = read_csv_with_ids(CURATED / 'mart_anomalies.csv')\n"
+            "duplicate_stats = read_csv_with_ids(CURATED / 'duplicate_stats.csv')\n"
+            "macro = read_csv_with_ids(CURATED / 'mart_monthly_macro_join.csv')\n"
+            "macro_diagnostics = read_csv_with_ids(CURATED / 'mart_macro_diagnostics.csv')\n"
+            "items = read_csv_with_ids(CURATED / 'procurement_items.csv')\n"
+            "document_texts = read_csv_with_ids(CURATED / 'document_texts.csv')\n"
+            "participants = read_csv_with_ids(CURATED / 'procurement_participants.csv')\n"
+            "unit_price_benchmarks = read_csv_with_ids(CURATED / 'mart_unit_price_benchmarks.csv')\n"
             "\n"
             "source_assessment[['source_system', 'operational_status', 'inclusion_status', 'coverage_note']]"
         )
@@ -178,6 +270,71 @@ def build_notebook() -> None:
 
     cells.append(
         nbf.v4.new_code_cell(
+            "# Self-contained guard for running this section directly in an opened notebook.\n"
+            "if 'entities' not in globals() or 'entity_links' not in globals():\n"
+            "    from pathlib import Path\n"
+            "    from IPython.display import display as _ipython_display\n"
+            "    import pandas as pd\n"
+            "\n"
+            "    ROOT = Path.cwd().resolve().parent if Path.cwd().name == 'notebooks' else Path.cwd().resolve()\n"
+            "    CURATED = ROOT / 'data' / 'curated'\n"
+            "    ENTITY_ID_COLUMNS = ['inn', 'resolved_inn', 'eis_resolved_inn', 'eis_resolved_kpp', 'eis_resolved_ogrn']\n"
+            "    SOURCE_LINK_ID_COLUMNS = ['external_customer_key', 'external_inn', 'external_kpp']\n"
+            "    ID_COLUMN_HINTS = ('inn', 'kpp', 'ogrn', 'fz94', 'fz223', 'procedure_number', 'external_customer_key', 'customer_key', 'tax_id', 'participant_external_id', 'matched_external_id', 'matched_external_inn')\n"
+            "\n"
+            "    def is_identifier_column(column):\n"
+            "        lower = str(column).lower()\n"
+            "        return any(hint in lower for hint in ID_COLUMN_HINTS)\n"
+            "\n"
+            "    def format_identifier(value):\n"
+            "        if value is None or pd.isna(value):\n"
+            "            return ''\n"
+            "        text = str(value).strip()\n"
+            "        if text.lower() in {'', 'nan', 'none', '<na>'}:\n"
+            "            return ''\n"
+            "        if text.endswith('.0') and text[:-2].isdigit():\n"
+            "            return text[:-2]\n"
+            "        if 'e' in text.lower():\n"
+            "            try:\n"
+            "                number = float(text)\n"
+            "            except ValueError:\n"
+            "                return text\n"
+            "            if number.is_integer():\n"
+            "                return str(int(number))\n"
+            "        return text\n"
+            "\n"
+            "    def id_columns_for(columns, explicit=()):\n"
+            "        explicit = set(explicit)\n"
+            "        return [column for column in columns if column in explicit or is_identifier_column(column)]\n"
+            "\n"
+            "    def read_csv_with_ids(path, id_columns=()):\n"
+            "        header = pd.read_csv(path, nrows=0)\n"
+            "        resolved_id_columns = id_columns_for(header.columns.tolist(), id_columns)\n"
+            "        df = pd.read_csv(path, dtype={column: 'string' for column in resolved_id_columns})\n"
+            "        for column in resolved_id_columns:\n"
+            "            if column in df.columns:\n"
+            "                df[column] = df[column].map(format_identifier).astype('string')\n"
+            "        return df\n"
+            "\n"
+            "    def clean_display_object(obj):\n"
+            "        if isinstance(obj, pd.DataFrame):\n"
+            "            frame = obj.copy()\n"
+            "            for column in frame.columns:\n"
+            "                if is_identifier_column(column):\n"
+            "                    frame[column] = frame[column].map(format_identifier).astype('string')\n"
+            "                elif pd.api.types.is_object_dtype(frame[column]) or pd.api.types.is_string_dtype(frame[column]):\n"
+            "                    frame[column] = frame[column].fillna('')\n"
+            "            return frame\n"
+            "        if isinstance(obj, pd.Series) and is_identifier_column(obj.name or ''):\n"
+            "            return obj.map(format_identifier).astype('string')\n"
+            "        return obj\n"
+            "\n"
+            "    def display(*objects, **kwargs):\n"
+            "        return _ipython_display(*(clean_display_object(obj) for obj in objects), **kwargs)\n"
+            "\n"
+            "    entities = read_csv_with_ids(CURATED / 'entity_coverage.csv', ENTITY_ID_COLUMNS)\n"
+            "    entity_links = read_csv_with_ids(CURATED / 'entity_source_links.csv', SOURCE_LINK_ID_COLUMNS)\n"
+            "\n"
             "display(entities[['entity_name', 'inn', 'resolved_inn', 'eis_223_open_count', 'roseltorg_lot_count', 'sberbank_ast_lot_count']])\n"
             "display(entity_links[['entity_name', 'source_system', 'external_customer_key', 'records_total']].head(40))"
         )

@@ -242,32 +242,45 @@ def _source_assessment_rows() -> list[dict[str, Any]]:
         {
             "source_system": "tektorg",
             "platform_name": "ТЭК-Торг",
-            "platform_url": "https://www.tektorg.ru/procedures",
+            "platform_url": "https://api.tektorg.ru/procedures",
             "operational_status": "research_only",
-            "inclusion_status": "researched_not_used",
-            "access_mode": "public_html",
-            "rationale": "Search endpoint is public, but exact legal-entity precision is too weak for reliable group collection.",
-            "coverage_note": "Useful as scout source, not yet robust enough as primary ingest.",
+            "inclusion_status": "researched_not_used_exact_probe_zero",
+            "access_mode": "public_soap_api",
+            "rationale": "Official SOAP procedures API and WSDL were reproduced with customerINN and organizerINN filters.",
+            "coverage_note": (
+                "Exact Sber-scope INN probes returned SOAP faults such as 'Customers not found by INN.' or "
+                "'Organizers type not found.', so no 2024-2025 rows are safe to add to the core mart."
+            ),
         },
         {
             "source_system": "rts_tender",
             "platform_name": "РТС-Тендер",
-            "platform_url": "https://www.rts-tender.ru",
-            "operational_status": "blocked",
-            "inclusion_status": "researched_not_used",
-            "access_mode": "anti_ddos_block",
-            "rationale": "Public homepage returns Anti-DDoS protection page from the execution environment.",
-            "coverage_note": "External blocker; reproducible adapter was not feasible in this environment.",
+            "platform_url": "https://www.rts-tender.ru/poisk/",
+            "operational_status": "operational",
+            "inclusion_status": "researched_not_used_exact_probe_zero_new",
+            "access_mode": "browser_playwright_hidden_frontend_api",
+            "rationale": (
+                "Anti-DDoS was passed through a Chrome/Playwright context; hidden public search model and "
+                "frontend-validated requests were reproduced for exact INN role/date probes."
+            ),
+            "coverage_note": (
+                "Strict RTS-only exact probes for 2024-2025 returned zero rows. All-ETP mode found three exact "
+                "Sber procedures, but all were already present in the Sberbank-AST core layer; Sberbank-AST-as-"
+                "operator hits were rejected as third-party customer procedures."
+            ),
         },
         {
             "source_system": "etpgpb",
             "platform_name": "ЭТП ГПБ",
-            "platform_url": "https://etpgpb.ru/procedures/",
+            "platform_url": "https://etpgpb.ru/api/v2/procedures/",
             "operational_status": "research_only",
-            "inclusion_status": "researched_not_used",
-            "access_mode": "public_html_with_client_hydration",
-            "rationale": "Public procedures page is accessible, but plain HTTP queries do not reproduce filtered result sets.",
-            "coverage_note": "Needs browser-side request discovery before safe adapter implementation.",
+            "inclusion_status": "researched_not_used_exact_probe_zero",
+            "access_mode": "public_json_api_v2_plus_customer_api",
+            "rationale": "Nuxt bundles and browser network trace exposed api/v2 procedures and customers endpoints.",
+            "coverage_note": (
+                "Exact customer API confirmed only SberObrazovanie, whose procedures are from 2022; no exact "
+                "Sber customer lots for 2024-2025 were found."
+            ),
         },
     ]
 
