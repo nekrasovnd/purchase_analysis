@@ -5,10 +5,20 @@ create schema if not exists mart;
 
 create table if not exists core.entity_scope (
     entity_id bigserial primary key,
+    entity_key text unique,
     group_name text not null,
     entity_name text not null unique,
     entity_type text not null,
     inn text,
+    ogrn text,
+    kpp_list text,
+    official_name text,
+    short_name text,
+    brand_aliases text,
+    search_terms text,
+    identity_source text,
+    identity_confidence text,
+    identity_notes text,
     is_priority_focus boolean not null default false,
     eis_search_term text,
     roseltorg_customer_query text,
@@ -29,6 +39,21 @@ create table if not exists core.entity_scope (
     zakazrf_lot_count integer not null default 0,
     lot_online_lot_count integer not null default 0,
     lot_online_title_mention_count integer not null default 0,
+    loaded_at timestamptz not null default now()
+);
+
+create table if not exists core.entity_identity_enrichment (
+    enrichment_id bigserial primary key,
+    entity_key text,
+    entity_name text not null,
+    inn text,
+    source_system text not null,
+    field_name text not null,
+    proposed_value text not null,
+    evidence text,
+    confidence text not null,
+    decision text not null default 'review',
+    checked_at timestamptz,
     loaded_at timestamptz not null default now()
 );
 

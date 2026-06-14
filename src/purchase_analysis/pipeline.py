@@ -1,7 +1,6 @@
 from __future__ import annotations
 
-import csv
-from dataclasses import asdict, dataclass
+from dataclasses import asdict
 import json
 from pathlib import Path
 import re
@@ -36,58 +35,45 @@ from purchase_analysis.analysis import (
 from purchase_analysis.clients import cbr, eis, lot_online, roseltorg, sberb2b, sberbank_ast, zakazrf
 from purchase_analysis.config import CURATED_DIR, RAW_DIR, REPORTS_DIR, RunConfig
 from purchase_analysis.documents import extract_text_from_document
+from purchase_analysis.entity_resolution import (
+    EntityIdentity,
+    build_search_terms,
+    classify_entity_match,
+    load_entity_scope,
+)
 from purchase_analysis.llm import maybe_write_llm_summary
 from purchase_analysis.utils.io import ensure_dir, write_json, write_text
 from purchase_analysis.utils.text import safe_slug
 
 
-@dataclass(slots=True)
-class ScopeEntity:
-    group_name: str
-    entity_name: str
-    entity_type: str
-    inn: str
-    eis_search_term: str
-    roseltorg_customer_query: str
-    is_priority_focus: bool
+ScopeEntity = EntityIdentity
 
 
 def _read_scope(path: Path) -> list[ScopeEntity]:
-    rows: list[ScopeEntity] = []
-    with path.open("r", encoding="utf-8-sig", newline="") as file:
-        reader = csv.DictReader(file)
-        for row in reader:
-            rows.append(
-                ScopeEntity(
-                    group_name=row["group_name"],
-                    entity_name=row["entity_name"],
-                    entity_type=row["entity_type"],
-                    inn=row["inn"],
-                    eis_search_term=row["eis_search_term"],
-                    roseltorg_customer_query=row["roseltorg_customer_query"],
-                    is_priority_focus=row["is_priority_focus"] == "1",
-                )
-            )
-    return rows
+    return load_entity_scope(path)
 
 
 def _candidate_queries(scope: ScopeEntity, resolved_inn: str | None) -> list[str]:
-    values = [
-        normalize
-        for normalize in [
-            resolved_inn or "",
-            scope.inn,
-            scope.eis_search_term,
-            scope.entity_name,
-            scope.roseltorg_customer_query,
-        ]
-        if normalize
-    ]
+    values = [resolved_inn or "", *build_search_terms(scope, source_system="sberbank_ast")]
     deduped: list[str] = []
     for value in values:
         if value not in deduped:
             deduped.append(value)
     return deduped
+
+
+def _merge_eis_candidates(
+    existing: list[eis.EisEntityCandidate],
+    incoming: list[eis.EisEntityCandidate],
+) -> list[eis.EisEntityCandidate]:
+    seen = {(item.code, item.inn, item.kpp, item.ogrn, item.name) for item in existing}
+    merged = list(existing)
+    for item in incoming:
+        key = (item.code, item.inn, item.kpp, item.ogrn, item.name)
+        if key not in seen:
+            seen.add(key)
+            merged.append(item)
+    return merged
 
 
 def _safe_document_filename(procedure_number: str, index: int, original_name: str) -> str:
@@ -170,8 +156,12 @@ def _source_assessment_rows() -> list[dict[str, Any]]:
             "operational_status": "operational",
             "inclusion_status": "used_in_pipeline",
             "access_mode": "public_html",
-            "rationale": "Official source for entity resolution and 223-FZ coverage control.",
-            "coverage_note": "Used as authoritative customer registry and count-control layer.",
+            "rationale": "Official source for entity resolution and 44-ФЗ/223-ФЗ coverage control.",
+            "coverage_note": (
+                "Used as authoritative customer registry and count-control layer. Prompt 2 exact source sprint "
+                "checked 52 FZ223/FZ44 combinations across the current 26-entity scope: 3 exact card candidates "
+                "were found, all already present in the Sberbank-AST core layer; zero new EIS core rows."
+            ),
         },
         {
             "source_system": "roseltorg",
@@ -347,19 +337,45 @@ class PipelineRunner:
         for scope in scope_entities:
             slug = safe_slug(scope.entity_name)
 
-            chooser_html = eis.fetch_choose_organization_table(
-                scope.eis_search_term,
-                session=self.eis_session,
-                timeout=self.config.request_timeout,
-            )
-            write_text(RAW_DIR / "eis" / f"{slug}_chooser.html", chooser_html)
+            candidates: list[eis.EisEntityCandidate] = []
+            best_candidate: eis.EisEntityCandidate | None = None
+            eis_query_used = ""
+            legacy_chooser_written = False
+            for eis_query in build_search_terms(scope, source_system="eis"):
+                chooser_html = eis.fetch_choose_organization_table(
+                    eis_query,
+                    session=self.eis_session,
+                    timeout=self.config.request_timeout,
+                )
+                if not legacy_chooser_written:
+                    write_text(RAW_DIR / "eis" / f"{slug}_chooser.html", chooser_html)
+                    legacy_chooser_written = True
+                write_text(
+                    RAW_DIR / "eis" / f"{slug}_chooser_{safe_slug(eis_query)}.html",
+                    chooser_html,
+                )
 
-            candidates = eis.parse_choose_organization_table(chooser_html, scope.eis_search_term)
-            best_candidate = eis.select_best_candidate(
-                candidates,
-                expected_name=scope.entity_name,
-                inn=scope.inn,
-            )
+                current_candidates = eis.parse_choose_organization_table(chooser_html, eis_query)
+                candidates = _merge_eis_candidates(candidates, current_candidates)
+                current_best = eis.select_best_candidate(
+                    current_candidates,
+                    expected_name=scope.entity_name,
+                    inn=scope.inn,
+                )
+                if not current_best:
+                    continue
+                match_decision = classify_entity_match(
+                    scope,
+                    candidate_name=current_best.name,
+                    candidate_inn=current_best.inn,
+                    candidate_ogrn=current_best.ogrn,
+                    candidate_kpp=current_best.kpp,
+                    role="customer",
+                )
+                if match_decision.accepted:
+                    best_candidate = current_best
+                    eis_query_used = eis_query
+                    break
 
             eis_count = 0
             eis_url = ""
@@ -386,7 +402,7 @@ class PipelineRunner:
                         "external_customer_name": best_candidate.name,
                         "external_inn": best_candidate.inn,
                         "external_kpp": best_candidate.kpp,
-                        "query_used": scope.eis_search_term,
+                        "query_used": eis_query_used or best_candidate.search_term,
                         "resolution_method": eis_resolution_method,
                         "records_total": eis_count,
                         "candidate_rank": 1,
@@ -813,8 +829,13 @@ class PipelineRunner:
                         }
                     )
 
+                title_probe_term = build_search_terms(
+                    scope,
+                    source_system="lot_online",
+                    include_identifiers=False,
+                )[0]
                 title_payload, _ = lot_online.fetch_search_page(
-                    lot_online.build_query_payload(title=scope.eis_search_term),
+                    lot_online.build_query_payload(title=title_probe_term),
                     session=self.lot_online_session,
                     timeout=self.config.request_timeout,
                 )
@@ -825,7 +846,7 @@ class PipelineRunner:
                         "source_system": "lot_online",
                         "entity_name": scope.entity_name,
                         "probe_mode": "title_mentions",
-                        "query_used": scope.eis_search_term,
+                        "query_used": title_probe_term,
                         "matched_external_id": "",
                         "matched_external_name": "",
                         "matched_external_inn": resolved_inn,
@@ -859,10 +880,20 @@ class PipelineRunner:
 
             entity_records.append(
                 {
+                    "entity_key": scope.entity_id,
                     "group_name": scope.group_name,
                     "entity_name": scope.entity_name,
                     "entity_type": scope.entity_type,
                     "inn": scope.inn,
+                    "ogrn": scope.ogrn,
+                    "kpp_list": ";".join(scope.kpp_list),
+                    "official_name": scope.official_name,
+                    "short_name": scope.short_name,
+                    "brand_aliases": ";".join(scope.brand_aliases),
+                    "search_terms": ";".join(scope.search_terms),
+                    "identity_source": scope.identity_source,
+                    "identity_confidence": scope.identity_confidence,
+                    "identity_notes": scope.notes,
                     "is_priority_focus": scope.is_priority_focus,
                     "eis_search_term": scope.eis_search_term,
                     "roseltorg_customer_query": scope.roseltorg_customer_query,
@@ -910,7 +941,12 @@ class PipelineRunner:
         entity_source_links_df = build_entity_source_links_frame(entity_source_link_rows)
         integration_probe_df = build_integration_probe_frame(integration_probe_rows)
         source_assessment_df = build_source_assessment_frame(source_assessment_rows)
-        lots_df = build_procurements_frame(search_rows, detail_rows)
+        lots_df = build_procurements_frame(
+            search_rows,
+            detail_rows,
+            date_from=self.config.date_from,
+            date_to=self.config.date_to,
+        )
         items_df = build_procurement_items_frame(lots_df, extra_item_rows=item_rows)
         document_links_df = build_document_links_frame(document_rows)
         document_texts_df = build_document_texts_frame(document_text_rows)
