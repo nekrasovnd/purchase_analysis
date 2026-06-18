@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "c976affb-a488-4549-a4a8-7fb737540368",
+        "c_description": "Комплект крепежа для крепления 19\" оборудования",
+        "c_comment": "Комплект крепежа для крепления 19\" оборудования (винт с шайбой и гайкой M6 (клипса), 50 шт. в упаковке) – 4 упаковки. ",
+        "c_priceWithTax": 0.0,
+        "c_count": 4.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "25.94.11.110",
+        "c_okpd2Name": "Болты и винты из черных металлов",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "38a17a74-0376-4af9-83de-a2b4f3f1dfba",
+        "c_unitName": "упак",
+        "c_unitOkeiCode": "778",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "c7d3eda4-14f6-4e13-9ea9-f711cc9c7c23",
+            "is_deletable": true,
+            "name": "14b35ec0ce3fd6ef59ce6b4a826c5d95.docx",
+            "original_name": "Карточка организации.docx",
+            "size": 96607,
+            "type": "document",
+            "web_path": "/uploads/documents/14/b35/ec0/",
+            "created_at": "2025-11-25T12:54:32+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Евгеньевич",
+              "surname": "Замбин"
+            },
+            "file": {
+              "id": "8672d4f1-1df3-4d7a-a81d-441e20de46dd",
+              "name": "14b35ec0ce3fd6ef59ce6b4a826c5d95.docx",
+              "original_name": "Карточка организации.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/14/b35/ec0/"
+            }
+          },
+          {
+            "id": "ff135c29-3dd3-4ff9-b0f0-fabc6d2c15de",
+            "is_deletable": true,
+            "name": "300efd66f509099d9692f43a98994721.xlsx",
+            "original_name": "Шаблон Запрос КП (форма).xlsx",
+            "size": 16706,
+            "type": "document",
+            "web_path": "/uploads/documents/30/0ef/d66/",
+            "created_at": "2025-11-25T12:54:38+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Евгеньевич",
+              "surname": "Замбин"
+            },
+            "file": {
+              "id": "0d40192c-cbcf-4f8a-8d6c-8954f3329bca",
+              "name": "300efd66f509099d9692f43a98994721.xlsx",
+              "original_name": "Шаблон Запрос КП (форма).xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/30/0ef/d66/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

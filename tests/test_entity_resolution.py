@@ -2,9 +2,11 @@ from pathlib import Path
 import unittest
 
 from purchase_analysis.entity_resolution import (
+    EntityIdentity,
     build_search_terms,
     classify_entity_match,
     load_entity_scope,
+    propose_identity_enrichment,
     split_multi,
 )
 
@@ -76,6 +78,34 @@ class EntityResolutionTest(unittest.TestCase):
         decision = classify_entity_match(entity, candidate_inn="7707083893", role="operator")
         self.assertFalse(decision.accepted)
         self.assertEqual(decision.reason, "unsafe_core_role")
+
+    def test_propose_identity_enrichment_only_for_missing_or_new_fields(self) -> None:
+        entity = EntityIdentity(
+            entity_id="demo",
+            group_name="demo",
+            entity_name='ООО "ДОМКЛИК"',
+            entity_type="ООО",
+            inn="7736249247",
+            ogrn="",
+            kpp_list=["770101001"],
+            official_name='ООО "ДОМКЛИК"',
+            short_name="ДОМКЛИК",
+            brand_aliases=["Домклик"],
+            search_terms=[],
+        )
+
+        proposed = propose_identity_enrichment(
+            entity,
+            source_system="eis",
+            candidate_name='ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ДОМКЛИК"',
+            candidate_ogrn="1157746652150",
+            candidate_kpp="770201001",
+            evidence="chooser.html",
+        )
+
+        self.assertEqual([row["field_name"] for row in proposed], ["ogrn", "kpp"])
+        self.assertEqual(proposed[0]["proposed_value"], "1157746652150")
+        self.assertEqual(proposed[1]["proposed_value"], "770201001")
 
 
 if __name__ == "__main__":

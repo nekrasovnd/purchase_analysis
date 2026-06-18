@@ -1,0 +1,916 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 40,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "49.41.18.000",
+        "49.41.18.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по перевозке почтовых отправлений и прочих товарно-материальных ценностей автотранспортом по маршруту ОПС Батагай – ОПС Верхоянск – ОПС Батагай; ОПС Верхоянск – ОПС Бала – ОПС Верхоянск включая осуществление погрузо-разгрузочных работ в местах начала и окончания маршрута, а также в пунктах обмена для нужд УФПС Республики Саха (Якутия) АО \"Почта России\"",
+      "viewDemandDate": "25.06.2026 00:00",
+      "lotStageGroupTitle": "Ожидание приема заявок",
+      "uuid": "corebo19718ug0000ptfmksqj0tsrle4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ptfmkscj571jvio",
+      "price": "<div class='aright'>660 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Published",
+        "title": "Объявлен"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-26000540700438",
+      "filingNumber": "32616110137",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.06.2026 08:00&nbsp;МСК",
+      "summationDate": "06.07.2026 00:00",
+      "regionCodes": [
+        "Саха /Якутия/, Респ"
+      ],
+      "placementDate": "13.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Новосибирской области"
+      },
+      "placementType": "Ценовой отбор МСП (301)",
+      "placementDateTime": "13.06.2026 05:40",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ptfmksqj0tsrle4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Республики Саха (Якутия)"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "45.20.11.111"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по техническому обслуживанию, ремонту и освидетельствованию ГБО транспортных средств марки «КАМАЗ» работающих на компримированном (сжатом) природном газе для нужд УФПС Воронежской области АО «Почта России» с использованием запасных частей, предоставляемых исполнителем",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdnonrg5am3p40",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdnonrlmkv8f54",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000772400612",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 16:58",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Москвы"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 16:58",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdnonrlmkv8f54",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Москвы"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "45.20.30.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Мойка кузова легкового автомобиля (ВАЗ, Волга, Лада Ларгус, Шкода) (с использованием моющего средства)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdibni9annkd24",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdibnigs0mchhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000667000543",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:07",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 14:07",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdibnigs0mchhc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "45.20.30.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Мойка кузова Газель, Форд Транзит (будка, фургон), ГАЗ - NEXT, 2705, 2790, 27471 (с использованием моющего средства)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdibni9ho1fua4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdibnigs0mchhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000667000543",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:07",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 14:07",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdibnigs0mchhc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.11.22.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Этап 1 – обследование Объекта",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdio21a5i4pk04",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdio21hcqlhta8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000631700210",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:02",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 14:02",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdio21hcqlhta8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Самарской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.11.22.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Этап 2 – разработка сметной документации, обеспечение получения положительного заключения достоверности определения сметной стоимости",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdio21ahlq0gq4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdio21hcqlhta8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000631700210",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:02",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 14:02",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdio21hcqlhta8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Самарской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Этап 3 – выполнение строительно-монтажных работ",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdio21b1mm0ej0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdio21hcqlhta8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000631700210",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:02",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 14:02",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdio21hcqlhta8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Самарской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "52.21.25.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Эвакуация транспортных средств",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdhkrf5nnkmonk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdhkrfb2s0uj68",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000667000542",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 13:44",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 13:44",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdhkrfb2s0uj68",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "02.20.14.130"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Дрова",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdgviaade6r07o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdgviahvqp3pkk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000667000541",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 13:36",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 13:36",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdgviahvqp3pkk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "61.20.11.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг подвижной радиотелефонной связи для нужд УФПС Республики Коми",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdfqlacdsoceec",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdfqlahra9upm0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000783800531",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 12:19",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 12:19",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdfqlahra9upm0",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.130"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по заправке и восстановлению картриджей для принтеров и копировальной техники для нужд УФПС Республики Коми",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdf86v0t0ltaok",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdf86v7iehbijg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000783800530",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 11:59",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 11:59",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdf86v7iehbijg",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "19.20.29.119"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка масла турбинного ТП-30 ГОСТ 9972-2020 класс пром. чистоты 13 ГОСТ17216-2001 - 30,60 т. и ТП-30 ГОСТ 9972-2020 класс пром. чистоты 11 ГОСТ17216-2001 - 40,68 т. для нужд Саратовского филиала.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdf3t5eqjtr770",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdf3t5jrasq43c",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028334",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 11:56",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 23:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "6345012488",
+        "title": "Управление монтажных работ № 1 АО \"Гидроремонт-ВК\" в г.Балаково"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 11:56",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdf3t5jrasq43c",
+      "customer": [
+        {
+          "inn": "6345012488",
+          "title": "Управление монтажных работ № 1 АО \"Гидроремонт-ВК\" в г.Балаково"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "05.20.10.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Бурый уголь марки 2БПК",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdevsjgjn7d21o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdevsjnijlsvko",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000540700437",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 11:50",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 05:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Новосибирской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 11:50",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdevsjnijlsvko",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Новосибирской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "05.20.10.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Бурый уголь марки Б",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdevsjh95ak764",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdevsjnijlsvko",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000540700437",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 11:50",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 05:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Новосибирской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 11:50",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdevsjnijlsvko",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Новосибирской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "05.10.10.131"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Уголь каменный марки ДР",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdevsjhip7vf9c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdevsjnijlsvko",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000540700437",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 11:50",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 05:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Новосибирской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 11:50",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdevsjnijlsvko",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Новосибирской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.20.19.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по испытанию средств защиты, используемых в электроустановках на объектах УФПС г. Москвы",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptde5v7ksb9mcqk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptde5v7rbghrv4s",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000772400611",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 11:22",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Москвы"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 11:22",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptde5v7rbghrv4s",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Москвы"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "25.73.30.176",
+        "25.73.30.160",
+        "25.73.30.171",
+        "25.73.30.171",
+        "25.73.30.175",
+        "28.24.11.000",
+        "25.71.11.120",
+        "25.73.30.221",
+        "25.73.40.121",
+        "28.24.11.000",
+        "28.24.11.000",
+        "20.30.12.120",
+        "22.29.21.000",
+        "22.29.21.000",
+        "13.99.15.110",
+        "13.96.17.131",
+        "22.21.42.143"
+      ],
+      "type": "BUYING",
+      "title": "Поставка материалов и инструмента для подготовки ледовой площадки на объекте СПб ГАУ «Дирекция по управлению спортивными сооружениями»",
+      "viewDemandDate": "23.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000ptb40nhglah6jcs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ptb40n5kd3a8pv0",
+      "price": "<div class='aright'>447 273,71 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260027880",
+      "filingNumber": "32616106739",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 09:00&nbsp;МСК",
+      "summationDate": "23.06.2026 00:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7804349556",
+        "title": "СПБ ГАУ \"ДИРЕКЦИЯ ПО УПРАВЛЕНИЮ СПОРТИВНЫМИ СООРУЖЕНИЯМИ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "11.06.2026 10:38",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ptb40nhglah6jcs",
+      "customer": [
+        {
+          "inn": "7804349556",
+          "title": "СПБ ГАУ \"ДИРЕКЦИЯ ПО УПРАВЛЕНИЮ СПОРТИВНЫМИ СООРУЖЕНИЯМИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.31.23.113"
+      ],
+      "type": "SMALL_PURCHASE",
+      "title": "Поставка дневных ходовых огней LAQ010",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdbijndk4oge24",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000ptdbijngtq87rms",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmallPurchase_St_Dmnds_Started",
+        "title": "Идет прием предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028272",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 10:07",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "regionCodes": [
+        "Брянская, обл"
+      ],
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "3201000373",
+        "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"БРЯНСКОЕ ТРОЛЛЕЙБУСНОЕ УПРАВЛЕНИЕ\" Г. БРЯНСКА"
+      },
+      "placementType": "Малая закупка",
+      "placementDateTime": "11.06.2026 10:07",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000ptdbijngtq87rms",
+      "customer": [
+        {
+          "inn": "3201000373",
+          "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"БРЯНСКОЕ ТРОЛЛЕЙБУСНОЕ УПРАВЛЕНИЕ\" Г. БРЯНСКА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.53.199"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставку элементов фирменного стиля для оснащения отделений почтовой связи 188688, 152150, 152151, 152153, 152155 филиалов УФПС г. Санкт-Петербурга и Ленинградской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdb1pt38ls9brc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdb1pta3mp31s4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000783800529",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 09:32",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 09:32",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdb1pta3mp31s4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.10.14.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по проведению обязательного психиатрического освидетельствования работников для нужд УФПС Саратовской области.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptdai4d9a11aa10",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptdai4de5bm8ei8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000631700209",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 09:15",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 09:15",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptdai4de5bm8ei8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Самарской области"
+        }
+      ]
+    }
+  ]
+}

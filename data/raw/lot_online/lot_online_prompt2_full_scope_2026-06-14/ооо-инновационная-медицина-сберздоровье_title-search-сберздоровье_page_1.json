@@ -1,0 +1,961 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 40,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.12.111"
+      ],
+      "type": "BUYING",
+      "title": "ПИР, СМР «Строительство ЛЭП-0,4 кВ, установка и монтаж щита  учета и распределительной коробки по адресу  г.Тула, р-н Привокзальный, Калужское шоссе, 19, СТ «Здоровье», уч. № 59, жилой дом на земельном участке кад. № 71:30:070203:2 и др.» для нужд АО «ТГЭС»",
+      "viewDemandDate": "26.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000ptdbq0k3am659tc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ptdbq02lmsl2hag",
+      "price": "<div class='aright'>5 031 190,56 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028276",
+      "filingNumber": "32616108175",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 12:00&nbsp;МСК",
+      "summationDate": "06.07.2026 00:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7105505971",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУЛЬСКИЕ ГОРОДСКИЕ ЭЛЕКТРИЧЕСКИЕ СЕТИ\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "11.06.2026 12:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ptdbq0k3am659tc",
+      "customer": [
+        {
+          "inn": "7105505971",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУЛЬСКИЕ ГОРОДСКИЕ ЭЛЕКТРИЧЕСКИЕ СЕТИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "10.11.31.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка мяса говядины на кости, 1 категории для нужд ГАУ Реабилитационный центр г.Кумертау",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000pt9fi8djnhc1kc4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pt9fi86778p1694",
+      "price": "<div class='aright'>1 045 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260027464",
+      "filingNumber": "32616091231",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 07:00&nbsp;МСК",
+      "summationDate": "16.06.2026 00:00",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "0262011024",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ РЕАБИЛИТАЦИОННЫЙ ЦЕНТР ДЛЯ ДЕТЕЙ И ПОДРОСТКОВ С ОГРАНИЧЕННЫМИ ВОЗМОЖНОСТЯМИ ЗДОРОВЬЯ ГОРОДА КУМЕРТАУ"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.06.2026 09:46",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pt9fi8djnhc1kc4",
+      "customer": [
+        {
+          "inn": "0262011024",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ РЕАБИЛИТАЦИОННЫЙ ЦЕНТР ДЛЯ ДЕТЕЙ И ПОДРОСТКОВ С ОГРАНИЧЕННЫМИ ВОЗМОЖНОСТЯМИ ЗДОРОВЬЯ ГОРОДА КУМЕРТАУ"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.90.19.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по проведению предсменных, предрейсовых, послесменных‚ послерейсовых медицинских осмотров, медицинских осмотров в течение рабочего дня (смены) с использованием медицинских изделий, обеспечивающих автоматизированную дистанционную передачу информации о состоянии здоровья работников и дистанционный контроль состояния их здоровья для нужд для нужд УФПС г. Санкт-Петербурга и Ленинградской области АО «Почта России».",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt4k65ppm4rov18",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt4k65q0s5e75hk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000783800486",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "04.06.2026 15:05",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "04.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "04.06.2026 15:05",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt4k65q0s5e75hk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "79.90.39.190"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 79.90.39.190 Оказание услуг по организации мероприятия «День здоровья» для персонала ООО «РГЦР» и деловых партнеров из Группы РусГидро в г. Санкт-Петербурге и г. Красноярске",
+      "viewDemandDate": "04.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psqbm65l8c085vs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psqbm5rk59lnnj8",
+      "price": "<div class='aright'>1 795 626,00 руб.<br/>(в т.ч. НДС 5%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025331",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 10:00&nbsp;МСК",
+      "summationDate": "04.06.2026 00:00",
+      "regionCodes": [
+        "Красноярский, край"
+      ],
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "2466296773",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "27.05.2026 15:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psqbm65l8c085vs",
+      "customer": [
+        {
+          "inn": "2466296773",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.11.100"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение ПИР, СМР, ПНР с полным иждивением Подрядчика по титулу: Строительство ВЛИ-0,38 кВ от ТП-6/0,4кВ №276, ПС №239 Пушкиноч, в т.ч. ПИР, МО, Пушкинский р-н, с. Тарасовка, тер. СНТ \"Здоровье-2\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psovlp4glnpklfo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psovll43boigtro",
+      "price": "<div class='aright'>339 925,05 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025033",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2026 17:00&nbsp;МСК",
+      "summationDate": "01.06.2026 04:00",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал Публичного акционерного общества \"Россети Московский регион\" - Северные электрические сети"
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "26.05.2026 14:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psovlp4glnpklfo",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "79.90.39.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 79.90.39.190 Оказание услуг по организации мероприятия «День здоровья» для персонала ООО «РГЦР» и деловых партнеров из Группы РусГидро в г. Санкт-Петербурге и г. Красноярске",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000psguv28pajsdch4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000psguv28us2thn50",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260023748",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.05.2026 08:33",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.05.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "20.05.2026",
+      "organizer": {
+        "inn": "2466296773",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "20.05.2026 08:33",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000psguv28us2thn50",
+      "customer": [
+        {
+          "inn": "2466296773",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.12.120"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР по титулу: Реконструкция КТП-100 6/0,4 кВ № 729 (с заменой на МТП-160 6/0,4 кВ с тр-ром 160 кВА), ВЛИ-0,38 кВ (совместный подвес по существующим опорам) от РУ-0,4 кВ до оп. 26 ВЛИ-0,4 кВ ТП-729 ПС Бруски № 477, МО, Егорьевский р-н, с/т \"Здоровье\", уч. 092, 50:30:0020107:159",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000prv06ev4rdb9tqo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000prv06avl8f72ack",
+      "price": "<div class='aright'>476 659,93 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260021495",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.05.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "13.05.2026 08:00&nbsp;МСК",
+      "summationDate": "15.05.2026 04:00",
+      "placementDate": "06.05.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "06.05.2026 10:18",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000prv06ev4rdb9tqo",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.19.000",
+        "56.29.19.000"
+      ],
+      "type": "BUYING",
+      "title": "На право заключения договора по организации питания обучающихся из семей, в установленном порядке признанными малоимущими, обучающихся с ограниченными возможностями здоровья (ОВЗ), обучающихся из семей военнослужащих (мобилизованных граждан), в том числе в Микуньском филиале ГПОУ «САТ», участниками которого могут являться только субъекты малого и среднего предпринимательства",
+      "viewDemandDate": "28.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pr6oc7c9icatjlo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pr6oc75mvkmn4kc",
+      "price": "<div class='aright'>1 198 033,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018455",
+      "filingNumber": "32615925209",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.04.2026 09:00&nbsp;МСК",
+      "summationDate": "29.04.2026 00:00",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "1101483194",
+        "title": "ГОСУДАРСТВЕННОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СЫКТЫВКАРСКИЙ АВТОМЕХАНИЧЕСКИЙ ТЕХНИКУМ\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "17.04.2026 13:43",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pr6oc7c9icatjlo",
+      "customer": [
+        {
+          "inn": "1101483194",
+          "title": "ГОСУДАРСТВЕННОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СЫКТЫВКАРСКИЙ АВТОМЕХАНИЧЕСКИЙ ТЕХНИКУМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.20.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по организации питания ежедневного горячего питания учащихся из малообеспеченных семей и с нарушением здоровья",
+      "viewDemandDate": "14.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqkl9vq9rt2lvcs",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqkl9vjv1365090",
+      "price": "<div class='aright'>867 325,20 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015665",
+      "filingNumber": "32615876436",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 08:00&nbsp;МСК",
+      "summationDate": "14.04.2026 00:00",
+      "placementDate": "03.04.2026",
+      "organizer": {
+        "inn": "7404012558",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 15\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.04.2026 12:21",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqkl9vq9rt2lvcs",
+      "customer": [
+        {
+          "inn": "7404012558",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 15\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.22.19.900"
+      ],
+      "type": "BUYING",
+      "title": "26Т7.14. Оказание услуг по проведению предрейсовых, послерейсовых медицинских осмотров персонала посредством автоматизированных комплексов объективного контроля здоровья для нужд АО «ПСК»",
+      "viewDemandDate": "24.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pqgrltssl2ssrms",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pqgrltj6737r2ns",
+      "price": "<div class='aright'>7 000 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260014766",
+      "filingNumber": "32615861632",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.04.2026 14:00&nbsp;МСК",
+      "summationDate": "04.05.2026 00:00",
+      "placementDate": "31.03.2026",
+      "organizer": {
+        "inn": "1001013117",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИОНЕЖСКАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "31.03.2026 13:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pqgrltssl2ssrms",
+      "customer": [
+        {
+          "inn": "1001013117",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИОНЕЖСКАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "23.64.10.110",
+        "32.91.19.120",
+        "23.64.10.110",
+        "23.64.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка  хозяйственных товаров (гипсовая штукатурка, цементная штукатурка, затирка для плитки, кисть радиаторная)",
+      "viewDemandDate": "07.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pq2m9tal3n8gpds",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pq2m9t23akknapc",
+      "price": "<div class='aright'>19 055,15 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260013001",
+      "filingNumber": "32615822747",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "06.04.2026 10:00&nbsp;МСК",
+      "summationDate": "07.04.2026 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "20.03.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "20.03.2026 13:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pq2m9tal3n8gpds",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "23.51.12.110",
+        "20.12.24.110",
+        "20.12.24.110",
+        "20.12.24.110",
+        "20.12.24.110",
+        "20.12.24.110",
+        "20.12.24.110",
+        "20.12.24.110",
+        "20.12.24.110",
+        "20.12.24.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка  хозяйственных товаров (цемент строительный, колер универсальный)",
+      "viewDemandDate": "30.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pq2esmut1iuaopc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pq2esmm7hjlr6b0",
+      "price": "<div class='aright'>7 330,70 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260012879",
+      "filingNumber": "32615820625",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.03.2026 10:00&nbsp;МСК",
+      "summationDate": "31.03.2026 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "20.03.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "20.03.2026 09:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pq2esmut1iuaopc",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.30.22.120",
+        "20.52.10.190",
+        "20.30.11.120",
+        "20.30.22.110",
+        "20.30.22.110",
+        "20.30.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка  хозяйственных товаров (шпатлевка финишная,клей плиточный, краска водоэмульсионная, грунт эмаль по ржавчине)",
+      "viewDemandDate": "30.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pq2e3aeua2a8b0g",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pq2e3a6f0g0ub24",
+      "price": "<div class='aright'>36 558,52 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260012862",
+      "filingNumber": "32615820495",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.03.2026 10:00&nbsp;МСК",
+      "summationDate": "31.03.2026 00:00",
+      "placementDate": "20.03.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "20.03.2026 09:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pq2e3aeua2a8b0g",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.200"
+      ],
+      "type": "BUYING",
+      "title": "Оказание охранных услуг по обеспечению комплекса мер, направленных на защиту жизни и здоровья граждан, материального имущества объектов, обеспечение внутриобъектового и пропускного режимов учреждения, в отношении которого установленные обязательные требования к антитеррористической защищённости, сохранность жизни и здоровья людей в условиях возникновения чрезвычайных ситуаций природного и техногенного характера в зданиях ГАПОУ БТЭиР имени Героя Советского Союза М.А.Афанасьева и прилегающей территории в 2026 году",
+      "viewDemandDate": "20.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ppoj4o01io3acco",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ppoj4no8fe158vk",
+      "price": "<div class='aright'>23 781 780,00 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260011380",
+      "filingNumber": "32615793531",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.03.2026 08:00&nbsp;МСК",
+      "summationDate": "20.03.2026 00:00",
+      "placementDate": "12.03.2026",
+      "organizer": {
+        "inn": "3233004155",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"БРЯНСКИЙ ТЕХНИКУМ ЭНЕРГОМАШИНОСТРОЕНИЯ И РАДИОЭЛЕКТРОНИКИ ИМЕНИ ГЕРОЯ СОВЕТСКОГО СОЮЗА М.А.АФАНАСЬЕВА\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "12.03.2026 17:18",
+      "deposit": "118 908,90 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ppoj4o01io3acco",
+      "customer": [
+        {
+          "inn": "3233004155",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"БРЯНСКИЙ ТЕХНИКУМ ЭНЕРГОМАШИНОСТРОЕНИЯ И РАДИОЭЛЕКТРОНИКИ ИМЕНИ ГЕРОЯ СОВЕТСКОГО СОЮЗА М.А.АФАНАСЬЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "93.29.19"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 93.29.19 Услуги по организации мероприятия, направленного на повышение осознанности работников в отношении здоровья (Лот № 9-СОЦ-ДУП-2026-ИА)",
+      "viewDemandDate": "30.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ppoba9998ndhamg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ppob7fqqiv497t8",
+      "price": "<div class='aright'>8 540 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260011228",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.03.2026 10:00&nbsp;МСК",
+      "summationDate": "30.03.2026 00:00",
+      "placementDate": "12.03.2026",
+      "organizer": {
+        "inn": "1510012774",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РУСГИДРО СНАБЖЕНИЕ\""
+      },
+      "placementType": "Состязательный отбор",
+      "placementDateTime": "12.03.2026 13:13",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ppoba9998ndhamg",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ГИДРОГЕНЕРИРУЮЩАЯ КОМПАНИЯ - РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.140"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 42.22.22.140. Выполнение работ по капитальному ремонту  ПС 110 кВ Здоровье структурного подразделения \"Центральные электрические сети\", филиала \"Хабаровские электрические сети\" ",
+      "viewDemandDate": "31.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ppllftqnvbqvpe8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ppllftgdkfnppps",
+      "price": "<div class='aright'>13 756 866,40 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260010512",
+      "filingNumber": "32615780553",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.03.2026 09:00&nbsp;МСК",
+      "summationDate": "14.04.2026 00:00",
+      "regionCodes": [
+        "Хабаровский, край"
+      ],
+      "placementDate": "10.03.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "10.03.2026 10:47",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ppllftqnvbqvpe8",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.40.25.123"
+      ],
+      "type": "BUYING",
+      "title": "Поставка светильников светодиодных",
+      "viewDemandDate": "20.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ppcpf92uuo1gmp0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ppcpf8qemm86k90",
+      "price": "<div class='aright'>40 355,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260009388",
+      "filingNumber": "32615762969",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.03.2026 10:00&nbsp;МСК",
+      "summationDate": "23.03.2026 00:00",
+      "placementDate": "03.03.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "03.03.2026 13:31",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ppcpf92uuo1gmp0",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.40.15.150",
+        "27.40.15.150",
+        "27.40.15.150",
+        "27.40.15.150",
+        "27.40.15.150"
+      ],
+      "type": "BUYING",
+      "title": "Поставка ламп светодиодных",
+      "viewDemandDate": "12.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ppcjhboqhir0oa4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ppcjhbinf4nnn0o",
+      "price": "<div class='aright'>23 886,35 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260009318",
+      "filingNumber": "32615761577",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.03.2026 10:00&nbsp;МСК",
+      "summationDate": "13.03.2026 00:00",
+      "placementDate": "03.03.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.03.2026 10:13",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ppcjhboqhir0oa4",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.41.44.190",
+        "17.22.11.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка соли для посудомоечной машины, бумаги туалетной",
+      "viewDemandDate": "26.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000poqkmcp7577rlc0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000poqkmchdjtqjt5k",
+      "price": "<div class='aright'>101 126,10 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260006895",
+      "filingNumber": "32615714272",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.02.2026 10:00&nbsp;МСК",
+      "summationDate": "27.02.2026 00:00",
+      "placementDate": "17.02.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "17.02.2026 11:14",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000poqkmcp7577rlc0",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.13.43.111",
+        "20.41.32.111"
+      ],
+      "type": "BUYING",
+      "title": "Поставка товара (таблетки для посудомоечных машин, сода кальцинированная)",
+      "viewDemandDate": "27.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000poqj1serqoq3ra4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000poqj1s95sok3cck",
+      "price": "<div class='aright'>295 236,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260006870",
+      "filingNumber": "32615713795",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.02.2026 10:00&nbsp;МСК",
+      "summationDate": "02.03.2026 00:00",
+      "placementDate": "17.02.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "17.02.2026 10:14",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000poqj1serqoq3ra4",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    }
+  ]
+}

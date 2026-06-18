@@ -16,9 +16,37 @@ def _sum_with_min_count(series: pd.Series) -> float | None:
     return series.sum(min_count=1)
 
 
+def _parse_datetime_series(values: Any, index: pd.Index) -> pd.Series:
+    if values is None:
+        return pd.Series(pd.NaT, index=index)
+    parsed = pd.to_datetime(values, errors="coerce", format="mixed", utc=True)
+    return parsed.dt.tz_convert(None)
+
+
+def _parse_boundary_date(value: str | None, *, end_of_day: bool = False) -> pd.Timestamp | None:
+    if not value:
+        return None
+    parsed = pd.to_datetime(value, errors="coerce", dayfirst=True, format="mixed")
+    if pd.isna(parsed):
+        return None
+    timestamp = pd.Timestamp(parsed)
+    if end_of_day:
+        timestamp = timestamp.normalize() + pd.Timedelta(days=1) - pd.Timedelta(nanoseconds=1)
+    return timestamp
+
+
 def _clean_price_series(series: pd.Series) -> pd.Series:
     prices = pd.to_numeric(series, errors="coerce")
     return prices.where((prices > 0) & (prices <= MAX_PLAUSIBLE_PRICE_RUB))
+
+
+def _truthy_series(series: pd.Series) -> pd.Series:
+    if pd.api.types.is_bool_dtype(series):
+        return series.fillna(False)
+    if pd.api.types.is_numeric_dtype(series):
+        return series.fillna(0).astype(float) != 0
+    normalized = series.fillna("").astype(str).str.strip().str.lower()
+    return normalized.isin({"1", "true", "t", "yes", "y", "да"})
 
 
 def build_entities_frame(entity_records: list[dict[str, Any]]) -> pd.DataFrame:
@@ -44,6 +72,8 @@ def build_entities_frame(entity_records: list[dict[str, Any]]) -> pd.DataFrame:
 def build_procurements_frame(
     search_rows: list[dict[str, Any]],
     detail_rows: list[dict[str, Any]],
+    date_from: str | None = None,
+    date_to: str | None = None,
 ) -> pd.DataFrame:
     base_df = pd.DataFrame(search_rows)
     if base_df.empty:
@@ -70,23 +100,36 @@ def build_procurements_frame(
         detail_column = f"{column}_detail"
         if detail_column in df.columns:
             if "published" in column or "deadline" in column:
-                df[column] = pd.to_datetime(df[column], errors="coerce").combine_first(
-                    pd.to_datetime(df[detail_column], errors="coerce")
+                df[column] = _parse_datetime_series(df.get(column), df.index).combine_first(
+                    _parse_datetime_series(df[detail_column], df.index)
                 )
             else:
                 df[column] = df[column].combine_first(df[detail_column])
 
-    df["published_at"] = pd.to_datetime(df.get("published_at"), errors="coerce")
-    df["deadline_at"] = pd.to_datetime(df.get("deadline_at"), errors="coerce")
-    df["application_deadline"] = pd.to_datetime(df.get("application_deadline"), errors="coerce")
+    df["published_at"] = _parse_datetime_series(df.get("published_at"), df.index)
+    df["deadline_at"] = _parse_datetime_series(df.get("deadline_at"), df.index)
+    df["application_deadline"] = _parse_datetime_series(df.get("application_deadline"), df.index)
     df["publication_month"] = df["published_at"].dt.to_period("M").astype("string")
     df["publication_year"] = df["published_at"].dt.year.astype("Int64")
+
+    range_start = _parse_boundary_date(date_from)
+    range_end = _parse_boundary_date(date_to, end_of_day=True)
+    if range_start is not None or range_end is not None:
+        in_range = df["published_at"].notna()
+        if range_start is not None:
+            in_range &= df["published_at"] >= range_start
+        if range_end is not None:
+            in_range &= df["published_at"] <= range_end
+        df = df[in_range].copy()
+
+    tags = df["tags"] if "tags" in df.columns else pd.Series(pd.NA, index=df.index)
+    okpd_names = df["okpd_name"] if "okpd_name" in df.columns else pd.Series(pd.NA, index=df.index)
     df["focus_category"] = [
         token_category(subject, tags, okpd_name)
         for subject, tags, okpd_name in zip(
             df["subject"],
-            df.get("tags", pd.Series(dtype="string")),
-            df.get("okpd_name", pd.Series(dtype="string")),
+            tags,
+            okpd_names,
             strict=False,
         )
     ]
@@ -245,7 +288,7 @@ def build_participants_frame(rows: list[dict[str, Any]]) -> pd.DataFrame:
     if "offer_price_rub" in df.columns:
         df["offer_price_rub"] = pd.to_numeric(df["offer_price_rub"], errors="coerce")
     if "is_winner" in df.columns:
-        df["is_winner"] = df["is_winner"].fillna(False).astype(bool)
+        df["is_winner"] = _truthy_series(df["is_winner"])
     return df.sort_values(["procedure_number", "participant_role", "participant_name"]).reset_index(
         drop=True
     )
@@ -727,7 +770,8 @@ def build_quality_summary(
 ) -> dict[str, Any]:
     duplicate_lots_removed = 0
     if not lots_df.empty and "duplicate_group_size" in lots_df.columns:
-        duplicate_lots_removed = int((lots_df["duplicate_group_size"] - 1).clip(lower=0).sum())
+        duplicate_group_size = pd.to_numeric(lots_df["duplicate_group_size"], errors="coerce").fillna(1)
+        duplicate_lots_removed = int((duplicate_group_size - 1).clip(lower=0).sum())
     non_zero_entities = 0
     if not lots_df.empty and "entity_name" in lots_df.columns:
         non_zero_entities = int(lots_df["entity_name"].nunique())
@@ -760,13 +804,13 @@ def build_quality_summary(
         ),
         "participants_total": int(len(participants_df)),
         "winners_total": (
-            int(participants_df["is_winner"].sum())
+            int(_truthy_series(participants_df["is_winner"]).sum())
             if not participants_df.empty and "is_winner" in participants_df
             else 0
         ),
         "unit_price_benchmarks_total": int(len(unit_price_benchmarks_df)),
         "unit_price_anomalies_total": (
-            int(unit_price_benchmarks_df["unit_price_anomaly_flag"].sum())
+            int(_truthy_series(unit_price_benchmarks_df["unit_price_anomaly_flag"]).sum())
             if not unit_price_benchmarks_df.empty and "unit_price_anomaly_flag" in unit_price_benchmarks_df
             else 0
         ),

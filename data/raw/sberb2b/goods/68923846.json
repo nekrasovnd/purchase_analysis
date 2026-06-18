@@ -1,0 +1,117 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "e2684920-a00a-437e-bd75-4cf0b780903a",
+        "c_description": "Воздуходувка Milti Pro Turbo Mini Jet Fan , аккумуляторная , мощность 220 Вт, 4000 м А ч, черный",
+        "c_comment": "Тип: воздуходувка портативная аккумуляторная\nФункции: обдув\nMax число оборотов: не менее 130 000\nMax объем воздушного потока: не менее 120 м³/час\nMax скорость воздуха: не менее 35 м/с\nЕмкость аккумулятора: не менее 3 А*ч\nНапряжение аккумулятора: не менее 5 В\nТип аккумулятора: Li-ion\nКоличество аккумуляторов в комплекте: не менее 1\nВес нетто: не более 0,8 кг",
+        "c_priceWithTax": 0.0,
+        "c_count": 350.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "05ec9e35-4c53-4473-bb23-a664ede498a7",
+            "is_deletable": true,
+            "name": "410da4ea65539040d0ca905aeb29c4e6.jpg",
+            "original_name": "5362030244447520755.jpg",
+            "size": 177630,
+            "type": "image",
+            "web_path": "/uploads/images/41/0da/4ea/",
+            "created_at": "2025-09-19T12:59:59+03:00",
+            "created_by": {
+              "name": "Наталья",
+              "patronymic": "Дмитриевна",
+              "surname": "Иванова"
+            },
+            "file": {
+              "id": "2ba21583-a663-4c24-8ece-b84b7d2ef9da",
+              "name": "410da4ea65539040d0ca905aeb29c4e6.jpg",
+              "original_name": "5362030244447520755.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/41/0da/4ea/"
+            }
+          },
+          {
+            "id": "16bf1b11-d75e-44de-8fa1-bad33c68e71d",
+            "is_deletable": true,
+            "name": "78d35fe94ab55b7a5e1d71b33befb2ec.jpg",
+            "original_name": "5362030244447520748.jpg",
+            "size": 282319,
+            "type": "image",
+            "web_path": "/uploads/images/78/d35/fe9/",
+            "created_at": "2025-09-19T12:59:58+03:00",
+            "created_by": {
+              "name": "Наталья",
+              "patronymic": "Дмитриевна",
+              "surname": "Иванова"
+            },
+            "file": {
+              "id": "b1e4cad4-c98e-43f2-8b1f-26b751784298",
+              "name": "78d35fe94ab55b7a5e1d71b33befb2ec.jpg",
+              "original_name": "5362030244447520748.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/78/d35/fe9/"
+            }
+          },
+          {
+            "id": "47f15378-215e-4617-b29a-a306795cf515",
+            "is_deletable": true,
+            "name": "7bb1972b6c7569b5cca7e07eb55c7027.jpg",
+            "original_name": "5362030244447520754.jpg",
+            "size": 87609,
+            "type": "image",
+            "web_path": "/uploads/images/7b/b19/72b/",
+            "created_at": "2025-09-19T12:59:56+03:00",
+            "created_by": {
+              "name": "Наталья",
+              "patronymic": "Дмитриевна",
+              "surname": "Иванова"
+            },
+            "file": {
+              "id": "78183fe8-b7dd-4e69-b35c-f848c4e8523b",
+              "name": "7bb1972b6c7569b5cca7e07eb55c7027.jpg",
+              "original_name": "5362030244447520754.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/7b/b19/72b/"
+            }
+          },
+          {
+            "id": "65983a41-88f5-4594-bd8b-6c60df206be8",
+            "is_deletable": true,
+            "name": "a60a80de3ba481f6132684f670001496.jpg",
+            "original_name": "5362030244447520753.jpg",
+            "size": 183894,
+            "type": "image",
+            "web_path": "/uploads/images/a6/0a8/0de/",
+            "created_at": "2025-09-19T12:59:56+03:00",
+            "created_by": {
+              "name": "Наталья",
+              "patronymic": "Дмитриевна",
+              "surname": "Иванова"
+            },
+            "file": {
+              "id": "8b0fd5a5-7d89-4691-933b-6a22e938f299",
+              "name": "a60a80de3ba481f6132684f670001496.jpg",
+              "original_name": "5362030244447520753.jpg",
+              "type": "image/jpeg",
+              "web_path": "/uploads/images/a6/0a8/0de/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

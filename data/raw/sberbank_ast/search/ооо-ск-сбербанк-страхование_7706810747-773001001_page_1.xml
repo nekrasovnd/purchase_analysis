@@ -1,0 +1,48 @@
+<datarow>
+  <total>
+    <value>1</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3148789</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершение</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>ООО СК "СБЕРБАНК СТРАХОВАНИЕ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/3148789</CreateRequestHrefTerm>
+      <BidStatusName>Завершение</BidStatusName>
+      <RequestAcceptDate>12.12.2025 18:00</RequestAcceptDate>
+      <RequestDate>12.12.2025 18:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2512090002.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>09.12.2025 16:46</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оборудование: межсетевой экран Check Point 6600 Base Appliance with SandBlast (SNBT)</BidName>
+      <purchCodeTerm>SBR065-2512090002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/3656301</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>09.12.2025 16:50</RequestStartDate>
+      <EndDate>16.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение на право заключения договора на приобретение оборудования: Межсетевой экран Check Point 6600 Base Appliance with SandBlast (SNBT)</purchName>
+      <purchAmount>178000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершение</UnitedStateName>
+    </_source>
+    <sort>1765298760000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

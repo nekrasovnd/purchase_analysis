@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "afa3f50b-3603-4fe7-9f21-a25abdbb3ca9",
+        "c_description": "Поддон деревянный 1200*800 б\\у 2 сорт",
+        "c_comment": "Размер 1200х800 мм.\nТолщина доски 20-22 мм.\nГрузоподъемность 1500 кг.\nГОСТ 9078-84\n",
+        "c_priceWithTax": 0.0,
+        "c_count": 50.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "16.24.11.110",
+        "c_okpd2Name": "Поддоны деревянные, включая поддоны с бортами",
+        "c_warrantyPeriodMonths": 12,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

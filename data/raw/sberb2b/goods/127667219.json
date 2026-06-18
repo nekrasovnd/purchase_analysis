@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "52d45403-5aca-4e13-9841-edbd8e5a680b",
+        "c_description": "Услуги по техническому обслуживанию пурифайера",
+        "c_comment": "Согласно техническому заданию",
+        "c_priceWithTax": 0.0,
+        "c_count": 4.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "33.12.19.000",
+        "c_okpd2Name": "Услуги по ремонту и техническому обслуживанию прочего оборудования общего назначения, не включенного в другие группировки",
+        "c_warrantyPeriodMonths": 6,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "a8b5a205-c36f-4750-ab52-54d404238d3a",
+        "c_description": "Работы по ремонту пурифайера",
+        "c_comment": "Согласно техническому заданию в приложенном файле",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "33.12.19.000",
+        "c_okpd2Name": "Услуги по ремонту и техническому обслуживанию прочего оборудования общего назначения, не включенного в другие группировки",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "891a9290-db2f-4551-83e5-9beb6e4bb3d3",
+            "is_deletable": true,
+            "name": "9234a71d363cf39c650148cfee6b4348.docx",
+            "original_name": "Форма подачи КП.docx",
+            "size": 26880,
+            "type": "document",
+            "web_path": "/uploads/documents/92/34a/71d/",
+            "created_at": "2025-09-18T14:28:14+03:00",
+            "created_by": {
+              "name": "Александра",
+              "patronymic": "Геннадьевна",
+              "surname": "Дур"
+            },
+            "file": {
+              "id": "568bf2e8-f7a7-4c59-9098-a73d0e559bbe",
+              "name": "9234a71d363cf39c650148cfee6b4348.docx",
+              "original_name": "Форма подачи КП.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/92/34a/71d/"
+            }
+          },
+          {
+            "id": "9ee3e5a3-aaef-4cd0-ae29-f52be805f688",
+            "is_deletable": true,
+            "name": "f1fd5a2916fbd0f9c9aec974a9131b4e.docx",
+            "original_name": "Техническое задание (Астрахань).docx",
+            "size": 35750,
+            "type": "document",
+            "web_path": "/uploads/documents/f1/fd5/a29/",
+            "created_at": "2025-09-18T14:28:42+03:00",
+            "created_by": {
+              "name": "Александра",
+              "patronymic": "Геннадьевна",
+              "surname": "Дур"
+            },
+            "file": {
+              "id": "e5b20a35-4bfd-44fb-b97f-5b88c800addc",
+              "name": "f1fd5a2916fbd0f9c9aec974a9131b4e.docx",
+              "original_name": "Техническое задание (Астрахань).docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/f1/fd5/a29/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

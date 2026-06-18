@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "29ede598-2af9-4125-bfff-19149b5b2514",
+        "c_description": "Услуга уборки помещения по адресу Владимирская обл., г. Александров, ул. Октябрьская, д. 4 - общей площадью 27,80 кв. м.",
+        "c_comment": "Согласно техническому заданию",
+        "c_priceWithTax": 0.0,
+        "c_count": 24.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 24,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

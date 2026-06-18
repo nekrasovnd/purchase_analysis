@@ -1,16 +1,16 @@
 {
   "entities_total": 24,
   "entities_with_observed_lots": 13,
-  "lots_total": 1556,
+  "lots_total": 1533,
   "lots_duplicates_removed": 65,
   "lots_with_disclosed_price": 382,
-  "price_coverage_ratio": 0.2455,
-  "items_total": 3331,
+  "price_coverage_ratio": 0.2492,
+  "items_total": 3308,
   "items_with_unit_price": 2310,
-  "document_links_total": 4147,
+  "document_links_total": 3982,
   "document_texts_total": 250,
   "document_text_chars_total": 4328100,
-  "participants_total": 616,
+  "participants_total": 593,
   "winners_total": 0,
   "unit_price_benchmarks_total": 709,
   "unit_price_anomalies_total": 7,
@@ -18,7 +18,7 @@
   "macro_has_inflation": true,
   "source_breakdown": {
     "sberbank_ast": 940,
-    "roseltorg": 616
+    "roseltorg": 593
   },
   "coverage_note": "EIS works as official coverage control; Roseltorg and Sberbank-AST supply the observed lot-level sample; SberB2B public cards enrich AST rows with goods, documents, and any public participant data; ZakazRF, Lot-Online, RTS-Tender, ETP GPB, and Tektorg are reproduced or documented as exact probe sources with zero new 2024-2025 core rows after deduplication and precision checks."
 }

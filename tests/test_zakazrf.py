@@ -1,6 +1,7 @@
 import unittest
 
 from purchase_analysis.clients.zakazrf import (
+    build_customer_search_payload,
     filter_exact_customer_candidates,
     parse_customer_candidates,
     parse_customer_dialog_context,
@@ -96,6 +97,23 @@ class ZakazRfClientTest(unittest.TestCase):
         self.assertEqual(context.dialog_page_id, "745FAE9C9FB43A73")
         self.assertEqual(context.page_size, 20)
         self.assertEqual(context.serializable_table_key, "HASH")
+
+    def test_build_customer_search_payload_supports_all_identifier_fields(self) -> None:
+        context = parse_customer_dialog_context(
+            DIALOG_HTML,
+            main_page_id="91182E96173849BB",
+            dialog_url="https://etp.zakazrf.ru/Customer",
+        )
+        payload = build_customer_search_payload(
+            context,
+            inn="7707083893",
+            full_name='ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СБЕРБАНК РОССИИ"',
+            ogrn="1027700132195",
+            kpp="773601001",
+        )
+        self.assertEqual(payload["FilterSelect.INN"], "7707083893")
+        self.assertEqual(payload["FilterSelect.OGRN"], "1027700132195")
+        self.assertEqual(payload["FilterSelect.KPP"], "773601001")
 
     def test_parse_customer_candidates(self) -> None:
         candidates = parse_customer_candidates(CUSTOMER_RESULTS_HTML)

@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "5785e5c9-d889-4046-a023-4d3e46c2daef",
+        "c_description": "Оказание услуг по доставке корреспонденции и грузов по территории Российской Федерации",
+        "c_comment": "В соответствии с тех.заданием",
+        "c_priceWithTax": 65000000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 65000000.0,
+        "c_okpd2Code": "53.20.11.190",
+        "c_okpd2Name": "Услуги по курьерской доставке различными видами транспорта прочие",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

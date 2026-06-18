@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "aeb47e92-6672-4fb9-b94d-b0f6a61f6d2b",
+        "c_description": "оказание транспортных услуг по перевозке грузов автотранспортными средствами от 3 до 10 тонн с возможностью выполнения погрузо-разгрузочных работ по территории Российской Федерации",
+        "c_comment": "Согласно технического задания",
+        "c_priceWithTax": 495000.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 495000.0,
+        "c_okpd2Code": "49.41.19.900",
+        "c_okpd2Name": "Услуги по перевозке грузов автомобильным транспортом прочие, не включенные в другие группировки",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

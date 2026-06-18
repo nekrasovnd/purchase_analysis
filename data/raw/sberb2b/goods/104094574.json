@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "4b4c952d-caf2-45c2-baa2-cfdd70606753",
+        "c_description": "Зерновая кофе-машина",
+        "c_comment": "Тип: автоматическая для зернового и молотого кофе;\nКорпус: нержавеющая сталь, цвет черный/серый;\nРазмеры кофе-машины: Ш55хВ45хГ50\nМощность не более 1,8 кВт;\nРегулировка степени помола; \nКонтроль крепости кофе; \nРегулировка порции воды; \nЭлектронный текстовый дисплей; \nВозможность приготовления горячего молока (наличие автоматического капучинатора); \nРежим «Подача кипятка»;\nНаличие опции «Приготовление двух чашек одновременно»;\nРежим автоочистки; \nРежим энергосбережения;\n",
+        "c_priceWithTax": 75920.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 75920.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": 24,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "b6486cbc-eacd-4f27-accd-afb90e3dcef4",
+            "is_deletable": true,
+            "name": "0d1f4a14458211a7c5ae2254d24d8add.docx",
+            "original_name": "Запрос КП.docx",
+            "size": 18706,
+            "type": "document",
+            "web_path": "/uploads/documents/0d/1f4/a14/",
+            "created_at": "2025-08-20T12:51:36+03:00",
+            "created_by": {
+              "name": "Анна",
+              "patronymic": null,
+              "surname": "Перевезенцева"
+            },
+            "file": {
+              "id": "640f6c27-1cd1-4fba-8d67-ea12aebda469",
+              "name": "0d1f4a14458211a7c5ae2254d24d8add.docx",
+              "original_name": "Запрос КП.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/0d/1f4/a14/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

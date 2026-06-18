@@ -203,6 +203,60 @@ Observed outcome:
 - exact customer procedures for that id are from 2022.
 - 2024-2025 exact rows: 0.
 
+## Tender.Pro
+
+Verified public company-search and company-purchases surfaces:
+
+- `https://www.tender.pro/api/companies/list`
+- `https://www.tender.pro/api/company/<id>/view?active_tab=purchases`
+
+What was reproduced:
+
+- public company search by `inn`
+- public company search by exact `title`
+- public company profile parsing with:
+  - `ИНН/КПП`
+  - often `ОГРН`
+  - official / short names
+- exact company acceptance only after `classify_entity_match(...)`
+- public purchases-page parsing from exact matched company pages
+- pagination through the public purchases tab
+
+Important limitation:
+
+- the public search form has no separate `ogrn` field
+- `ОГРН` can only be tried as a title fallback and usually returns zero results
+
+Observed outcome for the Sber scope:
+
+- exact company matches: `20`
+- accepted 2024-2025 rows: `1`
+- accepted entity with public rows in the target window:
+  - `ООО Инстамарт Сервис (Купер)`
+- many other entities resolved to exact Tender.Pro company pages, but their public purchases tabs either:
+  - had `0` rows
+  - or only had rows outside `2024-2025`
+
+Enrichment outcome:
+
+- additional KPP evidence for:
+  - `ПАО Сбербанк России`
+  - `АО Сбербанк Лизинг`
+- OGRN evidence for:
+  - `ООО СберЛогистика`
+  - `ООО Инстамарт Сервис (Купер)`
+  - `ООО Инновационная медицина (СберЗдоровье)`
+
+Artifacts:
+
+- source sprint script: `scripts/tender_pro_prompt2_source_sprint.py`
+- client: `src/purchase_analysis/clients/tender_pro.py`
+- tests: `tests/test_tender_pro.py`
+- latest full batch:
+  - `output/source_sprints/tender_pro_prompt2_full_scope_2026-06-18_v2/summary.json`
+- raw HTML:
+  - `data/raw/tender_pro/tender_pro_prompt2_full_scope_2026-06-18_v2/`
+
 ## ТЭК-Торг
 
 Verified official API surfaces:
@@ -232,4 +286,5 @@ Both integrations are now implemented as working, reproducible adapters.
 - `SberB2B`: public enrichment works for goods/documents; public winner/offer endpoints are not exposed without authorization
 - `RTS-Тендер`: public search was reproduced through Playwright; strict RTS-only exact probes found no new Sber 2024-2025 rows
 - `ЭТП ГПБ`: live API was found; exact customer results contain no 2024-2025 Sber rows
+- `Tender.Pro`: public company search + exact company pages work; only `ООО Инстамарт Сервис (Купер)` produced accepted 2024-2025 rows in the current run
 - `ТЭК-Торг`: official SOAP API was reproduced; exact Sber-INN probes returned no accepted rows

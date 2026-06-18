@@ -1,0 +1,92 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "44117ac4-aa6a-481b-ad0c-5d685f26e8d4",
+        "c_description": "Запрос_Москва",
+        "c_comment": "Полный список и технические характеристики во вложенном файле\nУказать итоговую сумму за все позиции с НДС\nПриложить развернутое КП",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "46.51.10.110",
+        "c_okpd2Name": "Услуги по оптовой торговле компьютерами, компьютерными периферийными устройствами",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "e334ac87-8d9c-43a4-acd0-17f47a398019",
+            "is_deletable": true,
+            "name": "f2413d6c6baac08ce601096acf100423.xlsx",
+            "original_name": "Запрос_МСК.xlsx",
+            "size": 15390,
+            "type": "document",
+            "web_path": "/uploads/documents/f2/413/d6c/",
+            "created_at": "2025-12-22T15:02:51+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Сергеевич",
+              "surname": "Дрожинов"
+            },
+            "file": {
+              "id": "bb2059fd-9e68-4971-bc98-d4e768ed306d",
+              "name": "f2413d6c6baac08ce601096acf100423.xlsx",
+              "original_name": "Запрос_МСК.xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/f2/413/d6c/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "e39be47f-98bc-4c7c-9491-01d25a209f46",
+        "c_description": "Запрос_Калуга",
+        "c_comment": "Полный список и технические характеристики во вложенном файле.\nУказать итоговую сумму за все позиции с НДС\nПриложить развернутое КП",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "46.51.10.110",
+        "c_okpd2Name": "Услуги по оптовой торговле компьютерами, компьютерными периферийными устройствами",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "e408d3a5-f66f-4f0c-9212-b72bb809852e",
+            "is_deletable": true,
+            "name": "b9fd4cf6692645178fa18cbe2f1b0ffd.xlsx",
+            "original_name": "Запрос_Калуга.xlsx",
+            "size": 11145,
+            "type": "document",
+            "web_path": "/uploads/documents/b9/fd4/cf6/",
+            "created_at": "2025-12-22T15:04:06+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Сергеевич",
+              "surname": "Дрожинов"
+            },
+            "file": {
+              "id": "4895b96b-c0c5-4bc8-8cb6-882ce5f02109",
+              "name": "b9fd4cf6692645178fa18cbe2f1b0ffd.xlsx",
+              "original_name": "Запрос_Калуга.xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/b9/fd4/cf6/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

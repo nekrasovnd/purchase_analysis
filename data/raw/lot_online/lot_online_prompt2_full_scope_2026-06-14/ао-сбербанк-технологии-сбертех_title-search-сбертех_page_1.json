@@ -1,0 +1,901 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 40,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.13.000",
+        "71.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 71.12.13.000 Разработка проектной и рабочей документации (включая инженерные изыскания) по объекту Строительство КЛ-6 кВ от РУ-6 кВ ПС 110/35/6 кВ \"Южная\" ячейка новая - 0,9 км (в том числе ГНБ 0,28 км); монтаж линейного разъединителя 6 кВ на опоре - 1 шт.; монтаж коммерческого учета 6 кВ - 1 шт.  Реконструкция РУ-6 кВ ПС 110/35/6 кВ \"Южная\" с заменой в яч. №11 вакуумного выключателя - 1 шт. и трансформаторов тока - 3 шт. для заявителя АО СПК в рамках реализации инвестиционных проектов (P_27-ХЭС-5855, Q_27-ХЭС-5856)»",
+      "viewDemandDate": "23.06.2026 00:00",
+      "lotStageGroupTitle": "Ожидание приема заявок",
+      "uuid": "corebo19718u80000ptee4jl9vvaqalc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptee4j8cjqk0i6c",
+      "price": "<div class='aright'>2 782 451,56 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Published",
+        "title": "Объявлен"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028470",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.06.2026 05:00&nbsp;МСК",
+      "summationDate": "24.06.2026 00:00",
+      "regionCodes": [
+        "Хабаровский, край"
+      ],
+      "placementDate": "12.06.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" Хабаровские электрические сети\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "12.06.2026 06:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptee4jl9vvaqalc",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.21.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по уборке помещений ГАУ ТО \"МИАЦ\" после проведенного ремонта",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdi7hmndbaj7rg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdi7hmsoedt5rs",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028376",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 13:43",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7203239245",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 13:43",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdi7hmsoedt5rs",
+      "customer": [
+        {
+          "inn": "7203239245",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ в рамках частичной реализации ТУ № И-18-00-104483/125/МС, на объекте расположенному по адресу: 121500, Московская обл., Одинцовский р-н, дер. Мякинино, ЗАО ''Береста'', уч. 1, 50:20:0000000:78044. 50:20:0000000:291457, 50:20:0000000:78056, 50:20:0010104:613.",
+      "viewDemandDate": "13.07.2026 04:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdfnc53qqhejp4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdfn9ff5a2a72c",
+      "price": "<div class='aright'>877 891,58 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028342",
+      "filingNumber": "32616107882",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.06.2026 12:00&nbsp;МСК",
+      "summationDate": "14.07.2026 21:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал Публичного Акционерного Общества \"Россети Московский регион\" - Московские кабельные сети"
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "11.06.2026 12:21",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdfnc53qqhejp4",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "45.20.21.223"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД 2 : 45.20.21.223 Услуги по шиномонтажу транспортных средств для нужд Жигулевского транспортного участка Приволжского филиала АО « ТК РусГидро».",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptddeg69cu83b38",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptddeg6fuk898go",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028299",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 10:59",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 10:59",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptddeg6fuk898go",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.20.14"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "«ОКПД2: 71.20.14 Услуги по техническому осмотру транспортных средств Жигулевского транспортного участка Приволжского филиала АО \"ТК РусГидро\".",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdd91iai5l9pj0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdd91ihbone4tk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028296",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 10:51",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 10:50&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 10:51",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdd91ihbone4tk",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "85.42.19"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "оказание услуг по проведению конкурса профессионального мастерства",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptd8hjrm29tk1ig",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptd8hjrrhi492bg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028218",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 08:51",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 03:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" Хабаровские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 08:51",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptd8hjrrhi492bg",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" Хабаровские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.21.10"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД 2 86.21.10 Услуги по проведению предрейсового и послерейсового медицинского осмотра водителей в г. Хабаровск для нужд Хабаровского ТУ Дальневосточного филиала АО «ТК РусГидро»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptd77tndfl7ke6g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptd77tnj609v2lg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028206",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 07:19",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 07:19",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptd77tnj609v2lg",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.21.10"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД 2 86.21.10 Оказание услуг по проведению периодических медицинских осмотров в г. Белогорск, г. Свободный, г. Тында, г. Шимановск, г. Сковородино, г. Завитинск, пгт. Магдагачи и пгт. Февральск для нужд Благовещенского ТУ Владивостокского представительства АО «ТК РусГидро»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptd69uh7e8ofdbk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptd69uhdsscmvrc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028204",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 06:47",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 07:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 06:47",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptd69uhdsscmvrc",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.30.12.140"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Грунтовка ХС-010 ТУ 6-21-7-89",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptce5ai71e9b5v8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptce5aighdl1574",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028170",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 17:01",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.06.2026 17:01",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptce5aighdl1574",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "23.99.12.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Праймер битумный №01 ТУ 5775-011-17925162-2003",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptce5ai7s74cjsc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptce5aighdl1574",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028170",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 17:01",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.06.2026 17:01",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptce5aighdl1574",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "23.99.12.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Праймер НК-50 ТУ 5775-001-01297859-95",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptce5ai94pgu06c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptce5aighdl1574",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028170",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 17:01",
+      "lotNumber": 6,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.06.2026 17:01",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptce5aighdl1574",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "22.29.21.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Лента ЛИТКОР-2,0 ТУ 2245-001-48312016-01",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptce5ai9vhv5sto",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptce5aighdl1574",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028170",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 17:01",
+      "lotNumber": 7,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.06.2026 17:01",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptce5aighdl1574",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "22.29.21.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Обертка ПОЛИЛЕН ОБ-63 ТУ 2245-004-01297859-99",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptce5aia5urdaig",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptce5aighdl1574",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028170",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 17:01",
+      "lotNumber": 8,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.06.2026 17:01",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptce5aighdl1574",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.12.32"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Шкаф защиты системы возбуждения генератора (включая защиты ротора) ГГ-7 ШЭ1113-910ЕТ (габариты 808х660х2000 мм (ШхГхВ)) с комплектом запасных блоков для микропроцессорных терминалов в шкафах 2 ШЭ111Х (плата блока логики - 1 шт., блок питания - 1 шт.) В соответствии с ТТ и приложением №1 , в том числе шеф-монтажные работы",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptcd9v29qiplbjg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptcd9v2epk6g19c",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028161",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 16:13",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Нижегородская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.06.2026 16:13",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptcd9v2epk6g19c",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Нижегородская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.50.21.129"
+      ],
+      "type": "BUYING",
+      "title": "Поставка, ввод в эксплуатацию медицинского оборудования: Концентратор кислорода мобильный / портативный",
+      "viewDemandDate": "22.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptc742m2m8nej44",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptc742c3e1lp34g",
+      "price": "<div class='aright'>291 999,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028067",
+      "filingNumber": "32616102324",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 06:00&nbsp;МСК",
+      "summationDate": "22.06.2026 10:00",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "7202100152",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ТЮМЕНСКОЙ ОБЛАСТИ \"ДЕТСКИЙ ЛЕЧЕБНО-РЕАБИЛИТАЦИОННЫЙ ЦЕНТР \"НАДЕЖДА\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "10.06.2026 12:34",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptc742m2m8nej44",
+      "customer": [
+        {
+          "inn": "7202100152",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ТЮМЕНСКОЙ ОБЛАСТИ \"ДЕТСКИЙ ЛЕЧЕБНО-РЕАБИЛИТАЦИОННЫЙ ЦЕНТР \"НАДЕЖДА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.13.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Компьютер в сборе",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptc3o7g3st902hk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptc3o7gn3oj39g4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028023",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 11:44",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "7203239245",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "10.06.2026 11:44",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptc3o7gn3oj39g4",
+      "customer": [
+        {
+          "inn": "7203239245",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.40.42.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Проводная гарнитура",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptc3o7g4p5tqq44",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptc3o7gn3oj39g4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028023",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 11:44",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "7203239245",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "10.06.2026 11:44",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptc3o7gn3oj39g4",
+      "customer": [
+        {
+          "inn": "7203239245",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.111"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Источник бесперебойного питания",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptc3o7g57b7kfp8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptc3o7gn3oj39g4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028023",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 11:44",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "7203239245",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "10.06.2026 11:44",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptc3o7gn3oj39g4",
+      "customer": [
+        {
+          "inn": "7203239245",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.30.23.141"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "IP телефон",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptc3o7g65lg6rck",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptc3o7gn3oj39g4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028023",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 11:44",
+      "lotNumber": 4,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "7203239245",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "10.06.2026 11:44",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptc3o7gn3oj39g4",
+      "customer": [
+        {
+          "inn": "7203239245",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.16.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Клавиатура",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptc3o7g7lq9jqqc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptc3o7gn3oj39g4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028023",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2026 11:44",
+      "lotNumber": 6,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2026",
+      "organizer": {
+        "inn": "7203239245",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "10.06.2026 11:44",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptc3o7gn3oj39g4",
+      "customer": [
+        {
+          "inn": "7203239245",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ТЮМЕНСКОЙ ОБЛАСТИ \"МЕДИЦИНСКИЙ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР\""
+        }
+      ]
+    }
+  ]
+}

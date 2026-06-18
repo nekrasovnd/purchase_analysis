@@ -61,6 +61,7 @@ class LotOnlineClientTest(unittest.TestCase):
         self.assertEqual(item.status, "Идет прием заявок")
         self.assertEqual(item.platform_section, "Сравнение цен в электронной форме")
         self.assertEqual(item.tender_type, "BUYING")
+        self.assertEqual(item.customer_inn, "6901067107")
         self.assertEqual(item.organizer_inn, "6901067107")
         self.assertAlmostEqual(item.price_rub or 0, 369900.0)
         self.assertEqual(item.currency, "RUB")

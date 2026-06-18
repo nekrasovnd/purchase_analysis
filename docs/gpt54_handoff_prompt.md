@@ -95,6 +95,76 @@ D:\Nikita\Work\purchase_analysis
 4. спросить Никиту, какой источник берем первым, если он сам не указал.
 ```
 
+## Database Status Addendum
+
+Include this addendum together with the handoff prompt above so the next chat does not break the local DB setup.
+
+```text
+Database / local PostgreSQL status as of 2026-06-18:
+
+- Portable PostgreSQL is already installed in `.local/pgsql16`.
+- Local cluster is already initialized in `.local/pgdata`.
+- Database name: `purchase_analysis`.
+- Host: `127.0.0.1`.
+- Port: `55432`.
+- User: `postgres`.
+- Portable DBeaver Community is already installed in `.local/apps/dbeaver`.
+- Full DB usage guide: `docs/database_usage.md`.
+
+Preferred wrappers:
+- `scripts/bootstrap_local_db.cmd`
+- `scripts/start_local_postgres.cmd`
+- `scripts/sync_local_postgres.cmd`
+- `scripts/open_local_psql.cmd`
+- `scripts/open_dbeaver_purchase_analysis.cmd`
+- `scripts/stop_local_postgres.cmd`
+
+Rules:
+- Do not delete/reset `.local`.
+- Do not recreate the PostgreSQL cluster unless Nikita explicitly asks or the DB is actually broken.
+- Do not reinstall DBeaver/PostgreSQL from scratch if the wrappers already work.
+- For DB work, prefer `sync-postgres` or the wrapper scripts and keep `docs/database_usage.md`, README, and SQL schema/docs in sync.
+```
+
+## Source Status Addendum: Tender.Pro
+
+Include this addendum too so the next chat does not re-discover the same public source from scratch.
+
+```text
+Tender.Pro / public company-purchases sprint status as of 2026-06-18:
+
+- New public source tested: `https://www.tender.pro/api/companies/list`
+- Working transport:
+  - company search by `inn`
+  - company search by exact `title`
+  - then public company page `https://www.tender.pro/api/company/<id>/view?active_tab=purchases`
+- Important limitation:
+  - there is no separate public `ogrn` field in the search form; OGRN can only be tried as a title fallback and usually returns 0
+- Public exact company matching works:
+  - `parse_company_candidates(...)` -> company cards from the catalog search
+  - `parse_company_profile(...)` -> public company profile with `ИНН/КПП`, often `ОГРН`, official name, short name
+  - `classify_entity_match(...)` then safely accepts/rejects the company before any lots are used
+- Current implementation:
+  - client: `src/purchase_analysis/clients/tender_pro.py`
+  - tests: `tests/test_tender_pro.py`
+  - source sprint: `scripts/tender_pro_prompt2_source_sprint.py`
+- Latest full-scope batch:
+  - `output/source_sprints/tender_pro_prompt2_full_scope_2026-06-18_v2/summary.json`
+- Latest full-scope outcome:
+  - scope entities: `26`
+  - exact company matches: `20`
+  - accepted new 2024-2025 rows: `1`
+  - accepted entity: `ООО Инстамарт Сервис (Купер)`
+  - many other entities resolved to exact Tender.Pro company pages, but their public purchase tabs had either 0 rows or only rows outside the 2024-2025 window
+- Useful enrichment evidence was found for some entities:
+  - extra KPPs for `ПАО Сбербанк России` and `АО Сбербанк Лизинг`
+  - OGRN for `ООО СберЛогистика`, `ООО Инстамарт Сервис (Купер)`, `ООО Инновационная медицина (СберЗдоровье)`
+- Raw evidence:
+  - `data/raw/tender_pro/tender_pro_prompt2_full_scope_2026-06-18_v2/`
+- Rule:
+  - do not promote Tender.Pro title-only matches to core; only lots from exact matched company pages are safe
+```
+
 ## Mini Prompt: Source Sprint
 
 ```text

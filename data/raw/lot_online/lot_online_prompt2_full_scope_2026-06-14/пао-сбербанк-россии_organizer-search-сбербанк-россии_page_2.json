@@ -1,0 +1,903 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 60,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "28.22.14.169"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка средств почтовой механизации для нужд АО «Почта России» (штабелеры, погрузчик)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9tgcf24aegod4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9tgcfduqli95k",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400457",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 17:43",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 17:43",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9tgcfduqli95k",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.20.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по отбору проб и проведению лабораторно-инструментальных исследований сточной и природной воды для нужд Радиоцентра ИТАР-ТАСС.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000pt9r7re4nkn3vos",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pt9r7r606nnvd38",
+      "price": "<div class='aright'>473 325,10 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260027629",
+      "filingNumber": "32616094569",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 09:00&nbsp;МСК",
+      "summationDate": "16.06.2026 00:00",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7703082786",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.06.2026 17:30",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pt9r7re4nkn3vos",
+      "customer": [
+        {
+          "inn": "7703082786",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.11.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Выполнение работ по созданию автоматизированной информационной системы для управления денежными средствами АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9sns7ua9moftg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9sns84bdp8da8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400456",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 17:16",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 17:16",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9sns84bdp8da8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.32.30"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка автомобильных запасных частей (диски, фильтры, упоры)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9sdr3u74rudd0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9sdr44760rrf8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400455",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 17:06",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 17:06",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9sdr44760rrf8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.16.154"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка считывателей штрихкода",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9r608noerhi54",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9r608tedmkhvc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400454",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 16:22",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 16:22",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9r608tedmkhvc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "31.09.11.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Стеллаж металлический",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9qdqingmem2ns",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9qdqiutql09og",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400453",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 15:58",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 23:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 15:58",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9qdqiutql09og",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.111"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка ИБП",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9oov8879ou3t0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9oov8fg2kdu04",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400452",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 14:58",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 14:58",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9oov8fg2kdu04",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.21.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка жестких дисков",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9oe30785qvf00",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9oe30dn0r9f9k",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400451",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 14:49",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 14:49",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9oe30dn0r9f9k",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Аптечка автомобильная для оказания первой помощи",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9n0denidunhp0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9n0dev6os92ac",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400450",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 13:56",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 13:56",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9n0dev6os92ac",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.20.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по оформлению паспорта дымовой трубы котельной Радиоцентра ИТАР-ТАСС на основании результатов проведения технического обследования",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000pt9k0nd6421h1bc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pt9k0n41n14h710",
+      "price": "<div class='aright'>81 666,67 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260027530",
+      "filingNumber": "32616092495",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 09:00&nbsp;МСК",
+      "summationDate": "16.06.2026 00:00",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7703082786",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.06.2026 12:43",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pt9k0nd6421h1bc",
+      "customer": [
+        {
+          "inn": "7703082786",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.17.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Монитор 27”",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt9ji09pji7o6do",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt9ji0a4cug5m9s",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400449",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.06.2026 12:06",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.06.2026 12:06",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt9ji0a4cug5m9s",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.17.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка мониторов",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt6043s8k9jjrtc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt6043sfo3k11d8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400448",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 16:41",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 16:41",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt6043sfo3k11d8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "30.20.91.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Выполнение работ по деповскому ремонту вагонов АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt5u3vjmh732034",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt5u3vjt4424e94",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400447",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 15:31",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 15:31",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt5u3vjt4424e94",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.90.40.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Стабилизатор напряжения однофазный на 15 кВт.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt5ta4obddttg50",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt5ta4oks36lsok",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400446",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 15:03",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 15:03",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt5ta4oks36lsok",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.90.40.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Стабилизатор напряжения однофазный на 11 кВт.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt5ta4obgt0v450",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt5ta4oks36lsok",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400446",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 15:03",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 15:03",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt5ta4oks36lsok",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.90.40.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Счётчик электроэнергии однофазный многотарифный",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt5ta4ocr3pcf38",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt5ta4oks36lsok",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400446",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 15:03",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 15:03",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt5ta4oks36lsok",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.90.40.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Электронный детектор скрытой проводки",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt5ta4od1k7fa6g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt5ta4oks36lsok",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400446",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 15:03",
+      "lotNumber": 4,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 15:03",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt5ta4oks36lsok",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.32.13.139"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Силовой удлинитель",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pt5ta4oecrm19n8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pt5ta4oks36lsok",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400446",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 15:03",
+      "lotNumber": 5,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 15:03",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pt5ta4oks36lsok",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.15.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка системных блоков",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pt5t4h51nqun2l4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pt5t4h592sv7r3g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400445",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 14:57",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.06.2026 14:57",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pt5t4h592sv7r3g",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.90.40.190",
+        "27.40.25.129",
+        "25.99.29.190",
+        "25.94.12.190",
+        "25.94.12.190"
+      ],
+      "type": "BUYING",
+      "title": "Поставка оборудования для оснащения пресс-центра ИТАР-ТАСС ",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000pt5qmbr5ko1t4ec",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pt5qmbihtcrt4po",
+      "price": "<div class='aright'>1 070 325,05 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260027287",
+      "filingNumber": "32616088528",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 09:00&nbsp;МСК",
+      "summationDate": "15.06.2026 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "05.06.2026",
+      "organizer": {
+        "inn": "7703082786",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "05.06.2026 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pt5qmbr5ko1t4ec",
+      "customer": [
+        {
+          "inn": "7703082786",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "92908822-a981-462a-ada2-b60fcfa77dc5",
+        "c_description": "Смартфон Xiaomi Redmi 12 (8/256ГБ)",
+        "c_comment": "Операционная система: Android 13;\nПроцессор: 8-ядерный MediaTek HelioG88 2.00 ГГц;\nПоддержка карт памяти: MicroSD до 512 Gb;\nПоколение sim-карты: NanoSIM;\nОбъем оперативной памяти: 8 Гб;\nОбъем встроенной памяти: 256 Гб;\nДисплей: сенсорный Full HD+ 1080x2400 Pix, диагональ 6.79 '';\nОсновная камера: три модуля (50 Mpix, f/1.8 + 8 Mpix, f/2.2 + 2 Mpix, f/2.4);\nАвтофокус;\nСветодиодная вспышка;\nФронтальная камера: 8 Mpix, f/2.25;\nМодуль NFC;\nПоддержка стандартов связи: 2G, 3G, 4G; \nСтандарт 3G: UMTS 900 / UMTS 850 / UMTS 1900 / UMTS 2100 / UMTS 1700 / UMTS 1800;\nСтандарт 4G (LTE):  LTE 900 / LTE 850 / TDD LTE 2300 / TDD LTE 2500 / TDD LTE 2600 / LTE 1700 / LTE 1800 / LTE 1900 / LTE 2100 / LTE 800 / LTE 2600;\nVoLTE;\nWi-Fi 802.11a/b/g/n/ac; \nBluetooth стерео;\nСпутниковая навигация: ГЛОНАСС / GPS / BEIDOU / Galileo;\nВстроенный модем;\nАккумулятор: Li-Pol  5000 мАч;\nДатчики: приближения / освещенности / геомагнитный / гироскоп / акселерометр;\nСканер отпечатков пальцев / Сканер распознавания лица;\nРазъёмы: подключение к ПК / аудио Jack 3,5 мм / USB Type-C;\nМатериал корпуса: стекло/пластик;\nКомплект поставки: Смартфон, адаптер питания, USB Type-C кабель, инструмент для извлечения SIM-карты, руководство пользователя, гарантийный талон, защитный чехол.\n",
+        "c_priceWithTax": 0.0,
+        "c_count": 500.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "26.30.22.110",
+        "c_okpd2Name": "Аппараты телефонные для сотовых сетей связи (ПРТС), включая смартфоны",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "f8223b53-47d7-4b2d-b91a-67acf52b3a63",
+            "is_deletable": true,
+            "name": "bb78a5e1fdfd0eaf325f98115bc80331.xlsx",
+            "original_name": "Запрос КП Смартфоны.xlsx",
+            "size": 17074,
+            "type": "document",
+            "web_path": "/uploads/documents/bb/78a/5e1/",
+            "created_at": "2025-10-07T21:59:20+03:00",
+            "created_by": {
+              "name": "Елена",
+              "patronymic": "Викторовна",
+              "surname": "Матерова"
+            },
+            "file": {
+              "id": "ea72fc47-0b51-40cf-9d51-7c3037d084dc",
+              "name": "bb78a5e1fdfd0eaf325f98115bc80331.xlsx",
+              "original_name": "Запрос КП Смартфоны.xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/bb/78a/5e1/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

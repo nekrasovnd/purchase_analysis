@@ -1,0 +1,133 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 3,
+    "goods": [
+      {
+        "c_id": "efa7ac44-46e3-4ed4-bda7-e55d9dee8c72",
+        "c_description": "Фен-Паяльная станция ATTEN ST-862D ",
+        "c_comment": "Фен-Паяльная станция ATTEN ST-862D ",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "77378277-1596-4248-9ad5-46c6c5f87179",
+            "is_deletable": true,
+            "name": "b962e975766965ce1854577ea339e222.xlsx",
+            "original_name": "Форма КП.xlsx",
+            "size": 16962,
+            "type": "document",
+            "web_path": "/uploads/documents/b9/62e/975/",
+            "created_at": "2025-11-14T15:16:59+03:00",
+            "created_by": {
+              "name": "Мария",
+              "patronymic": null,
+              "surname": "Сангаджиева"
+            },
+            "file": {
+              "id": "ddc95d3c-134a-4cd0-9229-14e80433f4e3",
+              "name": "b962e975766965ce1854577ea339e222.xlsx",
+              "original_name": "Форма КП.xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/b9/62e/975/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "84e92448-858c-492f-b58b-983fc7722e08",
+        "c_description": "Микроскоп Kaisi 37045A-FLB 7Х45Х тринокулярный на струбцине + подсветка",
+        "c_comment": "Микроскоп Kaisi 37045A-FLB 7Х45Х тринокулярный на струбцине + подсветка",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "129ef63c-a94c-4d30-a862-32c8e54bc9bf",
+            "is_deletable": true,
+            "name": "b962e975766965ce1854577ea339e222.xlsx",
+            "original_name": "Форма КП.xlsx",
+            "size": 16962,
+            "type": "document",
+            "web_path": "/uploads/documents/b9/62e/975/",
+            "created_at": "2025-11-14T15:17:09+03:00",
+            "created_by": {
+              "name": "Мария",
+              "patronymic": null,
+              "surname": "Сангаджиева"
+            },
+            "file": {
+              "id": "ddc95d3c-134a-4cd0-9229-14e80433f4e3",
+              "name": "b962e975766965ce1854577ea339e222.xlsx",
+              "original_name": "Форма КП.xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/b9/62e/975/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "523ea51b-484c-417d-b9b2-36cf5f86bf1b",
+        "c_description": "Паяльная станция AIXUN T320 ",
+        "c_comment": "Паяльная станция AIXUN T320 ",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "05a15163-21b0-4b23-a771-1f3056615e08",
+            "is_deletable": true,
+            "name": "b962e975766965ce1854577ea339e222.xlsx",
+            "original_name": "Форма КП.xlsx",
+            "size": 16962,
+            "type": "document",
+            "web_path": "/uploads/documents/b9/62e/975/",
+            "created_at": "2025-11-14T15:17:15+03:00",
+            "created_by": {
+              "name": "Мария",
+              "patronymic": null,
+              "surname": "Сангаджиева"
+            },
+            "file": {
+              "id": "ddc95d3c-134a-4cd0-9229-14e80433f4e3",
+              "name": "b962e975766965ce1854577ea339e222.xlsx",
+              "original_name": "Форма КП.xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/b9/62e/975/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

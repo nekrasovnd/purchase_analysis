@@ -1,0 +1,707 @@
+<datarow>
+  <total>
+    <value>113</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>d59e8a9c-fed3-401c-bf7d-07d8042955b0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №54479396 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>54479396</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/d59e8a9c-fed3-401c-bf7d-07d8042955b0</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>24.11.2025 10:56</RequestStartDate>
+      <EndDate>25.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>25.11.2025 20:55</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Педаль (L6) TISF 305</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>54479396</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.11.2025 10:56</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763981760000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>7153f94b-ab30-40af-ad5d-ee595ea86ed9</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №59304153 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>59304153</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/7153f94b-ab30-40af-ad5d-ee595ea86ed9</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>24.11.2025 10:19</RequestStartDate>
+      <EndDate>28.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>28.11.2025 18:46</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Запрос КП (ЗИП для печатной техники)</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>59304153</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.11.2025 10:19</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1763979540000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>6df99567-15cc-403c-b0da-24881dbb1f7f</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №7250736 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>7250736</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/6df99567-15cc-403c-b0da-24881dbb1f7f</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>20.11.2025 16:18</RequestStartDate>
+      <EndDate>25.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>25.11.2025 16:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка тележек и весов для склада</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>7250736</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.11.2025 16:18</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763655480000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>85020c43-7d0c-4d28-bea2-7aa94d46e551</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №103237197 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>103237197</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/85020c43-7d0c-4d28-bea2-7aa94d46e551</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>20.11.2025 11:03</RequestStartDate>
+      <EndDate>24.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>24.11.2025 17:51</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Оказание услуг по проведению специальных психофизиологических исследований с использованием полиграфа</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>103237197</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.11.2025 11:03</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763636580000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>d8160311-8d60-45f0-a5e3-a5e45b0e20b5</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №114992272 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>114992272</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/d8160311-8d60-45f0-a5e3-a5e45b0e20b5</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>20.11.2025 10:16</RequestStartDate>
+      <EndDate>24.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>24.11.2025 10:15</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Заключение договора на предоставление Интернета</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>114992272</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.11.2025 10:16</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763633760000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>46973374-0850-4faf-b535-34759fbf2476</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №31786099 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>31786099</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/46973374-0850-4faf-b535-34759fbf2476</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>20.11.2025 10:06</RequestStartDate>
+      <EndDate>27.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>27.11.2025 19:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка термоголовок Custom</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>31786099</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.11.2025 10:06</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1763633160000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>ea4f83c0-fd6b-40ae-bf6f-ae1d5b80068b</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №128712642 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>128712642</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/ea4f83c0-fd6b-40ae-bf6f-ae1d5b80068b</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>19.11.2025 17:21</RequestStartDate>
+      <EndDate>21.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>21.11.2025 17:21</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Заключение договора на предоставление Интернета</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>128712642</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.11.2025 17:21</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763572860000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>55d84f06-9f3f-4bbd-979e-65bdcb9cd9e0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №86007557 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>86007557</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/55d84f06-9f3f-4bbd-979e-65bdcb9cd9e0</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>19.11.2025 16:40</RequestStartDate>
+      <EndDate>19.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.11.2025 16:42</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Услуги для ООО "Сберабанк-Сервис"</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>86007557</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.11.2025 16:40</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763570400000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>2ffc1014-98d7-4288-9df3-b0afd5cb6053</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №73457274 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>73457274</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/2ffc1014-98d7-4288-9df3-b0afd5cb6053</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>18.11.2025 10:41</RequestStartDate>
+      <EndDate>24.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>24.11.2025 18:46</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка ЖД для рем. цеха в Казани</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>73457274</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>18.11.2025 10:41</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1763462460000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>e3e6fe5d-a5ba-4ed8-9859-dce0d06d5532</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №102938025 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>102938025</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/e3e6fe5d-a5ba-4ed8-9859-dce0d06d5532</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>17.11.2025 16:53</RequestStartDate>
+      <EndDate>21.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>21.11.2025 16:53</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Салфетки антибактериальные</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>102938025</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>17.11.2025 16:53</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1763398380000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>f1b69a66-5b49-4edc-8b51-b7a5cb48cfb5</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №118042973 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>118042973</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/f1b69a66-5b49-4edc-8b51-b7a5cb48cfb5</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>17.11.2025 14:41</RequestStartDate>
+      <EndDate>21.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>21.11.2025 14:40</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка средств индивидуальной защиты</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>118042973</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>17.11.2025 14:41</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1763390460000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>cf4fbe36-e33b-4042-952f-7874a9570de7</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №100248626 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>100248626</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/cf4fbe36-e33b-4042-952f-7874a9570de7</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>17.11.2025 11:07</RequestStartDate>
+      <EndDate>19.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.11.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Расчет норм расхода топлива</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>100248626</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>17.11.2025 11:07</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763377620000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>8d478430-a0cf-48fa-9b8f-e38e44e4fbb4</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №16367891 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>16367891</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/8d478430-a0cf-48fa-9b8f-e38e44e4fbb4</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>14.11.2025 15:32</RequestStartDate>
+      <EndDate>19.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.11.2025 15:23</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Запрос КП на поставку оборудования</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>16367891</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>14.11.2025 15:32</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763134320000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>57ff8621-eab2-452d-bfac-fb40db738c0c</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №128810784 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>128810784</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/57ff8621-eab2-452d-bfac-fb40db738c0c</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>14.11.2025 14:24</RequestStartDate>
+      <EndDate>20.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>20.11.2025 10:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Запрос КП на поставку картонных коробок 60*40*40 см</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>128810784</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>14.11.2025 14:24</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763130240000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>a28e9a69-d32e-4a14-a421-7b68ab4ebc5a</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №66907621 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>66907621</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/a28e9a69-d32e-4a14-a421-7b68ab4ebc5a</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>13.11.2025 16:01</RequestStartDate>
+      <EndDate>17.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>17.11.2025 16:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Срочно. Изготовление и поставка брендированных курток-бомберов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>66907621</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.11.2025 16:01</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1763049660000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>8a47da64-ca31-49f1-bb5e-f83a6aaf395e</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №1739850 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>1739850</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/8a47da64-ca31-49f1-bb5e-f83a6aaf395e</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>13.11.2025 14:58</RequestStartDate>
+      <EndDate>20.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>20.11.2025 18:46</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка гарнитур USB</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>1739850</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.11.2025 14:58</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1763045880000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>f04465a9-862e-46a3-8cbd-0c8ba0019d11</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №50429081 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>50429081</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/f04465a9-862e-46a3-8cbd-0c8ba0019d11</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>12.11.2025 16:57</RequestStartDate>
+      <EndDate>18.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>18.11.2025 11:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Услуги клининга (Свердловская обл, г. Алапаевск, ул.Сафонова, 54А)</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>50429081</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>12.11.2025 16:57</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1762966620000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>be269e73-32b0-418d-ad82-fdcb2dd5b6f0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №5706414 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>5706414</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/be269e73-32b0-418d-ad82-fdcb2dd5b6f0</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>12.11.2025 11:38</RequestStartDate>
+      <EndDate>20.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>20.11.2025 18:37</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Запрос КП на поставку термоголовок для Custom</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>5706414</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>12.11.2025 11:38</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1762947480000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>2008dc0a-304f-4b35-b7f1-1f6eb17444b8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №7049666 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>7049666</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/2008dc0a-304f-4b35-b7f1-1f6eb17444b8</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>12.11.2025 11:27</RequestStartDate>
+      <EndDate>13.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>13.11.2025 11:26</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка для ООО "Сберабанк-Сервис"</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>7049666</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>12.11.2025 11:27</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1762946820000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>3ebe9d54-2337-4d48-934f-f22e4b17eed8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №67290870 от покупателя ООО "СБЕРБАНК-СЕРВИС"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>67290870</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/3ebe9d54-2337-4d48-934f-f22e4b17eed8</objectHrefTerm>
+      <OrgName>ООО "СБЕРБАНК-СЕРВИС"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>07.11.2025 17:54</RequestStartDate>
+      <EndDate>12.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>12.11.2025 14:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>кофе-машины</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>67290870</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>07.11.2025 17:54</PublicDate>
+      <purchAmount>166252.8</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1762538040000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

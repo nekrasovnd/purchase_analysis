@@ -1,0 +1,829 @@
+<datarow>
+  <total>
+    <value>253</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3091745</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3091745</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>28.10.2025 18:00</RequestAcceptDate>
+      <RequestDate>28.10.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510130033.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>13.10.2025 18:00</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>лот 1</BidName>
+      <purchCodeTerm>SBR028-2510130033.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3483346</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.10.2025 10:00</RequestStartDate>
+      <EndDate>10.11.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по предоставлению во временное пользование (аренда) волоконно-оптических линий связи</purchName>
+      <purchAmount>900000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1760378400000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3091746</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3091746</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>28.10.2025 18:00</RequestAcceptDate>
+      <RequestDate>28.10.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510130033.2</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>13.10.2025 18:00</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>лот 2</BidName>
+      <purchCodeTerm>SBR028-2510130033.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3483346</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.10.2025 10:00</RequestStartDate>
+      <EndDate>10.11.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по предоставлению во временное пользование (аренда) волоконно-оптических линий связи</purchName>
+      <purchAmount>900000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1760378400000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3091365</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3091365</CreateRequestHrefTerm>
+      <BidStatusName>В процессе проведения</BidStatusName>
+      <RequestAcceptDate>05.12.2025 23:59</RequestAcceptDate>
+      <RequestDate>05.12.2025 23:59</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510130021.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>13.10.2025 14:56</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Выбор поставщика для оказания услуг в области разработки и реализации маркетинговых спецпроектов</BidName>
+      <purchCodeTerm>SBR028-2510130021.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3482781</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>13.10.2025 15:00</RequestStartDate>
+      <EndDate>30.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Выбор поставщика для оказания услуг в области разработки и реализации маркетинговых спецпроектов</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>В процессе проведения</UnitedStateName>
+    </_source>
+    <sort>1760367360000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3090360</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3090360</CreateRequestHrefTerm>
+      <BidStatusName>В процессе проведения</BidStatusName>
+      <RequestAcceptDate>27.10.2025 10:00</RequestAcceptDate>
+      <RequestDate>27.10.2025 10:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510100053.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>10.10.2025 16:21</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>поставка сетевого оборудования (коммутаторы ЦОД)</BidName>
+      <purchCodeTerm>SBR028-2510100053.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3477662</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>10.10.2025 17:00</RequestStartDate>
+      <EndDate>10.11.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка  сетевого оборудования (коммутаторы ЦОД) для ООО Сбербанк-Телеком</purchName>
+      <purchAmount>56526412.96</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>В процессе проведения</UnitedStateName>
+    </_source>
+    <sort>1760113260000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3086999</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Рассмотрение заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3086999</CreateRequestHrefTerm>
+      <BidStatusName>Рассмотрение заявок</BidStatusName>
+      <RequestAcceptDate>16.10.2025 23:00</RequestAcceptDate>
+      <RequestDate>16.10.2025 23:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510080012.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.10.2025 11:05</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Закупка новогодней сувенирной продукции (Новогодние подарки для партнеров) с индивидуальным дизайном</BidName>
+      <purchCodeTerm>SBR028-2510080012.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3470192</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>08.10.2025 12:00</RequestStartDate>
+      <EndDate>30.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Закупка новогодней сувенирной продукции (Новогодние подарки для партнеров) с индивидуальным дизайном</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Рассмотрение заявок</UnitedStateName>
+    </_source>
+    <sort>1759921500000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3080392</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3080392</CreateRequestHrefTerm>
+      <BidStatusName>В процессе проведения</BidStatusName>
+      <RequestAcceptDate>11.11.2025 12:30</RequestAcceptDate>
+      <RequestDate>11.11.2025 12:30</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510010016.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.10.2025 10:31</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Открытый запрос предложений на выбор поставщиков для оказания комплекса услуг по разработке креатива (разработке и производству рекламных материалов) для ООО "Сбербанк-Телеком"</BidName>
+      <purchCodeTerm>SBR028-2510010016.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3450392</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>01.10.2025 13:00</RequestStartDate>
+      <EndDate>30.11.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Открытый запрос предложений на выбор поставщиков для оказания комплекса услуг по разработке креатива (разработке и производству рекламных материалов) для ООО "Сбербанк-Телеком"</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>В процессе проведения</UnitedStateName>
+    </_source>
+    <sort>1759314660000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3077100</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Рассмотрение заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3077100</CreateRequestHrefTerm>
+      <BidStatusName>Рассмотрение заявок</BidStatusName>
+      <RequestAcceptDate>17.10.2025 11:00</RequestAcceptDate>
+      <RequestDate>17.10.2025 11:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2509260043.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>26.09.2025 15:27</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Закупка услуг по внедрению системы Бит.Финанс. Управленческий учёт с технической поддержкой</BidName>
+      <purchCodeTerm>SBR028-2509260043.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3439274</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>26.09.2025 16:00</RequestStartDate>
+      <EndDate>30.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Закупка услуг по внедрению системы Бит.Финанс. Управленческий учёт.</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Рассмотрение заявок</UnitedStateName>
+    </_source>
+    <sort>1758900420000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3074715</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3074715</CreateRequestHrefTerm>
+      <BidStatusName>В процессе проведения</BidStatusName>
+      <RequestAcceptDate>02.10.2025 12:00</RequestAcceptDate>
+      <RequestDate>02.10.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2509240042.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.09.2025 18:08</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Производство и поставка персонализированных USIM-карт M2M формата 2FF или 2/3/4FF для нужд ООО "Сбербанк-Телеком</BidName>
+      <purchCodeTerm>SBR028-2509240042.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3433173</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>24.09.2025 18:10</RequestStartDate>
+      <EndDate>20.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Производство и поставка персонализированных USIM-карт M2M формата 2FF или 2/3/4FF для нужд ООО "Сбербанк-Телеком</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>В процессе проведения</UnitedStateName>
+    </_source>
+    <sort>1758737280000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3074711</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3074711</CreateRequestHrefTerm>
+      <BidStatusName>В процессе проведения</BidStatusName>
+      <RequestAcceptDate>02.10.2025 12:00</RequestAcceptDate>
+      <RequestDate>02.10.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2509240040.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.09.2025 18:04</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Закупка персонализированных USIM-карт форматов 2/3/4 FF профиля Consumer для нужд ООО Сбербанк-Телеком</BidName>
+      <purchCodeTerm>SBR028-2509240040.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3433168</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>24.09.2025 18:10</RequestStartDate>
+      <EndDate>20.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Закупка персонализированных USIM-карт форматов 2/3/4 FF профиля Consumer для нужд ООО Сбербанк-Телеком</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>В процессе проведения</UnitedStateName>
+    </_source>
+    <sort>1758737040000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3070061</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3070061</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>30.09.2025 11:00</RequestAcceptDate>
+      <RequestDate>30.09.2025 11:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2509190014.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.09.2025 10:23</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка Программного Комплекса Классификатора трафика с открытым исходным кодом</BidName>
+      <purchCodeTerm>SBR028-2509190014.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3421003</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>19.09.2025 11:00</RequestStartDate>
+      <EndDate>03.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка Программного Комплекса Классификатора трафика с открытым исходным кодом и комплектом сигнатур, для нужд ООО Сбербанк-Телеком</purchName>
+      <purchAmount>9800000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1758277380000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3066909</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3066909</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.09.2025 10:00</RequestAcceptDate>
+      <RequestDate>26.09.2025 10:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2509160031.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>16.09.2025 15:47</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка и внедрение ПК</BidName>
+      <purchCodeTerm>SBR028-2509160031.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3413508</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.09.2025 10:00</RequestStartDate>
+      <EndDate>30.09.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка и внедрение Программного Комплекса, включающего функциональные модули: PCEF, DPI, TDF  для нужд ООО Сбербанк-Телеком</purchName>
+      <purchAmount>186025058.33</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1758037620000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3066109</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3066109</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.09.2025 09:30</RequestAcceptDate>
+      <RequestDate>26.09.2025 09:30</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2509160007.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>16.09.2025 08:54</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг доработки и технической поддержки Системы 1С ЗУП и 1С БП
+(Указать сумму БЕЗ НДС за весь проект)</BidName>
+      <purchCodeTerm>SBR028-2509160007.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3412136</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>16.09.2025 11:00</RequestStartDate>
+      <EndDate>10.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Закупка услуг по оказанию услуг доработки и технической поддержки Системы 1С ЗУП и 1С БП для ООО "Сбербанк-Телеком"</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1758012840000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3052612</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3052612</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>05.09.2025 16:00</RequestAcceptDate>
+      <RequestDate>05.09.2025 16:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508290036.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.08.2025 17:12</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Сервер PTP GrandMaster</BidName>
+      <purchCodeTerm>SBR028-2508290036.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3369565</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.08.2025 18:00</RequestStartDate>
+      <EndDate>31.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка серверного оборудования для ООО Сбербанк-Телеком</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1756487520000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3052613</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3052613</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>05.09.2025 16:00</RequestAcceptDate>
+      <RequestDate>05.09.2025 16:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508290036.2</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.08.2025 17:12</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Сервер для тестирования GPU</BidName>
+      <purchCodeTerm>SBR028-2508290036.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3369565</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.08.2025 18:00</RequestStartDate>
+      <EndDate>31.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка серверного оборудования для ООО Сбербанк-Телеком</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1756487520000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3052614</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3052614</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>05.09.2025 16:00</RequestAcceptDate>
+      <RequestDate>05.09.2025 16:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508290036.3</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.08.2025 17:12</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Лабораторная базовая станция на базе SDR 4/5G</BidName>
+      <purchCodeTerm>SBR028-2508290036.3</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3369565</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.08.2025 18:00</RequestStartDate>
+      <EndDate>31.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка серверного оборудования для ООО Сбербанк-Телеком</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1756487520000</sort>
+    <sort>3</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3052615</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3052615</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>05.09.2025 16:00</RequestAcceptDate>
+      <RequestDate>05.09.2025 16:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508290036.4</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.08.2025 17:12</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Анализатор спектра на базе SDR</BidName>
+      <purchCodeTerm>SBR028-2508290036.4</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3369565</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.08.2025 18:00</RequestStartDate>
+      <EndDate>31.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка серверного оборудования для ООО Сбербанк-Телеком</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1756487520000</sort>
+    <sort>4</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3050742</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3050742</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.09.2025 10:00</RequestAcceptDate>
+      <RequestDate>19.09.2025 10:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508280017.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>28.08.2025 12:15</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание комплексной услуги по оформлению предметов лизинга</BidName>
+      <purchCodeTerm>SBR028-2508280017.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3364939</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>28.08.2025 13:00</RequestStartDate>
+      <EndDate>10.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание комплексной услуги по оформлению предметов лизинга 
+для нужд ООО «Сбербанк-Телеком»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1756383300000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3049996</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3049996</CreateRequestHrefTerm>
+      <BidStatusName>В процессе проведения</BidStatusName>
+      <RequestAcceptDate>09.09.2025 11:00</RequestAcceptDate>
+      <RequestDate>09.09.2025 11:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508270026.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>27.08.2025 16:54</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Екатеринбург - Челябинск</BidName>
+      <purchCodeTerm>SBR028-2508270026.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3363073</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>28.08.2025 10:00</RequestStartDate>
+      <EndDate>31.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по предоставлению во временное пользование канала передачи данных (MPLS) для нужд ООО «Сбербанк-Телеком»</purchName>
+      <purchAmount>2295000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>В процессе проведения</UnitedStateName>
+    </_source>
+    <sort>1756313640000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3049997</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3049997</CreateRequestHrefTerm>
+      <BidStatusName>Подведение итогов</BidStatusName>
+      <RequestAcceptDate>09.09.2025 11:00</RequestAcceptDate>
+      <RequestDate>09.09.2025 11:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508270026.2</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>27.08.2025 16:54</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Екатеринбург - Челябинск</BidName>
+      <purchCodeTerm>SBR028-2508270026.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3363073</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>28.08.2025 10:00</RequestStartDate>
+      <EndDate>31.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по предоставлению во временное пользование канала передачи данных (MPLS) для нужд ООО «Сбербанк-Телеком»</purchName>
+      <purchAmount>2295000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Подведение итогов</UnitedStateName>
+    </_source>
+    <sort>1756313640000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3049998</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>В процессе проведения</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "СБЕРБАНК-ТЕЛЕКОМ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3049998</CreateRequestHrefTerm>
+      <BidStatusName>В процессе проведения</BidStatusName>
+      <RequestAcceptDate>09.09.2025 11:00</RequestAcceptDate>
+      <RequestDate>09.09.2025 11:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2508270026.3</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>27.08.2025 16:54</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Екатеринбург - Красноярск</BidName>
+      <purchCodeTerm>SBR028-2508270026.3</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3363073</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>28.08.2025 10:00</RequestStartDate>
+      <EndDate>31.10.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по предоставлению во временное пользование канала передачи данных (MPLS) для нужд ООО «Сбербанк-Телеком»</purchName>
+      <purchAmount>2045520</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>В процессе проведения</UnitedStateName>
+    </_source>
+    <sort>1756313640000</sort>
+    <sort>3</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

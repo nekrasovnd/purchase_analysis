@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "65334c5f-81a7-4cbe-b3a3-f569833a581a",
+        "c_description": "Стрейч-плёнка 20 мкм 50 см*100м",
+        "c_comment": "20 мкм \nРазмер 50 см*100м",
+        "c_priceWithTax": 0.0,
+        "c_count": 4.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "22.21.30.120",
+        "c_okpd2Name": "Пленки пластмассовые, неармированные или не комбинированные с другими материалами",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

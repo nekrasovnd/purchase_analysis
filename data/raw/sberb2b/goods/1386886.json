@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "5e553a2f-5e73-45d6-b124-43e22fd922b1",
+        "c_description": "Событийное клиентское мероприятие",
+        "c_comment": "Согласно ТЗ",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "1092527f-ad14-42b2-bb6e-03fce7d3c896",
+            "is_deletable": true,
+            "name": "e63e79ccdb716f64f6a0cb9c21d94ff0.docx",
+            "original_name": "ТЗ_событийное клиентское мероприятие PB_декабрь 2025г.docx",
+            "size": 37703,
+            "type": "document",
+            "web_path": "/uploads/documents/e6/3e7/9cc/",
+            "created_at": "2025-10-24T13:45:47+03:00",
+            "created_by": {
+              "name": "Иван",
+              "patronymic": "Степанович",
+              "surname": "Байдаков"
+            },
+            "file": {
+              "id": "9f98a31a-7a77-4ef3-b899-f43c61d9ff24",
+              "name": "e63e79ccdb716f64f6a0cb9c21d94ff0.docx",
+              "original_name": "ТЗ_событийное клиентское мероприятие PB_декабрь 2025г.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/e6/3e7/9cc/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

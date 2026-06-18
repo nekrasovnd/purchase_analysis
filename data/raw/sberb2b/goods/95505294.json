@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "905c4169-6bfa-4641-90a1-55aa860eeb7d",
+        "c_description": "Лоток для складского хранения",
+        "c_comment": "Складской лоток \"Ай-пласт\" или аналог по характеристикам:\nМатериал PP\nВнешние размеры 500х300х200 \nОбъём 23 литра\nМаксимальная нагрузка 50кг\nМаксимальная загрузка 15 кг\nВес 1,34 кг\nЦвет синий",
+        "c_priceWithTax": 0.0,
+        "c_count": 198.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "22.22.13.140",
+        "c_okpd2Name": "Коробки, ящики, корзины и аналогичные изделия из полипропилена",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "50c44dbf-138c-4776-882f-d6c222350aea",
+        "c_description": "Лоток для складского хранения",
+        "c_comment": "Складской лоток \"Ай-пласт\" или аналог по характеристикам:\nМатериал PP\nВнешние размеры 500х300х200 \nОбъём 23 литра\nМаксимальная нагрузка 50кг\nМаксимальная загрузка 15 кг\nВес 1,34 кг\nЦвет синий",
+        "c_priceWithTax": 0.0,
+        "c_count": 81.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "22.22.13.140",
+        "c_okpd2Name": "Коробки, ящики, корзины и аналогичные изделия из полипропилена",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

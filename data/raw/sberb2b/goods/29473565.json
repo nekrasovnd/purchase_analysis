@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "83a5a2d4-ee29-461e-a789-049836184c94",
+        "c_description": "Масляный обогреватель Ресанта ОМПТ-12Н или аналог",
+        "c_comment": "Тип: масляный обогреватель\nЦвет: белый\nКоличество секций 12\nМощность 2500 Вт\nКоличество уровней мощности  3 \nВысота 65 см\nГлубина 14 см\nВес 8.3 кг\n",
+        "c_priceWithTax": 0.0,
+        "c_count": 3.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "27.51.26.110",
+        "c_okpd2Name": "Приборы отопительные электрические",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

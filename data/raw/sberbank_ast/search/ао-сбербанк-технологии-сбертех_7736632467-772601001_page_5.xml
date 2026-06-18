@@ -1,0 +1,77 @@
+<datarow>
+  <total>
+    <value>82</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>993e83f1-4410-481e-8b7d-b2960918b2b0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №31221892 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>31221892</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/993e83f1-4410-481e-8b7d-b2960918b2b0</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>02.11.2024 16:51</RequestStartDate>
+      <EndDate>08.11.2024</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>08.11.2024 15:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Запрос коммерческого предложения: Поставка Ethernet-коммутатор</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>31221892</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>02.11.2024 16:51</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1730566260000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>36514c27-5d8e-4890-8d2f-fc8ad9fe7b58</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №41347986 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>41347986</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/36514c27-5d8e-4890-8d2f-fc8ad9fe7b58</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>30.10.2024 19:36</RequestStartDate>
+      <EndDate>01.11.2024</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>01.11.2024 15:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Срочно! Выполнение работ на разработку, доработку, модификацию и техническую поддержку программного обеспечения</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>41347986</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>30.10.2024 19:36</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1730316960000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

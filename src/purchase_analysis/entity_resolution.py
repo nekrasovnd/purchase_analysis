@@ -307,3 +307,58 @@ def enrichment_row(
         "confidence": confidence,
         "decision": decision,
     }
+
+
+def propose_identity_enrichment(
+    entity: EntityIdentity,
+    *,
+    source_system: str,
+    candidate_name: str | None = None,
+    candidate_ogrn: str | None = None,
+    candidate_kpp: str | None = None,
+    evidence: str,
+    confidence: str = "high",
+) -> list[dict[str, str]]:
+    rows: list[dict[str, str]] = []
+
+    candidate_ogrn_norm = normalize_identifier(candidate_ogrn)
+    if candidate_ogrn_norm and not entity.ogrn:
+        rows.append(
+            enrichment_row(
+                entity,
+                source_system=source_system,
+                field_name="ogrn",
+                proposed_value=candidate_ogrn_norm,
+                evidence=evidence,
+                confidence=confidence,
+            )
+        )
+
+    candidate_kpp_norm = normalize_identifier(candidate_kpp)
+    if candidate_kpp_norm and candidate_kpp_norm not in set(entity.kpp_list):
+        rows.append(
+            enrichment_row(
+                entity,
+                source_system=source_system,
+                field_name="kpp",
+                proposed_value=candidate_kpp_norm,
+                evidence=evidence,
+                confidence=confidence,
+            )
+        )
+
+    candidate_name_clean = normalize_spaces(candidate_name)
+    trusted_names = {normalize_name(name) for name in identity_names(entity)}
+    if candidate_name_clean and normalize_name(candidate_name_clean) not in trusted_names:
+        rows.append(
+            enrichment_row(
+                entity,
+                source_system=source_system,
+                field_name="official_name",
+                proposed_value=candidate_name_clean,
+                evidence=evidence,
+                confidence=confidence,
+            )
+        )
+
+    return rows

@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "4c47fef7-38a4-48e6-a4cc-b73f99b1e0c3",
+        "c_description": "Предоставление услуг связи (интернет 15 Мбит/сек) по адресу: Ивановская область, г.Кинешма, ул.Гагарина, д. 20а",
+        "c_comment": "Согласно ТЗ",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "61.10.49.000",
+        "c_okpd2Name": "Услуги телекоммуникационные проводные в информационно-коммуникационной сети Интернет прочие",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "3e5b71b1-bd10-48d4-85e1-3f0d0144b338",
+        "c_unitName": "усл. ед",
+        "c_unitOkeiCode": "876",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "2450a125-3c0b-4ae5-b776-8f736fcda1ce",
+            "is_deletable": true,
+            "name": "f81bddfdf63f0e6a7dd40fa4fa9bd202.xlsx",
+            "original_name": "Форма для заполнения.xlsx",
+            "size": 11089,
+            "type": "document",
+            "web_path": "/uploads/documents/f8/1bd/dfd/",
+            "created_at": "2025-10-17T10:12:11+03:00",
+            "created_by": {
+              "name": "Эльмира",
+              "patronymic": null,
+              "surname": "Саттарова"
+            },
+            "file": {
+              "id": "39f5e5c0-7699-4717-ad4d-ba5f104f2eb8",
+              "name": "f81bddfdf63f0e6a7dd40fa4fa9bd202.xlsx",
+              "original_name": "Форма для заполнения.xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/f8/1bd/dfd/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

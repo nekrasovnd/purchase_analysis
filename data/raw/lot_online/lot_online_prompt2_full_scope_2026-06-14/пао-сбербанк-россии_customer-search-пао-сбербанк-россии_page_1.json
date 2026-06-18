@@ -1,0 +1,912 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 40,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "25.73.60.150"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения Договора на поставку ножей НГ5223 для нужд ПАО «Россети Центр» (филиала «Липецкэнерго»)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdjsrsvnu0u1oo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdjoqbgi60vsng",
+      "price": "<div class='aright'>369 900,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028418",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 12:00&nbsp;МСК",
+      "summationDate": "19.06.2026 00:00",
+      "regionCodes": [
+        "Липецкая, обл"
+      ],
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Липецкэнерго\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "11.06.2026 18:16",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdjsrsvnu0u1oo",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "Филиал ПАО \"Россети Центр\" - \"Липецкэнерго\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.22.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "LADA LARGUS ФУРГОН или эквивалент",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdm75j8joc54b0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdm75jequjurfk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400474",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 16:06",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.06.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.06.2026 16:06",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdm75jequjurfk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "41.20.20.621"
+      ],
+      "type": "BUYING",
+      "title": "Строительство сети доступа для подключения клиентов сегментов В2С в Центральном федеральном округе для нужд филиала в Московской области ПАО «Ростелеком»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdlpdlhtp8v9uk",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdlpdeoh1mf4cg",
+      "price": "<div class='aright'>10 000 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028448",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Подтверждение стандартных условий",
+      "placementDateTime": "11.06.2026 15:55",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdlpdlhtp8v9uk",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22"
+      ],
+      "type": "BUYING",
+      "title": "На выполнение строительно-монтажных работ по титулу:\n«Реконструкция КЛ-10 кВ ориентировочной протяжённостью 2,186 км, КЛ-6 кВ ориентировочной протяжённостью 3,89 км, КЛ-0,4 кВ ориентировочной протяжённостью 0,321 км в части выноса электросетевых объектов по соглашению № 24-063639-190-142 от 15.07.2025 ДКРС-Санкт-Петербург ОАО «РЖД» (24-063639)» ",
+      "viewDemandDate": "18.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdl91p79pfoel4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdl91egmf9ln4s",
+      "price": "<div class='aright'>264 914 155,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028446",
+      "filingNumber": "32616109521",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.06.2026 11:00&nbsp;МСК",
+      "summationDate": "23.06.2026 00:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7803002209",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЛЕНЭНЕРГО\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "11.06.2026 15:46",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdl91p79pfoel4",
+      "customer": [
+        {
+          "inn": "7803002209",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЛЕНЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.40.31.190"
+      ],
+      "type": "BUYING",
+      "title": "Поставка оборудования, монтаж и пуско-наладочные работы для создания муниципальной системы оповещения населения в Алатырском муниципальном округе Чувашской Республики",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000ptdh6l5le4sbf94",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ptdh4ohaoobqmes",
+      "price": "<div class='aright'>0,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028353",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 17:00&nbsp;МСК",
+      "summationDate": "16.06.2026 00:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Запрос информации (RFI)",
+      "placementDateTime": "11.06.2026 15:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ptdh6l5le4sbf94",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "74.90.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение ПИР по титулу: Проектные работы по Реконструкции административно-производственного здания, расположенного по адресу: г.Москва, 2-й Грайвороновский проезд, д.6, стр.1,2 (1 шт.(прочие))",
+      "viewDemandDate": "10.07.2026 04:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdkivqi7c2eego",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdkivesbi5kaig",
+      "price": "<div class='aright'>8 604 967,05 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028437",
+      "filingNumber": "32616109237",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.06.2026 11:00&nbsp;МСК",
+      "summationDate": "15.07.2026 21:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "11.06.2026 15:10",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdkivqi7c2eego",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "74.90.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение ПИР, авторский надзор по титулу: Реконструкция ВЛ 110 кВ Кубинка – Ивановская I, II цепь с увеличением пропускной способности, МО, Одинцовский р-н (18 км; 18 000 п.м.; 1 шт.(прочие))",
+      "viewDemandDate": "15.07.2026 04:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdjohddnl22c3g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdjoh47ahve73g",
+      "price": "<div class='aright'>26 070 393,51 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028416",
+      "filingNumber": "32616109229",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.06.2026 11:00&nbsp;МСК",
+      "summationDate": "22.07.2026 21:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "11.06.2026 15:10",
+      "deposit": "782 111,81 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdjohddnl22c3g",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.11.10.129"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по восстановлению нарушенной территории после ремонта кабельных линий",
+      "viewDemandDate": "26.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdj0vj5atsadh4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdj0v45opm8uhg",
+      "price": "<div class='aright'>7 320 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028399",
+      "filingNumber": "32616109035",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 12:00&nbsp;МСК",
+      "summationDate": "29.06.2026 00:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Липецкэнерго\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "11.06.2026 14:45",
+      "deposit": "146 400,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdj0vj5atsadh4",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Текущий ремонт эстакады строительного водосброса Ирганайской ГЭС",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdjsgignfcu53s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdjsgiob0ihm80",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028422",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:41",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.07.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 14:41",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdjsgiob0ihm80",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Текущий ремонт затворохранилища водоприемника Ирганайской ГЭС",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdjqku0vimnai8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdjqku9cha0tks",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028420",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:39",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.07.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 14:39",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdjqku9cha0tks",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Текущий ремонт основного затвора №2 глубинного эксплуатационного водосброса Гунибской ГЭС",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdjoirknqpu9c8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdjoirrddd9jvo",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028417",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:37",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.07.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 14:37",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdjoirrddd9jvo",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР по титулу: Реконструкция ВЛ-0,4 кВ от РУ-0,4 кВ ТП-184 ( частично совмест. подвес по сущ. опорам, с заменой вводов), ПС №702 \"Гришенки\", в т.ч. ПИР, МО, Чеховский р-н, СП Стремиловское,СНТ Садки, уч.45 Ю8-25-302-262433(343588)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdjls13d300nis",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdjlo779dla93g",
+      "price": "<div class='aright'>470 010,61 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028413",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 09:00&nbsp;МСК",
+      "summationDate": "16.06.2026 04:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал ПАО \"Россети Московский регион\" - Южные электрические сети"
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "11.06.2026 14:37",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdjls13d300nis",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.21.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по санитарной уборке служебных помещений РПБ РЭС",
+      "viewDemandDate": "25.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdh3ugsr3kj4r4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdh3u41bjm8u48",
+      "price": "<div class='aright'>21 472 780,80 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028352",
+      "filingNumber": "32616108966",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 12:00&nbsp;МСК",
+      "summationDate": "02.07.2026 00:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "11.06.2026 14:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdh3ugsr3kj4r4",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР по титулу: Строительство ТП-40-10/0,4 кВ, ЛЭП-10 кВ от ВЛ-10 кВ ф.8 ПС №615 \"Бугры\", ЛР-10 кВ, ЛЭП-0,4 кВ, в т.ч. ПИР, МО, Чеховский р-н, СП Стремиловское, СНТ \"Созидатель\", уч 150 Ю8-25-302-271856(448903)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdjfc6gh08vs44",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdjf7tgh9pe370",
+      "price": "<div class='aright'>256 830,31 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028407",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 09:00&nbsp;МСК",
+      "summationDate": "16.06.2026 04:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал ПАО \"Россети Московский регион\" - Южные электрические сети"
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "11.06.2026 14:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdjfc6gh08vs44",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР по титулу: Строительство CТП-16-6/0,4 кВ, ЛЭП-6 кВ от ВЛ-6 кВ ф.15 ПС №319 \"Лаговская\", ЛР-6 кВ, ЛЭП-0,4 кВ, в т.ч. ПИР, МО, м.о. Чехов, с. Молоди, тер. Ритуальная для захоронений, з/у 1 Ю8-25-302-273091(466463)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdjdae30mjab84",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdjd6l1agm97ps",
+      "price": "<div class='aright'>347 403,97 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028405",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 09:00&nbsp;МСК",
+      "summationDate": "16.06.2026 04:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал ПАО \"Россети Московский регион\" - Южные электрические сети"
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "11.06.2026 14:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdjdae30mjab84",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Текущий ремонт основного затвора №1 глубинного эксплуатационного водосброса Гунибской ГЭС",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdjm49ftdu5f1s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdjm49l8tmqrqg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028415",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:34",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.07.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 14:34",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdjm49l8tmqrqg",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР по титулу: Реконструкция ВЛ-0,4 кВ ф.1 от РУ-0,4 кВ ТП-487 со строительством фид.2, фид.3 совместным подвесом, ПС №358 \"Ерино\", в т.ч. ПИР, МО, р-н Чеховский, д. Оксино, снт Акустик Ю8-24-303-230031(528310)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdja5vn93c2jlo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdja1t8rqdi9a0",
+      "price": "<div class='aright'>220 931,22 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028402",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 09:00&nbsp;МСК",
+      "summationDate": "16.06.2026 04:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал ПАО \"Россети Московский регион\" - Южные электрические сети"
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "11.06.2026 14:34",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdja5vn93c2jlo",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение строительно-монтажных и пусконаладочных работ с поставкой оборудования, по адресу: Липецкая область, Хлевенский муниципальный район, сельское поселение Конь-Колодезский сельсовет, автомагистраль М-4 «Дон» км 458+100 (лево), кадастровый номер земельного участка: 48:17:0820404:524",
+      "viewDemandDate": "23.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptdirihn732erps",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptdiri5k8nqa4fs",
+      "price": "<div class='aright'>3 788 361,08 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028389",
+      "filingNumber": "32616108940",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 12:00&nbsp;МСК",
+      "summationDate": "23.06.2026 00:00",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "11.06.2026 14:32",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptdirihn732erps",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Текущий ремонт ресиверов Гунибской ГЭС",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdjk5o3niakg5k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdjk5o931ecp58",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028410",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:32",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.07.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 14:32",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdjk5o931ecp58",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Текущий ремонт диафрагмы шахты уравнительного резервуара ДТ-1.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptdji2a15557ej8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptdji2a8cfppdik",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028409",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.06.2026 14:29",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.07.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.06.2026 14:29",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptdji2a8cfppdik",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Дагестанский филиал\""
+        }
+      ]
+    }
+  ]
+}

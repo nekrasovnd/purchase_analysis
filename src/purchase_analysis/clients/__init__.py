@@ -5,5 +5,7 @@ __all__ = [
     "roseltorg",
     "sberb2b",
     "sberbank_ast",
+    "tender_pro",
+    "tektorg",
     "zakazrf",
 ]

@@ -1,0 +1,136 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "cfd9f7d4-6c82-4e21-b4ae-06a4ce6e2cf5",
+        "c_description": "Оказание услуг по обеспечению предоставления доступа к сервису Figma ",
+        "c_comment": "Оказание услуг по обеспечению предоставления доступа к сервису Figma ",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "243cd433-6da7-4362-b587-d782c64585ba",
+            "is_deletable": true,
+            "name": "14b35ec0ce3fd6ef59ce6b4a826c5d95.docx",
+            "original_name": "Карточка организации.docx",
+            "size": 96607,
+            "type": "document",
+            "web_path": "/uploads/documents/14/b35/ec0/",
+            "created_at": "2025-12-10T15:41:07+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Евгеньевич",
+              "surname": "Замбин"
+            },
+            "file": {
+              "id": "8672d4f1-1df3-4d7a-a81d-441e20de46dd",
+              "name": "14b35ec0ce3fd6ef59ce6b4a826c5d95.docx",
+              "original_name": "Карточка организации.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/14/b35/ec0/"
+            }
+          },
+          {
+            "id": "762c982b-57b3-42fa-972f-81d9e225910e",
+            "is_deletable": true,
+            "name": "bf886a4b7a224b64df91a1db0bb0beeb.xlsx",
+            "original_name": "Шаблон Запрос КП (форма).xlsx",
+            "size": 16886,
+            "type": "document",
+            "web_path": "/uploads/documents/bf/886/a4b/",
+            "created_at": "2025-12-10T15:40:54+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Евгеньевич",
+              "surname": "Замбин"
+            },
+            "file": {
+              "id": "14fefad8-c8d1-4ad3-8420-e9a02fe6cefe",
+              "name": "bf886a4b7a224b64df91a1db0bb0beeb.xlsx",
+              "original_name": "Шаблон Запрос КП (форма).xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/bf/886/a4b/"
+            }
+          }
+        ]
+      },
+      {
+        "c_id": "1653c21a-0016-43c9-9474-8b23500eede9",
+        "c_description": "Оказание услуг по обеспечению предоставления доступа к сервису open route - 1 шт. ",
+        "c_comment": "Оказание услуг по обеспечению предоставления доступа\nк сервису open route - 1 шт. ",
+        "c_priceWithTax": 0.0,
+        "c_count": 1.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "11cce191-6f3b-4c08-ba08-0cbcff378434",
+            "is_deletable": true,
+            "name": "bf886a4b7a224b64df91a1db0bb0beeb.xlsx",
+            "original_name": "Шаблон Запрос КП (форма).xlsx",
+            "size": 16886,
+            "type": "document",
+            "web_path": "/uploads/documents/bf/886/a4b/",
+            "created_at": "2025-12-10T15:41:54+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Евгеньевич",
+              "surname": "Замбин"
+            },
+            "file": {
+              "id": "14fefad8-c8d1-4ad3-8420-e9a02fe6cefe",
+              "name": "bf886a4b7a224b64df91a1db0bb0beeb.xlsx",
+              "original_name": "Шаблон Запрос КП (форма).xlsx",
+              "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "web_path": "/uploads/documents/bf/886/a4b/"
+            }
+          },
+          {
+            "id": "a123f3c3-17eb-467e-ad92-133d08b7464c",
+            "is_deletable": true,
+            "name": "14b35ec0ce3fd6ef59ce6b4a826c5d95.docx",
+            "original_name": "Карточка организации.docx",
+            "size": 96607,
+            "type": "document",
+            "web_path": "/uploads/documents/14/b35/ec0/",
+            "created_at": "2025-12-10T15:42:02+03:00",
+            "created_by": {
+              "name": "Артем",
+              "patronymic": "Евгеньевич",
+              "surname": "Замбин"
+            },
+            "file": {
+              "id": "8672d4f1-1df3-4d7a-a81d-441e20de46dd",
+              "name": "14b35ec0ce3fd6ef59ce6b4a826c5d95.docx",
+              "original_name": "Карточка организации.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/14/b35/ec0/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

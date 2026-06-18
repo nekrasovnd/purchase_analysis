@@ -161,6 +161,8 @@ def build_customer_search_payload(
     *,
     inn: str = "",
     full_name: str = "",
+    ogrn: str = "",
+    kpp: str = "",
 ) -> dict[str, str]:
     page_id = context.dialog_page_id
     return {
@@ -182,8 +184,8 @@ def build_customer_search_payload(
         "FilterSelect.RegNum": "",
         "FilterSelect.FullName": normalize_spaces(full_name),
         "FilterSelect.INN": normalize_spaces(inn),
-        "FilterSelect.OGRN": "",
-        "FilterSelect.KPP": "",
+        "FilterSelect.OGRN": normalize_spaces(ogrn),
+        "FilterSelect.KPP": normalize_spaces(kpp),
         "FilterSelect.RegDateFrom": "",
         "FilterSelect.RegDateTo": "",
         "FilterSelect.CustomerRole": "",
@@ -197,6 +199,8 @@ def search_customer_candidates(
     *,
     inn: str = "",
     full_name: str = "",
+    ogrn: str = "",
+    kpp: str = "",
     dialog_id: str = "dialog_probe",
     session: requests.Session | None = None,
     timeout: int = 30,
@@ -211,7 +215,13 @@ def search_customer_candidates(
     )
     response = session.post(
         url,
-        data=build_customer_search_payload(context, inn=inn, full_name=full_name),
+        data=build_customer_search_payload(
+            context,
+            inn=inn,
+            full_name=full_name,
+            ogrn=ogrn,
+            kpp=kpp,
+        ),
         timeout=timeout,
     )
     response.raise_for_status()

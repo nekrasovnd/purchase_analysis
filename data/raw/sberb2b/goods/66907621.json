@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "97becd95-2a84-4123-9e3a-ff0e078e2f35",
+        "c_description": "Куртка-бомбер (двухстороняя) ",
+        "c_comment": "\t\nКуртка-бомбер (двухстороняя) размер XS/S\nТкань: Плащевка, полиэстер 100% (FITSYSTEM)*,\nобработка WR, PU, плотность 102г/м\nЦвет ткани: запечатка сублимации FitSystem\nПодклад: запечатка сублимации FitSystem\nЦвет отстрочки: в цвет ткани\nРукава: втачные\nКарманы: в боковых швах\nФурнитура: молния-двухсторонняя тракторная (в цвет ткани)\nГорловина, манжеты: кашкарсе (в цвет изделия)\nУпаковка: пакет п/э\nМетод нанесения 1: Сублимация\nЦветность: 4/0, CMYK\nРазмер нанесения: в крой\nМесто нанесения: согласно макету\nБирка: Индивидуальная\nМатериал: Сатин (белый)\nРазмер: 30х73 мм., в пришитом виде: 30х65 мм\nМетод нанесения: Сублимация\nЦветность: 4/0, CMYK\nМесто пришива: в шов в карман, левый",
+        "c_priceWithTax": 0.0,
+        "c_count": 51.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "14.13.21.120",
+        "c_okpd2Name": "Куртки мужские или для мальчиков из текстильных материалов, кроме трикотажных или вязаных",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "068a7658-bb74-472f-b8ef-d6b4100ffb2b",
+            "is_deletable": true,
+            "name": "a1b254815dad96486794ccf42b75e383.docx",
+            "original_name": "Договор.docx",
+            "size": 158140,
+            "type": "document",
+            "web_path": "/uploads/documents/a1/b25/481/",
+            "created_at": "2025-11-13T15:57:08+03:00",
+            "created_by": {
+              "name": "Александра",
+              "patronymic": "Геннадьевна",
+              "surname": "Дур"
+            },
+            "file": {
+              "id": "e3be1a74-3c7f-4317-a959-7910d2e38dac",
+              "name": "a1b254815dad96486794ccf42b75e383.docx",
+              "original_name": "Договор.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/a1/b25/481/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

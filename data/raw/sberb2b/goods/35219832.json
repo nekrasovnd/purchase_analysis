@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "5d69c87e-a2c1-47fc-a39d-46fb792a87b3",
+        "c_description": "«Аптечка работникам ФЭСТ (футляр 8М)» или аналог",
+        "c_comment": "Состав аптечки соответствует приказу Минздрава от 24 мая 2024 г. N 262н.\nТип: Переносная\nВид: Кейс\nМатериал корпуса: Пластик\nПолная: Да\nЗамок: Защелка\nЦвет: Белый",
+        "c_priceWithTax": 0.0,
+        "c_count": 2.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "21.20.24.170",
+        "c_okpd2Name": "Аптечки и сумки санитарные для оказания первой помощи",
+        "c_warrantyPeriodMonths": 36,
+        "c_hasDistinctName": true,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

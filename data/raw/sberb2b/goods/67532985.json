@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 2,
+    "goods": [
+      {
+        "c_id": "9917ea21-fd42-4468-ba72-f29029ba4a93",
+        "c_description": "Лента подсветки для ТВ Samsung 43\" LH43QBNEBGC (комплект)",
+        "c_comment": "Лента подсветки для ТВ Samsung 43\" LH43QBNEBGC (комплект)",
+        "c_priceWithTax": 0.0,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "26.11.22.290",
+        "c_okpd2Name": "Части светодиодов и светодиодных модулей",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      },
+      {
+        "c_id": "d20806de-89f2-4ccb-9d23-b6b975044c4e",
+        "c_description": "Отражатель \\ рассеиватель для  Samsung 43\"",
+        "c_comment": "Отражатель \\ рассеиватель для  Samsung 43\"",
+        "c_priceWithTax": 0.0,
+        "c_count": 10.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": "26.30.40.120",
+        "c_okpd2Name": "Части и комплектующие радио- и телевизионной передающей аппаратуры и телевизионных камер",
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}

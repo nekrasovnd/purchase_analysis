@@ -1,0 +1,707 @@
+<datarow>
+  <total>
+    <value>82</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>5978d5bd-4fe2-4d62-821d-3f3941d42f67</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №35296416 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>35296416</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/5978d5bd-4fe2-4d62-821d-3f3941d42f67</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>29.12.2025 16:09</RequestStartDate>
+      <EndDate>20.01.2026</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>20.01.2026 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Оказание услуг Пиар-агентства</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>35296416</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>29.12.2025 16:09</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1767024540000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>5fcc8385-df67-4dea-a8ec-cc3ae816d0d8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №121331391 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>121331391</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/5fcc8385-df67-4dea-a8ec-cc3ae816d0d8</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>23.12.2025 17:27</RequestStartDate>
+      <EndDate>26.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.12.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Оказание услуг по предоставлению облачных вычислительных мощностей для нужд  АО «СберТех»</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>121331391</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>23.12.2025 17:27</PublicDate>
+      <purchAmount>378279</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1766510820000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>a043342f-def4-4130-8a9e-b91f33cc2fd0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №62196879 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>62196879</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/a043342f-def4-4130-8a9e-b91f33cc2fd0</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>18.12.2025 15:07</RequestStartDate>
+      <EndDate>29.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>29.12.2025 17:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка компьютера</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>62196879</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>18.12.2025 15:07</PublicDate>
+      <purchAmount>467667.28</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1766070420000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>af4e58ef-b028-4013-94ae-88d02a2184e5</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №58136735 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>58136735</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/af4e58ef-b028-4013-94ae-88d02a2184e5</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>17.12.2025 11:57</RequestStartDate>
+      <EndDate>19.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.12.2025 11:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>40420 Поставка канцелярских товаров для нужд ООО СверхТех</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>58136735</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>17.12.2025 11:57</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1765972620000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>427c2c31-819c-47c0-801e-424aa55e591c</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №27397576 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>27397576</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/427c2c31-819c-47c0-801e-424aa55e591c</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>16.12.2025 15:03</RequestStartDate>
+      <EndDate>19.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.12.2025 15:02</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Шредеры</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>27397576</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>16.12.2025 15:03</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1765897380000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>09cf7967-aa32-4dfb-bb25-429c66fbb33d</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №67763146 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>67763146</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/09cf7967-aa32-4dfb-bb25-429c66fbb33d</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>08.12.2025 16:00</RequestStartDate>
+      <EndDate>19.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.12.2025 17:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка печати</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>67763146</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>08.12.2025 16:00</PublicDate>
+      <purchAmount>1400</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1765209600000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>7e88d8d7-b34e-46c0-8b40-7ef44e7d2b6c</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №73106080 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>73106080</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/7e88d8d7-b34e-46c0-8b40-7ef44e7d2b6c</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>05.12.2025 13:35</RequestStartDate>
+      <EndDate>11.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>11.12.2025 13:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Шредер Гелеос АП20-4</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>73106080</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>05.12.2025 13:35</PublicDate>
+      <purchAmount>356274.8</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1764941700000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>e5fb1f6a-f63a-431c-8bf3-5846a7a4c891</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №51270766 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>51270766</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/e5fb1f6a-f63a-431c-8bf3-5846a7a4c891</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>04.12.2025 17:07</RequestStartDate>
+      <EndDate>19.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.12.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка оборудования и штор для гардеробной</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>51270766</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>04.12.2025 17:07</PublicDate>
+      <purchAmount>5612.8</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1764868020000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>cac5feff-c0a1-47cc-b6ed-e8046ff8dff4</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №33018682 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>33018682</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/cac5feff-c0a1-47cc-b6ed-e8046ff8dff4</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>04.12.2025 16:28</RequestStartDate>
+      <EndDate>11.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>11.12.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Apple Mac Studio M3</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>33018682</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>04.12.2025 16:28</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1764865680000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>d404a5dc-bd19-4f69-a4b6-c9086d00bbea</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №44192526 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>44192526</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/d404a5dc-bd19-4f69-a4b6-c9086d00bbea</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>04.12.2025 16:22</RequestStartDate>
+      <EndDate>08.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>08.12.2025 16:21</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Аренда локальной системы питьевого водоснабжения</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>44192526</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>04.12.2025 16:22</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1764865320000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>ec5b12db-e285-4e75-bb0b-f6afc5f7cddd</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №119917451 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>119917451</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/ec5b12db-e285-4e75-bb0b-f6afc5f7cddd</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>04.12.2025 15:03</RequestStartDate>
+      <EndDate>08.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>08.12.2025 15:03</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Аренда локальной системы питьевого водоснабжения</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>119917451</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>04.12.2025 15:03</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1764860580000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>2539ba8b-9d61-4804-a7c4-de8d0e154445</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №53011316 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>53011316</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/2539ba8b-9d61-4804-a7c4-de8d0e154445</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>04.12.2025 09:28</RequestStartDate>
+      <EndDate>19.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.12.2025 17:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка оборудования и штор для гардеробной</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>53011316</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>04.12.2025 09:28</PublicDate>
+      <purchAmount>5612.8</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1764840480000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>b5686580-429d-4d57-a4c3-3378d5a14652</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №41154182 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>41154182</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/b5686580-429d-4d57-a4c3-3378d5a14652</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>28.11.2025 10:27</RequestStartDate>
+      <EndDate>03.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>03.12.2025 18:30</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Планшет, чехол и стилус</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>41154182</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>28.11.2025 10:27</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1764325620000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>c91a5c80-e58a-41fb-b727-8430d178af0c</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №44148532 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>44148532</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/c91a5c80-e58a-41fb-b727-8430d178af0c</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>26.11.2025 16:20</RequestStartDate>
+      <EndDate>27.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>27.11.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Оказание услуг по техническому обслуживанию, выполнению ремонтных, планово-предупредительных, аварийно-восстановительных работ инженерных систем жизнеобеспечения и оборудования, выполнению погрузочно-разгрузочных работ, текущего ремонта и аварийно-восстановительных работ в помещениях, расположенных на объекте по адресу: г. Тольятти, ул. Фрунзе, д.14б, оф. 313</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>44148532</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>26.11.2025 16:20</PublicDate>
+      <purchAmount>495050</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1764174000000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>c0f655b1-0324-456d-9b05-2accd22829a0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №4000113 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>4000113</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/c0f655b1-0324-456d-9b05-2accd22829a0</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>26.11.2025 09:12</RequestStartDate>
+      <EndDate>02.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>02.12.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Предоставление прав на ПО и поставка сертификатов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>4000113</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>26.11.2025 09:12</PublicDate>
+      <purchAmount>33530.5</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1764148320000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>ef61614b-8cdb-436d-b478-1fde3a9c26c5</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №85898478 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>85898478</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/ef61614b-8cdb-436d-b478-1fde3a9c26c5</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>24.11.2025 16:38</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>05.12.2025 19:40</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка macbook</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>85898478</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.11.2025 16:38</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1764002280000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>bb3dd028-fb59-4ffd-b9e3-14bc4e1388cb</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №24472253 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>24472253</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/bb3dd028-fb59-4ffd-b9e3-14bc4e1388cb</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>24.11.2025 13:03</RequestStartDate>
+      <EndDate>28.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>28.11.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка сейфов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>24472253</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.11.2025 13:03</PublicDate>
+      <purchAmount>28851.37</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763989380000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>53006f92-9809-4936-a4f8-585030f98ab8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №54648946 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>54648946</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/53006f92-9809-4936-a4f8-585030f98ab8</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>19.11.2025 18:08</RequestStartDate>
+      <EndDate>25.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>25.11.2025 18:08</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка сейфов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>54648946</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.11.2025 18:08</PublicDate>
+      <purchAmount>5700</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1763575680000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>4e001b82-fd69-4954-8fae-599151f12b49</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №87866272 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>87866272</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/4e001b82-fd69-4954-8fae-599151f12b49</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>19.11.2025 14:20</RequestStartDate>
+      <EndDate>26.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.11.2025 14:17</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка брошюровщиков</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>87866272</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.11.2025 14:20</PublicDate>
+      <purchAmount>179630.5</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1763562000000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>12531606-0d05-4354-ae6c-87086f328ba8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №79376109 от покупателя АО "СБЕРТЕХ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>79376109</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/12531606-0d05-4354-ae6c-87086f328ba8</objectHrefTerm>
+      <OrgName>АО "СБЕРТЕХ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>18.11.2025 18:31</RequestStartDate>
+      <EndDate>19.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.11.2025 13:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Оказание образовательных услуг по профессиональному обучению и повышению квалификации по программам пожарной безопасности, охраны труда, гражданской обороны и действиям в случае чрезвычайной ситуации</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>79376109</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>18.11.2025 18:31</PublicDate>
+      <purchAmount>18230</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1763490660000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

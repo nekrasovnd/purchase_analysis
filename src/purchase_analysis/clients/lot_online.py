@@ -28,6 +28,7 @@ class LotOnlineSearchItem:
     lot_number: str
     subject: str
     customer_name: str
+    customer_inn: str
     region: str
     status: str
     tender_type: str
@@ -188,6 +189,11 @@ def parse_search_items(
             for item in customer_rows
             if normalize_spaces(item.get("title"))
         ]
+        customer_inns = [
+            normalize_spaces(item.get("inn"))
+            for item in customer_rows
+            if normalize_spaces(item.get("inn"))
+        ]
         tags = [
             normalize_spaces(str(value))
             for value in [*(raw_item.get("features") or []), *(raw_item.get("okdp2") or [])]
@@ -214,6 +220,7 @@ def parse_search_items(
                 lot_number=str(raw_item.get("lotNumber") or "1"),
                 subject=normalize_spaces(raw_item.get("title")),
                 customer_name=" | ".join(dict.fromkeys(customer_names)),
+                customer_inn=" | ".join(dict.fromkeys(customer_inns)),
                 region=" | ".join(
                     normalize_spaces(value)
                     for value in raw_item.get("regionCodes") or []

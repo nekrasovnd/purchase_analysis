@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "ecce57a7-7683-49bf-a832-07a743a7e186",
+        "c_description": "Камера  ELP USBFHD01M-BL36",
+        "c_comment": "Камера  ELP USBFHD01M-BL36",
+        "c_priceWithTax": 0.0,
+        "c_count": 100.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 0.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": [
+          {
+            "id": "11bcab4f-eb80-4048-b9bc-9f73c72ffd88",
+            "is_deletable": true,
+            "name": "3777bce3e1339efba8096e8e24a63f01.docx",
+            "original_name": "ТЗ_Сбер_камера в терминал.docx",
+            "size": 34350,
+            "type": "document",
+            "web_path": "/uploads/documents/37/77b/ce3/",
+            "created_at": "2025-12-04T12:49:45+03:00",
+            "created_by": {
+              "name": "Мария",
+              "patronymic": "Дмитриевна",
+              "surname": "Астахова"
+            },
+            "file": {
+              "id": "4b6d27f1-febd-4757-8d86-61dbfc8c0922",
+              "name": "3777bce3e1339efba8096e8e24a63f01.docx",
+              "original_name": "ТЗ_Сбер_камера в терминал.docx",
+              "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "web_path": "/uploads/documents/37/77b/ce3/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "limit": 100,
+    "total": 1,
+    "goods": [
+      {
+        "c_id": "a85d7880-c8a6-4f62-856e-911b2bc2a7f0",
+        "c_description": "Оказание услуг по проведению специальной оценки условий труда",
+        "c_comment": "",
+        "c_priceWithTax": 900.0,
+        "c_count": 110.0,
+        "c_tax": 0.0,
+        "c_priceWithoutTax": 900.0,
+        "c_okpd2Code": null,
+        "c_okpd2Name": null,
+        "c_warrantyPeriodMonths": null,
+        "c_hasDistinctName": false,
+        "c_unitId": "cfb3e723-63f1-4fb4-a7f9-6c7a09f3bebd",
+        "c_unitName": "шт",
+        "c_unitOkeiCode": "796",
+        "c_code": null,
+        "c_attachments": []
+      }
+    ]
+  }
+}
