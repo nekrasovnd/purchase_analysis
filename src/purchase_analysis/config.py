@@ -7,6 +7,7 @@ DATA_DIR = ROOT_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
 CURATED_DIR = DATA_DIR / "curated"
 REPORTS_DIR = DATA_DIR / "reports"
+OUTPUT_DIR = ROOT_DIR / "output"
 DOCS_DIR = ROOT_DIR / "docs"
 NOTEBOOKS_DIR = ROOT_DIR / "notebooks"
 

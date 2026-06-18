@@ -111,6 +111,7 @@ create table if not exists core.procurement_lot (
     lot_number text not null,
     subject text not null,
     customer_name text,
+    customer_inn text,
     region text,
     status text,
     tender_type text,
@@ -212,5 +213,28 @@ create table if not exists core.external_factor_daily (
     inflation_yoy_pct numeric(8, 4),
     inflation_target_pct numeric(8, 4),
     key_rate_month_end numeric(8, 4),
+    loaded_at timestamptz not null default now()
+);
+
+create table if not exists core.load_audit (
+    load_audit_id bigserial primary key,
+    database_name text not null,
+    scope_path text not null,
+    curated_dir text not null,
+    source_sprints_dir text,
+    include_enrichment boolean not null default true,
+    entity_scope_rows integer not null default 0,
+    entity_identity_enrichment_rows integer not null default 0,
+    entity_source_link_rows integer not null default 0,
+    source_assessment_rows integer not null default 0,
+    integration_probe_rows integer not null default 0,
+    procurement_lot_rows integer not null default 0,
+    procurement_item_rows integer not null default 0,
+    document_link_rows integer not null default 0,
+    document_text_rows integer not null default 0,
+    procurement_participant_rows integer not null default 0,
+    external_factor_daily_rows integer not null default 0,
+    started_at timestamptz not null,
+    finished_at timestamptz not null,
     loaded_at timestamptz not null default now()
 );

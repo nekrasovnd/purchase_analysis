@@ -38,6 +38,7 @@
 
 - `configs/entity_scope.csv` — проверенный identity scope юридических лиц группы Сбер: ИНН, ОГРН/КПП где подтверждено, официальные имена, алиасы и поисковые термины.
 - `docs/entity_resolution_protocol.md` — правила расширенного поиска, строгого принятия в core и дозаполнения пустых идентификаторов через review/enrichment.
+- `docs/database_usage.md` — полная инструкция по локальной PostgreSQL-базе, bootstrap, `psql`, `DBeaver`, health-check и типовым SQL-сценариям.
 - `src/purchase_analysis` — ETL-клиенты, пайплайн, аналитические витрины и CLI.
 - `db/ddl`, `db/views`, `db/marts` — PostgreSQL-схема и полезные SQL-представления.
 - `data/raw` — сырые HTML/XML-снапшоты источников.
@@ -175,8 +176,10 @@ python -m unittest discover -s tests -v
 В `db/ddl/001_schema.sql` описаны:
 
 - `core.entity_scope`
+- `core.entity_identity_enrichment`
 - `core.entity_source_link`
 - `core.source_assessment`
+- `core.integration_probe`
 - `core.procurement_lot`
 - `core.procurement_item`
 - `core.document_link`
@@ -188,17 +191,126 @@ python -m unittest discover -s tests -v
 
 - `db/views/001_core_views.sql`
 - `db/marts/001_analytics.sql`
+- `db/queries/001_explore.sql`
 
 Среди них есть:
 
 - покрытие сущностей;
+- отдельный lot-view без дублирования по item-строкам;
 - связки сущностей между источниками;
 - yearly summary;
 - monthly activity;
 - category mix;
 - YoY по направлениям;
 - duplicate stats;
+- anomalies;
+- unit-price benchmarks;
 - база для макрокорреляции.
+
+## Загрузка в PostgreSQL
+
+Полная отдельная инструкция по использованию БД лежит в `docs/database_usage.md`.
+
+Теперь curated snapshot можно не только открывать как CSV, но и загружать в живой `PostgreSQL`.
+
+Что делает команда:
+
+- применяет `db/ddl/*.sql`, `db/views/*.sql`, `db/marts/*.sql`;
+- очищает и заново загружает текущий snapshot из `data/curated`;
+- заполняет `core.entity_scope` из `configs/entity_scope.csv` с overlay полей/счётчиков из `data/curated/entity_coverage.csv`;
+- подтягивает `identity_enrichment_candidates.csv` из `output/source_sprints/*`, если они есть;
+- даёт готовые view в схеме `mart` для просмотра лотов, документов, участников и аналитики.
+
+Минимальный запуск:
+
+```bash
+$env:PYTHONPATH = "src"
+python -m purchase_analysis.cli sync-postgres --dsn "postgresql://postgres:<password>@localhost:5432/purchase_analysis"
+```
+
+Если база `purchase_analysis` ещё не создана, можно попросить CLI создать её через админский DSN:
+
+```bash
+$env:PYTHONPATH = "src"
+python -m purchase_analysis.cli sync-postgres `
+  --admin-dsn "postgresql://postgres:<password>@localhost:5432/postgres" `
+  --dsn "postgresql://postgres:<password>@localhost:5432/purchase_analysis" `
+  --create-database
+```
+
+Самые полезные view после загрузки:
+
+- `mart.v_procurement_lots` — один ряд на один лот, это главный view для просмотра всех лотов;
+- `mart.v_procurement_lot_enriched` — лоты в join с item-строками;
+- `mart.v_document_links`
+- `mart.v_document_texts`
+- `mart.v_procurement_participants`
+- `mart.v_yearly_summary`
+- `mart.v_monthly_activity`
+- `mart.v_anomalies`
+- `mart.v_unit_price_benchmarks`
+- `mart.v_load_audit`
+
+Быстрые SQL-примеры лежат в `db/queries/001_explore.sql`.
+Health-check запросы лежат в `db/queries/002_health_checks.sql`.
+
+Для локального portable-PostgreSQL в этом репозитории уже есть готовые команды-обёртки:
+
+```powershell
+.\scripts\start_local_postgres.cmd
+.\scripts\sync_local_postgres.cmd
+.\scripts\open_local_psql.cmd
+.\scripts\stop_local_postgres.cmd
+```
+
+Для полной настройки локального контура с нуля:
+
+```powershell
+.\scripts\bootstrap_local_db.cmd
+```
+
+Эта команда:
+
+- докачивает portable `PostgreSQL` в `.local`;
+- инициализирует `pgdata`, если кластера ещё нет;
+- поднимает локальный сервер;
+- создаёт БД `purchase_analysis`, если её ещё нет;
+- загружает curated snapshot через `sync-postgres`;
+- докачивает portable `DBeaver` и JDBC-драйверы.
+
+Текущая локальная конфигурация:
+
+- host: `127.0.0.1`
+- port: `55432`
+- database: `purchase_analysis`
+- user: `postgres`
+
+Примеры:
+
+```powershell
+.\scripts\open_local_psql.cmd -Command "select count(*) from mart.v_procurement_lots;"
+.\scripts\open_local_psql.cmd -Command "select * from mart.v_procurement_lots order by published_at desc nulls last limit 20;"
+```
+
+Для GUI уже установлен portable `DBeaver Community` в `.local/apps/dbeaver`.
+Открыть его сразу с подключением к локальной базе можно так:
+
+```powershell
+cmd /c scripts\open_dbeaver_purchase_analysis.cmd
+```
+
+Launcher:
+
+- запускает локальный `PostgreSQL`, если он ещё не поднят;
+- открывает `DBeaver` с workspace в `.local\dbeaver-workspace`;
+- создаёт/сохраняет подключение `purchase_analysis`;
+- открывает готовый набор SQL-вкладок:
+  - [001_explore.sql](D:/Nikita/Work/purchase_analysis/db/queries/001_explore.sql)
+  - [003_recent_lots.sql](D:/Nikita/Work/purchase_analysis/db/queries/003_recent_lots.sql)
+  - [004_priced_lots.sql](D:/Nikita/Work/purchase_analysis/db/queries/004_priced_lots.sql)
+  - [005_entity_focus_template.sql](D:/Nikita/Work/purchase_analysis/db/queries/005_entity_focus_template.sql)
+  - [006_anomalies.sql](D:/Nikita/Work/purchase_analysis/db/queries/006_anomalies.sql)
+  - [007_documents.sql](D:/Nikita/Work/purchase_analysis/db/queries/007_documents.sql)
 
 ## Аналитический фокус
 
