@@ -1,0 +1,618 @@
+{
+  "userAutorized": false,
+  "count": 13,
+  "totalCount": 40,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "46.69.15.000"
+      ],
+      "type": "BUYING",
+      "title": "право заключения Договора на поставку УСПД в целях пополнения обменного фонда на 2023 год для нужд ООО «Инфраструктурные инвестиции – 3»",
+      "viewDemandDate": "19.07.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000oifuijhu7fb88lo",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000oifuij6e2so672s",
+      "price": "<div class='aright'>1 690 908,16 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "jrvjy23001MP",
+      "filingNumber": "32312568609",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.07.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.07.2023 12:00&nbsp;МСК",
+      "summationDate": "20.07.2023 00:00",
+      "placementDate": "10.07.2023",
+      "organizer": {
+        "inn": "7703800941",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "10.07.2023 16:00",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000oifuijhu7fb88lo",
+      "customer": [
+        {
+          "inn": "7703800941",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.03.12.130"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению автоматизированной информационной системы управления инвестициями АО «Почта России» (АИС УИ)",
+      "viewDemandDate": "31.07.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oiaga4mub9237l4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oiaga40n5skcb08",
+      "price": "<div class='aright'>7 243 104,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-23000771400030",
+      "filingNumber": "32312558391",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.07.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.07.2023 11:00&nbsp;МСК",
+      "summationDate": "11.08.2023 00:00",
+      "placementDate": "06.07.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Ценовой отбор (301)",
+      "placementDateTime": "06.07.2023 10:23",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oiaga4mub9237l4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.11.000",
+        "62.01.11.000",
+        "62.01.11.000",
+        "62.01.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по развитию автоматизированной информационной системы управления инвестициями АО «Почта России» (АИС УИ)",
+      "viewDemandDate": "16.01.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oa3s31i0vvbjbck",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oa3s30au03btkns",
+      "price": "<div class='aright'>49 837 053,33 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-22000771400087",
+      "filingNumber": "32211952449",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.12.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.12.2022 11:00&nbsp;МСК",
+      "summationDate": "26.01.2023 00:00",
+      "placementDate": "14.12.2022",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос предложений",
+      "placementDateTime": "14.12.2022 10:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oa3s31i0vvbjbck",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по допуску в эксплуатацию приборов учета электроэнергии для нужд \nООО «Инфраструктурные инвестиции – 3»",
+      "viewDemandDate": "18.11.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000o8f9ulu6fs9idb8",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o8f9ulf4en4e77g",
+      "price": "<div class='aright'>14 640 787,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "jrvjy22004DP",
+      "filingNumber": "32211820265",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.11.2022 10:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.11.2022 10:30&nbsp;МСК",
+      "summationDate": "21.11.2022 00:00",
+      "placementDate": "03.11.2022",
+      "organizer": {
+        "inn": "7703800941",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "03.11.2022 14:42",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o8f9ulu6fs9idb8",
+      "customer": [
+        {
+          "inn": "7703800941",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "На право заключения Договора на выполнение работ по созданию системы учета электроэнергии филиала ПАО «Россети Центр» - «Ярэнерго» для нужд ООО «Инфраструктурные инвестиции – 3» ",
+      "viewDemandDate": "29.08.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000o4nn8fk73vpur30",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o4nn8f6ssephsk0",
+      "price": "<div class='aright'>1 249 816 548,65 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "jrvjy22003DP",
+      "filingNumber": "32211594082",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.08.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.08.2022 12:00&nbsp;МСК",
+      "summationDate": "30.08.2022 00:00",
+      "placementDate": "02.08.2022",
+      "organizer": {
+        "inn": "7703800941",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "02.08.2022 19:09",
+      "deposit": "12 498 165,49 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o4nn8fk73vpur30",
+      "customer": [
+        {
+          "inn": "7703800941",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.19.21.000"
+      ],
+      "type": "BUYING",
+      "title": "Закупка услуг по предоставлению кредитных ресурсов в форме кредитной линии с лимитом 1 600 000 000,00 рублей",
+      "viewDemandDate": "15.08.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000o49i0s017us4pro",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o49i0rbssi7e81k",
+      "price": "<div class='aright'>2 088 000 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "jrvjy22002DP",
+      "filingNumber": "32211570153",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.07.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.08.2022 12:00&nbsp;МСК",
+      "summationDate": "23.08.2022 00:00",
+      "placementDate": "22.07.2022",
+      "organizer": {
+        "inn": "7703800941",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+      },
+      "placementType": "Открытый аукцион в электронной форме",
+      "placementDateTime": "22.07.2022 18:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o49i0s017us4pro",
+      "customer": [
+        {
+          "inn": "7703800941",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.51.63.130"
+      ],
+      "type": "BUYING",
+      "title": "Закупка оборудования в целях пополнения обменного фонда приборов учета",
+      "viewDemandDate": "30.08.2022 00:00",
+      "lotStageGroupTitle": "Завершены торги",
+      "uuid": "corebo19718u80000o49ajb0jfkagor0",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o49ajaj3eflgehg",
+      "price": "<div class='aright'>7 781 074,80 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Finished",
+        "title": "Завершено проведение торгов"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "jrvjy22001DP",
+      "filingNumber": "32211568630",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.07.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.08.2022 12:00&nbsp;МСК",
+      "summationDate": "31.08.2022 00:00",
+      "placementDate": "22.07.2022",
+      "organizer": {
+        "inn": "7703800941",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "22.07.2022 13:01",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o49ajb0jfkagor0",
+      "customer": [
+        {
+          "inn": "7703800941",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНФРАСТРУКТУРНЫЕ ИНВЕСТИЦИИ-3\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "68.31.16"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по оценке пакета акций АО \"Янтарьэнерго\" до государственной регистрации 100% Уставного капитала c учетом размещенных акций дополнительного выпуска, зарегистрированного ЦБ России 18.04.2019, для определения цены размещения акций следующего дополнительного выпуска АО \"Янтарьэнерго\" под инвестиции ПАО \"Россети\"",
+      "viewDemandDate": "11.05.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000o02a60hoicitrco",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o02a5vtj5mnrvss",
+      "price": "<div class='aright'>720 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "yanen22122DP",
+      "filingNumber": "32211299380",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.04.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.04.2022 16:00&nbsp;МСК",
+      "summationDate": "20.05.2022 00:00",
+      "regionCodes": [
+        "Калининградская, обл"
+      ],
+      "placementDate": "08.04.2022",
+      "organizer": {
+        "inn": "3903007130",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЯНТАРЬ\""
+      },
+      "placementType": "запрос предложений в электронной форме",
+      "placementDateTime": "08.04.2022 16:10",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o02a60hoicitrco",
+      "customer": [
+        {
+          "inn": "3903007130",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЯНТАРЬ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.1"
+      ],
+      "type": "BUYING",
+      "title": "21Т0110020.0139.Разработка раздела проектной документации по обеспечению сохранности объекта культурного наследия, включающего оценку воздействия предполагаемых работ по прокладке кабельной линии на объект культурного наследия «Строительство КЛ-0,4 кВ в г. Архангельске Архангельской области с монтажом узлов учета (Фонд имущества и инвестиций, ГУП АО, №СПБ80-18728А/20 от 14.01.21)» ИП 002-11-2-02.41-2645 для нужд Архангельского филиала ПАО «Россети Северо-Запад»",
+      "viewDemandDate": "03.12.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nq2dlnvs6e6cbdg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nq2de5140n8habk",
+      "price": "<div class='aright'>300 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mrsz_21813DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.11.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.11.2021 12:00&nbsp;МСК",
+      "summationDate": "03.12.2021 00:00",
+      "regionCodes": [
+        "Архангельская, обл"
+      ],
+      "placementDate": "10.11.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПАО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Сравнение цен",
+      "placementDateTime": "10.11.2021 15:00",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nq2dlnvs6e6cbdg",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПАО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.30"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению автоматизированной информационной системы управления инвестициями АО «Почта России» (АИС УИ)",
+      "viewDemandDate": "03.06.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ni8esa8n86anh8s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ni8es9civr1ued4",
+      "price": "<div class='aright'>9 166 998,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-21000772400094",
+      "filingNumber": "32110255390",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.05.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.05.2021 11:00&nbsp;МСК",
+      "summationDate": "11.06.2021 00:00",
+      "placementDate": "30.04.2021",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Аукцион",
+      "placementDateTime": "30.04.2021 11:34",
+      "deposit": "458 349,90 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ni8esa8n86anh8s",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "13.92.21.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка мешков для проекта Сбербанк для нужд УФПС Свердловской области",
+      "viewDemandDate": "22.04.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nh205690dvornt8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nh2055986v6le28",
+      "price": "<div class='aright'>115 404,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-21000667000045",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.04.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.04.2021 06:00&nbsp;МСК",
+      "summationDate": "29.04.2021 00:00",
+      "placementDate": "31.03.2021",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Аукцион",
+      "placementDateTime": "31.03.2021 14:22",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nh205690dvornt8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "22.22.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Поставка упаковочных материалов в рамках договора с ПАО Сбербанк для нужд УФПС Нижегородской области",
+      "viewDemandDate": "10.12.2020 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nc6evk3e54qmgnc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nc6evir8t5plu8s",
+      "price": "<div class='aright'>2 150 790,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-20000631700135",
+      "filingNumber": "32009744458",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.12.2020 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.12.2020 10:00&nbsp;МСК",
+      "summationDate": "17.12.2020 00:00",
+      "placementDate": "30.11.2020",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "30.11.2020 19:07",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nc6evk3e54qmgnc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Нижегородской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "type": "BUYING",
+      "title": "Поставка оборудования для центра прототипирования",
+      "viewDemandDate": "07.10.2019 10:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000mqrlc8a3egvkedg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000mqrlc7vc1bujp58",
+      "price": "<div class='aright'>15 202 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "31908349911",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "30.09.2019 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "07.10.2019 09:00&nbsp;МСК",
+      "summationDate": "07.10.2019 10:00",
+      "placementDate": "29.09.2019",
+      "organizer": {
+        "inn": "4401077110",
+        "title": "Государственное автономное учреждение \"Агентство инвестиций и развития предпринимательства Костромской области\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "29.09.2019 11:56",
+      "deposit": "12 000,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000mqrlc8a3egvkedg",
+      "customer": [
+        {
+          "inn": "4401077110",
+          "title": "Государственное автономное учреждение \"Агентство инвестиций и развития предпринимательства Костромской области\""
+        }
+      ]
+    }
+  ]
+}

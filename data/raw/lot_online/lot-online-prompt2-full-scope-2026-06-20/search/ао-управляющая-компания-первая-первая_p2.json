@@ -1,0 +1,914 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 60,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.99"
+      ],
+      "type": "BUYING",
+      "title": "текущий ремонт в рамках субсидии Всероссийского конкурса программ развития молодёжной политики \"Регион для молодых\" (Часть здания: Помещения первого нежилого этажа №2, г. Лабытнанги, ул. Школьная, д. 26)",
+      "viewDemandDate": "20.05.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000prsrfef9fbspso4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000prsrfe88aotsb6s",
+      "price": "<div class='aright'>45 281 152,41 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Rejected",
+        "title": "Отказ от проведения закупки"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260021182",
+      "filingNumber": "32615977290",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "04.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.05.2026 10:00&nbsp;МСК",
+      "summationDate": "21.05.2026 00:00",
+      "placementDate": "04.05.2026",
+      "organizer": {
+        "inn": "8901034874",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ МОЛОДЁЖНОЙ ПОЛИТИКИ МОЛОДЁЖНЫЙ ЦЕНТР \"ШКОЛА ЯМОЛОД. ПРИУРАЛЬСКИЙ РАЙОН\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "04.05.2026 17:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000prsrfef9fbspso4",
+      "customer": [
+        {
+          "inn": "8901034874",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ МОЛОДЁЖНОЙ ПОЛИТИКИ МОЛОДЁЖНЫЙ ЦЕНТР \"ШКОЛА ЯМОЛОД. ПРИУРАЛЬСКИЙ РАЙОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения Договора на выполнение работ по строительству КЛ-6 кВ, двух РП-6 кВ, КЛ 0,4 кВ, четырёх КРУН 0,4 кВ, ПУ-0,4 кВ, двухтрансформаторной БКТП-6/0,4 кВ, реконструкции ячейки в РУ 6 кВ ТП № 130 ф.645 ПС 220/110/35/6 кВ Кострома-2 для технологического присоединения энергопринимающих устройств Заявителя: нежилые здания (первое здание - офисное здание, второе здание - объект делового управления со встроенными складскими помещениями), расположенные по адресу: Костромская область, г. Кострома, ул. Зеленая, земельный участок 6б, кадастровый номер земельного участка 44:27:060403:1030 Заявитель: ООО \"СЗ Мастерстрой\" Максимальная мощность присоединяемых энергопринимающих устройств Заявителя свыше 150 кВт (255,4 кВт) (ТЗ № 44/2026/17/3) для нужд ПАО «Россети Центр» (филиала «Костромаэнерго»)",
+      "viewDemandDate": "08.05.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000prjp9egn56lstvk",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000prjp9e3r6miu6mg",
+      "price": "<div class='aright'>48 577 082,82 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260020116",
+      "filingNumber": "32615957556",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "06.05.2026 12:00&nbsp;МСК",
+      "summationDate": "14.05.2026 00:00",
+      "placementDate": "28.04.2026",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Запрос цен по результатам предварительного отбора",
+      "placementDateTime": "28.04.2026 09:53",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000prjp9egn56lstvk",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка медицинских аптечек для оказания первой помощи работникам для нужд УФПС Владимирской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pr47jjkjna81ets",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pr47jjkpd3d5uig",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000631700100",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.04.2026 14:43",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.04.2026 07:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.04.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "15.04.2026 14:43",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pr47jjkpd3d5uig",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Самарской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 32.50.50.000. Поставка аптечек первой помощи (филиал АО \"ДРСК\" \"Приморские электрические сети)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqt9besqodclq7c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqt9bet0ctk6j70",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Rejected",
+        "title": "Отменен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260016901",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.04.2026 05:14",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.04.2026 03:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.04.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.04.2026 05:14",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqt9bet0ctk6j70",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 32.50.50.000. Поставка аптечек первой помощи (филиал АО \"ДРСК\" \"Приморские электрические сети)",
+      "viewDemandDate": "16.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqt9866o717esd4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqt8tclb54ghgj4",
+      "price": "<div class='aright'>247 442,44 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260016900",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.04.2026 05:00&nbsp;МСК",
+      "summationDate": "20.04.2026 00:00",
+      "placementDate": "10.04.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+      },
+      "placementType": "Нерегламентируемая закупка",
+      "placementDateTime": "10.04.2026 05:11",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqt9866o717esd4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.19.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора поставки инструкций по оказанию первой помощи для нужд ПАО «Россети Центр» (филиала «Брянскэнерго»).",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqplbvjkv1heff4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqpl90t34ejqh2k",
+      "price": "<div class='aright'>89 670,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260016159",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2026 12:00&nbsp;МСК",
+      "summationDate": "14.04.2026 00:00",
+      "placementDate": "07.04.2026",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Брянскэнерго\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "07.04.2026 09:45",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqplbvjkv1heff4",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "28.11.33.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 28.11.33.000 Выполнение работ по замене сегмента соплового аппарата первой ступени с бороскопическим портом (в том числе поставка материалов) газотурбинной установки LM 6000 PF DF ст. №1 для нужд станции ЯГРЭС-2 филиала Якутской ГРЭС",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqpkbt1p596at94",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqpkbt20dkvlf24",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260016126",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.04.2026 09:06",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 04:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "07.04.2026",
+      "organizer": {
+        "inn": "1435028701",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКЭНЕРГО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "07.04.2026 09:06",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqpkbt20dkvlf24",
+      "customer": [
+        {
+          "inn": "1435028701",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "85.42.19"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 85.42.19 Обучение и проверка знаний по охране труда, оказанию первой помощи, эксплуатации опасных производственных объектов для нужд филиала ПЭС \"Казым\"",
+      "viewDemandDate": "16.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pqkp8ros7kpcoag",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pqkp79arbj3981k",
+      "price": "<div class='aright'>128 390,47 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015703",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.04.2026 10:00&nbsp;МСК",
+      "summationDate": "23.04.2026 00:00",
+      "placementDate": "03.04.2026",
+      "organizer": {
+        "inn": "7719019846",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО ЭНЕРГЕТИКИ И ЭЛЕКТРИФИКАЦИИ \"ПЕРЕДВИЖНАЯ ЭНЕРГЕТИКА\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "03.04.2026 14:46",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pqkp8ros7kpcoag",
+      "customer": [
+        {
+          "inn": "7719019846",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО ЭНЕРГЕТИКИ И ЭЛЕКТРИФИКАЦИИ \"ПЕРЕДВИЖНАЯ ЭНЕРГЕТИКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка медицинских аптечек для оказания первой помощи работникам для нужд УФПС «Татарстан почтасы»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pqkoe98assd9624",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pqkoe98h3i0trfg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000631700069",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.04.2026 14:15",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "13.04.2026 07:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "03.04.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "03.04.2026 14:15",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pqkoe98h3i0trfg",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Самарской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.32.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Замена оконных блоков в МОАУ ДО ДЮЦ \"Первый\" г. Кирова ( клуб \"Родина\") по адресу: г. Киров, ул. Физкультурников д. 9",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqkg9hc1436hqk0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqkg9h5cl1d7sa4",
+      "price": "<div class='aright'>300 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015592",
+      "filingNumber": "32615875234",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 10:00&nbsp;МСК",
+      "summationDate": "10.04.2026 00:00",
+      "placementDate": "03.04.2026",
+      "organizer": {
+        "inn": "4347024171",
+        "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.04.2026 09:33",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqkg9hc1436hqk0",
+      "customer": [
+        {
+          "inn": "4347024171",
+          "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.32.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Проведение работ по замене оконных блоков  в МОАУ ДО ДЮЦ \"Первый\" г. Кирова (театр танца \"Эксперимент\") по адресу: г. Киров, ул. Олега Кошевого д. 14",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqkg7odb93993bc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqkg7o6jg1jvkd0",
+      "price": "<div class='aright'>107 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015591",
+      "filingNumber": "32615875228",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 10:00&nbsp;МСК",
+      "summationDate": "10.04.2026 00:00",
+      "placementDate": "03.04.2026",
+      "organizer": {
+        "inn": "4347024171",
+        "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.04.2026 09:32",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqkg7odb93993bc",
+      "customer": [
+        {
+          "inn": "4347024171",
+          "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.32.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Проведение работ по замене оконных блоков в МОАУ ДО ДЮЦ \"Первый\" г. Кирова (клуб \"Северный\") по адресу: г. Киров, ул. Луганская д. 2",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqkg1i3cl5bjqg8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqkg1ht68dtt3b8",
+      "price": "<div class='aright'>78 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015582",
+      "filingNumber": "32615875195",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 10:00&nbsp;МСК",
+      "summationDate": "10.04.2026 00:00",
+      "placementDate": "03.04.2026",
+      "organizer": {
+        "inn": "4347024171",
+        "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.04.2026 09:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqkg1i3cl5bjqg8",
+      "customer": [
+        {
+          "inn": "4347024171",
+          "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.32.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Проведение работ по замене оконных блоков в муниципальном образовательном автономном учреждении дополнительного образования \"Детско юношеский центр \"Первый\" г. Кирова (клуб \"Вятка карт\") по адресу: г. Киров, ул. Цветная, д. 7",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqker1u0v927oho",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqker1mgtnjtkbc",
+      "price": "<div class='aright'>200 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015559",
+      "filingNumber": "32615875137",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 10:00&nbsp;МСК",
+      "summationDate": "10.04.2026 00:00",
+      "placementDate": "03.04.2026",
+      "organizer": {
+        "inn": "4347024171",
+        "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.04.2026 09:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqker1u0v927oho",
+      "customer": [
+        {
+          "inn": "4347024171",
+          "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.53.139",
+        "62.01.29.000"
+      ],
+      "type": "BUYING",
+      "title": "Поставка интерактивного лазерного тира",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqgl7a4nl9e5ork",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqgl79uh86k0kkc",
+      "price": "<div class='aright'>452 533,33 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Rejected",
+        "title": "Отказ от проведения закупки"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260014678",
+      "filingNumber": "32615859653",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "07.04.2026 10:00&nbsp;МСК",
+      "summationDate": "07.04.2026 00:00",
+      "placementDate": "31.03.2026",
+      "organizer": {
+        "inn": "4347024171",
+        "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "31.03.2026 09:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqgl7a4nl9e5ork",
+      "customer": [
+        {
+          "inn": "4347024171",
+          "title": "МУНИЦИПАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКО-ЮНОШЕСКИЙ ЦЕНТР \"ПЕРВЫЙ\" ГОРОДА КИРОВА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка аптечек для оказания первой помощи для нужд АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqbmgdrg4bpv524",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqbmgdrnf59r450",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400257",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.03.2026 13:22",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.04.2026 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "27.03.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "27.03.2026 13:22",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqbmgdrnf59r450",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "28.99.39.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 28.99.39.190 Поставка комплекта оборудования и программного обеспечения для создания автоматизированной системы управления тепломеханическим оборудованием первого пускового комплекса Артемовской ТЭЦ-2 в с. Оление Приморского края",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pq96gig7big3rj4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pq96gigdiqkoejg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260013826",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "25.03.2026 14:46",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "31.03.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "25.03.2026",
+      "organizer": {
+        "inn": "2466296773",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "25.03.2026 14:46",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pq96gigdiqkoejg",
+      "customer": [
+        {
+          "inn": "2466296773",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение строительно-монтажных работ по реконструкции объекта: «Кабельная линия 10кВ, БП-000657 (фактическая протяженность линии от  яч.1б РП-216 1 с.ш до яч.2 ТП-4924 1 с.ш 761 м, от яч. 18А РП-216 2 с.ш до яч. 9 ТП-4924 2 с.ш 761 м)». Вынос части кабельной линии 10 кВ, попадающей в зону строительства объекта «Размещение полуподземной парковки с магазином «Центр фермерской торговли» по адресу: г. Н. Новгород, Приокский район, ул. Цветочная, д.3. Первый этап строительства»",
+      "viewDemandDate": "30.03.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ppvrcmd64t9v720",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ppvrcm5p71s8coc",
+      "price": "<div class='aright'>5 602 949,70 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260012378",
+      "filingNumber": "32615809565",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.03.2026 10:00&nbsp;МСК",
+      "summationDate": "31.03.2026 00:00",
+      "placementDate": "18.03.2026",
+      "organizer": {
+        "inn": "5260283448",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СТН-ЭНЕРГОСЕТИ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "18.03.2026 08:38",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ppvrcmd64t9v720",
+      "customer": [
+        {
+          "inn": "5260283448",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СТН-ЭНЕРГОСЕТИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Пакет перевязочный индивидуальный стерильный ИПП-1",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ppvp1p20ihnldg8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ppvp1p28tmbhp3g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260012363",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.03.2026 07:09",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.03.2026 04:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.03.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.03.2026 07:09",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ppvp1p28tmbhp3g",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Аптечка первой помощи автомобильная Фэст, ТУ 9398-100-10973749-2020",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ppvp1p21bn3n9lo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ppvp1p28tmbhp3g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260012363",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.03.2026 07:09",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.03.2026 04:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.03.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.03.2026 07:09",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ppvp1p28tmbhp3g",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Аптечка первой помощи работникам футляр 8-2 ТУ 21.20.24-129-10973749-2020",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ppvp1p21osm4o5o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ppvp1p28tmbhp3g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260012363",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.03.2026 07:09",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.03.2026 04:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.03.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.03.2026 07:09",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ppvp1p28tmbhp3g",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+        }
+      ]
+    }
+  ]
+}

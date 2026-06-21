@@ -1,0 +1,945 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 420,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Страхование общегражданской ответственности (ОПО), КАСКО",
+      "viewDemandDate": "09.11.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ommp5b3up0d3r1c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ommp59quc5j8q5g",
+      "price": "<div class='aright'>276 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "TUGES23045DP",
+      "filingNumber": "32312880944",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "23.10.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.11.2023 11:00&nbsp;МСК",
+      "summationDate": "20.11.2023 00:00",
+      "placementDate": "23.10.2023",
+      "organizer": {
+        "inn": "7105505971",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУЛЬСКИЕ ГОРОДСКИЕ ЭЛЕКТРИЧЕСКИЕ СЕТИ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "23.10.2023 09:11",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ommp5b3up0d3r1c",
+      "customer": [
+        {
+          "inn": "7105505971",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУЛЬСКИЕ ГОРОДСКИЕ ЭЛЕКТРИЧЕСКИЕ СЕТИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21.000"
+      ],
+      "type": "BUYING",
+      "title": "Обязательное страхование транспортных средств",
+      "viewDemandDate": "08.11.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000omj8p773o4unofo",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000omj8p6lt52nqep8",
+      "price": "<div class='aright'>1 083 518,45 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0652223110DP",
+      "filingNumber": "32312879348",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.10.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.10.2023 12:00&nbsp;МСК",
+      "summationDate": "08.11.2023 00:00",
+      "regionCodes": [
+        "Брянская, обл"
+      ],
+      "placementDate": "20.10.2023",
+      "organizer": {
+        "inn": "7731480563",
+        "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "20.10.2023 15:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000omj8p773o4unofo",
+      "customer": [
+        {
+          "inn": "7731480563",
+          "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.49.000"
+      ],
+      "type": "BUYING",
+      "title": "23К7310010.0037/2. Оказание услуг страхования имущества юридических лиц «от всех рисков» для нужд ПАО «Россети Северо-Запад»",
+      "viewDemandDate": "01.12.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000omfeg6b4044o7lg",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000omfeg4prqpepfqg",
+      "price": "<div class='aright'>141 286 681,90 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz23821DP",
+      "filingNumber": "32312865134",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.12.2023 09:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "06.12.2023 09:00&nbsp;МСК",
+      "summationDate": "08.01.2024 00:00",
+      "regionCodes": [
+        "Санкт-Петербург, г"
+      ],
+      "placementDate": "17.10.2023",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "17.10.2023 16:39",
+      "deposit": "7 064 334,10 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000omfeg6b4044o7lg",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000",
+        "65.12.21.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по обязательному страхованию автогражданской ответственности \nСПб ГАУ «Дирекция по управлению спортивными сооружениями»",
+      "viewDemandDate": "27.10.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ome1vd70v2jl3l0",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ome1vbtitsjv82s",
+      "price": "<div class='aright'>137 764,24 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "duss_23072DP",
+      "filingNumber": "32312859515",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.10.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.10.2023 09:00&nbsp;МСК",
+      "summationDate": "27.10.2023 00:00",
+      "placementDate": "16.10.2023",
+      "organizer": {
+        "inn": "7804349556",
+        "title": "СПБ ГАУ \"ДИРЕКЦИЯ ПО УПРАВЛЕНИЮ СПОРТИВНЫМИ СООРУЖЕНИЯМИ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "16.10.2023 14:40",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ome1vd70v2jl3l0",
+      "customer": [
+        {
+          "inn": "7804349556",
+          "title": "СПБ ГАУ \"ДИРЕКЦИЯ ПО УПРАВЛЕНИЮ СПОРТИВНЫМИ СООРУЖЕНИЯМИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.29.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию транспортных средств иностранных марок (КАСКО)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000oma7k4jihkiv4dg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000oma7k4jq6494us0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-23000771400239",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "13.10.2023 15:13",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.10.2023 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "13.10.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "13.10.2023 15:13",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000oma7k4jq6494us0",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.29.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию транспортных средств отечественных марок (КАСКО)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000om59qj6eb5jht3k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000om59qj6km581pq0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-23000771400220",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.10.2023 19:18",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.10.2023 22:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "09.10.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "09.10.2023 19:18",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000om59qj6km581pq0",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.90.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию наличных денежных средств при перевозке (передачи), переноске, доставке (вручении) и промежуточном (транзитном) хранении",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ols4guncre29a78",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ols4gunk92aj0o8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-23000771400197",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.10.2023 16:26",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.10.2023 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.10.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "02.10.2023 16:26",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ols4gunk92aj0o8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21.000"
+      ],
+      "type": "BUYING",
+      "title": "Обязательное страхование гражданской ответственности владельцев транспортных средств (ОСАГО)",
+      "viewDemandDate": "12.10.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000olmfdfceptr26ic",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000olmfdet4c4dgepk",
+      "price": "<div class='aright'>2 679 730,83 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod23196DP",
+      "filingNumber": "32312804457",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.10.2023 12:00&nbsp;МСК",
+      "summationDate": "17.10.2023 00:00",
+      "placementDate": "28.09.2023",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "28.09.2023 07:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000olmfdfceptr26ic",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.90.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Описание услуги указано в техническом задании (Приложение к запросу)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000oliqdid16riktdg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000oliqdid9o35cjds",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-23000771400183",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "25.09.2023 10:49",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.10.2023 16:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "25.09.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "25.09.2023 10:49",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000oliqdid9o35cjds",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "53.20.11"
+      ],
+      "type": "BUYING",
+      "title": "Услуги по приему, обработке, перевозке и доставке экспресс-отправлений (документов, грузов, включая услуги курьера, описи вложения, страхования)",
+      "viewDemandDate": "11.10.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oler9hrg9o0mes0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oler9h08tk9oi88",
+      "price": "<div class='aright'>1 800 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "vniig23113DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.10.2023 11:00&nbsp;МСК",
+      "summationDate": "13.10.2023 00:00",
+      "regionCodes": [
+        "Санкт-Петербург, г"
+      ],
+      "placementDate": "22.09.2023",
+      "organizer": {
+        "inn": "7804004400",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "22.09.2023 12:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oler9hrg9o0mes0",
+      "customer": [
+        {
+          "inn": "7804004400",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг добровольного медицинского страхования",
+      "viewDemandDate": "27.09.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ol131n5040hej88",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ol131mf77uc41ks",
+      "price": "<div class='aright'>28 400 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "turiz23054DP",
+      "filingNumber": "32312752539",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.09.2023 12:00&nbsp;МСК",
+      "summationDate": "02.10.2023 00:00",
+      "placementDate": "11.09.2023",
+      "organizer": {
+        "inn": "9703023632",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ ТУРИЗМ.РФ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "11.09.2023 16:22",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ol131n5040hej88",
+      "customer": [
+        {
+          "inn": "9703023632",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ ТУРИЗМ.РФ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора обязательного страхования гражданской ответственности владельца опасного объекта за причинение вреда в результате аварии на опасном объекте нужд ПАО «Россети Московский регион» по г. Москва.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000okpdhiek9bqjv7g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000okpdbi3diijn5vo",
+      "price": "<div class='aright'>215 230,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr231824DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.09.2023 12:00&nbsp;МСК",
+      "summationDate": "08.09.2023 00:00",
+      "placementDate": "06.09.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "06.09.2023 10:26",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000okpdhiek9bqjv7g",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора обязательного страхования гражданской ответственности владельца опасного объекта за причинение вреда в результате аварии на опасном объекте для нужд ПАО «Россети Московский регион» по Московской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000okpjjmrs6ph7o78",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000okpjhv2i1tm4o44",
+      "price": "<div class='aright'>307 588,75 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr231827DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.09.2023 12:00&nbsp;МСК",
+      "summationDate": "08.09.2023 00:00",
+      "placementDate": "06.09.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "06.09.2023 10:24",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000okpjjmrs6ph7o78",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора обязательного страхования гражданской ответственности владельца опасного объекта за причинение вреда в результате аварии на опасном объекте нужд ПАО «Россети Московский регион»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000okildf9k7j16opc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000okil36bo135ch9o",
+      "price": "<div class='aright'>420 180,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr231779DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.08.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.09.2023 12:00&nbsp;МСК",
+      "summationDate": "05.09.2023 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "31.08.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "31.08.2023 11:30",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000okildf9k7j16opc",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по обязательному страхованию гражданской ответственности владельцев транспортных средств\n",
+      "viewDemandDate": "05.09.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ok239ue7uq7kvp4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ok239u0mg9dvag0",
+      "price": "<div class='aright'>21 571 087,21 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0474623447DP",
+      "filingNumber": "32312687033",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.08.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.09.2023 08:00&nbsp;МСК",
+      "summationDate": "05.09.2023 00:00",
+      "placementDate": "18.08.2023",
+      "organizer": {
+        "inn": "7830001927",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "18.08.2023 14:51",
+      "deposit": "1 078 554,36 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ok239ue7uq7kvp4",
+      "customer": [
+        {
+          "inn": "7830001927",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.29.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по добровольному страхованию наземных транспортных средств (КАСКО) для нужд ИТАР-ТАСС",
+      "viewDemandDate": "30.08.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ok1rd6n3v0gu3o8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ok1rd6avi3t8q0c",
+      "price": "<div class='aright'>482 386,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "NCKMI23077DP",
+      "filingNumber": "32312685169",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.08.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.08.2023 09:00&nbsp;МСК",
+      "summationDate": "30.08.2023 00:00",
+      "placementDate": "18.08.2023",
+      "organizer": {
+        "inn": "7723817862",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНЫЙ ЦЕНТР КОНСАЛТИНГА И МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "18.08.2023 10:04",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ok1rd6n3v0gu3o8",
+      "customer": [
+        {
+          "inn": "7703082786",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.49.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию имущества для нужд АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ojc92rag61263co",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ojc92raosir0f4o",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-23000771400048",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.08.2023 15:47",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.08.2023 00:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "01.08.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "01.08.2023 15:47",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ojc92raosir0f4o",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.2"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора добровольного страхования автотранспортных средств (КАСКО)",
+      "viewDemandDate": "24.08.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000oj4i406lacg0jss",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000oj4i3v0s5u5d040",
+      "price": "<div class='aright'>10 883 223,81 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr231371DP",
+      "filingNumber": "32312618580",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "23.08.2023 10:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.08.2023 10:00&nbsp;МСК",
+      "summationDate": "08.09.2023 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "26.07.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "26.07.2023 16:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000oj4i406lacg0jss",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.29.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по добровольному страхованию наземных транспортных средств (КАСКО) для нужд ИТАР-ТАСС",
+      "viewDemandDate": "14.08.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oj4bstti4r5a7g4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oj4bsthhaq6fcag",
+      "price": "<div class='aright'>1 139 220,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "NCKMI23074DP",
+      "filingNumber": "32312616888",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.07.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.08.2023 09:00&nbsp;МСК",
+      "summationDate": "14.08.2023 00:00",
+      "placementDate": "26.07.2023",
+      "organizer": {
+        "inn": "7723817862",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНЫЙ ЦЕНТР КОНСАЛТИНГА И МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "26.07.2023 12:23",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oj4bstti4r5a7g4",
+      "customer": [
+        {
+          "inn": "7703082786",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ИНФОРМАЦИОННОЕ ТЕЛЕГРАФНОЕ АГЕНТСТВО РОССИИ (ИТАР-ТАСС)\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.1"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Заключение договоров страхования",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000oi98qd83vl53hkk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000oi98qd8cpk93kr8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "gptek23010PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.07.2023 11:11",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.07.2023 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "05.07.2023",
+      "organizer": {
+        "inn": "7838129301",
+        "title": "Акционерное общество \"Топливно-энергетический комплекс Санкт-Петербурга\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "05.07.2023 11:11",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000oi98qd8cpk93kr8",
+      "customer": [
+        {
+          "inn": "7838129301",
+          "title": "Акционерное общество \"Топливно-энергетический комплекс Санкт-Петербурга\""
+        }
+      ]
+    }
+  ]
+}

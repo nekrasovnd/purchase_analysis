@@ -1,0 +1,928 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 180,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.51",
+        "42.11"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по установке специальных технических средств, работающих в автоматическом режиме и имеющих функции фото- и киносъемки, видеозаписи для фиксации административных правонарушений в области дорожного движения на территории Удмуртской Республики с последующим оказанием услуг по их обслуживанию",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psq12f2lcmqc3m0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psq0v2q8rc3de3s",
+      "price": "<div class='aright'>0,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Exam",
+        "title": "Работа комиссии"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025184",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2026 12:00&nbsp;МСК",
+      "summationDate": "29.05.2026 00:00",
+      "regionCodes": [
+        "Удмуртская, Респ"
+      ],
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Запрос информации (RFI)",
+      "placementDateTime": "27.05.2026 09:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq12f2lcmqc3m0",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "41.20.20.621"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ для реализации проекта «Организация видеотрансляций на ЕДГ и ЕГЭ» на территории Псковской области для нужд ПАО «Ростелеком»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pspteoda0hpuf44",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pspteo4ogpm8vug",
+      "price": "<div class='aright'>2 178 700,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Completed",
+        "title": "Завершен"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025163",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Подтверждение стандартных условий",
+      "placementDateTime": "27.05.2026 07:29",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pspteoda0hpuf44",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 81.30.10.000 Оказание услуг по уборке территории объекта филиала ПАО \"РусГидро\"-\"Саратовская ГЭС\" с использованием специализированной техники",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pspou02iaurjg8k",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pspou02oaij1h3k",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260025148",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 04:48",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "27.05.2026 04:48",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pspou02oaij1h3k",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "02.40.10.119"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 02.40.10.119 Выполнение комплекса мероприятий по лесовосстановлению по мероприятиям: - Строительство распределительных сетей 6(10)/0,4 кВ для технологического присоединения потребителей мощностью до 150 кВт на территории Кировского района Приморского края, для заявителя Голованов М.В. по договору на технологическое присоединение от 20.08.2019 № 19-2948-3, ТПр 3130/19 от 08.08.2019. - Мероприятия по строительству и реконструкции электрических сетей до 20 кВ для технологического присоединения потребителей на территории Спасского МР Приморского края, для заявителя Мазанков А.Н., по договору на технологическое присоединение от 06.03.2020 № 20-700-3, ТПр 182/20 от 15.01.2020. - Строительство и эксплуатация воздушной линии электропередачи напряжением 10/0,4 кВ от ПС 220/35/10 Лесозаводск фидер-13 существующей ВЛ 10 кВ Лесозаводск-Глазовка-Иннокентьевка до проектируемой ТП 10/0,4 кВ., по реализации мероприятия технологического присоединения на территории Приморского края заявителя Загорулько Е.В. по договору на технологическое присоединение от 27.06.2022 № 6651/22-ТП и технических условий от 27.06.2022 № 02-205/1-348.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pspl71hje6ibf88",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pspl71hq20784r4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260025136",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 02:38",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 03:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "27.05.2026 02:38",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pspl71hq20784r4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.29.19.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по уборке помещений и прилегающих территорий МР ЛЦ Внуково УФПС г. Москвы",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000psp548rghiplqok",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000psp548rmlff6v9o",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000772400566",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 17:17",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Москвы"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "26.05.2026 17:17",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000psp548rmlff6v9o",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Москвы"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.29.19.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по уборке помещений и прилегающих территорий УО «Восток» и УО «Север» УФПС г. Москвы",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000psp4fvh38medmh4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000psp4fvh91jlrjkg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000772400565",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 17:08",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Москвы"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "26.05.2026 17:08",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000psp4fvh91jlrjkg",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Москвы"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по ремонту и техническому обслуживанию объектов уличного освещения на территории г. Кирова Калужской области для нужд филиала ПАО «Россети Центр и Приволжье» - «Калугаэнерго»",
+      "viewDemandDate": "09.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psp1pptfg9kcsjc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psp1ppg9995kktc",
+      "price": "<div class='aright'>4 469 472,44 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025066",
+      "filingNumber": "32616048266",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 11:00&nbsp;МСК",
+      "summationDate": "10.06.2026 00:00",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КАЛУГАЭНЕРГО\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "26.05.2026 16:04",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psp1pptfg9kcsjc",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.11.100"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение ПИР, СМР, ПНР с полным иждивением Подрядчика по титулу: Строительство ВЛИ-0,38 кВ от ТП-6/0,4кВ №276, ПС №239 Пушкиноч, в т.ч. ПИР, МО, Пушкинский р-н, с. Тарасовка, тер. СНТ \"Здоровье-2\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psovlp4glnpklfo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psovll43boigtro",
+      "price": "<div class='aright'>339 925,05 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025033",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2026 17:00&nbsp;МСК",
+      "summationDate": "01.06.2026 04:00",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал Публичного акционерного общества \"Россети Московский регион\" - Северные электрические сети"
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "26.05.2026 14:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psovlp4glnpklfo",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.21.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по уборке помещений и прилегающих территорий объектов для нужд УФПС Вологодской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000psosieavbhbv7eo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000psosieb61hn0rq0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000783800421",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 12:16",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "26.05.2026 12:16",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000psosieb61hn0rq0",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Заключение договора на выполнение комплекса проектно-изыскательских, землеустроительных, проектных и строительно-монтажных работ по созданию ВОЛС на территории г.Краснодар (исполнение обязательств по договору с ПАО «ВымпелКом»)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psorj2ulojbir98",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psorj2n0q7ebs8o",
+      "price": "<div class='aright'>28 800 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Exam",
+        "title": "Работа комиссии"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024997",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Подтверждение стандартных условий",
+      "placementDateTime": "26.05.2026 11:47",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psorj2ulojbir98",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "68.20.11.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД 2: 68.20.11.110 Аренда контейнеров для хранения ТМЦ на территории транспортных участков для нужд Камчатского филиал АО \"ТК РусГидро\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000psoa2vrr8o5hook",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000psoa2vs3f1qh0hs",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260024876",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 01:30",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.06.2026 00:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "26.05.2026 01:30",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000psoa2vs3f1qh0hs",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.29.19.000",
+        "81.29.19.000",
+        "81.29.19.000",
+        "81.29.19.000",
+        "81.29.19.000",
+        "81.29.19.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по уборке помещений и прилегающих территорий ОПП при Белорусском вокзале УФПС г. Москвы",
+      "viewDemandDate": "09.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psju4vna4nrf1k4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psju4v9aora4hu0",
+      "price": "<div class='aright'>2 549 762,77 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-26000772400553",
+      "filingNumber": "32616037987",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "25.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 00:00&nbsp;МСК",
+      "summationDate": "18.06.2026 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "22.05.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Москвы"
+      },
+      "placementType": "Сокращенный отбор предложений МСП (301)",
+      "placementDateTime": "22.05.2026 16:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psju4vna4nrf1k4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Москвы"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.20.39.900"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение комплекса работ по устройству камер видеонаблюдения в пгт. Уренгой в рамках реализации мероприятия по развитию ЕСВ на территории Пуровского района",
+      "viewDemandDate": "02.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psjte2cjq4qokhc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psjte24ervduo68",
+      "price": "<div class='aright'>3 926 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024596",
+      "filingNumber": "32616037888",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2026 09:00&nbsp;МСК",
+      "summationDate": "02.06.2026 00:00",
+      "placementDate": "22.05.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Открытый запрос цен",
+      "placementDateTime": "22.05.2026 15:49",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psjte2cjq4qokhc",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "82.11.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по внутренней уборке административных, производственныхзданий и прилегающих территорий филиала «Новая Москва»- ПАО \"РоссетиМосковский Регион\"",
+      "viewDemandDate": "03.07.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000psjsi77of56dr5s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psjsi6uh4urmudc",
+      "price": "<div class='aright'>46 127 197,78 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024582",
+      "filingNumber": "32616037658",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.06.2026 11:00&nbsp;МСК",
+      "summationDate": "07.07.2026 00:00",
+      "placementDate": "22.05.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "22.05.2026 15:20",
+      "deposit": "1 383 815,93 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psjsi77of56dr5s",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "49.41.20.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание транспортных услуг с экипажем на территории Кировской области",
+      "viewDemandDate": "10.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psjqm6dkiqe0esc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psjqm5urom5p5d8",
+      "price": "<div class='aright'>81 727 800,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024540",
+      "filingNumber": "32616037231",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.06.2026 11:00&nbsp;МСК",
+      "summationDate": "19.06.2026 00:00",
+      "placementDate": "22.05.2026",
+      "organizer": {
+        "inn": "4324006553",
+        "title": "Акционерное общество \"Автотранспортное хозяйство\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "22.05.2026 14:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psjqm6dkiqe0esc",
+      "customer": [
+        {
+          "inn": "4324006553",
+          "title": "Акционерное общество \"Автотранспортное хозяйство\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР полным иждивением Подрядчика (доп.объем) по титулу: Строительство МТП-10/0,4кВ, КЛ-10 кВ от врезки в КЛ-10 кВ ПС №215 \"Новософрино\", КЛ-0,4 кВ, ВРЩ-0,4 кВ, в т.ч. ПИР, МО, Пушкинский р-н, д. Данилово, территория бывшего карьера",
+      "viewDemandDate": "05.06.2026 04:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psjr9hmv6homu48",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psjr9dr8bhdo7vs",
+      "price": "<div class='aright'>1 805 898,90 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024548",
+      "filingNumber": "32616037156",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.05.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2026 09:00&nbsp;МСК",
+      "summationDate": "05.06.2026 21:00",
+      "placementDate": "22.05.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал Публичного акционерного общества \"Россети Московский регион\" - Северные электрические сети"
+      },
+      "placementType": "Запрос цен по результатам предварительного отбора",
+      "placementDateTime": "22.05.2026 14:25",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psjr9hmv6homu48",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "39.00.23.900"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по обеспечению надлежащего санитарного состояния территории объектов филиалов ПАО «Россети Московский регион» в 2026-2027 гг., расположенных на территории г. Москвы и Московской области, для нужд МВС, Новая Москва, СЭС, ЮЭС, ЗЭС, ВЭС - филиалов ПАО «Россети Московский регион».",
+      "viewDemandDate": "15.07.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000psjkormutdcldfs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psjkorbu5jldml0",
+      "price": "<div class='aright'>144 110 843,10 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024474",
+      "filingNumber": "32616035375",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.06.2026 11:00&nbsp;МСК",
+      "summationDate": "22.07.2026 00:00",
+      "placementDate": "22.05.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "22.05.2026 10:48",
+      "deposit": "4 323 325,29 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psjkormutdcldfs",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.12.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по обследованию технического состояния многоквартирных домов, включенных в региональную программу капитального ремонта общего имущества в многоквартирных домах, расположенных на территории Ивановской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psioacm11th25ns",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psio8kf9ferl008",
+      "price": "<div class='aright'>0,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Exam",
+        "title": "Работа комиссии"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024354",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.05.2026 12:00&nbsp;МСК",
+      "summationDate": "03.06.2026 00:00",
+      "regionCodes": [
+        "Ивановская, обл"
+      ],
+      "placementDate": "21.05.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Запрос информации (RFI)",
+      "placementDateTime": "21.05.2026 17:59",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psioacm11th25ns",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.21.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по уборке помещений и прилегающих территорий для нужд УФПС Кировской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000psilhccnjpnpb6g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000psilhcd2q4j8dbg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000783800409",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.05.2026 16:20",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "21.05.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "21.05.2026 16:20",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000psilhcd2q4j8dbg",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Санкт-Петербурга и Ленинградской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.20.19.112"
+      ],
+      "type": "BUYING",
+      "title": "Разработка проектно – сметной документации устройства пожарных ёмкостей (с учетом негосударственной экспертизы достоверности сметной стоимости) на территориях учреждения по адресам: Свердловская область, Сысертский район, с. Щелкун, ул. Советская, д.155 и ул. Советская, д.314",
+      "viewDemandDate": "29.05.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psi80n18qokhcr8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psi80mp1bjd5ui0",
+      "price": "<div class='aright'>430 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024066",
+      "filingNumber": "32616029253",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.05.2026 10:00&nbsp;МСК",
+      "summationDate": "29.05.2026 00:00",
+      "placementDate": "21.05.2026",
+      "organizer": {
+        "inn": "6652005010",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ СТАЦИОНАРНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"ЩЕЛКУНСКИЙ ДОМ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "21.05.2026 08:31",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psi80n18qokhcr8",
+      "customer": [
+        {
+          "inn": "6652005010",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ СТАЦИОНАРНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"ЩЕЛКУНСКИЙ ДОМ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ\""
+        }
+      ]
+    }
+  ]
+}

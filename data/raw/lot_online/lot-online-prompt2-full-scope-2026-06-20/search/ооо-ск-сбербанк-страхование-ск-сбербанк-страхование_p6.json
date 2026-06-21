@@ -1,0 +1,923 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 140,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "37.00.11.150"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 37.00.11.150 Оказание услуг по техническому обслуживанию и очистке систем водоотведения и дренажных труб",
+      "viewDemandDate": "20.05.2026 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pr19bpg2ti07638",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pr19bp84v7go8u4",
+      "price": "<div class='aright'>4 254 513,32 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260017149",
+      "filingNumber": "32615902844",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "13.04.2026 07:48",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.04.2026 08:00&nbsp;МСК",
+      "summationDate": "20.05.2026 12:00",
+      "regionCodes": [
+        "Красноярский, край"
+      ],
+      "placementDate": "13.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "13.04.2026 07:50",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pr19bpg2ti07638",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по страхованию ОСАГО для нужд АО «Тульские городские электрические сети»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqtf9oh63692h6g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqtf7mtfbj7p2o4",
+      "price": "<div class='aright'>92 085,52 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260016925",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.04.2026 12:00&nbsp;МСК",
+      "summationDate": "16.04.2026 00:00",
+      "regionCodes": [
+        "Тульская, обл"
+      ],
+      "placementDate": "10.04.2026",
+      "organizer": {
+        "inn": "7105505971",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУЛЬСКИЕ ГОРОДСКИЕ ЭЛЕКТРИЧЕСКИЕ СЕТИ\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "10.04.2026 08:43",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqtf9oh63692h6g",
+      "customer": [
+        {
+          "inn": "7105505971",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУЛЬСКИЕ ГОРОДСКИЕ ЭЛЕКТРИЧЕСКИЕ СЕТИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "02.40.10.119"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 02.40.10.119 Выполнение работ по лесовосстановлению для объектов Филиала ПАО «РусГидро» - «Чебоксарская ГЭС»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqt3gadacrlv7ok",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqt3gadem405iqc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260016878",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.04.2026 01:50",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.04.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "10.04.2026 01:50",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqt3gadem405iqc",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.13.000",
+        "42.22.22.110",
+        "71.12.13.000",
+        "43.21.10.290",
+        "27.12.40.000",
+        "71.12.13.000",
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "ПИР СМР Строительство двух КЛ-10 кВ от разных СкШ-10 кВ РП № 2 ОЭЗ, строительство двух КРУН-10 кВ, монтаж приборов учета электроэнергии для техприсоединения ООО «Центр Компрессоростроения», договор № 401118504 от 24.10.2025 г, Калужская область, Боровский район, ОПХ «Ермолино» (свыше 670 кВт, протяженностью 2Х0,11 км; 2 шт.;2 т.у.) для нужд Филиала ПАО «Россети Центр и Приволжье»-«Калугаэнерго»",
+      "viewDemandDate": "21.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqs8490n62rhgr0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqs848kae4kko50",
+      "price": "<div class='aright'>5 964 626,36 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260016720",
+      "filingNumber": "32615893951",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.04.2026 11:00&nbsp;МСК",
+      "summationDate": "21.04.2026 00:00",
+      "placementDate": "09.04.2026",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КАЛУГАЭНЕРГО\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "09.04.2026 10:17",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqs8490n62rhgr0",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 81.30.10.000 Оказание услуг по покосу травы на территории СП «Благовещенская ТЭЦ» в г. Благовещенск",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqqtb4o0ruulgo0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqqtb4o78f2lqc0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260016441",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.04.2026 08:58",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.04.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "08.04.2026 08:58",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqqtb4o78f2lqc0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "31.09.11.190",
+        "31.09.11.120"
+      ],
+      "type": "BUYING",
+      "title": "Поставка металлических стеллажей и шкафа для нужд СК \"ВологдАрена\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqpucku5nhh5n18",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqpucknspmbrmpo",
+      "price": "<div class='aright'>101 280,30 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260016316",
+      "filingNumber": "32615886514",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 08:00&nbsp;МСК",
+      "summationDate": "14.04.2026 08:00",
+      "placementDate": "07.04.2026",
+      "organizer": {
+        "inn": "3525223281",
+        "title": "АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ ВОЛОГОДСКОЙ ОБЛАСТИ \"СПОРТИВНАЯ ШКОЛА ОЛИМПИЙСКОГО РЕЗЕРВА \"ВИТЯЗЬ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "07.04.2026 14:55",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqpucku5nhh5n18",
+      "customer": [
+        {
+          "inn": "3525223281",
+          "title": "АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ ВОЛОГОДСКОЙ ОБЛАСТИ \"СПОРТИВНАЯ ШКОЛА ОЛИМПИЙСКОГО РЕЗЕРВА \"ВИТЯЗЬ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Услуги по добровольному медицинскому страхованию «Антиклещ ДМС»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqphl19lsda5ibg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqphl19r170q264",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260016073",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.04.2026 07:31",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "13.04.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "07.04.2026",
+      "organizer": {
+        "inn": "6345012488",
+        "title": "Саяно-Шушенский филиал Акционерного общества \"Гидроремонт-ВКК\" в п. Черемушки"
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "07.04.2026 07:31",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqphl19r170q264",
+      "customer": [
+        {
+          "inn": "6345012488",
+          "title": "Саяно-Шушенский филиал Акционерного общества \"Гидроремонт-ВКК\" в п. Черемушки"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.29.12.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 81.29.12.000 Оказание услуг по механизированной уборке территории филиала ПАО «РусГидро» - «Нижне -Бурейская ГЭС»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqp9rnup4f8l6j8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqp9rnihpa1piu0",
+      "price": "<div class='aright'>1 407 651,63 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260016053",
+      "filingNumber": "32615883229",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 08:00&nbsp;МСК",
+      "summationDate": "14.05.2026 00:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "07.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "07.04.2026 03:08",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqp9rnup4f8l6j8",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "96.01.12.135"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по стирке спецодежды для нужд АО «СК РусГидро»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqobtli7mfhih14",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqobtlid96lvujk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260015853",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.04.2026 09:32",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.04.2026 05:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "06.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "06.04.2026 09:32",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqobtlid96lvujk",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.29.12.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 81.29.12.000 Оказание услуг по уборке территории с использованием спецтехники на объекте филиала ПАО «РусГидро» - «Камская ГЭС»",
+      "viewDemandDate": "24.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqobken64ej01ag",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqobkedg93hs9qg",
+      "price": "<div class='aright'>1 164 834,26 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015845",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 15:00&nbsp;МСК",
+      "summationDate": "24.04.2026 00:00",
+      "regionCodes": [
+        "Пермский, край"
+      ],
+      "placementDate": "06.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Упрощенная закупка в электронной форме (среди МСП)",
+      "placementDateTime": "06.04.2026 09:26",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqobken64ej01ag",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.90.19.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по проведению предварительных и периодических медицинских осмотров работников АО \"СК РусГидро\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqoab2vrtqqg9rs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqoab30175prb44",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260015826",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.04.2026 08:37",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 04:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "06.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "06.04.2026 08:37",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqoab30175prb44",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "BUYING",
+      "title": "Добровольное личное страхование",
+      "viewDemandDate": "22.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqjh23v4mrcatuc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqjh23gismi0ruc",
+      "price": "<div class='aright'>15 418 274,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015423",
+      "filingNumber": "32615873079",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.04.2026 11:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.04.2026 11:00&nbsp;МСК",
+      "summationDate": "27.04.2026 00:00",
+      "placementDate": "02.04.2026",
+      "organizer": {
+        "inn": "4324006553",
+        "title": "Акционерное общество \"Автотранспортное хозяйство\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "02.04.2026 15:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqjh23v4mrcatuc",
+      "customer": [
+        {
+          "inn": "4324006553",
+          "title": "Акционерное общество \"Автотранспортное хозяйство\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Фикус Эластика Робуста 30/130; Кашпо цилиндрическое",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqj77s8grhefuro",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqj77s8oqsk47n0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260015239",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.04.2026 09:36",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 02:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "02.04.2026 09:36",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqj77s8oqsk47n0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Фикус Циатистипула 30/130; Кашпо цилиндрическое",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqj77s8h6m6en5c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqj77s8oqsk47n0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260015239",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.04.2026 09:36",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 02:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "02.04.2026 09:36",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqj77s8oqsk47n0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Аглаонема Сильвер Бэй 27/60; Кашпо цилиндрическое",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqj77s8hlma5ads",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqj77s8oqsk47n0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260015239",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.04.2026 09:36",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 02:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "02.04.2026 09:36",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqj77s8oqsk47n0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Сансевиерия 17/65; Кашпо вытянутое",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqj77s8iea2i3jk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqj77s8oqsk47n0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260015239",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.04.2026 09:36",
+      "lotNumber": 4,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 02:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "02.04.2026 09:36",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqj77s8oqsk47n0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Обслуживание декоративно-лиственных растений административно-офисного здания",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqj77s8ih2odpgs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqj77s8oqsk47n0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260015239",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.04.2026 09:36",
+      "lotNumber": 5,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2026 02:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "02.04.2026 09:36",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqj77s8oqsk47n0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.19.100",
+        "71.12.19.100",
+        "71.12.19.100"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг разработки сметной документации на текущий ремонт зданий",
+      "viewDemandDate": "16.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pqi6ooh4lfq9g6s",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pqi6oob2r9j41t4",
+      "price": "<div class='aright'>365 000,01 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260015102",
+      "filingNumber": "32615868024",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.04.2026 08:00&nbsp;МСК",
+      "summationDate": "20.04.2026 00:00",
+      "placementDate": "01.04.2026",
+      "organizer": {
+        "inn": "2635244194",
+        "title": "ШПАКОВСКИЙ ФИЛИАЛ ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО УЧРЕЖДЕНИЯ СТАВРОПОЛЬСКОГО КРАЯ \"СТАВАВТОДОР\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "01.04.2026 14:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pqi6ooh4lfq9g6s",
+      "customer": [
+        {
+          "inn": "2635244194",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ СТАВРОПОЛЬСКОГО КРАЯ \"СТАВАВТОДОР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 81.30.10.000 Оказание услуг по уборке территории с использованием специальной техники на объектах филиала ПАО «РусГидро» – «Волжская ГЭС»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pqhhu23bisht46c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pqhhu23h90himfc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260014852",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.04.2026 02:33",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 01:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "01.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "01.04.2026 02:33",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pqhhu23h90himfc",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.29"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг страхования КАСКО служебных автомобилей",
+      "viewDemandDate": "14.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pqgk3797kkhpa8c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pqgk371btnkpfvk",
+      "price": "<div class='aright'>322 288,67 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260014661",
+      "filingNumber": "32615859313",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.03.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2026 15:00&nbsp;МСК",
+      "summationDate": "16.04.2026 00:00",
+      "placementDate": "31.03.2026",
+      "organizer": {
+        "inn": "9703023632",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ ТУРИЗМ.РФ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "31.03.2026 09:14",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pqgk3797kkhpa8c",
+      "customer": [
+        {
+          "inn": "9703023632",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ ТУРИЗМ.РФ\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 280,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.40.39.113"
+      ],
+      "type": "BUYING",
+      "title": "Поставка светильников в рамках дополнительного сервиса на территории Городецкого муниципального округа Нижегородской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pkr7fjduelt2b74",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pkr75lnhep53548",
+      "price": "<div class='aright'>485 235,60 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250016086",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.11.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2025 12:00&nbsp;МСК",
+      "summationDate": "19.11.2025 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "10.11.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "10.11.2025 11:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pkr7fjduelt2b74",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по техническому обслуживанию и ремонту печатной техники для Департамента Воронежской области (Лот 1)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pkngv6tqp6rcl38",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pkngv6klr5fuhgs",
+      "price": "<div class='aright'>850 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250015880",
+      "filingNumber": "32515380618",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.11.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2025 10:00&nbsp;МСК",
+      "summationDate": "17.11.2025 00:00",
+      "regionCodes": [
+        "Воронежская, обл"
+      ],
+      "placementDate": "07.11.2025",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "07.11.2025 16:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pkngv6tqp6rcl38",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по техническому обслуживанию и ремонту печатной техники для Департамента Липецкой области (Лот 2)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pkngv780s852tmg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pkngv6klr5fuhgs",
+      "price": "<div class='aright'>850 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250015880",
+      "filingNumber": "32515380618",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.11.2025 00:00",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2025 10:00&nbsp;МСК",
+      "summationDate": "17.11.2025 00:00",
+      "regionCodes": [
+        "Липецкая, обл"
+      ],
+      "placementDate": "07.11.2025",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "07.11.2025 16:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pkngv780s852tmg",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по техническому обслуживанию и ремонту печатной техники для Департамента Ростовской области  (Лот 3)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pkngv7fpbl6dn44",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pkngv6klr5fuhgs",
+      "price": "<div class='aright'>950 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250015880",
+      "filingNumber": "32515380618",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.11.2025 00:00",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2025 10:00&nbsp;МСК",
+      "summationDate": "17.11.2025 00:00",
+      "regionCodes": [
+        "Ростовская, обл"
+      ],
+      "placementDate": "07.11.2025",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "07.11.2025 16:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pkngv7fpbl6dn44",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по техническому обслуживанию и ремонту печатной техники для Департамента Тамбовской области  (Лот 4)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pkngv7nnq0q1g78",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pkngv6klr5fuhgs",
+      "price": "<div class='aright'>850 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250015880",
+      "filingNumber": "32515380618",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.11.2025 00:00",
+      "lotNumber": 4,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2025 10:00&nbsp;МСК",
+      "summationDate": "17.11.2025 00:00",
+      "regionCodes": [
+        "Тамбовская, обл"
+      ],
+      "placementDate": "07.11.2025",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "07.11.2025 16:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pkngv7nnq0q1g78",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "10.83.11.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Кофе в зернах Piazza Del Caffe Espresso Forte или эквивалент",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pkm0tpcmndn32js",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pkm0tpcu5buior8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250015465",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.11.2025 10:43",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.11.2025 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "06.11.2025",
+      "organizer": {
+        "inn": "9729304853",
+        "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "06.11.2025 10:43",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pkm0tpcu5buior8",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "10.83.11.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Кофе в зернах Piazza Del Caffe Crema Vellutata или эквивалент",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pkm0tpcn11uh1h8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pkm0tpcu5buior8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250015465",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.11.2025 10:43",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.11.2025 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "06.11.2025",
+      "organizer": {
+        "inn": "9729304853",
+        "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "06.11.2025 10:43",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pkm0tpcu5buior8",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "25.94.12.190",
+        "27.12.31.000",
+        "27.12.22.000"
+      ],
+      "type": "BUYING",
+      "title": "Поставка электроматериалов и кронштейнов для опор в рамках дополнительного сервиса на территории городского округа город Выкса м-он Дружба",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pkfkpfkjqrn7llk",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pkfk8cshlig8m0s",
+      "price": "<div class='aright'>35 280,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250014942",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.11.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.11.2025 12:00&nbsp;МСК",
+      "summationDate": "12.11.2025 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "01.11.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "01.11.2025 11:59",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pkfkpfkjqrn7llk",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.129"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по предоставлению сервиса конвертования для нужд Информационно-выплатного центра УФПС Ямало-Ненецкого автономного округа",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pkfeh6ou5ckq04c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pkfeh6p797bisms",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000667000717",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.11.2025 08:08",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.11.2025 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "01.11.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "01.11.2025 08:08",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pkfeh6p797bisms",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.144"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Ключ активации сервиса прямой технической поддержки уровня «Расширенный» для АПКШ «Континент», K3-R300-HW-KC-SP1Y, K3-R300-CM-KC-SP1Y.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pkfdof0hsq42e28",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pkfdof1g6h0m4v4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250014828",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.11.2025 07:41",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.11.2025 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "01.11.2025",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "01.11.2025 07:41",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pkfdof1g6h0m4v4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.144"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Ключ активации сервиса прямой технической поддержки уровня \"Расширенный\" для АПКШ \"Континент\", K3-R800-HW-HA-KC-SP1Y, K3-R800-ACS-HA-KC-SP1Y.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pkfdof0ijqh5u6o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pkfdof1g6h0m4v4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250014828",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.11.2025 07:41",
+      "lotNumber": 6,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.11.2025 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "01.11.2025",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "01.11.2025 07:41",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pkfdof1g6h0m4v4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.144"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Ключ активации сервиса прямой технической поддержки уровня «Расширенный» для АПКШ «Континент», K3-R300-HW-KC-SP1Y, K3-R300-CM-KC-SP1Y.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pkfdof0k2c9udhk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pkfdof1g6h0m4v4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250014828",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.11.2025 07:41",
+      "lotNumber": 9,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.11.2025 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "01.11.2025",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "01.11.2025 07:41",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pkfdof1g6h0m4v4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.144"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Ключ активации сервиса прямой технической поддержки уровня «Расширенный» для АПКШ «Континент», K3-R10-HW-KC-SP1Y, K3-R10-CM-KC-SP1Y.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pkfdof0kui5355k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pkfdof1g6h0m4v4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250014828",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.11.2025 07:41",
+      "lotNumber": 12,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.11.2025 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "01.11.2025",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "01.11.2025 07:41",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pkfdof1g6h0m4v4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Южно-Якутские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.29.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 62.01.29.000. Предоставление сервиса активации технической поддержки программного обеспечения АльфаЦЕНТР\n\n\n\n\n\n",
+      "viewDemandDate": "11.11.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pkcscocjfvbml4o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pkcsco1f63fq2mc",
+      "price": "<div class='aright'>794 400,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250014302",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "30.10.2025 00:00",
+      "lotNumber": 52901,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.11.2025 18:00&nbsp;МСК",
+      "summationDate": "14.11.2025 00:00",
+      "regionCodes": [
+        "Саха /Якутия/, Респ"
+      ],
+      "placementDate": "30.10.2025",
+      "organizer": {
+        "inn": "1435028701",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКЭНЕРГО\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "30.10.2025 08:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pkcscocjfvbml4o",
+      "customer": [
+        {
+          "inn": "1435028701",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.09.20.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по предоставлению сервиса печати на цифровом дупликаторе (ризографе) для нужд Информационно-выплатного центра УФПС Ростовской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pkc1c8l22e3kpj8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pkc1c8m5pj690o8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000616300162",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.10.2025 16:35",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "06.11.2025 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.10.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Ростовской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.10.2025 16:35",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pkc1c8m5pj690o8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Ростовской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.30.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по техническому обслуживанию программно-аппаратных комплексов, включая контрольно-кассовую технику и весовое оборудование, для регионального центра Ставрополь",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pkbpcvsbnbo25co",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pkbpcvsj37brnsg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250014146",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.10.2025 11:54",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "06.11.2025 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.10.2025",
+      "organizer": {
+        "inn": "9729304853",
+        "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.10.2025 11:54",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pkbpcvsj37brnsg",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по техническому обслуживанию и ремонту печатной техники для нужд Департамента Курской области Дирекции по МР Южный ООО «Почта Сервис»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pkalckes9ivjteo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pkalckg2opo7v68",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250013956",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.10.2025 14:56",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.11.2025 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "28.10.2025",
+      "organizer": {
+        "inn": "9729304853",
+        "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "28.10.2025 14:56",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pkalckg2opo7v68",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "10.82.22.130"
+      ],
+      "type": "BUYING",
+      "title": "Поставка новогодних подарков для детей работников ООО «Почта Сервис»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pk9hgagtpk7otks",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pk9hga8101su20o",
+      "price": "<div class='aright'>2 012 500,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250013726",
+      "filingNumber": "32515343212",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.10.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.11.2025 09:00&nbsp;МСК",
+      "summationDate": "05.11.2025 00:00",
+      "placementDate": "27.10.2025",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.10.2025 18:25",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pk9hgagtpk7otks",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.129"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Сервис конвертования",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pk98iir86dllo54",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pk98iire5q70hck",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000667000696",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.10.2025 12:56",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.11.2025 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "27.10.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "27.10.2025 12:56",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pk98iire5q70hck",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка комплектующих и запчастей для ремонта компьютерной и офисной техники.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pk5b8tvgmaf6kmk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pk5b8u06e84ltjg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD250013409",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "24.10.2025 11:50",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "31.10.2025 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "24.10.2025",
+      "organizer": {
+        "inn": "9729304853",
+        "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "24.10.2025 11:50",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pk5b8u06e84ltjg",
+      "customer": [
+        {
+          "inn": "9729304853",
+          "title": "Общество с ограниченной ответственностью \"Почта Сервис\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 100,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "73.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Услуги по публикации информационных материалов на Интернет-портале https://izvestiaur.ru/ и в социальных сетях izvestiaur.ru",
+      "viewDemandDate": "21.02.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p9sva1o1krpja70",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p9sva0rdnm670r0",
+      "price": "<div class='aright'>240 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "IHEVS25017DP",
+      "filingNumber": "32514499089",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.02.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.02.2025 12:00&nbsp;МСК",
+      "summationDate": "26.02.2025 00:00",
+      "placementDate": "11.02.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"УДМУРТЭНЕРГО\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "11.02.2025 10:37",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p9sva1o1krpja70",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.30.000"
+      ],
+      "type": "BUYING",
+      "title": "Право на заключение Договора на оказание услуг по абонентскому обслуживанию ПК «Smeta.ru» для нужд ПАО «Россети Центр» (филиала «Тверьэнерго»).",
+      "viewDemandDate": "25.02.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p9o196k4kcu5ut8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p9o195ocnh1ppnc",
+      "price": "<div class='aright'>496 200,00 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "paorc25057DP",
+      "filingNumber": "32514490890",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.02.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.02.2025 12:00&nbsp;МСК",
+      "summationDate": "25.02.2025 00:00",
+      "placementDate": "07.02.2025",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "07.02.2025 15:09",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p9o196k4kcu5ut8",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "63.99.10.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по технической поддержке и приобретению неисключительных прав на программное обеспечение Smeta.ru для нужд ПАО «Россети Московский регион»",
+      "viewDemandDate": "21.01.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p75qv6k7obp984g",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p75qv5if3n4s9t0",
+      "price": "<div class='aright'>38 155 771,69 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr243963MC",
+      "filingNumber": "32414295348",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.12.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "13.01.2025 11:00&nbsp;МСК",
+      "summationDate": "06.02.2025 00:00",
+      "placementDate": "05.12.2024",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "05.12.2024 18:23",
+      "deposit": "763 115,43 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p75qv6k7obp984g",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "63.11.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 63.11.12.000 Оказание услуг по разработке раздела «Карьерный навигатор в электроэнергетике» на учебно-информационном портале hydroschool.ru Филиала ПАО «РусГидро» - «КорУнГ» в г. Москве",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000p747dfbtafoph7c",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000p747dfc567h42j4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "kugid24014PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "04.12.2024 12:09",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.12.2024 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "04.12.2024",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Корпоративный университет гидроэнергетики\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "04.12.2024 12:09",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000p747dfc567h42j4",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Корпоративный университет гидроэнергетики\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по модификации базового наполнения расчетно-сметной программы «Smeta.ru»",
+      "viewDemandDate": "29.11.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p6idvu0ilebmsgg",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p6idvsrqs7ksp54",
+      "price": "<div class='aright'>774 240,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "KIROV24213MP",
+      "filingNumber": "32414221212",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.11.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.11.2024 12:00&nbsp;МСК",
+      "summationDate": "05.12.2024 00:00",
+      "regionCodes": [
+        "Кировская, обл"
+      ],
+      "placementDate": "20.11.2024",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КИРОВЭНЕРГО\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "20.11.2024 16:32",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p6idvu0ilebmsgg",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.3"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора на услуги по технической поддержке сайта musen.ru на базе 1С-Битрикс без поддержки и настройки серверного оборудования",
+      "viewDemandDate": "27.11.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p62glad85drcnbk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p62gkgaeg76qeto",
+      "price": "<div class='aright'>494 524,80 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-ur241182DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.11.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2024 08:00&nbsp;МСК",
+      "summationDate": "27.11.2024 00:00",
+      "placementDate": "08.11.2024",
+      "organizer": {
+        "inn": "6671163413",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+      },
+      "placementType": "Сравнение цен",
+      "placementDateTime": "08.11.2024 07:45",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p62glad85drcnbk",
+      "customer": [
+        {
+          "inn": "6671163413",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.09.20.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по техническому сопровождению официального сайта Регионального информационного агентства Пензенской области (доменное имя riapo.ru)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p57slh8bhc89a88",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p57slh069f4d7io",
+      "price": "<div class='aright'>52 100,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "cesov24022MQ",
+      "filingNumber": "32414101134",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.10.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.10.2024 08:00&nbsp;МСК",
+      "summationDate": "28.10.2024 00:00",
+      "placementDate": "18.10.2024",
+      "organizer": {
+        "inn": "5836673022",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ МЕЖРЕГИОНАЛЬНАЯ СПЕЦИАЛИЗИРОВАННАЯ ОРГАНИЗАЦИЯ \"ЦЕННЫЙ СОВЕТНИК\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "18.10.2024 15:40",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p57slh8bhc89a88",
+      "customer": [
+        {
+          "inn": "5836680950",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ПЕНЗЕНСКОЙ ОБЛАСТИ \"РЕГИОНАЛЬНОЕ ИНФОРМАЦИОННОЕ АГЕНТСТВО ПЕНЗЕНСКОЙ ОБЛАСТИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000",
+        "58.29.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по обновлению программного сметного комплекса Smeta.ru (электронный ключ №FSTS-0040242, электронный ключ №FSTS-0061922) для нужд УФПС Московской области",
+      "viewDemandDate": "10.10.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p4gg21vh8o6acg4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p4gg21931bsck2k",
+      "price": "<div class='aright'>925 760,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-24000770100121",
+      "filingNumber": "32414035280",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.10.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.10.2024 00:00&nbsp;МСК",
+      "summationDate": "15.10.2024 00:00",
+      "placementDate": "30.09.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Москвы"
+      },
+      "placementType": "Сокращенный ценовой отбор (301)",
+      "placementDateTime": "30.09.2024 11:21",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p4gg21vh8o6acg4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Московской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62"
+      ],
+      "type": "BUYING",
+      "title": "Заявка А.24Р от 13.09.2024_Data Cloud",
+      "viewDemandDate": "01.10.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p42nu8k5d7nbcog",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p42nsnego98ad38",
+      "price": "<div class='aright'>0,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "PCHTX24036DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.09.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.09.2024 09:00&nbsp;МСК",
+      "summationDate": "01.10.2024 00:00",
+      "placementDate": "19.09.2024",
+      "organizer": {
+        "inn": "9729303666",
+        "title": "Общество с ограниченной ответственность \"Почтовые технологии\""
+      },
+      "placementType": "Закрытый запрос цен",
+      "placementDateTime": "19.09.2024 18:57",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p42nu8k5d7nbcog",
+      "customer": [
+        {
+          "inn": "9729303666",
+          "title": "Общество с ограниченной ответственность \"Почтовые технологии\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "63.11.19.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание комплекса услуг по построению системы аналитики для сайта pochta.ru, включая поддомены, и мобильного приложения",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p37n1tb4h7ksia8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p37n1tbdj328tdk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400548",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.08.2024 19:05",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.09.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.08.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.08.2024 19:05",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p37n1tbdj328tdk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "73.11.19"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по привлечению регистраций уникальных пользователей и рекламному продвижению в сети Интернет кампании по набору на инвестиции для привлечения заявок на сайт https://invest.iidf.ru/, продвижению проектов Заказчика.",
+      "viewDemandDate": "05.09.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p36374182mfvd3g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p36345qn9s0oa7s",
+      "price": "<div class='aright'>3 400 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "frii_24004DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.08.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.09.2024 16:00&nbsp;МСК",
+      "summationDate": "05.09.2024 00:00",
+      "placementDate": "28.08.2024",
+      "organizer": {
+        "inn": "7709961670",
+        "title": "Общество с ограниченной ответственностью  \"ФРИИ ИНВЕСТ\""
+      },
+      "placementType": "Запрос коммерческих предложений",
+      "placementDateTime": "28.08.2024 12:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p36374182mfvd3g",
+      "customer": [
+        {
+          "inn": "7709961670",
+          "title": "Общество с ограниченной ответственностью  \"ФРИИ ИНВЕСТ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "70.22.20.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению программного комплекса Smeta.ru",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p2hmc3reekm77ag",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p2hm9i5pog0d7qs",
+      "price": "<div class='aright'>142 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "KALUG24231DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.08.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2024 12:00&nbsp;МСК",
+      "summationDate": "19.08.2024 00:00",
+      "regionCodes": [
+        "Калужская, обл"
+      ],
+      "placementDate": "12.08.2024",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КАЛУГАЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "12.08.2024 16:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p2hmc3reekm77ag",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КАЛУГАЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "63.11.19.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание комплекса услуг по построению системы аналитики для сайта pochta.ru, включая поддомены, и мобильного приложения",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p1es7e7p5o5l3mo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p1es7e7u8rllb6o",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400449",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.07.2024 15:32",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.07.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "16.07.2024 15:32",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p1es7e7u8rllb6o",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.30.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению программного комплекса Smeta.ru для нужд филиала ПАО «Россети Центр и Приволжье» - «Владимирэнерго»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p0r61c5e5p2svd0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p0r5o6upj3i1o3g",
+      "price": "<div class='aright'>390 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "VLADI24073DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.07.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.07.2024 14:00&nbsp;МСК",
+      "summationDate": "15.07.2024 00:00",
+      "regionCodes": [
+        "Владимирская, обл"
+      ],
+      "placementDate": "01.07.2024",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"ВЛАДИМИРЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "01.07.2024 08:37",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p0r61c5e5p2svd0",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"ВЛАДИМИРЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.51.70.110"
+      ],
+      "type": "BUYING",
+      "title": "Термостат 716 RU-9739g, helios",
+      "viewDemandDate": "11.07.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ovshk0uoe4eh4ok",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ovshk0gf5ehreh0",
+      "price": "<div class='aright'>900 100,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "nytyi24080DP",
+      "filingNumber": "32413687438",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.07.2024 13:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.07.2024 14:00&nbsp;МСК",
+      "summationDate": "15.07.2024 00:00",
+      "placementDate": "07.06.2024",
+      "organizer": {
+        "inn": "2312159262",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛУКОЙЛ-КУБАНЬЭНЕРГО\""
+      },
+      "placementType": "запрос предложений в электронной форме",
+      "placementDateTime": "07.06.2024 13:21",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ovshk0uoe4eh4ok",
+      "customer": [
+        {
+          "inn": "2312159262",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛУКОЙЛ-КУБАНЬЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.03.12.130"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение обновлений для программного продукта \"Smeta.ru\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ovh4fmgr3novasc",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ovh43r64hosheac",
+      "price": "<div class='aright'>389 472,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "MAREN24056DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.05.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "07.06.2024 12:00&nbsp;МСК",
+      "summationDate": "10.06.2024 00:00",
+      "regionCodes": [
+        "Марий Эл, Респ"
+      ],
+      "placementDate": "29.05.2024",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"МАРИЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "29.05.2024 16:48",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ovh4fmgr3novasc",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"МАРИЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62",
+        "62",
+        "62",
+        "62",
+        "62",
+        "62",
+        "62",
+        "62"
+      ],
+      "type": "BUYING",
+      "title": "выполнение работ по развитию и оказание услуг в отношении Единой информационно-аналитической платформы ФГУП «Почта России» (DataCloud) (Платформа Data Cloud)",
+      "viewDemandDate": "27.05.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ou6kkcdq3guh1p4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ou6j8fp18dl5re8",
+      "price": "Без объявления цены",
+      "winnerPrice": "Без объявления цены",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "PCHTX24010DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.04.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.05.2024 18:00&nbsp;МСК",
+      "summationDate": "03.06.2024 00:00",
+      "placementDate": "26.04.2024",
+      "organizer": {
+        "inn": "9729303666",
+        "title": "Общество с ограниченной ответственность \"Почтовые технологии\""
+      },
+      "placementType": "Запрос предложений",
+      "placementDateTime": "26.04.2024 19:36",
+      "deposit": "Без объявления цены",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ou6kkcdq3guh1p4",
+      "customer": [
+        {
+          "inn": "9729303666",
+          "title": "Общество с ограниченной ответственность \"Почтовые технологии\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "85.31.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по повышению квалификации и профессиональной подготовке работников по составлению сметной документации и работе в ПК «Smeta.ru» для нужд ПАО «Россети Московский регион»",
+      "viewDemandDate": "29.03.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ort5g27mcoqhspo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ort5g0fg4pge410",
+      "price": "<div class='aright'>4 936 920,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr24543DP",
+      "filingNumber": "32413339285",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.03.2024 11:00&nbsp;МСК",
+      "summationDate": "29.03.2024 00:00",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "29.02.2024 14:52",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ort5g27mcoqhspo",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "63.11.12.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по размещению и техническому сопровождению программного комплекса официального интернет-портала ООО МТРК «Краснодар» https://tvkrasnodar.ru/)",
+      "viewDemandDate": "28.02.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000orph523bk80s0do",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000orph51lldr7mb68",
+      "price": "<div class='aright'>510 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0549324004DP",
+      "filingNumber": "32413323168",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.02.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.02.2024 17:00&nbsp;МСК",
+      "summationDate": "28.02.2024 00:00",
+      "regionCodes": [
+        "Краснодарский, край"
+      ],
+      "placementDate": "26.02.2024",
+      "organizer": {
+        "inn": "2308222063",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МУНИЦИПАЛЬНАЯ ТЕЛЕРАДИОКОМПАНИЯ \"КРАСНОДАР\""
+      },
+      "placementType": "Закупки с использованием электронного магазина участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "26.02.2024 19:10",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000orph523bk80s0do",
+      "customer": [
+        {
+          "inn": "2308222063",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МУНИЦИПАЛЬНАЯ ТЕЛЕРАДИОКОМПАНИЯ \"КРАСНОДАР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.11.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "для подачи КП Адрес электронной почты * offer-R71@russianpost.ru Номер контактного телефона * +7 (495) 956-20-67, вн.5638",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000org1nem43m1b2cg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000org1neme1tnq26s",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000695000017",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.02.2024 10:21",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.02.2024 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "19.02.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Тверской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "19.02.2024 10:21",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000org1neme1tnq26s",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Тверской области"
+        }
+      ]
+    }
+  ]
+}

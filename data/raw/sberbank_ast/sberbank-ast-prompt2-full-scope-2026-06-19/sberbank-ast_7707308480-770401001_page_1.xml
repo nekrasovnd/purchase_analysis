@@ -1,0 +1,802 @@
+<datarow>
+  <total>
+    <value>239</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>62e751db-12e0-44ea-8bac-e4ca9a31d736</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №34827360 от покупателя АО "СБЕРБАНК - АСТ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>34827360</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/62e751db-12e0-44ea-8bac-e4ca9a31d736</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>25.12.2025 09:01</RequestStartDate>
+      <EndDate>16.01.2026</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>16.01.2026 13:01</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка сетевого фильтра Power Cube SPG6-B-3M Black</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>34827360</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>25.12.2025 09:01</PublicDate>
+      <purchAmount>25000</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1766653260000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>b15575db-8c40-4298-b0b3-def4cfa265bb</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №126654667 от покупателя АО "СБЕРБАНК - АСТ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>126654667</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/b15575db-8c40-4298-b0b3-def4cfa265bb</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>17.12.2025 11:39</RequestStartDate>
+      <EndDate>19.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>19.12.2025 11:39</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Приобретение ноутбука Lenovo V15 G4</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>126654667</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>17.12.2025 11:39</PublicDate>
+      <purchAmount>60000</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1765971540000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>ef52bc50-6c23-46c7-a2ad-977054a8325a</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №102395652 от покупателя АО "СБЕРБАНК - АСТ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>102395652</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/ef52bc50-6c23-46c7-a2ad-977054a8325a</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>15.12.2025 08:15</RequestStartDate>
+      <EndDate>17.12.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>17.12.2025 08:14</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Приобретение ноутбука Lenovo V15 G4</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>102395652</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>15.12.2025 08:15</PublicDate>
+      <purchAmount>60000</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1765786500000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_all_bankruptcy_2022_03_29</_index>
+    <_type>_doc</_type>
+    <_id>3152161</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Аукцион</PurchaseTypeName>
+      <purchStateName>Многолотовая процедура</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode>20755081</IntegratorCode>
+      <TradeSectionId>13</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/RequestCreate/5/3/0/3152161</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>29.01.2026 00:00</RequestAcceptDate>
+      <RequestDate>29.01.2026 00:00</RequestDate>
+      <SourceTerm>Продажа имущества (предприятия) банкротов</SourceTerm>
+      <purchCode>SBR013-2512120001-1.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>12.12.2025 11:09</PublicDate>
+      <IntegratorCodeTerm>20755081</IntegratorCodeTerm>
+      <BidName>Недвижимое имущество в количестве 69 наименований.; движимое имущество в количестве 760 наименований</BidName>
+      <purchCodeTerm>SBR013-2512120001-1.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/NBT/PurchaseView/5/0/0/3667476</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>15.12.2025 00:00</RequestStartDate>
+      <EndDate>03.02.2026</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Bankruptcy/List/BidList/</SourceHrefTerm>
+      <purchName>Аукцион по совместной реализации имущества ООО «Бора Солар», ООО «Калипсо Солар», ООО «Канари Солар», ООО «Кларион Солар», ООО «Леннет Солар», частично являющегося предметом залога ООО «КапиталЮгИнвест»</purchName>
+      <purchAmount>1303673974</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1765537740000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>c7de452f-cde4-44b4-8e5a-c17ac53bf7de</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №115938226 от покупателя АО "СБЕРБАНК - АСТ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>115938226</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/c7de452f-cde4-44b4-8e5a-c17ac53bf7de</objectHrefTerm>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>21.11.2025 08:23</RequestStartDate>
+      <EndDate>28.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>28.11.2025 11:20</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Приобретение периферийного оборудования</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>115938226</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>21.11.2025 08:23</PublicDate>
+      <purchAmount>65000</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1763713380000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3126641</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3126641</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.02.2026 15:00</RequestAcceptDate>
+      <RequestDate>16.02.2026 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511180006.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.11.2025 14:07</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право заключения договора купли-продажи земельного участка площадью 731 963 кв.м., расположенного по адресу: Воронежская область, г. Воронеж, ул. Тепличная, 1.</BidName>
+      <purchCodeTerm>SBR065-2511180006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3575896</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>18.11.2025 18:00</RequestStartDate>
+      <EndDate>18.02.2026</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 731 963 кв.м., расположенного по адресу: Воронежская область, г. Воронеж, ул. Тепличная, 1, принадлежащего СПК «Воронежский тепличный комбинат»</purchName>
+      <purchAmount>2500000000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1763474820000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112297</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112297</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010016.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:58</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 3-х земельных участков площадью 284 300 кв. м., 438 000 кв. м., 109 200 кв. м. (лот 12), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 400.</BidName>
+      <purchCodeTerm>SBR065-2511010016.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534044</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи 3-х земельных участков площадью 284 300 кв. м., 438 000 кв. м., 109 200 кв. м. (лот 12), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 400, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>324305829</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016280000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112298</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112298</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010017.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:58</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 4-х земельных участков общей площадью 510 733 кв.м. и сооружения общей площадью 2 036 кв.м. (лот 13), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново.</BidName>
+      <purchCodeTerm>SBR065-2511010017.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534045</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи 4-х земельных участков общей площадью 510 733 кв.м. и сооружения общей площадью 2 036 кв.м. (лот 13), расположенных по адресу: город Москва, вн.тер.г. муницпальный округ Вороново, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>210150071.58</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016280000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112300</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112300</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010018.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:58</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 3-х земельных участков общей площадью 1 340 500 кв.м. (лот 14), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</BidName>
+      <purchCodeTerm>SBR065-2511010018.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534047</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи 3-х земельных участков общей площадью 1 340 500 кв.м. (лот 14), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>519233558</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016280000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112301</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112301</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010019.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:58</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 5-и земельных участков общей площадью 830 700 кв.м. (лот 15), расположенных по адресу: Москва, вн. тер.г. муниципальный округ Вороново, квартал 144.</BidName>
+      <purchCodeTerm>SBR065-2511010019.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534048</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи 5-и земельных участков общей площадью 830 700 кв.м. (лот 15), расположенных по адресу: Москва, вн. тер.г. муниципальный округ Вороново, квартал 144, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>328760534</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016280000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112295</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112295</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010014.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:57</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка площадью 9 862 кв.м. и 3-х нежилых зданий площадью 365,9 кв.м., 662,7 кв.м., 511,3 кв.м. (лот 10), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, деревня Юдановка, дом 39В, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</BidName>
+      <purchCodeTerm>SBR065-2511010014.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534042</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 9 862 кв.м. и 3-х нежилых зданий площадью 365,9 кв.м., 662,7 кв.м., 511,3 кв.м. (лот 10), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, деревня Юдановка, дом 39В, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>41881561.06</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016220000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112296</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112296</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010015.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:57</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка площадью 20 200 кв.м. и 2-х нежилых зданий площадью 965,1 кв. м. и 377,6 кв. м. (лот 11), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 830, владение 3В</BidName>
+      <purchCodeTerm>SBR065-2511010015.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534043</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 20 200 кв.м. и 2-х нежилых зданий площадью 965,1 кв. м. и 377,6 кв. м. (лот 11), расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 830, владение 3В, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>41607605.62</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016220000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112294</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112294</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010013.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:57</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка (лот 5) общей площадью 441 600 кв.м., расположенного по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 11, земельный участок 1.</BidName>
+      <purchCodeTerm>SBR065-2511010013.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534041</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка (лот 5) общей площадью 441 600 кв.м., расположенного по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 11, земельный участок 1, принадлежащего ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>152676050</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016220000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112292</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112292</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010011.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:56</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка (лот 3) общей площадью 438 500 кв.м., расположенного по адресу: г. Москва, вн.тер.г. муниципальный округ Вороново, квартал 142, земельный участок 12, принадлежащего ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</BidName>
+      <purchCodeTerm>SBR065-2511010011.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534039</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка (лот 3) общей площадью 438 500 кв.м., расположенного по адресу: г. Москва, вн.тер.г. муниципальный округ Вороново, квартал 142, земельный участок 12, принадлежащего ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>129405850</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016160000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112293</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112293</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010012.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:56</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 2-х земельных участков (лот 4) площадью 83 500 кв. м. и 375 600 кв. м., расположенных по адресу: г. Москва, поселение Вороновское, вблизи д. Семенково</BidName>
+      <purchCodeTerm>SBR065-2511010012.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534040</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи 2-х земельных участков (лот 4) площадью 83 500 кв. м. и 375 600 кв. м., расположенных по адресу: г. Москва, поселение Вороновское, вблизи д. Семенково, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>140994970</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016160000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112291</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112291</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010010.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:56</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 2-х земельных участков (лот 2) площадью 344 300 кв.м. и 130 100 кв.м., расположенных по адресу: г. Москва, поселение Вороновское, вблизи д. Косовка</BidName>
+      <purchCodeTerm>SBR065-2511010010.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3534038</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи 2-х земельных участков (лот 2) площадью 344 300 кв.м. и 130 100 кв.м., расположенных по адресу: г. Москва, поселение Вороновское, вблизи д. Косовка, принадлежащих ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>151020744</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762016160000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112246</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112246</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010009.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 16:06</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка площадью 3 203 кв.м. и здания площадью 14,4 кв.м., расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 790, здания площадью 11,5 кв.м. и сооружения площадью 905 кв.м., расположенных по адресу: город Москва, п. Вороновское, вблизи дер. Ворсино.</BidName>
+      <purchCodeTerm>SBR065-2511010009.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3533994</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 3 203 кв.м. и здания площадью 14,4 кв.м., расположенных по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 790, здания площадью 11,5 кв.м. и сооружения площадью 905 кв.м., расположенных по адресу: город Москва, п. Вороновское, вблизи дер. Ворсино (лот 9), принадлежащих ООО «ЛЕСТЕХСТРОЙ» и ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>1915789.86</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762013160000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112238</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112238</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010008.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 15:57</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка площадью 631кв.м., расположенного по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, поселок ЛМС, микрорайон Центральный, земельный участок 21В и нежилого здания площадью 216,2  кв.м., расположенного по адресу: г. Москва, вн.тер.г. муниципальный округ ЛМС, микрорайон Центральный, дом 21В</BidName>
+      <purchCodeTerm>SBR065-2511010008.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3533985</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 631кв.м., расположенного по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, поселок ЛМС, микрорайон Центральный, земельный участок 21В и нежилого здания площадью 216,2  кв.м., расположенного по адресу: г. Москва, вн.тер.г. муниципальный округ ЛМС, микрорайон Центральный, дом 21В (лот 6), принадлежащие ООО «ЛЕСТЕХСТРОЙ» и ООО «ЛЕСТЕХСТРОЙ-ЗЕМЛЯ»</purchName>
+      <purchAmount>16696444.2</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762012620000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112215</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112215</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010007.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 15:44</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка площадью 2 076 кв.м., расположенного по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 790, земельный участок 1Б (лот 8), принадлежащего ООО «ЛЕСТЕХСТРОЙ»</BidName>
+      <purchCodeTerm>SBR065-2511010007.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3533962</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 2 076 кв.м., расположенного по адресу: город Москва, вн.тер.г. муниципальный округ Вороново, квартал 790, земельный участок 1Б (лот 8), принадлежащего ООО «ЛЕСТЕХСТРОЙ»</purchName>
+      <purchAmount>946640</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762011840000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3112202</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/3112202</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2025 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2511010006.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>01.11.2025 15:34</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи земельного участка площадью 3 528 кв.м., расположенного по адресу: г. Москва, муниципальный округ Вороново, квартал 790 и нежилого здания площадью 223 кв.м., расположенного по адресу: г. Москва, вблизи деревни Ворсино.</BidName>
+      <purchCodeTerm>SBR065-2511010006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/3533948</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>01.11.2025 18:00</RequestStartDate>
+      <EndDate>24.12.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи земельного участка площадью 3 528 кв.м., расположенного по адресу: г. Москва, муниципальный округ Вороново, квартал 790 и нежилого здания площадью 223 кв.м., расположенного по адресу: г. Москва, вблизи деревни Ворсино (лот 7), принадлежащие ООО «ЛЕСТЕХСТРОЙ»</purchName>
+      <purchAmount>5648367.16</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762011240000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

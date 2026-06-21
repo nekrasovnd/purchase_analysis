@@ -1,0 +1,912 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 40,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Аренда и лизинг легковых автомобилей и лёгких автотранспортных средств",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pq97s6ltdma386g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pq97s6m3olnj60g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260013838",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "25.03.2026 15:33",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.03.2026 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "25.03.2026",
+      "organizer": {
+        "inn": "6345012488",
+        "title": "Дагестанский филиал АО \"Гидроремонт-ВКК\" в г. Махачкала"
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "25.03.2026 15:33",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pq97s6m3olnj60g",
+      "customer": [
+        {
+          "inn": "6345012488",
+          "title": "Дагестанский филиал АО \"Гидроремонт-ВКК\" в г. Махачкала"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) Компактор SHANTUI SR26MR-3\n",
+      "viewDemandDate": "16.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pockc6bqvgnmkrc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pockc65dhvv6f6k",
+      "price": "<div class='aright'>19 130 838,67 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260004892",
+      "filingNumber": "32615680990",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.02.2026 10:00&nbsp;МСК",
+      "summationDate": "16.02.2026 00:00",
+      "placementDate": "06.02.2026",
+      "organizer": {
+        "inn": "0277962505",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭКОАКВАТОРИЯ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "06.02.2026 13:45",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pockc6bqvgnmkrc",
+      "customer": [
+        {
+          "inn": "0277962505",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭКОАКВАТОРИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (9 ед .)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pnpde69f6ltaif8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pnpde69mrprimt4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400034",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.01.2026 15:32",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.01.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "22.01.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "22.01.2026 15:32",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pnpde69mrprimt4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (2 единицы)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pnlkmf6vh5dnf7g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pnlkmf75laa2ibk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000771400025",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.01.2026 17:10",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.01.2026 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "19.01.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "19.01.2026 17:10",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pnlkmf75laa2ibk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг по лизингу легкового автомобиля",
+      "viewDemandDate": "30.12.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000plh5hmjudjhshu4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000plh5hmcoluggqas",
+      "price": "<div class='aright'>1 200 666,67 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250020455",
+      "filingNumber": "32515457538",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.11.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.12.2025 09:00&nbsp;МСК",
+      "summationDate": "13.01.2026 00:00",
+      "placementDate": "27.11.2025",
+      "organizer": {
+        "inn": "0807003433",
+        "title": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ КАЛМЫКИЯ \"ПРИЮТНЕНСКАЯ РАЙОННАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ ЖИВОТНЫХ\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "27.11.2025 12:53",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000plh5hmjudjhshu4",
+      "customer": [
+        {
+          "inn": "0807003433",
+          "title": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ КАЛМЫКИЯ \"ПРИЮТНЕНСКАЯ РАЙОННАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ ЖИВОТНЫХ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг по лизингу легкового автомобиля",
+      "viewDemandDate": "30.12.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000plgvns2fvmgo4fk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000plgvnrrmn0ncmb8",
+      "price": "<div class='aright'>1 841 333,33 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250020366",
+      "filingNumber": "32515455566",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.11.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.12.2025 09:00&nbsp;МСК",
+      "summationDate": "13.01.2026 00:00",
+      "placementDate": "27.11.2025",
+      "organizer": {
+        "inn": "0814161279",
+        "title": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ КАЛМЫКИЯ \"ЭЛИСТИНСКАЯ ГОРОДСКАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ ЖИВОТНЫХ\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "27.11.2025 09:42",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000plgvns2fvmgo4fk",
+      "customer": [
+        {
+          "inn": "0814161279",
+          "title": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ КАЛМЫКИЯ \"ЭЛИСТИНСКАЯ ГОРОДСКАЯ СТАНЦИЯ ПО БОРЬБЕ С БОЛЕЗНЯМИ ЖИВОТНЫХ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.91.10"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Услуга финансовой аренды (лизинга) систем ролевой печати для нужд АО «Почта России» (10 лет)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pgvvkc64563k7i0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pgvvkc6clrtof34",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000771400573",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.08.2025 18:16",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.08.2025 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "06.08.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "06.08.2025 18:16",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pgvvkc6clrtof34",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.91.10"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Услуга финансовой аренды (лизинга) систем ролевой печати для нужд АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pgvv8vetmukq01s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pgvv8vfn1hd1rrg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000771400572",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.08.2025 18:04",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.08.2025 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "06.08.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "06.08.2025 18:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pgvv8vfn1hd1rrg",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.116"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) на приобретение медицинского оборудования",
+      "viewDemandDate": "23.07.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pfih7u58eeu4jic",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pfih7tvmem43bok",
+      "price": "<div class='aright'>254 000 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0705025006DP",
+      "filingNumber": "32515003665",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.07.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.07.2025 03:00&nbsp;МСК",
+      "summationDate": "24.07.2025 00:00",
+      "placementDate": "02.07.2025",
+      "organizer": {
+        "inn": "5504001891",
+        "title": "Бюджетное учреждение здравоохранения Омской области \"Клинический диагностический центр\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "02.07.2025 11:34",
+      "deposit": "1 270 000,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pfih7u58eeu4jic",
+      "customer": [
+        {
+          "inn": "5504001891",
+          "title": "Бюджетное учреждение здравоохранения Омской области \"Клинический диагностический центр\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.116"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) на приобретение медицинского оборудования",
+      "viewDemandDate": "14.07.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pf1vb8uv9v5rep0",
+      "participant": false,
+      "features": [
+        "SUBCONTRACTORS"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pf1vb8fphq6nlrs",
+      "price": "<div class='aright'>254 000 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0705025005DP",
+      "filingNumber": "32514959719",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "11.07.2025 03:00&nbsp;МСК",
+      "summationDate": "17.07.2025 00:00",
+      "regionCodes": [
+        "Омская, обл"
+      ],
+      "placementDate": "19.06.2025",
+      "organizer": {
+        "inn": "5504001891",
+        "title": "Бюджетное учреждение здравоохранения Омской области \"Клинический диагностический центр\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "19.06.2025 14:33",
+      "deposit": "1 270 000,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pf1vb8uv9v5rep0",
+      "customer": [
+        {
+          "inn": "5504001891",
+          "title": "Бюджетное учреждение здравоохранения Омской области \"Клинический диагностический центр\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.91.10.190",
+        "29.10.30.111"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) автобусов большого класса",
+      "viewDemandDate": "25.06.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pec5km0li0qlva8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pec5kllvse90i2s",
+      "price": "<div class='aright'>5 707 173 804,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0476425002DP",
+      "filingNumber": "32514907615",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.06.2025 09:00&nbsp;МСК",
+      "summationDate": "02.07.2025 00:00",
+      "placementDate": "02.06.2025",
+      "organizer": {
+        "inn": "7830001758",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ПАССАЖИРСКОГО АВТОМОБИЛЬНОГО ТРАНСПОРТА"
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "02.06.2025 16:02",
+      "deposit": "28 535 869,02 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pec5km0li0qlva8",
+      "customer": [
+        {
+          "inn": "7830001758",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ПАССАЖИРСКОГО АВТОМОБИЛЬНОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга)",
+      "viewDemandDate": "09.06.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pdpsnf6eens59ps",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pdpsnev93kpgk70",
+      "price": "<div class='aright'>11 557 675,67 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0810125002DP",
+      "filingNumber": "32514849411",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.05.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.06.2025 09:00&nbsp;МСК",
+      "summationDate": "10.06.2025 00:00",
+      "regionCodes": [
+        "Санкт-Петербург, г"
+      ],
+      "placementDate": "19.05.2025",
+      "organizer": {
+        "inn": "7825332472",
+        "title": "Санкт-Петербургское государственное бюджетное учреждение культуры \"Петербург-концерт\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "19.05.2025 12:44",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pdpsnf6eens59ps",
+      "customer": [
+        {
+          "inn": "7825332472",
+          "title": "Санкт-Петербургское государственное бюджетное учреждение культуры \"Петербург-концерт\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.29.12.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по финансовой аренде (лизингу) шкафов",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p4gjdj170snv378",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p4gjdid1hbtbci0",
+      "price": "<div class='aright'>2 864 317,97 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0699924042DP",
+      "filingNumber": "32414036256",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "30.09.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.10.2024 08:00&nbsp;МСК",
+      "summationDate": "08.10.2024 08:00",
+      "placementDate": "30.09.2024",
+      "organizer": {
+        "inn": "3525223281",
+        "title": "АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ ВОЛОГОДСКОЙ ОБЛАСТИ \"СПОРТИВНАЯ ШКОЛА ОЛИМПИЙСКОГО РЕЗЕРВА \"ВИТЯЗЬ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "30.09.2024 13:09",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p4gjdj170snv378",
+      "customer": [
+        {
+          "inn": "3525223281",
+          "title": "АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ ВОЛОГОДСКОЙ ОБЛАСТИ \"СПОРТИВНАЯ ШКОЛА ОЛИМПИЙСКОГО РЕЗЕРВА \"ВИТЯЗЬ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортного средства",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p2uftv2841o59c0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p2uftv2juv8l5jk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400531",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.08.2024 15:10",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.08.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "22.08.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "22.08.2024 15:10",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p2uftv2juv8l5jk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг операционного лизинга транспортных средств (2 единицы)",
+      "viewDemandDate": "15.08.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p24dr1om1o6tv94",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p24dr0m2bh5buls",
+      "price": "<div class='aright'>15 113 878,56 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-24000771400484",
+      "filingNumber": "32413865361",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.08.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.08.2024 11:00&nbsp;МСК",
+      "summationDate": "19.08.2024 00:00",
+      "placementDate": "02.08.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Сокращенный ценовой отбор (301)",
+      "placementDateTime": "02.08.2024 09:23",
+      "deposit": "75 569,39 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p24dr1om1o6tv94",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (7 единиц)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p14hpjk26ug76n0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p14hpjkcabmq1so",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400431",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.07.2024 15:06",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "11.07.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.07.2024 15:06",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p14hpjkcabmq1so",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.110"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) погружных насосов ЭЦВ",
+      "viewDemandDate": "22.07.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p0ng0vh8on9stt0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p0ng0v76br2f910",
+      "price": "<div class='aright'>9 665 107,41 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod24117DP",
+      "filingNumber": "32413757096",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.06.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.07.2024 12:00&nbsp;МСК",
+      "summationDate": "26.07.2024 00:00",
+      "placementDate": "28.06.2024",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "28.06.2024 11:44",
+      "deposit": "96 651,07 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p0ng0vh8on9stt0",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (2 единицы)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p0apqngpd8oo1js",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p0apqnh2mp8biq4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400398",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2024 15:03",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.06.2024 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "18.06.2024 15:03",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p0apqnh2mp8biq4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (2 единицы)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p0ah4923mo7ccio",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p0ah492dmvujog0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400393",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2024 09:59",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.06.2024 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "18.06.2024 09:59",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p0ah492dmvujog0",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) объектов электросетевого хозяйства для нужд ПАО «Россети Центр и Приволжье» (филиала «Нижновэнерго»)",
+      "viewDemandDate": "24.06.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ovfsd65gebb9fjg",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ovfsd50ifffn26s",
+      "price": "<div class='aright'>890 658 780,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "paorc24551DP",
+      "filingNumber": "32413647212",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.06.2024 12:00&nbsp;МСК",
+      "summationDate": "08.07.2024 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "28.05.2024",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "28.05.2024 17:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ovfsd65gebb9fjg",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    }
+  ]
+}

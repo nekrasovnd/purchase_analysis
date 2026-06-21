@@ -1,0 +1,910 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 240,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "65.12.50.000",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000p2cg8v3ie2b94ec",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000p2cg8v3nao7br1g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "gptek24004PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.08.2024 15:50",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2024 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "08.08.2024",
+      "organizer": {
+        "inn": "7838129301",
+        "title": "Акционерное общество \"Топливно-энергетический комплекс Санкт-Петербурга\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "08.08.2024 15:50",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000p2cg8v3nao7br1g",
+      "customer": [
+        {
+          "inn": "7838129301",
+          "title": "Акционерное общество \"Топливно-энергетический комплекс Санкт-Петербурга\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "53.20.11"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 53.20.11 Оказание услуг по приему, обработке, перевозке и доставке экспресс-отправлений (документов, грузов, включая услуги курьера, описи вложения, страхования) для нужд АО \"ВНИИГ им. Веденеева\"",
+      "viewDemandDate": "13.09.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p2c7kj0ofa0r384",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p2c7kidq533e6v4",
+      "price": "<div class='aright'>4 200 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "vniig24159DP",
+      "filingNumber": "32413880686",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.08.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.08.2024 11:00&nbsp;МСК",
+      "summationDate": "25.09.2024 00:00",
+      "regionCodes": [
+        "Санкт-Петербург, г"
+      ],
+      "placementDate": "08.08.2024",
+      "organizer": {
+        "inn": "7804004400",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "08.08.2024 10:55",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p2c7kj0ofa0r384",
+      "customer": [
+        {
+          "inn": "7804004400",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора добровольного страхования автотранспортных средств (КАСКО)",
+      "viewDemandDate": "09.09.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p2b6ie8p9cuchns",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p2b6idf7ajpf6h8",
+      "price": "<div class='aright'>11 666 815,92 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr242394DP",
+      "filingNumber": "32413878869",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.09.2024 15:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.09.2024 15:00&nbsp;МСК",
+      "summationDate": "20.09.2024 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "07.08.2024",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "07.08.2024 15:39",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p2b6ie8p9cuchns",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по разработке функционала АРМ \"Страхование\" в КИС на платформе 1С\n",
+      "viewDemandDate": "09.08.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p227ohgbpol057c",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p227oh1u7n84lio",
+      "price": "<div class='aright'>1 700 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0474624320MC",
+      "filingNumber": "32413859772",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.07.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.08.2024 11:00&nbsp;МСК",
+      "summationDate": "13.08.2024 00:00",
+      "placementDate": "31.07.2024",
+      "organizer": {
+        "inn": "7830001927",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "31.07.2024 16:38",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p227ohgbpol057c",
+      "customer": [
+        {
+          "inn": "7830001927",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.29.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг обязательного страхования гражданской ответственности владельцев транспортных средств (ОСАГО)",
+      "viewDemandDate": "13.08.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p1q7te2ocrphb5k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p1q7tdj613v9ik0",
+      "price": "<div class='aright'>65 356,72 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "FRSVO24173DP",
+      "filingNumber": "32413858648",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.07.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.08.2024 09:00&nbsp;МСК",
+      "summationDate": "13.08.2024 00:00",
+      "placementDate": "31.07.2024",
+      "organizer": {
+        "inn": "7712005121",
+        "title": "ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЕ СЕТИ ВЕЩАНИЯ И ОПОВЕЩЕНИЯ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "31.07.2024 14:19",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p1q7te2ocrphb5k",
+      "customer": [
+        {
+          "inn": "7712005121",
+          "title": "ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЕ СЕТИ ВЕЩАНИЯ И ОПОВЕЩЕНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора добровольного медицинского страхования для нужд АО «МЭК «Энергоэффективные технологии»",
+      "viewDemandDate": "19.08.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p21qc43q5lls6u4",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p21qc3nip70mkcg",
+      "price": "<div class='aright'>4 158 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "7526024021DP",
+      "filingNumber": "32413858120",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.07.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.08.2024 10:00&nbsp;МСК",
+      "summationDate": "21.08.2024 00:00",
+      "placementDate": "31.07.2024",
+      "organizer": {
+        "inn": "5260292724",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "31.07.2024 13:12",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p21qc43q5lls6u4",
+      "customer": [
+        {
+          "inn": "5260292724",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.33.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию воздушных судов (КАСКО) (3 года, искл. Америка, Австралия)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p1iidchgfudfupc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p1iidchm882jrnc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400457",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.07.2024 12:23",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.07.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "19.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "19.07.2024 12:23",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p1iidchm882jrnc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.33.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию воздушных судов (КАСКО) (3 года)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p1ihqpdnof620a4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p1ihqpdtub07fmc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400456",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.07.2024 12:04",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.07.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "19.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "19.07.2024 12:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p1ihqpdtub07fmc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.33.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию воздушных судов (КАСКО) (2 года)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p1her2vjs980duk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p1her2vq82i211c",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400455",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.07.2024 15:43",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.07.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "18.07.2024 15:43",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p1her2vq82i211c",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.33.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию воздушных судов (КАСКО) (2 года, искл Америка, Австралия)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p1ha6o81t28l3l4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p1ha6o898p8it3c",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400453",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.07.2024 12:57",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.07.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "18.07.2024 12:57",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p1ha6o898p8it3c",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.33.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию воздушных судов (КАСКО) (иск. Америка, Австралия)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p1g8k70u1tdfsvo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p1g8k7163q2tn58",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400452",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.07.2024 17:24",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.07.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "17.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "17.07.2024 17:24",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p1g8k7163q2tn58",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по добровольному медицинскому страхованию персонала АО «Янтарьэнергосервис»",
+      "viewDemandDate": "06.08.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p1g6cukhao84jjs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p1g6ctnrq4efvuc",
+      "price": "<div class='aright'>705 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "yanen24421DP",
+      "filingNumber": "32413817158",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.07.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.07.2024 15:00&nbsp;МСК",
+      "summationDate": "09.08.2024 00:00",
+      "placementDate": "17.07.2024",
+      "organizer": {
+        "inn": "3903007130",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЯНТАРЬ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "17.07.2024 16:31",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p1g6cukhao84jjs",
+      "customer": [
+        {
+          "inn": "3906227077",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯНТАРЬЭНЕРГОСЕРВИС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.33.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию воздушных судов (КАСКО)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p1fvagfro9brp1s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p1fvagg7csl1b94",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400450",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.07.2024 11:59",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.07.2024 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "17.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "17.07.2024 11:59",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p1fvagg7csl1b94",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.49.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по страхованию имущества Логистического комплекса",
+      "viewDemandDate": "05.08.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p1ekrbltoputtqk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p1ekrambrsqdaec",
+      "price": "<div class='aright'>4 062 040,74 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-24000771400447",
+      "filingNumber": "32413810955",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.08.2024 09:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "06.08.2024 16:00&nbsp;МСК",
+      "summationDate": "08.08.2024 00:00",
+      "placementDate": "16.07.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Сокращенный отбор предложений (301)",
+      "placementDateTime": "16.07.2024 11:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p1ekrbltoputtqk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.3"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора страхования ответственности владельца воздушного судна перед третьими лицами",
+      "viewDemandDate": "08.07.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p0jbong3ht9e4p0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p0jbo26ag9q0p9g",
+      "price": "<div class='aright'>7 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-ur24447DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "25.06.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.07.2024 07:00&nbsp;МСК",
+      "summationDate": "08.07.2024 00:00",
+      "placementDate": "25.06.2024",
+      "organizer": {
+        "inn": "6671163413",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+      },
+      "placementType": "Сравнение цен",
+      "placementDateTime": "25.06.2024 06:39",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p0jbong3ht9e4p0",
+      "customer": [
+        {
+          "inn": "6671163413",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по обязательному страхованию гражданской ответственности владельцев транспортных средств",
+      "viewDemandDate": "02.07.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p0eemebfsdkmc7g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p0eeme04fcg75d4",
+      "price": "<div class='aright'>309 845,52 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "6842324010DP",
+      "filingNumber": "32413730410",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.06.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.07.2024 12:00&nbsp;МСК",
+      "summationDate": "04.07.2024 00:00",
+      "placementDate": "21.06.2024",
+      "organizer": {
+        "inn": "7810904590",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕТРОСТРОЙ СЕВЕРНОЙ СТОЛИЦЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "21.06.2024 11:19",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p0eemebfsdkmc7g",
+      "customer": [
+        {
+          "inn": "7810904590",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕТРОСТРОЙ СЕВЕРНОЙ СТОЛИЦЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.33"
+      ],
+      "type": "BUYING",
+      "title": "Cтрахованию имущественных интересов Страхователя, связанных с риском утраты (гибели) и повреждений воздушных судов и дополнительного навесного оборудования для нужд АО «Россети Янтарь»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p0ec80nlnhhqjd4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p0ebsppa0a878dg",
+      "price": "<div class='aright'>458 630,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "yanen24351DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.06.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.06.2024 15:00&nbsp;МСК",
+      "summationDate": "03.07.2024 00:00",
+      "regionCodes": [
+        "Калининградская, обл"
+      ],
+      "placementDate": "21.06.2024",
+      "organizer": {
+        "inn": "3903007130",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЯНТАРЬ\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "21.06.2024 09:50",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p0ec80nlnhhqjd4",
+      "customer": [
+        {
+          "inn": "3903007130",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЯНТАРЬ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.90.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по обязательному страхованию гражданской ответственности владельца опасного объекта",
+      "viewDemandDate": "01.07.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p0ar50ujtlmo7a8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p0ar50jtvak3po4",
+      "price": "<div class='aright'>90 800,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "6842324008DP",
+      "filingNumber": "32413717704",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.06.2024 12:00&nbsp;МСК",
+      "summationDate": "05.07.2024 00:00",
+      "placementDate": "18.06.2024",
+      "organizer": {
+        "inn": "7810904590",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕТРОСТРОЙ СЕВЕРНОЙ СТОЛИЦЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "18.06.2024 16:12",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p0ar50ujtlmo7a8",
+      "customer": [
+        {
+          "inn": "7810904590",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕТРОСТРОЙ СЕВЕРНОЙ СТОЛИЦЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по комбинированному страхованию рисков случайной гибели или случайного повреждения объекта строительства (реконструкции), материалов, оборудования и другого имущества используемого в строительстве (при реконструкции) и ответственности за причинение вреда третьим лицам при проведении строительно-монтажных работ и работ по реконструкции и техническому перевооружению на объекте",
+      "viewDemandDate": "12.07.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p01le3qhhkc5f4s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p01le282q29m66c",
+      "price": "<div class='aright'>35 094 952,82 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "moesk24110DP",
+      "filingNumber": "32413697246",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.07.2024 16:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.07.2024 16:00&nbsp;МСК",
+      "summationDate": "26.07.2024 00:00",
+      "placementDate": "11.06.2024",
+      "organizer": {
+        "inn": "7708659347",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОЭСК - ИНЖИНИРИНГ\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "11.06.2024 12:52",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p01le3qhhkc5f4s",
+      "customer": [
+        {
+          "inn": "7708659347",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОЭСК - ИНЖИНИРИНГ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по обязательному страхованию гражданской ответственности (ОСАГО) владельцев транспортных средств для нужд АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p008patckgmkquc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p008patl938k680",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400379",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.06.2024 10:42",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.06.2024 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.06.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "10.06.2024 10:42",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p008patl938k680",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    }
+  ]
+}

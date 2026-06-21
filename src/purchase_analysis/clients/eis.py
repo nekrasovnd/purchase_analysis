@@ -6,7 +6,7 @@ from typing import Iterable
 import requests
 from bs4 import BeautifulSoup
 
-from purchase_analysis.utils.text import html_unescape, normalize_spaces
+from purchase_analysis.utils.text import html_unescape, normalize_spaces, parse_ru_datetime
 
 BASE_URL = "https://zakupki.gov.ru"
 ORG_CHOOSER_URL = (
@@ -31,6 +31,24 @@ class EisEntityCandidate:
     kpp: str
     ogrn: str
     draft_id: str
+
+
+@dataclass(slots=True)
+class EisSearchItem:
+    source_system: str
+    platform_section: str
+    entity_name: str
+    customer_query: str
+    procedure_number: str
+    lot_number: str
+    subject: str
+    customer_name: str
+    region: str
+    status: str
+    tender_type: str
+    price_rub: float | None
+    published_at: str | None
+    deadline_at: str | None
 
 
 def create_session(timeout: int = 30) -> requests.Session:
@@ -190,3 +208,89 @@ def count_procurements_223(
         timeout=timeout,
     )
     return parse_results_total(html_text), html_text, url
+
+
+def parse_cards(
+    html_text: str,
+    *,
+    entity_name: str,
+    customer_query: str,
+    customer_name: str,
+    law: str,
+) -> list[EisSearchItem]:
+    soup = BeautifulSoup(html_text, "lxml")
+    cards: list[EisSearchItem] = []
+    seen: set[str] = set()
+    for block in soup.select(".search-registry-entry-block"):
+        text = normalize_spaces(block.get_text(" ", strip=True))
+        if len(text) < 50:
+            continue
+        number_match = re.search(r"(?:№\s*)?([0-9]{11,25})", text)
+        number = number_match.group(1) if number_match else ""
+        key = number or text[:500]
+        if key in seen:
+            continue
+        seen.add(key)
+        
+        price_match = re.search(r"([0-9][0-9\s.,]+)\s*(?:₽|руб)", text, flags=re.I)
+        price_str = price_match.group(1).replace(" ", "").replace(",", ".") if price_match else None
+        price_rub = float(price_str) if price_str else None
+        
+        subject_match = block.select_one(".registry-entry__body-value")
+        subject = normalize_spaces(subject_match.get_text(" ", strip=True)) if subject_match else text[:200]
+        
+        published_at = None
+        for data_block in block.select(".data-block, .data-block__title"):
+            # sometimes .data-block__title and .data-block__value are siblings instead of being inside .data-block
+            # wait, actually let's just search all titles
+            pass
+        
+        # Simpler approach: find all titles, look at next sibling
+        for title_node in block.select(".data-block__title"):
+            t_text = normalize_spaces(title_node.get_text(" ", strip=True)).lower()
+            if "размещено" in t_text:
+                val_node = title_node.find_next_sibling(class_="data-block__value")
+                if val_node:
+                    dt = parse_ru_datetime(val_node.get_text(" ", strip=True))
+                    if dt:
+                        published_at = dt.isoformat()
+        
+        status_match = block.select_one(".registry-entry__header-mid__title")
+        status = normalize_spaces(status_match.get_text(" ", strip=True)) if status_match else ""
+        
+        cards.append(EisSearchItem(
+            source_system="eis",
+            platform_section=law,
+            entity_name=entity_name,
+            customer_query=customer_query,
+            procedure_number=number,
+            lot_number="",
+            subject=subject,
+            customer_name=customer_name,
+            region="",
+            status=status,
+            tender_type="",
+            price_rub=price_rub,
+            published_at=published_at,
+            deadline_at=None,
+        ))
+    return cards
+
+
+def search_item_to_dict(item: EisSearchItem) -> dict[str, object]:
+    return {
+        "source_system": item.source_system,
+        "platform_section": item.platform_section,
+        "entity_name": item.entity_name,
+        "customer_query": item.customer_query,
+        "procedure_number": item.procedure_number,
+        "lot_number": item.lot_number,
+        "subject": item.subject,
+        "customer_name": item.customer_name,
+        "region": item.region,
+        "status": item.status,
+        "tender_type": item.tender_type,
+        "price_rub": item.price_rub,
+        "published_at": item.published_at,
+        "deadline_at": item.deadline_at,
+    }

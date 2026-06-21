@@ -1,0 +1,913 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 360,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "25.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка и монтаж модульного отделения почтовой связи площадью 70,3 кв. м. по технологии металлический каркас для нужд АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pft17bmt6au3i8o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pft17bn9t0dbi90",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000771400503",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.07.2025 14:46",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.07.2025 15:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "10.07.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "10.07.2025 14:46",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pft17bn9t0dbi90",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "47.78.30.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 47.78.30.000 Изготовление и поставка делегатских наборов для участников 17 научно-технической конференции «Гидроэнергетика. Гидротехника. Новые разработки и технологии»",
+      "viewDemandDate": "30.07.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pfqfrirbr4kvdj8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pfqfrilij0u9nlo",
+      "price": "<div class='aright'>769 138,67 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "vniig25351MP",
+      "filingNumber": "32515021334",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.07.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.07.2025 11:00&nbsp;МСК",
+      "summationDate": "20.08.2025 00:00",
+      "regionCodes": [
+        "Санкт-Петербург, г"
+      ],
+      "placementDate": "08.07.2025",
+      "organizer": {
+        "inn": "7804004400",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.07.2025 15:47",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pfqfrirbr4kvdj8",
+      "customer": [
+        {
+          "inn": "7804004400",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "18.12.12.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 18.12.12.000 Декорирование помещений 17 научно-технической конференции «Гидроэнергетика. Гидротехника. Новые разработки и технологии» по адресу: ул. Политехническая, д.29",
+      "viewDemandDate": "30.07.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pfqbvuo8qmtlto0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pfqbvui4e363kec",
+      "price": "<div class='aright'>755 273,60 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "vniig25350MP",
+      "filingNumber": "32515020399",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.07.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.07.2025 11:00&nbsp;МСК",
+      "summationDate": "20.08.2025 00:00",
+      "regionCodes": [
+        "Санкт-Петербург, г"
+      ],
+      "placementDate": "08.07.2025",
+      "organizer": {
+        "inn": "7804004400",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.07.2025 13:27",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pfqbvuo8qmtlto0",
+      "customer": [
+        {
+          "inn": "7804004400",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.120"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение строительно-монтажных и пусконаладочных работ с поставкой оборудования по модернизации ССПИ ПС 110/35/10 кВ «Пучеж» в части систем телемеханики и организации резервного канала связи",
+      "viewDemandDate": "23.07.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pfkv70qp2k55c28",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pfkv70klasrn9ag",
+      "price": "<div class='aright'>20 161 434,89 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "7526025017DP",
+      "filingNumber": "32515013112",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "04.07.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.07.2025 10:00&nbsp;МСК",
+      "summationDate": "04.08.2025 00:00",
+      "placementDate": "04.07.2025",
+      "organizer": {
+        "inn": "5260292724",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "04.07.2025 14:29",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pfkv70qp2k55c28",
+      "customer": [
+        {
+          "inn": "5260292724",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "16.23.20.140"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка и монтаж модульного отделения почтовой связи площадью 11,9 кв. м. по технологии деревянный каркас (с комплектацией мебелью) для нужд АО «Почта России»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pfip0pt51ai469g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pfip0ptcv6aa8p8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000771400482",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.07.2025 15:34",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "11.07.2025 23:55&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.07.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "02.07.2025 15:34",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pfip0ptcv6aa8p8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.59.000"
+      ],
+      "type": "BUYING",
+      "title": "Расходные материалы для отдела технологии для производства и замораживания спермы",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pfc6gvc1ua8fi30",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pfc6gv6gvlciks4",
+      "price": "<div class='aright'>1 758 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0909225001MQ",
+      "filingNumber": "32514989005",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.07.2025 09:00&nbsp;МСК",
+      "summationDate": "04.07.2025 00:00",
+      "placementDate": "27.06.2025",
+      "organizer": {
+        "inn": "7820307722",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НЕВСКОЕ\" ПО ПЛЕМЕННОЙ РАБОТЕ"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.06.2025 12:54",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pfc6gvc1ua8fi30",
+      "customer": [
+        {
+          "inn": "7820307722",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НЕВСКОЕ\" ПО ПЛЕМЕННОЙ РАБОТЕ"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "59.11.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Создание отчетного видеоролика по итогам 17 научно-технической конференции «Гидроэнергетика. Гидротехника. Новые разработки и технологии» 8–10 октября 2025 г",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pfat6q44t0p87m4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pfat6q4cocefna4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "vniig25324PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.06.2025 12:52",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.07.2025 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "26.06.2025",
+      "organizer": {
+        "inn": "7804004400",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "26.06.2025 12:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pfat6q4cocefna4",
+      "customer": [
+        {
+          "inn": "7804004400",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "11.07.11.121"
+      ],
+      "type": "BUYING",
+      "title": "Поставка воды питьевой для нужд ГБУ СО \"РАЭТ\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pf75s4pblldumgo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pf75s48qfdbpu4c",
+      "price": "<div class='aright'>13 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0908025001MQ",
+      "filingNumber": "32514969650",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "23.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.07.2025 23:00&nbsp;МСК",
+      "summationDate": "03.07.2025 00:00",
+      "placementDate": "23.06.2025",
+      "organizer": {
+        "inn": "6316154544",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ САМАРСКОЙ ОБЛАСТИ \"РЕГИОНАЛЬНОЕ АГЕНТСТВО ЭНЕРГОЭФФЕКТИВНЫХ И ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "23.06.2025 15:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pf75s4pblldumgo",
+      "customer": [
+        {
+          "inn": "6316154544",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ САМАРСКОЙ ОБЛАСТИ \"РЕГИОНАЛЬНОЕ АГЕНТСТВО ЭНЕРГОЭФФЕКТИВНЫХ И ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.12.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение проектно-изыскательских работ по «Техперевооружению ПС 35 - 110 кВ с заменой оборудования систем телемеханики, установкой оборудования передачи телеметрической информации»",
+      "viewDemandDate": "02.07.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pf37tv97gtip2rg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pf37tutusm4s078",
+      "price": "<div class='aright'>3 000 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "7526025016MC",
+      "filingNumber": "32514964400",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.06.2025 10:00&nbsp;МСК",
+      "summationDate": "04.07.2025 00:00",
+      "placementDate": "20.06.2025",
+      "organizer": {
+        "inn": "5260292724",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "20.06.2025 14:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pf37tv97gtip2rg",
+      "customer": [
+        {
+          "inn": "5260292724",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "85.42.19.900"
+      ],
+      "type": "BUYING",
+      "title": "Оказание образовательных услуг по дополнительному профессиональному образованию по программе повышения квалификации по программе «Технологии бережливого производства в здравоохранении»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pf2r3jma4739g6k",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pf2r3jc9j794v2s",
+      "price": "<div class='aright'>16 197,20 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0675125157MQ",
+      "filingNumber": "32514961596",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.06.2025 06:00&nbsp;МСК",
+      "summationDate": "01.07.2025 12:00",
+      "placementDate": "20.06.2025",
+      "organizer": {
+        "inn": "5448100110",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НОВОСИБИРСКОЙ ОБЛАСТИ \"НОВОСИБИРСКАЯ ОБЛАСТНАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "20.06.2025 06:27",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pf2r3jma4739g6k",
+      "customer": [
+        {
+          "inn": "5448100110",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НОВОСИБИРСКОЙ ОБЛАСТИ \"НОВОСИБИРСКАЯ ОБЛАСТНАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "18.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Декорирование помещений 17 научно-технической конференции «Гидроэнергетика. Гидротехника. Новые разработки и технологии» по адресу: ул. Политехническая, д. 29",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pf1nn9n3fkvdme4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pf1nn9nal1hbos0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "vniig25307PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.06.2025 09:54",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.06.2025 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "19.06.2025",
+      "organizer": {
+        "inn": "7804004400",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "19.06.2025 09:54",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pf1nn9nal1hbos0",
+      "customer": [
+        {
+          "inn": "7804004400",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "47.78.30.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Изготовление и поставка делегатских наборов для участников 17 научно-технической конференции «Гидроэнергетика. Гидротехника. Новые разработки и технологии»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pf0oj5gteu47ndo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pf0oj5hn9ic9fe4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "vniig25306PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 15:46",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.06.2025 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "7804004400",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 15:46",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pf0oj5hn9ic9fe4",
+      "customer": [
+        {
+          "inn": "7804004400",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГИДРОТЕХНИКИ ИМЕНИ Б.Е.ВЕДЕНЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.29.000"
+      ],
+      "type": "BUYING",
+      "title": "Поставка лицензий на использование программного обеспечения 1С:Шина",
+      "viewDemandDate": "27.06.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pf0mmnn2g4rq0l8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pf0mmnduvhkd53c",
+      "price": "<div class='aright'>605 340,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "7526025015DP",
+      "filingNumber": "32514955292",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.06.2025 10:00&nbsp;МСК",
+      "summationDate": "30.06.2025 00:00",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "5260292724",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "18.06.2025 15:12",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pf0mmnn2g4rq0l8",
+      "customer": [
+        {
+          "inn": "5260292724",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖРЕГИОНАЛЬНАЯ ЭНЕРГОСЕРВИСНАЯ КОМПАНИЯ \"ЭНЕРГОЭФФЕКТИВНЫЕ ТЕХНОЛОГИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.53.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Пиктограмма ПЭУ 001 'Выход налево' 130х260 URAN/ANTARES, материал: пленка, производитель: Световые Технологии, артикул: 2502000220",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pf0lhhui8jgctr0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pf0lhhvet3rdhhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fvoge25048PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 14:04",
+      "lotNumber": 9,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2025 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pf0lhhvet3rdhhc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.53.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Пиктограмма ПЭУ 002 'Выход направо' 130х260 URAN/ANTARES, материал: пленка, производитель: Световые Технологии, артикул: 2502000230",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pf0lhhui8jgctr4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pf0lhhvet3rdhhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fvoge25048PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 14:04",
+      "lotNumber": 10,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2025 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pf0lhhvet3rdhhc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.53.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Пиктограмма ПЭУ 004 'По лестнице вниз направо' 130х260 URAN/ANTARES, материал: пленка, производитель: Световые Технологии, артикул: 2502000640",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pf0lhhuig11hgss",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pf0lhhvet3rdhhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fvoge25048PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 14:04",
+      "lotNumber": 11,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2025 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pf0lhhvet3rdhhc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.53.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Пиктограмма ПЭУ 006 'По лестнице вверх направо' 130х260 URAN/ANTARES, материал: пленка, производитель: Световые Технологии, артикул: 2502000660",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pf0lhhuig11hgt0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pf0lhhvet3rdhhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fvoge25048PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 14:04",
+      "lotNumber": 12,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2025 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pf0lhhvet3rdhhc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.53.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Пиктограмма ПЭУ 010 'ВЫХОД' 130х260 URAN/ANTARES, материал: пленка, производитель: Световые Технологии, артикул: 2502000270",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pf0lhhujfgip4b8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pf0lhhvet3rdhhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fvoge25048PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 14:04",
+      "lotNumber": 13,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2025 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pf0lhhvet3rdhhc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.40.39.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Светильник URAN 6500-4 LED, мощность 4 Вт, напряжение питания AC/DC 220V, Световые технологии, артикул: 4501007120",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pf0lhhujutohop0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pf0lhhvet3rdhhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fvoge25048PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 14:04",
+      "lotNumber": 17,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2025 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pf0lhhvet3rdhhc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.40.25.123"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Световой указатель серии URAN LED, URAN 6513-3 LED, производитель: Световые технологии, артикул: 4502003190",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pf0lhhuk7klde74",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pf0lhhvet3rdhhc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fvoge25048PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2025 14:04",
+      "lotNumber": 21,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.08.2025 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "18.06.2025 14:04",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pf0lhhvet3rdhhc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Воткинская ГЭС\""
+        }
+      ]
+    }
+  ]
+}

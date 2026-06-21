@@ -1,0 +1,911 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 400,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.21.10"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2: 86.21.10 Оказание услуг медпункта и первой доврачебной помощи для нужд Воткинского филиала, Производственного участка в г. Пермь",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptjjo41vhal7h2c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptjjo425140jj4g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028804",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 06:27",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "6345012488",
+        "title": "Воткинский филиал АО \"Гидроремонт-ВКК\" в г.Чайковский"
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "16.06.2026 06:27",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptjjo425140jj4g",
+      "customer": [
+        {
+          "inn": "6345012488",
+          "title": "Воткинский филиал АО \"Гидроремонт-ВКК\" в г.Чайковский"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.33.11.150"
+      ],
+      "type": "BUYING",
+      "title": "На право заключения договора на «ОКПД2 27.33.11.150 Поставка выключателя АН-25Е3-25А или эквивалент (аварийный запас) для нужд филиала ПАО «РусГидро» - Саяно-Шушенская ГЭС имени П.С. Непорожнего»",
+      "viewDemandDate": "13.07.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000ptji6taechb1rc4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ptji3vai6usjhsk",
+      "price": "<div class='aright'>1 721 745,90 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028801",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.06.2026 10:00&nbsp;МСК",
+      "summationDate": "13.07.2026 00:00",
+      "regionCodes": [
+        "Хакасия, Респ"
+      ],
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Саяно-Шушенская ГЭС имени П.С. Непорожнего\""
+      },
+      "placementType": "Состязательный отбор",
+      "placementDateTime": "16.06.2026 06:15",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ptji6taechb1rc4",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Саяно-Шушенская ГЭС имени П.С. Непорожнего\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "14.12.30"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Спецодежда, спецобувь",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptjhf2hbr88h6dk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptjhf2hhv06uaak",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028796",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 05:07",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Саяно-Шушенская ГЭС имени П.С. Непорожнего\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "16.06.2026 05:07",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptjhf2hhv06uaak",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Саяно-Шушенская ГЭС имени П.С. Непорожнего\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.41.32.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка средств бытовой химии для нужд ЗГЭС",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptjh4spsqtbu2ls",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptjh4sq2q95cpvs",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028793",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 04:57",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.07.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Зейская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "16.06.2026 04:57",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptjh4sq2q95cpvs",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Зейская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.32.14.112",
+        "27.32.14.112"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 27.32.14.112 Поставка кабеля силового с бумажной пропитанной изоляцией (БПИ) в рамках инвестиционной программы филиала АО «ДРСК» «Электрические сети ЕАО»",
+      "viewDemandDate": "20.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ptjgn42lnpivbe0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptjgn3mdtl5ngek",
+      "price": "<div class='aright'>2 501 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028791",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 05:00&nbsp;МСК",
+      "summationDate": "21.06.2026 00:00",
+      "regionCodes": [
+        "Еврейская, Аобл"
+      ],
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Электрические сети ЕАО\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "16.06.2026 04:49",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptjgn42lnpivbe0",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "45.20.11.500"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по техническому обслуживанию и ремонту транспортных средств для нужд АО \"СК РусГидро\" в г. Хабаровске",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptjgrlsedhlpdqo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptjgrlsjv8e5uu0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028792",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 04:46",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 02:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "16.06.2026 04:46",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptjgrlsjv8e5uu0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.11.43.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка Комплектных трансформаторных подстанций",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptjghj4qi0ihle8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptjghj50agoid1c",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028789",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 04:35",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.06.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "16.06.2026 04:35",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptjghj50agoid1c",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12.25.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 33.12.25.000 Оказание услуг по техническому обслуживанию и ремонту бытовой техники для нужд АО «СК РусГидро»",
+      "viewDemandDate": "24.07.2026 12:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptjfpeqqoh7k1rk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptjfpeip85vq37c",
+      "price": "<div class='aright'>9 679 387,28 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028783",
+      "filingNumber": "32616114635",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 04:08",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.06.2026 08:00&nbsp;МСК",
+      "summationDate": "24.07.2026 12:00",
+      "regionCodes": [
+        "Красноярский, край"
+      ],
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "16.06.2026 04:10",
+      "deposit": "281 672,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptjfpeqqoh7k1rk",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.11.43.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "КТП, СТП",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptjebfs2omt3rv8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptjebfs9rfrs1p4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Rejected",
+        "title": "Отменен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028779",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 03:20",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.06.2026 03:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "16.06.2026 03:20",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptjebfs9rfrs1p4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.51.66.131"
+      ],
+      "type": "BUYING",
+      "title": "Лот № 16-ТПиР-ОНМ-2026-БурГЭС «ОКПД2 26.51.66.131 Поставка виброанализатора (1 шт.) для нужд филиала ПАО «РусГидро» - «Бурейская ГЭС»",
+      "viewDemandDate": "16.07.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000ptjdqrcr0utoomc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ptjdnfpjkkn4kd4",
+      "price": "<div class='aright'>4 176 850,43 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028778",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.07.2026 08:00&nbsp;МСК",
+      "summationDate": "16.07.2026 00:00",
+      "placementDate": "16.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Бурейская ГЭС\""
+      },
+      "placementType": "Состязательный отбор",
+      "placementDateTime": "16.06.2026 03:10",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ptjdqrcr0utoomc",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Бурейская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.17.19.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД2 33.17.19.000. Оказание услуг по техническому обслуживанию и ремонту грузоподъемных механизмов и специального оборудования, установленного на транспортных средствах Карачаево-Черкесского транспортного участка.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptiv7rrf0q9r4co",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptiv7rrl324voac",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028772",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 18:32",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 18:32",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptiv7rrl324voac",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "11.07.11.121"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "«ОКПД 2: 11.07.11.121 Поставка воды питьевой бутилированной для нужд Камского транспортного участка Приволжского филиала АО «ТК РусГидро»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptiu9erek464l94",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptiu9erl518q7bg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028769",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 17:58",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.06.2026 15:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 17:58",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptiu9erl518q7bg",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "82.30.11.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД-2 82.30.11 Оказание услуг по организации мероприятия «Предварительные итоги работы Общества за первое полугодие 2026 года» с банкетным обслуживанием",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptisdpe5ovfivcg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptisdpecf3mb7rc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028759",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 17:08",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "6345012488",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГИДРОРЕМОНТ-ВКК\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 17:08",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptisdpecf3mb7rc",
+      "customer": [
+        {
+          "inn": "6345012488",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГИДРОРЕМОНТ-ВКК\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "11.07.11.121"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД 2: 11.07.11.121 Поставка воды питьевой бутилированной для нужд Волжского транспортного участка Приволжского филиала АО «ТК РусГидро",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptis839v0h2vnnk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptis83a5th0cr4c",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028755",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 16:46",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.06.2026 15:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 16:46",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptis83a5th0cr4c",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "46.69.15.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 46.69.15.000 Поставка средств малой механизации для обслуживания СП и филиалов ПАО «РусГидро»",
+      "viewDemandDate": "29.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000ptirge5o2qn7hic",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ptirgdrb6olsas4",
+      "price": "<div class='aright'>26 906 896,66 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028745",
+      "filingNumber": "32616113913",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.06.2026 10:00&nbsp;МСК",
+      "summationDate": "08.07.2026 00:00",
+      "regionCodes": [
+        "Хабаровский, край"
+      ],
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "15.06.2026 16:26",
+      "deposit": "234 812,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ptirge5o2qn7hic",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.20.19.129"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД 2: 71.20.19.129 «Услуги по освидетельствованию спасательных средств для нужд Жигулевского транспортного участка Приволжского филиала АО «ТК РусГидро»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptiqs03uu0rqs2o",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptiqs043q3lrl8s",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028738",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 16:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.06.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 16:00",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptiqs043q3lrl8s",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.33.13.160"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка запчастей для оборудования технологической автоматики Зарамагской ГЭС-1 (Аварийный запас)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptiqivmupi6blh8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptiqivn5m20hbs0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028732",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 15:58",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Северо-Осетинский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 15:58",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptiqivn5m20hbs0",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Северо-Осетинский филиал\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "11.07.11.121"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ОКПД 2: 11.07.11.121 Поставка воды питьевой бутилированной для нужд Воткинского транспортного участка Приволжского филиала АО \"ТК РусГидро\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ptiqrurmj8rlrgk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ptiqrurvgibphks",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028737",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 15:58",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.06.2026 15:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "1902018248",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 15:58",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ptiqrurvgibphks",
+      "customer": [
+        {
+          "inn": "1902018248",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСПОРТНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.30.11.130"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Поставка запчастей для оборудования АСУТП Зарамагской ГЭС-1 (Аварийный запас)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ptiqohsdf2nr50g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ptiqohshoqbo1ls",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260028735",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 15:57",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.06.2026 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Северо-Осетинский филиал\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "15.06.2026 15:57",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ptiqohshoqbo1ls",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Северо-Осетинский филиал\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "85.41.99.900"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по по направлению «общие вопросы охраны труда и функционирования системы управления охраной труда», «безопасные методы и приемы выполнения работ при воздействии вредных и (или) опасных производственных факторов, а также при выполнении работ повышенной опасности», «Обучение безопасным методам и приёмам выполнения работ повышенной опасности, к которым предъявляются дополнительные требования в соотвествии с НПА, содержащими государственные требования охраны труда.», «Программа обучения оказанию первой помощи пострадавшим», «Программа обучения правилам использования (применения) средств ",
+      "viewDemandDate": "24.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718u80000ptipt34n57af7go",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ptipt2p587clo78",
+      "price": "<div class='aright'>294 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260028721",
+      "filingNumber": "32616113463",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.06.2026 10:00&nbsp;МСК",
+      "summationDate": "24.06.2026 00:00",
+      "placementDate": "15.06.2026",
+      "organizer": {
+        "inn": "4632064246",
+        "title": "Акционерное общество \"Курские электрические сети\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "15.06.2026 15:29",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ptipt34n57af7go",
+      "customer": [
+        {
+          "inn": "4632064246",
+          "title": "Акционерное общество \"Курские электрические сети\""
+        }
+      ]
+    }
+  ]
+}

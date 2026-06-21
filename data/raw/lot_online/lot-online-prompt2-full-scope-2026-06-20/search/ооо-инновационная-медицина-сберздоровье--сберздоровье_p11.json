@@ -1,0 +1,961 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 240,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение ПИР, СМР, ПНР, Оборудование по титулу: Реконструкция КТП-160 6/0,4 кВ № 67 \"с/т Здоровье\" (замена на КТП-250 6/0,4 кВ с тр-ром 250 кВА), строительство ВЛИ-0,38 кВ (по существующим опорам (СНТ «Здоровье») от РУ-0,4 кВ КТП-67, ПРВТ-6 кВ (7 шт.),РЛКВ-6 кВ (3 шт.)  ПС \"Кудиново\" № 414, МО, Ногинский р-н, с. Кудиново, с/т \"Здоровье\", уч. 65, 50:16:0604125:271",
+      "viewDemandDate": "30.05.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ogj3d2dfddb08k8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ogj3d10u48kdu88",
+      "price": "<div class='aright'>2 892 112,40 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "00687231179DP",
+      "filingNumber": "32312415080",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "24.05.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2023 10:00&nbsp;МСК",
+      "summationDate": "30.05.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "24.05.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Запрос цен по результатам предварительного отбора",
+      "placementDateTime": "24.05.2023 11:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ogj3d2dfddb08k8",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.19.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по вооруженной охране объекта, имущества и защите жизни и здоровья граждан, находящихся на территории Базы\n",
+      "viewDemandDate": "11.07.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ogd6cum617sl1d4",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ogd6ctu61uqil48",
+      "price": "<div class='aright'>22 477 421,60 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0474623294DP",
+      "filingNumber": "32312402880",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.05.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "13.06.2023 07:00&nbsp;МСК",
+      "summationDate": "11.07.2023 00:00",
+      "placementDate": "19.05.2023",
+      "organizer": {
+        "inn": "7830001927",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "19.05.2023 19:24",
+      "deposit": "1 123 871,08 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ogd6cum617sl1d4",
+      "customer": [
+        {
+          "inn": "7830001927",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22"
+      ],
+      "type": "BUYING",
+      "title": "Определение подрядчика на выполнение СМР, ПНР, Оборудование Строительство ВЛИ-0,38 кВ (по существующим опорам) от РУ-0,4 кВ КТП-267 с/т «Здоровье» (аб.) ПС «Кудиново» № 414, МО, г. Ногинск, влад. 25, СНТ «Здоровье», 50:16:0604125:220 для нужд филиала ПАО «Россети московский регион» - Восточные электрические сети",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ogab67qept18fgg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ogab3edsi4jkie8",
+      "price": "<div class='aright'>329 592,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "00687231083DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.05.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.05.2023 08:00&nbsp;МСК",
+      "summationDate": "23.05.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "17.05.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "17.05.2023 14:10",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ogab67qept18fgg",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение ПИР, СМР, ПНР, Оборудование по титулу: Реконструкция КТП-160 6/0,4 кВ № 67 \"с/т Здоровье\" (замена на КТП-250 6/0,4 кВ с тр-ром 250 кВА), строительство ВЛИ-0,38 кВ (по существующим опорам (СНТ «Здоровье») от РУ-0,4 кВ КТП-67, ПРВТ-6 кВ (7 шт.),РЛКВ-6 кВ (3 шт.)  ПС \"Кудиново\" № 414, МО, Ногинский р-н, с. Кудиново, с/т \"Здоровье\", уч. 65, 50:16:0604125:271",
+      "viewDemandDate": "28.04.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ofcqvkkpbu3204c",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ofcqvja5sqsc3oc",
+      "price": "<div class='aright'>2 892 112,40 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0068723854DP",
+      "filingNumber": "32312323479",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "24.04.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.04.2023 10:00&nbsp;МСК",
+      "summationDate": "28.04.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "24.04.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Запрос цен по результатам предварительного отбора",
+      "placementDateTime": "24.04.2023 16:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ofcqvkkpbu3204c",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.59.52.194"
+      ],
+      "type": "BUYING",
+      "title": "Закупки реактивов для жидкостной цитологии",
+      "viewDemandDate": "27.04.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oet984sjaq5c7g0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oet984dkqkpc2f4",
+      "price": "<div class='aright'>1 301 662,00 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "feege23004DP",
+      "filingNumber": "32312283533",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.04.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.04.2023 10:00&nbsp;МСК",
+      "summationDate": "28.04.2023 00:00",
+      "regionCodes": [
+        "Дагестан, Респ"
+      ],
+      "placementDate": "12.04.2023",
+      "organizer": {
+        "inn": "0562075195",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "12.04.2023 14:19",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oet984sjaq5c7g0",
+      "customer": [
+        {
+          "inn": "0562075195",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Запрос КП для заключения договора добровольного страхования гражданской ответственности в случае причинения вреда имуществу, жизни и здоровью третьих лиц, причиненного в результате аварийного события при осуществлении ГУП «ТЭК СПб» деятельности, связанной с эксплуатацией тепловых камер (крышек люков) и дренажных колодцев тепловых сетей",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000oemuo4nqbpe1oro",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000oemuo4o4mmo0410",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "gptek23005PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.04.2023 16:12",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2023 12:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "07.04.2023",
+      "organizer": {
+        "inn": "7838129301",
+        "title": "Акционерное общество \"Топливно-энергетический комплекс Санкт-Петербурга\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "07.04.2023 16:12",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000oemuo4o4mmo0410",
+      "customer": [
+        {
+          "inn": "7838129301",
+          "title": "Акционерное общество \"Топливно-энергетический комплекс Санкт-Петербурга\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение ПИР, СМР, ПНР, Оборудование по титулу: Реконструкция КТП-160 6/0,4 кВ № 67 \"с/т Здоровье\" (замена на КТП-250 6/0,4 кВ с тр-ром 250 кВА), строительство ВЛИ-0,38 кВ (по существующим опорам (СНТ «Здоровье») от РУ-0,4 кВ КТП-67, ПРВТ-6 кВ (7 шт.),РЛКВ-6 кВ (3 шт.)  ПС \"Кудиново\" № 414, МО, Ногинский р-н, с. Кудиново, с/т \"Здоровье\", уч. 65, 50:16:0604125:271",
+      "viewDemandDate": "11.04.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000oek34cgpjt56jdk",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000oek34aoke472jns",
+      "price": "<div class='aright'>2 892 112,40 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0068723729DP",
+      "filingNumber": "32312257575",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.04.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.04.2023 10:00&nbsp;МСК",
+      "summationDate": "11.04.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "05.04.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Запрос цен по результатам предварительного отбора",
+      "placementDateTime": "05.04.2023 10:52",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000oek34cgpjt56jdk",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.50.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Закупка расходного материала и реактивов для лаборатории",
+      "viewDemandDate": "14.04.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oeckgl0k0fujqkg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oeckgkki0u7enbo",
+      "price": "<div class='aright'>1 255 150,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "feege23003DP",
+      "filingNumber": "32312242894",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "30.03.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.04.2023 10:00&nbsp;МСК",
+      "summationDate": "19.04.2023 00:00",
+      "regionCodes": [
+        "Дагестан, Респ"
+      ],
+      "placementDate": "30.03.2023",
+      "organizer": {
+        "inn": "0562075195",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "30.03.2023 16:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oeckgl0k0fujqkg",
+      "customer": [
+        {
+          "inn": "0562075195",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.20.190"
+      ],
+      "type": "BUYING",
+      "title": "Строительный контроль за выполнением работ по договору «Капитальный ремонт нежилого помещения для размещения реабилитационного отделения для детей с ограниченными возможностями здоровья, расположенного по адресу: г. Кушва, ул. Строителей, дом №2»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000oe9n1kh0fsm0uk0",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000oe9n1k8ub51f69s",
+      "price": "<div class='aright'>478 740,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0570023002MQ",
+      "filingNumber": "32312232284",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.03.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.04.2023 07:00&nbsp;МСК",
+      "summationDate": "05.04.2023 00:00",
+      "placementDate": "28.03.2023",
+      "organizer": {
+        "inn": "6620010828",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"КОМПЛЕКСНЫЙ ЦЕНТР СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ ГОРОДА КУШВЫ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.03.2023 12:26",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000oe9n1kh0fsm0uk0",
+      "customer": [
+        {
+          "inn": "6620010828",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"КОМПЛЕКСНЫЙ ЦЕНТР СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ ГОРОДА КУШВЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22"
+      ],
+      "type": "BUYING",
+      "title": "Определение подрядчика на выполнение ПИР, СМР, ПНР Строительство ВЛИ-0,38 кВ от опоры ВЛИ-0,4 кВ, сооруж. по дог. № В8-22-302-62991(715418) от 27.09.2022 ПС «Кудиново» № 414, МО, Ногинский р-н, с. Кудиново, с/т «Здоровье», уч. 94? 50:16:0604125:980 (50:16:0604125:302) для нужд филиала ПАО «Россети московский регион» - Восточные электрические сети",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000odnoifdb9oh27hk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000odnohas99kaoco4",
+      "price": "<div class='aright'>206 234,43 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0068723544DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "14.03.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.03.2023 08:00&nbsp;МСК",
+      "summationDate": "20.03.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "14.03.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "14.03.2023 10:43",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000odnoifdb9oh27hk",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22"
+      ],
+      "type": "BUYING",
+      "title": "Определение подрядчика на выполнение СМР, ПНР Реконструкция (частичная) ВЛИ-0,4 кВ (с заменой вводов - 22 шт.) от оп. 32 до оп. 38 МТП-729 ПС «Бруски» № 477, МО, Егорьевский р-н, СТ «Здоровье», уч. 106, 50:30:0020107:1244 для нужд филиала ПАО «Россети московский регион» - Восточные электрические сети.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000oddl2vhj0mqhbgc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000oddl1q12tkcc1p0",
+      "price": "<div class='aright'>90 154,73 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0068723414DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.03.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.03.2023 08:00&nbsp;МСК",
+      "summationDate": "13.03.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "06.03.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "06.03.2023 14:18",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000oddl2vhj0mqhbgc",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по обязательному страхованию гражданской ответственности перевозчика за причинение вреда жизни, здоровью, имуществу пассажиров\n",
+      "viewDemandDate": "21.03.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000od60oimk43dp960",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000od60oi0sobtbhh0",
+      "price": "<div class='aright'>7 197 253,34 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0474623097DP",
+      "filingNumber": "32312153407",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.02.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.03.2023 11:00&nbsp;МСК",
+      "summationDate": "21.03.2023 00:00",
+      "placementDate": "28.02.2023",
+      "organizer": {
+        "inn": "7830001927",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "28.02.2023 16:02",
+      "deposit": "359 862,66 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000od60oimk43dp960",
+      "customer": [
+        {
+          "inn": "7830001927",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.50.13.190"
+      ],
+      "type": "BUYING",
+      "title": "Поставка расходного материала и реактивов",
+      "viewDemandDate": "15.03.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000od5qa7c8sde1r7c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000od5qa6t2k783aig",
+      "price": "<div class='aright'>2 247 470,72 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "feege23002DP",
+      "filingNumber": "32312151760",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.02.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.03.2023 10:00&nbsp;МСК",
+      "summationDate": "15.03.2023 00:00",
+      "regionCodes": [
+        "Дагестан, Респ"
+      ],
+      "placementDate": "28.02.2023",
+      "organizer": {
+        "inn": "0562075195",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "28.02.2023 12:48",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000od5qa7c8sde1r7c",
+      "customer": [
+        {
+          "inn": "0562075195",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Технологическое присоединение энергопринимающих устройств потребителей максимальной мощностью до 15 кВт (новое строительство). Калужская область, г. Калуга, СДТ «Здоровье-2»,д. Желыбино, тер. Сдт Здоровье-2, в районе ул. Ждамировской, д. Галкино, д. Тинино, ул. Черновская, д. Животинки, ул. Одоевское шоссе; Боровский район, г. Балабаново; Ульяновский район, д. Долгое. (под ключ) Этап 1/2023",
+      "viewDemandDate": "10.03.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000od5js51c5a506fs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000od5js39p359e1j8",
+      "price": "<div class='aright'>9 254 551,20 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "KALUG23012DP",
+      "filingNumber": "32312150825",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.02.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "07.03.2023 10:00&nbsp;МСК",
+      "summationDate": "20.03.2023 00:00",
+      "regionCodes": [
+        "Калужская, обл"
+      ],
+      "placementDate": "28.02.2023",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КАЛУГАЭНЕРГО\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "28.02.2023 10:46",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000od5js51c5a506fs",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.99.90.190"
+      ],
+      "type": "BUYING",
+      "title": "Капитальный ремонт нежилого помещения для размещения реабилитационного отделения для детей с ограниченными возможностями здоровья, расположенного по адресу: г. Кушва, ул. Строителей, дом №2",
+      "viewDemandDate": "03.03.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ocu5ud0t2b50b3o",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ocu5ucn8ovkm6vg",
+      "price": "<div class='aright'>22 370 960,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0570023001MC",
+      "filingNumber": "32312144000",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.02.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.03.2023 06:00&nbsp;МСК",
+      "summationDate": "07.03.2023 00:00",
+      "placementDate": "22.02.2023",
+      "organizer": {
+        "inn": "6620010828",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"КОМПЛЕКСНЫЙ ЦЕНТР СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ ГОРОДА КУШВЫ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "22.02.2023 14:41",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ocu5ud0t2b50b3o",
+      "customer": [
+        {
+          "inn": "6620010828",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"КОМПЛЕКСНЫЙ ЦЕНТР СОЦИАЛЬНОГО ОБСЛУЖИВАНИЯ НАСЕЛЕНИЯ ГОРОДА КУШВЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.60.12.132"
+      ],
+      "type": "BUYING",
+      "title": "Аппарат ультразвуковой диагностичсекий с принадлежностями",
+      "viewDemandDate": "10.02.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000obrat2c6suj37nc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000obrat22bdb87ao8",
+      "price": "<div class='aright'>6 495 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "feege23001DP",
+      "filingNumber": "32312062311",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.01.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.02.2023 10:00&nbsp;МСК",
+      "summationDate": "13.02.2023 00:00",
+      "regionCodes": [
+        "Дагестан, Респ"
+      ],
+      "placementDate": "26.01.2023",
+      "organizer": {
+        "inn": "0562075195",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+      },
+      "placementType": "аукцион в электронной форме",
+      "placementDateTime": "26.01.2023 12:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000obrat2c6suj37nc",
+      "customer": [
+        {
+          "inn": "0562075195",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ ДАГЕСТАН \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОХРАНЫ ЗДОРОВЬЯ СЕМЬИ И РЕПРОДУКЦИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22"
+      ],
+      "type": "BUYING",
+      "title": "Определение подрядчика на выполнение ПИР Строительство  ВЛИ-0,38 кВ (по существующим опорам) от РУ-0,4 кВ КТП-267 с/т «Здоровье» (аб.)  ПС «Кудиново» № 414, МО, г. Ногинск, влад. 25, СНТ «Здоровье», 50:16:0604125:220 для нужд филиала ПАО «Россети московский регион» - Восточные электрические сети",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000obr7uq09bf72n6c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000obr7pf6ej6r1lok",
+      "price": "<div class='aright'>37 312,57 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0068723115DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.01.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "31.01.2023 08:00&nbsp;МСК",
+      "summationDate": "01.02.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "26.01.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "26.01.2023 10:37",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000obr7uq09bf72n6c",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.20.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по организации питания для обучающихся из малообеспеченных семей и обучающихся с нарушениями здоровья в МАОУ СОШ № 7 им. Героя России А.Р.Курбангалеева",
+      "viewDemandDate": "01.02.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000obosbk54gm788og",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000obosbjsh3405ias",
+      "price": "<div class='aright'>1 123 402,80 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0655923002MC",
+      "filingNumber": "32312055498",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "25.01.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.02.2023 05:00&nbsp;МСК",
+      "summationDate": "01.02.2023 00:00",
+      "placementDate": "24.01.2023",
+      "organizer": {
+        "inn": "7419003394",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №7 ИМЕНИ ГЕРОЯ РОССИИ АРТУРА РИШАТОВИЧА КУРБАНГАЛЕЕВА\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "24.01.2023 14:26",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000obosbk54gm788og",
+      "customer": [
+        {
+          "inn": "7419003394",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА №7 ИМЕНИ ГЕРОЯ РОССИИ АРТУРА РИШАТОВИЧА КУРБАНГАЛЕЕВА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.1"
+      ],
+      "type": "BUYING",
+      "title": "Строительство КЛ-0,38 кВ от ГРЩ-0,38 кВ ТП-7616 ПС-35 кВ №738 \"Полушкино\", ГРЩ-0,38 кВ (0,04 км), в т.ч. ПИР, МО, Одинцовский р-н, вблизи п.Полушкино, СНТ «Здоровье», 50:20:0090321:1124\n",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000obh9kkpbn7o309c",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000obh9ic0hb909oac",
+      "price": "<div class='aright'>218 992,08 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0068623238DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.01.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.02.2023 10:00&nbsp;МСК",
+      "summationDate": "22.02.2023 00:00",
+      "regionCodes": [
+        "Московская, обл"
+      ],
+      "placementDate": "18.01.2023",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Филиал Публичного акционерного общества \"Россети Московский регион\" - Западные электрические сети"
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "18.01.2023 17:09",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000obh9kkpbn7o309c",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "Филиал Публичного акционерного общества \"Россети Московский регион\" - Западные электрические сети"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "28.21.13"
+      ],
+      "type": "BUYING",
+      "title": "приобретение электропечи с испарителем и пультом управления ",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oafi310k6tg5f9g",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oafi3083dr560o4",
+      "price": "<div class='aright'>195 308,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0643522003MQ",
+      "filingNumber": "32211985178",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "23.12.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.12.2022 06:00&nbsp;МСК",
+      "summationDate": "29.12.2022 00:00",
+      "placementDate": "23.12.2022",
+      "organizer": {
+        "inn": "8606010403",
+        "title": "Акционерное общество \"Центр Красоты и Здоровья\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "23.12.2022 12:26",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oafi310k6tg5f9g",
+      "customer": [
+        {
+          "inn": "8606010403",
+          "title": "Акционерное общество \"Центр Красоты и Здоровья\""
+        }
+      ]
+    }
+  ]
+}

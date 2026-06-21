@@ -1,0 +1,894 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 280,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.90.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по страхованию наличных денежных средств при перевозке, переноске, доставке (вручении) и промежуточном (транзитном) хранении",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000oslp68kqg6j8m7o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000oslp68kvrkmepv0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400172",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.03.2024 17:38",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.03.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "19.03.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "19.03.2024 17:38",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000oslp68kvrkmepv0",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.21"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг добровольного страхования автотранспортных средств (КАСКО)",
+      "viewDemandDate": "25.03.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000oscni6unjfkg2ck",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000oscni6hnsd5q2k4",
+      "price": "<div class='aright'>505 363,33 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "turiz24014DP",
+      "filingNumber": "32413375834",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.03.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.03.2024 15:00&nbsp;МСК",
+      "summationDate": "29.03.2024 00:00",
+      "placementDate": "12.03.2024",
+      "organizer": {
+        "inn": "9703023632",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ ТУРИЗМ.РФ\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "12.03.2024 17:06",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000oscni6unjfkg2ck",
+      "customer": [
+        {
+          "inn": "9703023632",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ ТУРИЗМ.РФ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.32"
+      ],
+      "type": "BUYING",
+      "title": "СТРАХОВАНИЯ ОТВЕТСТВЕННОСТИ ВЛАДЕЛЬЦА ВОЗДУШНОГО СУДНА ПЕРЕД ТРЕТЬИМИ ЛИЦАМИ ЗА ВРЕД, ПРИЧИНЁННЫЙ ЖИЗНИ ИЛИ ЗДОРОВЬЮ ЛИБО ИМУЩЕСТВУ ТРЕТЬИХ ЛИЦ ПРИ ЭКСПЛУАТАЦИИ ВОЗДУШНОГО СУДНА",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000osbcthnjonc61v4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000osbcjn31p4s6a88",
+      "price": "<div class='aright'>16 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "yanen24150DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.03.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.03.2024 16:00&nbsp;МСК",
+      "summationDate": "19.03.2024 00:00",
+      "placementDate": "11.03.2024",
+      "organizer": {
+        "inn": "3903007130",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЯНТАРЬ\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "11.03.2024 16:20",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000osbcthnjonc61v4",
+      "customer": [
+        {
+          "inn": "3903007130",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЯНТАРЬ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.29.000"
+      ],
+      "type": "BUYING",
+      "title": "Добровольное страхование автотранспортных средств (КАСКО) для нужд ПАО «Россети Центр»",
+      "viewDemandDate": "25.03.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000os2fb7eroejsvbo",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000os2fb64utd813bo",
+      "price": "<div class='aright'>10 314 204,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "paorc24146DP",
+      "filingNumber": "32413351912",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "04.03.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.03.2024 12:00&nbsp;МСК",
+      "summationDate": "05.04.2024 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "04.03.2024",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "04.03.2024 18:06",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000os2fb7eroejsvbo",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ВИП 2 Москва",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgk841fsbug",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ВИП 2.1 Москва",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgk8qksnqvk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 3,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ВИП Детская Москва 0-1",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgk93aa7aj4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 4,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Топ Москва",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgk9ooiqu6c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 6,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Топ 1 Москва",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkaa3nhq7k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 7,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Топ Детская Москва 0-1",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkalcer9ko",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 8,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Топ Детская Москва 1-18",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkalcer9ks",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 9,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Бизнес Москва",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkbfrtits4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 10,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Стандарт Москва",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkbfrtits8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 11,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Стандарт Детская Москва 0-1",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkbjtom37k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 12,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Стандарт Детская Москва 1-18",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkbjtom37o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 13,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Базовая Детская Москва 0-1",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkcdlv1oos",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 15,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Базовая Детская Москва 1-18",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000os2emgkcdlv1op0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 16,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "ВИП Санкт-Петербург",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000osdkiamt458hmpg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 17,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Бизнес Детская Санкт-Петербург 0-1",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ot97ephjqhh5eio",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 18,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "65.12.12.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Бизнес Детская Санкт-Петербург 1-18",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ot97ephjqhh5eis",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ort87bhutm81rog",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "oopph24008PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.02.2024 16:52",
+      "lotNumber": 19,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.04.2024 18:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.02.2024",
+      "organizer": {
+        "inn": "7724332780",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.02.2024 16:52",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ort87bhutm81rog",
+      "customer": [
+        {
+          "inn": "7724332780",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЧТОВЫЕ ФИНАНСЫ\""
+        }
+      ]
+    }
+  ]
+}

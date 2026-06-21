@@ -1,0 +1,927 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 80,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "30.99.10.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Платформенная тележка электрическая с комплектом аккумуляторов на 32 Ач напряжением 60 В и зарядным устройством RuTrike ПЛИТА БУКСИР 1500",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000piblan1fbdeijcg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000piblan1mnvkic8g",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "vfvkk25159PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.09.2025 16:29",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.09.2025 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "09.09.2025",
+      "organizer": {
+        "inn": "6345012488",
+        "title": "Волжский филиал АО \"Гидроремонт-ВКК\" в г. Волжский"
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "09.09.2025 16:29",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000piblan1mnvkic8g",
+      "customer": [
+        {
+          "inn": "6345012488",
+          "title": "Волжский филиал АО \"Гидроремонт-ВКК\" в г. Волжский"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.29.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению программного комплекса Smeta.ru",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000piabkcau6co78g0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000piabho3pr8j8d7s",
+      "price": "<div class='aright'>183 936,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "KALUG25315DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.09.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.09.2025 12:00&nbsp;МСК",
+      "summationDate": "22.09.2025 00:00",
+      "regionCodes": [
+        "Калужская, обл"
+      ],
+      "placementDate": "08.09.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КАЛУГАЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "08.09.2025 16:17",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000piabkcau6co78g0",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КАЛУГАЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "73.11.11"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора на размещение информации о вакансиях на сайте jobcart.ru - Тариф «Турбо»",
+      "viewDemandDate": "18.09.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pi24sosb43ag3ks",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pi24qghob5it3bg",
+      "price": "<div class='aright'>499 200,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-ur25763DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.09.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.09.2025 08:00&nbsp;МСК",
+      "summationDate": "18.09.2025 00:00",
+      "placementDate": "02.09.2025",
+      "organizer": {
+        "inn": "6671163413",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+      },
+      "placementType": "Сравнение цен",
+      "placementDateTime": "02.09.2025 07:11",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pi24sosb43ag3ks",
+      "customer": [
+        {
+          "inn": "6671163413",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.33.13.130"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Кнтп-10 70/120- 4 Квтп-10 70/120-4 Кнтп-10 35/50-2 Стп-10 70/120-8 Стп-10 150/240-4 Стп-10 35/50-1 POLJ-42/1х500-630-RU 1х500-630-2 шт. Муфта кабельная концевая наружная на 3-х жильный кабель с бумажной изоляцией до 35кВ КНтп 35-150-1 шт.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pic97vqv2h87oqg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000php6geqmt8ttgps",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "hesdr25168PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.08.2025 08:19",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.09.2025 03:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "26.08.2025",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" Хабаровские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "26.08.2025 08:19",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000php6geqmt8ttgps",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" Хабаровские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.29.50.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по обновлению программного сметного комплекса Smeta.ru (электронный ключ №FSTS-39398, электронный ключ №FSTS-43115, электронный ключ №FSTS-63834) УФПС г. Москвы",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000ph6c6dt1ht8f4g0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000ph6c6dtadsm3t3k",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-25000770100429",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.08.2025 17:26",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.08.2025 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.08.2025",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи г. Москвы"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "11.08.2025 17:26",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000ph6c6dtadsm3t3k",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи г. Москвы"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.90.13.121"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Щетка электрической защиты F19/S13M ч.101_161_115_001_RU1 20х8х32мм электрографитная для ротора",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pfr8cns2nmj9sjg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pfr7cctlmq75oqs",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fbges25148PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.07.2025 05:38",
+      "lotNumber": 15,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.08.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "09.07.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Бурейская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "09.07.2025 05:38",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pfr7cctlmq75oqs",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Бурейская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.90.13.121"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Щетка электрической защиты S13/F19M ч.101_161_115_002_RU1 20х8х32мм электрографитная для ротора Аврора",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pfr8cns3b3nm8ek",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pfr7cctlmq75oqs",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Started",
+        "title": "Идет прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "fbges25148PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.07.2025 05:38",
+      "lotNumber": 16,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.08.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "09.07.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Бурейская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "09.07.2025 05:38",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pfr7cctlmq75oqs",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Бурейская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.29.50.000",
+        "62.02.30.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению программного комплекса Smeta.ru",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pfh99e3tnbslfqk",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pfh8vj1g02am80s",
+      "price": "<div class='aright'>396 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "VLADI25160DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.07.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.07.2025 17:00&nbsp;МСК",
+      "summationDate": "21.07.2025 00:00",
+      "placementDate": "01.07.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"ВЛАДИМИРЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "01.07.2025 11:53",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pfh99e3tnbslfqk",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"ВЛАДИМИРЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "30.99.10.120"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Платформенная тележка электрическая с комплектом аккумуляторов на 32 Ач напряжением 60 В и зарядным устройством RuTrike ПЛИТА БУКСИР 1500 или эквивалент",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pfbv6i8juqoenk0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pfbv6i8s21i39n0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "vfvkk25118PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.06.2025 08:40",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.07.2025 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "27.06.2025",
+      "organizer": {
+        "inn": "6345012488",
+        "title": "Волжский филиал АО \"Гидроремонт-ВКК\" в г. Волжский"
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "27.06.2025 08:40",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pfbv6i8s21i39n0",
+      "customer": [
+        {
+          "inn": "6345012488",
+          "title": "Волжский филиал АО \"Гидроремонт-ВКК\" в г. Волжский"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.29.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению программного комплекса Smeta.ru",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000peg11q5f6hid6g0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000peg0t9mt72uuvf0",
+      "price": "<div class='aright'>348 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "NIHNO25328DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.06.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.06.2025 12:00&nbsp;МСК",
+      "summationDate": "19.06.2025 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "05.06.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "05.06.2025 15:54",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000peg11q5f6hid6g0",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.33.13.160"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Блок управления CHU CR3-E0-3R3R EX-RU/N (позиционер для заслонок)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pec05f5cd7ghvgo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pec05f5vuchoeko",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "noges25055PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.06.2025 12:46",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2025 16:30&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "02.06.2025",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Новосибирская ГЭС\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "02.06.2025 12:46",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pec05f5vuchoeko",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "Филиал Публичного акционерного общества \"Федеральная гидрогенерирующая компания - РусГидро\" - \"Новосибирская ГЭС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение в 2025 году работ по сопровождению и доработке по запросам Заказчика информационной системы для проведения конкурсных отборов и акселерационных программ при осуществлении акселерации проектов по разработке российских решений в сфере информационных технологий в рамках федерального проекта «Отечественные решения» государственной программы Российской Федерации «Информационное общество” национального проекта “Экономика данных и цифровая трансформация государства» на площадке https://edu.iidf.ru, всех ее блоков, модулей и составных частей.",
+      "viewDemandDate": "30.05.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pe34u0o22v9ovn0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pe34rcdgcbhm21o",
+      "price": "<div class='aright'>2 650 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "iidf_25001DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2025 14:00&nbsp;МСК",
+      "summationDate": "02.06.2025 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "26.05.2025",
+      "organizer": {
+        "inn": "7704280879",
+        "title": "Фонд развития интернет-инициатив"
+      },
+      "placementType": "Запрос котировок",
+      "placementDateTime": "26.05.2025 15:55",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pe34u0o22v9ovn0",
+      "customer": [
+        {
+          "inn": "7704280879",
+          "title": "Фонд развития интернет-инициатив"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.29.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение обновлений для программного продукта \"Smeta.ru\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pdm5jtsndgppa5k",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pdm5cppfmbvh4jg",
+      "price": "<div class='aright'>204 624,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "MAREN25096DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.05.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.05.2025 12:00&nbsp;МСК",
+      "summationDate": "26.05.2025 00:00",
+      "regionCodes": [
+        "Марий Эл, Респ"
+      ],
+      "placementDate": "16.05.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"МАРИЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "16.05.2025 13:52",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pdm5jtsndgppa5k",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"МАРИЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "58.29.50.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению программного комплекса \"Smeta.ru\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pdkkefe2hdki154",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pdkk2rd4nbonc9s",
+      "price": "<div class='aright'>390 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "IVANO25052DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.05.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.05.2025 17:00&nbsp;МСК",
+      "summationDate": "22.05.2025 00:00",
+      "regionCodes": [
+        "Ивановская, обл"
+      ],
+      "placementDate": "15.05.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"ИВЭНЕРГО\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "15.05.2025 09:41",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pdkkefe2hdki154",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"ИВЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.09.20.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по расширению действующей лицензии на ПО «TrueConf Server V» с правом обновления (ключ: RU1K1W). Срок лицензии: Годовая",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pdkj2da0bk67rgo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pdkj2cqfgghpqi8",
+      "price": "<div class='aright'>377 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "FRSVO25092MQ",
+      "filingNumber": "32514837822",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.05.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.05.2025 08:00&nbsp;МСК",
+      "summationDate": "22.05.2025 00:00",
+      "placementDate": "15.05.2025",
+      "organizer": {
+        "inn": "7712005121",
+        "title": "ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЕ СЕТИ ВЕЩАНИЯ И ОПОВЕЩЕНИЯ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "15.05.2025 09:08",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pdkj2da0bk67rgo",
+      "customer": [
+        {
+          "inn": "7712005121",
+          "title": "ОРДЕНА ТРУДОВОГО КРАСНОГО ЗНАМЕНИ ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЕ СЕТИ ВЕЩАНИЯ И ОПОВЕЩЕНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.09.20.190"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение лицензий на использование базы данных «ЕДИНЫЕ СМЕТНЫЕ НОРМАТИВЫ (ЕСН)» и абонентское обслуживание ПК «Smeta.ru» для нужд филиала ПАО «Россети Центр и Приволжье» - «Рязаньэнерго»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pblv16gliamj9k8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pblv15fm1dmuvco",
+      "price": "<div class='aright'>523 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAZAN25079MQ",
+      "filingNumber": "32514666086",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.03.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.04.2025 12:00&nbsp;МСК",
+      "summationDate": "07.04.2025 00:00",
+      "placementDate": "27.03.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"РЯЗАНЬЭНЕРГО\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.03.2025 17:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pblv16gliamj9k8",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.30.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора на оказание услуг по абонентскому обслуживанию ПК \"Smeta.ru\" для нужд филиала ПАО \"Россети Центр\" - \"Тверьэнерго\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pbbh8fugh76fnq8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pbbh6inj3lgofhg",
+      "price": "<div class='aright'>496 200,00 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "TVREN25040DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.03.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.03.2025 12:00&nbsp;МСК",
+      "summationDate": "04.04.2025 00:00",
+      "regionCodes": [
+        "Тверская, обл"
+      ],
+      "placementDate": "19.03.2025",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Тверьэнерго\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "19.03.2025 14:31",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pbbh8fugh76fnq8",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "Филиал ПАО \"Россети Центр\" - \"Тверьэнерго\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "73.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Услуги по публикации информационных материалов на Интернет-портале https://izvestiaur.ru/ и в социальных сетях izvestiaur.ru",
+      "viewDemandDate": "04.04.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pba0aofep9h9nl8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pba0anhgm624uk0",
+      "price": "<div class='aright'>240 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "IHEVS25090DP",
+      "filingNumber": "32514625096",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.03.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.04.2025 12:00&nbsp;МСК",
+      "summationDate": "23.04.2025 00:00",
+      "placementDate": "18.03.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"УДМУРТЭНЕРГО\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "18.03.2025 10:06",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pba0aofep9h9nl8",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "73.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Услуги по публикации информационных материалов на Интернет-портале https://udm-info.ru/ и в социальных сетях udm-info.ru",
+      "viewDemandDate": "26.02.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p9t7idg37srepsg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p9t7ic9vtifgvj4",
+      "price": "<div class='aright'>288 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "IHEVS25021DP",
+      "filingNumber": "32514501344",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.02.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.02.2025 12:00&nbsp;МСК",
+      "summationDate": "05.03.2025 00:00",
+      "placementDate": "11.02.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"УДМУРТЭНЕРГО\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "11.02.2025 15:29",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p9t7idg37srepsg",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "73.12.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Услуги по публикации информационных материалов на Интернет-портале https://udmpravda.ru и в социальных сетях udmpravda.ru",
+      "viewDemandDate": "28.02.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p9t4vh63s76ib64",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p9t4vgdn670rkk8",
+      "price": "<div class='aright'>216 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "IHEVS25020DP",
+      "filingNumber": "32514500613",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.02.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.02.2025 12:00&nbsp;МСК",
+      "summationDate": "11.03.2025 00:00",
+      "placementDate": "11.02.2025",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"УДМУРТЭНЕРГО\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "11.02.2025 14:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p9t4vh63s76ib64",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    }
+  ]
+}

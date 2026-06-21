@@ -1,0 +1,945 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 60,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.14.19.000"
+      ],
+      "type": "SMALL_PURCHASE",
+      "title": "Оказание услуг по оперативному обслуживанию электрооборудования на объекте Заказчика: Лыжно-спортивного комплекса по адресу: г. Ленинск-Кузнецкий, ул. Лесной городок, 34. (Парк здоровья)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pole49l05pl6tu4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pole49l3p62qpmo",
+      "price": "<div class='aright'>200 750,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmallPurchase_St_Dmnds_Finished",
+        "title": "Завершена подача предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260006257",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "13.02.2026 09:51",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "13.02.2026 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "13.02.2026",
+      "organizer": {
+        "inn": "4212030050",
+        "title": "Муниципальное автономное учреждение \"Лыжно-спортивный комплекс\""
+      },
+      "placementType": "Малая закупка",
+      "placementDateTime": "13.02.2026 09:51",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pole49l3p62qpmo",
+      "customer": [
+        {
+          "inn": "4212030050",
+          "title": "Муниципальное автономное учреждение \"Лыжно-спортивный комплекс\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.41.31.110",
+        "20.41.31.121",
+        "20.41.31.130",
+        "20.41.44.120"
+      ],
+      "type": "BUYING",
+      "title": "Поставка моющих и чистящих средств",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pok3b1ac0rf6afo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pok3b123tcs9goo",
+      "price": "<div class='aright'>802 461,60 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260005813",
+      "filingNumber": "32615699280",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.02.2026 10:00&nbsp;МСК",
+      "summationDate": "02.03.2026 00:00",
+      "placementDate": "12.02.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "12.02.2026 11:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pok3b1ac0rf6afo",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.200"
+      ],
+      "type": "BUYING",
+      "title": "Оказание охранных услуг по обеспечению комплекса мер, направленных на защиту жизни и здоровья граждан, материального имущества объектов, обеспечение внутриобъектового и пропускного режимов учреждения, в отношении которого установленные обязательные требования к антитеррористической защищённости, сохранность жизни и здоровья людей в условиях возникновения чрезвычайных ситуаций природного и техногенного характера в зданиях\n\n ГАПОУ «Клинцовский индустриально-педагогический колледж» в 2026 году\n",
+      "viewDemandDate": "17.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pogiefo3qo7cub0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pogiefa5j91uqfs",
+      "price": "<div class='aright'>9 527 275,08 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260005180",
+      "filingNumber": "32615686494",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "17.02.2026 08:00&nbsp;МСК",
+      "summationDate": "17.02.2026 00:00",
+      "placementDate": "09.02.2026",
+      "organizer": {
+        "inn": "3203001799",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"КЛИНЦОВСКИЙ ИНДУСТРИАЛЬНО-ПЕДАГОГИЧЕСКИЙ КОЛЛЕДЖ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "09.02.2026 15:13",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pogiefo3qo7cub0",
+      "customer": [
+        {
+          "inn": "3203001799",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"КЛИНЦОВСКИЙ ИНДУСТРИАЛЬНО-ПЕДАГОГИЧЕСКИЙ КОЛЛЕДЖ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "28.92.28.120"
+      ],
+      "type": "BUYING",
+      "title": "Поставка отвала универсального гидроповоротного",
+      "viewDemandDate": "20.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pogb0aggai81mr8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pogb0a8cee1io4k",
+      "price": "<div class='aright'>106 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260005088",
+      "filingNumber": "32615684644",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.02.2026 10:00&nbsp;МСК",
+      "summationDate": "24.02.2026 00:00",
+      "placementDate": "09.02.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "09.02.2026 11:15",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pogb0aggai81mr8",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "17.12.14.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка бумаги для офисной техники",
+      "viewDemandDate": "18.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pog8khptf753vu0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pog8khhp9rb5174",
+      "price": "<div class='aright'>192 264,80 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260005061",
+      "filingNumber": "32615683973",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.02.2026 10:00&nbsp;МСК",
+      "summationDate": "19.02.2026 00:00",
+      "placementDate": "09.02.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "09.02.2026 09:45",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pog8khptf753vu0",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10"
+      ],
+      "type": "BUYING",
+      "title": "\"Оказание охранных услуг по обеспечению комплекса мер, направленных на защиту жизни и здоровья граждан, материального имущества объектов, обеспечение внутриобъектового и пропускного режимов учреждения, в отношении которого установленные обязательные требования к антитеррористической защищённости, сохранность жизни и здоровья людей в условиях возникновения чрезвычайных ситуаций природного и техногенного характера в зданиях ГАПОУ «Суражский промышленно-аграрный техникум» и прилегающей территории в 2026 году\n\"\n",
+      "viewDemandDate": "14.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pocmf8qp9stc6ds",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pocmf8knsbaccak",
+      "price": "<div class='aright'>2 650 963,68 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260004924",
+      "filingNumber": "32615681660",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.02.2026 09:00&nbsp;МСК",
+      "summationDate": "16.02.2026 00:00",
+      "placementDate": "06.02.2026",
+      "organizer": {
+        "inn": "3229001232",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СУРАЖСКИЙ ПРОМЫШЛЕННО-АГРАРНЫЙ ТЕХНИКУМ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "06.02.2026 15:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pocmf8qp9stc6ds",
+      "customer": [
+        {
+          "inn": "3229001232",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СУРАЖСКИЙ ПРОМЫШЛЕННО-АГРАРНЫЙ ТЕХНИКУМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "93.29.19"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "«ОКПД2 93.29.19 Услуги по организации мероприятия, направленного на повышение осознанности работников в отношении здоровья»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pockn9ljskr0v7s",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pockn9lp819dgus",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260004896",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.02.2026 13:57",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "12.02.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "06.02.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ГИДРОГЕНЕРИРУЮЩАЯ КОМПАНИЯ - РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "06.02.2026 13:57",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pockn9lp819dgus",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ГИДРОГЕНЕРИРУЮЩАЯ КОМПАНИЯ - РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.20.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг направленных на обеспечение безопасности функционирования объекта, сохранности его материального имущества, защиту жизни и здоровья его персонала и воспитанников для нужд Муниципального автономного дошкольного образовательного учреждения города Нижневартовска детский сад № 40 «Золотая рыбка»",
+      "viewDemandDate": "16.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pocb0ngkemah4tg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pocb0n9rriso6v0",
+      "price": "<div class='aright'>3 672 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260004725",
+      "filingNumber": "32615678606",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.02.2026 07:00&nbsp;МСК",
+      "summationDate": "18.02.2026 00:00",
+      "placementDate": "06.02.2026",
+      "organizer": {
+        "inn": "8603143853",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ГОРОДА НИЖНЕВАРТОВСКА ДЕТСКИЙ САД №40 \"ЗОЛОТАЯ РЫБКА\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "06.02.2026 08:24",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pocb0ngkemah4tg",
+      "customer": [
+        {
+          "inn": "8603143853",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ГОРОДА НИЖНЕВАРТОВСКА ДЕТСКИЙ САД №40 \"ЗОЛОТАЯ РЫБКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "28.92.28.120"
+      ],
+      "type": "BUYING",
+      "title": "Поставка отвала универсального гидроповоротного",
+      "viewDemandDate": "13.02.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pob9ek76lgolluo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pob9ek08m5bja34",
+      "price": "<div class='aright'>106 000,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Rejected",
+        "title": "Отказ от проведения закупки"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260004551",
+      "filingNumber": "32615676253",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.02.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "13.02.2026 10:00&nbsp;МСК",
+      "summationDate": "16.02.2026 00:00",
+      "placementDate": "05.02.2026",
+      "organizer": {
+        "inn": "5261015258",
+        "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "05.02.2026 14:11",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pob9ek76lgolluo",
+      "customer": [
+        {
+          "inn": "5261015258",
+          "title": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ НИЖЕГОРОДСКОЙ ОБЛАСТИ \"НИЖЕГОРОДСКИЙ ОБЛАСТНОЙ КЛИНИЧЕСКИЙ ЦЕНТР ПСИХИЧЕСКОГО ЗДОРОВЬЯ ИМ. П.П. КАЩЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.12.120"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР по титулу: Строительство ВЛИ-0,38 кВ (совместным подвесом по существующим опорам ВЛИ-0,4 кВ) от оп. б/н (ориентир уч. 209) с КТП-67 ПС Кудиново № 414, МО, Ногинский р-н, с. Кудиново, с/т \"Здоровье\", уч. 190, 50:16:0604125:578",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000po7e9d6f876j60k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000po7e99cbadku72c",
+      "price": "<div class='aright'>244 532,48 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260003582",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.02.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.02.2026 10:00&nbsp;МСК",
+      "summationDate": "09.02.2026 04:00",
+      "placementDate": "02.02.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Сравнение цен в электронной форме",
+      "placementDateTime": "02.02.2026 13:01",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000po7e9d6f876j60k",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.11.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Услуги по предоставлению доступа к платформе управления здоровьем и благополучием",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000po15ik62q87fhvs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000po15ik69d47fga0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260002351",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.01.2026 16:06",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.02.2026 14:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "28.01.2026",
+      "organizer": {
+        "inn": "2460066195",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ГИДРОГЕНЕРИРУЮЩАЯ КОМПАНИЯ - РУСГИДРО\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "28.01.2026 16:06",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000po15ik69d47fga0",
+      "customer": [
+        {
+          "inn": "2460066195",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ГИДРОГЕНЕРИРУЮЩАЯ КОМПАНИЯ - РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.200"
+      ],
+      "type": "BUYING",
+      "title": "Предоставление охранных услуг в целях защиты законных прав и интересов «Заказчика» от противоправных посягательств, которые включают: защиту жизни и здоровья сотрудников «Заказчика» на объектах; охрану территории и имущества, принадлежащих «Заказчику» на праве оперативного управления, поддержание установленного порядка на объектах «Заказчика» по адресам: 453120, РБ, г. Стерлитамак, ул. Комарова, 10; 453120, РБ, г. Стерлитамак, пр. Октября ,59а.",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pnqiqbbeepu3r8o",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pnqiqb6crguedk8",
+      "price": "<div class='aright'>461 026,23 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260001648",
+      "filingNumber": "32615632894",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "23.01.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.02.2026 08:00&nbsp;МСК",
+      "summationDate": "03.02.2026 00:00",
+      "placementDate": "23.01.2026",
+      "organizer": {
+        "inn": "0268012634",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"СТЕРЛИТАМАКСКИЙ МЕДИЦИНСКИЙ КОЛЛЕДЖ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "23.01.2026 13:14",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pnqiqbbeepu3r8o",
+      "customer": [
+        {
+          "inn": "0268012634",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"СТЕРЛИТАМАКСКИЙ МЕДИЦИНСКИЙ КОЛЛЕДЖ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "63.99.10.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по технической поддержке программного обеспечения бортового оборудования системы радиоинформирования и звукового ориентирования пассажиров с ограниченными возможностями здоровья (БО РИиЗО)\n",
+      "viewDemandDate": "27.01.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pnhj405pos8lnng",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pnhj3vu64rufseo",
+      "price": "<div class='aright'>771 999,96 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260000673",
+      "filingNumber": "32615613477",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.01.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.01.2026 11:00&nbsp;МСК",
+      "summationDate": "30.01.2026 00:00",
+      "placementDate": "16.01.2026",
+      "organizer": {
+        "inn": "7830001927",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "16.01.2026 13:59",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pnhj405pos8lnng",
+      "customer": [
+        {
+          "inn": "7830001927",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.20.120"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг по обеспечению бесплатным горячим питанием обучающихся, получающих  начальное общее образование, детей с ограниченными возможностями  здоровья детей и детей-инвалидов в 5-11 классах (в т.ч.  обеспечение набором продуктов   питания (сухим пайком)),   из малообеспеченных семей и детей с нарушением здоровья, детей один из родителей которых является лицом  призванным на военную службу по мобилизации в соответствии с Указом Президента РФ от  21.09.2022г № 647, детей, являющихся членами семей, признанных многодетными в соответствии с Законом Челябинской области № 548-ЗО от 31.03.2010, обучающихся в МОУ «СОШ № 48».",
+      "viewDemandDate": "22.01.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pnet4904m1s8d0k",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pnet48pkm5k1478",
+      "price": "<div class='aright'>3 959 804,40 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260000331",
+      "filingNumber": "32615605435",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "14.01.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.01.2026 08:00&nbsp;МСК",
+      "summationDate": "22.01.2026 00:00",
+      "placementDate": "14.01.2026",
+      "organizer": {
+        "inn": "7411013922",
+        "title": "МУНИЦИПАЛЬНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 48\" КОПЕЙСКОГО ГОРОДСКОГО ОКРУГА"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "14.01.2026 11:39",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pnet4904m1s8d0k",
+      "customer": [
+        {
+          "inn": "7411013922",
+          "title": "МУНИЦИПАЛЬНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 48\" КОПЕЙСКОГО ГОРОДСКОГО ОКРУГА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.200"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по физической охране, охране имущества, а также защите жизни и здоровья воспитанников и сотрудников Муниципального автономного учреждения дополнительно образования «Детская школа искусств № 2 им. С.С. Прокофьева» города Владимира",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pndj012qmtri9qk",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pndj00t8sklf68s",
+      "price": "<div class='aright'>1 168 440,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260000173",
+      "filingNumber": "32615601789",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "13.01.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.01.2026 10:00&nbsp;МСК",
+      "summationDate": "21.01.2026 00:00",
+      "regionCodes": [
+        "Владимирская, обл"
+      ],
+      "placementDate": "13.01.2026",
+      "organizer": {
+        "inn": "3302017020",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ШКОЛА ИСКУССТВ № 2 ИМ. С.С. ПРОКОФЬЕВА\" ГОРОДА ВЛАДИМИРА"
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "13.01.2026 11:10",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pndj012qmtri9qk",
+      "customer": [
+        {
+          "inn": "3302017020",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ШКОЛА ИСКУССТВ № 2 ИМ. С.С. ПРОКОФЬЕВА\" ГОРОДА ВЛАДИМИРА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.20.120"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг по обеспечению бесплатным горячим питанием обучающихся, получающих  начальное общее образование, детей с ограниченными возможностями  здоровья детей и детей-инвалидов в 5-11 классах (в т.ч.  обеспечение набором продуктов   питания (сухим пайком)),   из малообеспеченных семей и детей с нарушением здоровья, детей один из родителей которых является лицом  призванным на военную службу по мобилизации в соответствии с Указом Президента РФ от  21.09.2022г № 647, детей, являющихся членами семей, признанных многодетными в соответствии с Законом Челябинской области № 548-ЗО от 31.03.2010, обучающихся в МОУ «СОШ № 48».",
+      "viewDemandDate": "29.12.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pmdf8sqr5gtuj2o",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pmdf8sk7q8nui6k",
+      "price": "<div class='aright'>4 800 788,40 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250026552",
+      "filingNumber": "32515553051",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.12.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.12.2025 08:00&nbsp;МСК",
+      "summationDate": "29.12.2025 00:00",
+      "placementDate": "19.12.2025",
+      "organizer": {
+        "inn": "7411013922",
+        "title": "МУНИЦИПАЛЬНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 48\" КОПЕЙСКОГО ГОРОДСКОГО ОКРУГА"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "19.12.2025 12:25",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pmdf8sqr5gtuj2o",
+      "customer": [
+        {
+          "inn": "7411013922",
+          "title": "МУНИЦИПАЛЬНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 48\" КОПЕЙСКОГО ГОРОДСКОГО ОКРУГА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.200"
+      ],
+      "type": "BUYING",
+      "title": "Оказание охранных услуг по обеспечению комплекса мер, направленных на защиту жизни и здоровья граждан, материального имущества объектов, обеспечение внутриобъектового и пропускного режимов учреждения, в отношении которого установленные обязательные требования к антитеррористической защищённости, сохранность жизни и здоровья людей в условиях возникновения чрезвычайных ситуаций природного и техногенного характера в Государственном автономном учреждении дополнительного образования «Центр технического творчества Брянской области в 2026 году",
+      "viewDemandDate": "16.12.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000plvh1iiit5ejo54",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000plvh1ibq11jcc2c",
+      "price": "<div class='aright'>3 022 200,00 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250024450",
+      "filingNumber": "32515503370",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.12.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.12.2025 08:30&nbsp;МСК",
+      "summationDate": "16.12.2025 00:00",
+      "placementDate": "08.12.2025",
+      "organizer": {
+        "inn": "3201003141",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ТЕХНИЧЕСКОГО ТВОРЧЕСТВА БРЯНСКОЙ ОБЛАСТИ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.12.2025 16:29",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000plvh1iiit5ejo54",
+      "customer": [
+        {
+          "inn": "3201003141",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ТЕХНИЧЕСКОГО ТВОРЧЕСТВА БРЯНСКОЙ ОБЛАСТИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.200"
+      ],
+      "type": "BUYING",
+      "title": "Оказания охранных услуг по обеспечению комплекса мер, направленных на защиту жизни и здоровья граждан, материального имущества объектов, обеспечение внутриобъектового и пропускного режимов учреждения, в отношении которого установленные обязательные требования к антитеррористической защищённости, сохранность жизни и здоровья людей в условиях возникновения чрезвычайных ситуаций природного и техногенного характера в зданиях ГАПОУ БТПИТ и прилегающей территории в 2026 году",
+      "viewDemandDate": "16.12.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000plvg5sgspnu4s3c",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000plvg5sa4dtuib1g",
+      "price": "<div class='aright'>3 066 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250024443",
+      "filingNumber": "32515503067",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.12.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.12.2025 08:00&nbsp;МСК",
+      "summationDate": "16.12.2025 00:00",
+      "placementDate": "08.12.2025",
+      "organizer": {
+        "inn": "3234014068",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"БРЯНСКИЙ ТЕХНИКУМ ПИТАНИЯ И ТОРГОВЛИ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.12.2025 15:55",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000plvg5sgspnu4s3c",
+      "customer": [
+        {
+          "inn": "3234014068",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"БРЯНСКИЙ ТЕХНИКУМ ПИТАНИЯ И ТОРГОВЛИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.20.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг направленных на обеспечение безопасности функционирования объекта, сохранности его материального имущества, защиту жизни и здоровья его персонала для нужд МАДОУ г. Нижневартовска ДС № 40 «Золотая рыбка»",
+      "viewDemandDate": "15.12.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000plrfv9tvro4p23o",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000plrfv9o0bnpmqgc",
+      "price": "<div class='aright'>5 445 916,80 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Rejected",
+        "title": "Отказ от проведения закупки"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250024002",
+      "filingNumber": "32515495610",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.12.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.12.2025 08:00&nbsp;МСК",
+      "summationDate": "17.12.2025 00:00",
+      "placementDate": "05.12.2025",
+      "organizer": {
+        "inn": "8603143853",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ГОРОДА НИЖНЕВАРТОВСКА ДЕТСКИЙ САД №40 \"ЗОЛОТАЯ РЫБКА\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "05.12.2025 13:24",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000plrfv9tvro4p23o",
+      "customer": [
+        {
+          "inn": "8603143853",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ГОРОДА НИЖНЕВАРТОВСКА ДЕТСКИЙ САД №40 \"ЗОЛОТАЯ РЫБКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.200"
+      ],
+      "type": "BUYING",
+      "title": "Оказание охранных услуг по обеспечению комплекса мер, направленных на защиту жизни и здоровья граждан, материального имущества объектов, обеспечение внутриобъектового и пропускного режимов учреждения, в отношении которого установленные обязательные требования к антитеррористической защищённости, сохранность жизни и здоровья людей в условиях возникновения чрезвычайных ситуаций природного и техногенного характера в зданиях ГАПОУ «Суражский промышленно-аграрный техникум» и прилегающей территории в 2026 году\n",
+      "viewDemandDate": "11.12.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000plp4e8g1dicickg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000plp4e89vubjugac",
+      "price": "<div class='aright'>3 162 097,20 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD250023170",
+      "filingNumber": "32515485921",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.12.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "11.12.2025 08:00&nbsp;МСК",
+      "summationDate": "11.12.2025 00:00",
+      "placementDate": "03.12.2025",
+      "organizer": {
+        "inn": "3229001232",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СУРАЖСКИЙ ПРОМЫШЛЕННО-АГРАРНЫЙ ТЕХНИКУМ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.12.2025 17:16",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000plp4e8g1dicickg",
+      "customer": [
+        {
+          "inn": "3229001232",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СУРАЖСКИЙ ПРОМЫШЛЕННО-АГРАРНЫЙ ТЕХНИКУМ\""
+        }
+      ]
+    }
+  ]
+}

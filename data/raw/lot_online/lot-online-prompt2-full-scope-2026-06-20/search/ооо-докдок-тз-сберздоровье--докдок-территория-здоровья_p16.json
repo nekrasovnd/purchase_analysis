@@ -1,0 +1,927 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 340,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.21.22.130"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение строительно-монтажных работ методом горизонтально-направленного бурения по строительству объекта газоснабжения «Единая сеть газораспределения территория СНТ «СТРОИТЕЛЬ» САД 1, городской округ Коряжма, г. Коряжма,  Архангельская область\", согласно проектной документации 10.2026.1.10-ГСН3 ПК0-ПК1+26, 10.2026.1.10-ГСН5 ПК0-ПК6+18,2, 10.2026.1.10-ГСН6 ПК40-ПК42+26,6, ПК50-ПК52+25,0",
+      "viewDemandDate": "04.05.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000prblbntd77oitm8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000prblbnkqu4c2v4s",
+      "price": "<div class='aright'>5 675 118,32 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018802",
+      "filingNumber": "32615932848",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.05.2026 09:00&nbsp;МСК",
+      "summationDate": "04.05.2026 00:00",
+      "placementDate": "21.04.2026",
+      "organizer": {
+        "inn": "2904030186",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОТЛАСГАЗСЕРВИС\""
+      },
+      "placementType": "Открытый запрос предложений в электронной форме",
+      "placementDateTime": "21.04.2026 09:16",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000prblbntd77oitm8",
+      "customer": [
+        {
+          "inn": "2904030186",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОТЛАСГАЗСЕРВИС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "52.29.20.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг по перевозке почты в пунктах обмена в Новоселовском районе (территория обслуживания от с. Анаш до населенных пунктов района (п.Табожак, д.Куллог, п.Приморский, п.Тесь, п.Зеленоборск) для нужд ОП Шарыповский почтамт УФПС Красноярского края",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000prbel8dtm2183oo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000prbel8e3p12fehc",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000540700294",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.04.2026 05:19",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.04.2026 10:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "21.04.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Новосибирской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "21.04.2026 05:19",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000prbel8e3p12fehc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Новосибирской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Лот 302701 ОКПД2 42.22.22.110. Выполнение строительно-монтажных работ по строительству и реконструкции линий электропередачи для технологического присоединения потребителей на территории обслуживания структурного подразделения \"Северные электрические сети\" и \"Центральные электрические сети\" филиала \"Амурские электрические сети\" (рамочный договор)",
+      "viewDemandDate": "22.05.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000prbbunvdjel52d0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000prbbunlqpfhfeso",
+      "price": "<div class='aright'>36 600 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018763",
+      "filingNumber": "32615932181",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.05.2026 09:00&nbsp;МСК",
+      "summationDate": "04.06.2026 00:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "21.04.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "21.04.2026 04:17",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000prbbunvdjel52d0",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 43.39.19.190 Выполнение работ по ремонту маслоприемника ПС 35/10 Руновка на территории Кировского МР СП ПЗЭС филиала АО «ДРСК» «Приморские электрические сети»  ",
+      "viewDemandDate": "27.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pra9vaoeuarks7k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pra9vadjcf9lamk",
+      "price": "<div class='aright'>2 642 042,98 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018554",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.04.2026 05:00&nbsp;МСК",
+      "summationDate": "29.04.2026 00:00",
+      "regionCodes": [
+        "Приморский, край"
+      ],
+      "placementDate": "20.04.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Приморские электрические сети\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "20.04.2026 07:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pra9vaoeuarks7k",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.30.000",
+        "62.02.30.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по дистанционному мониторингу и раннему обнаружению лесных пожаров на территории Курганской области",
+      "viewDemandDate": "24.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pr6o38rdnct66qs",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pr6o38kruirb818",
+      "price": "<div class='aright'>1 762 500,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018452",
+      "filingNumber": "32615925883",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.04.2026 09:00&nbsp;МСК",
+      "summationDate": "24.04.2026 00:00",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Открытый запрос цен",
+      "placementDateTime": "17.04.2026 15:06",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pr6o38rdnct66qs",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.19.000",
+        "56.29.19.000"
+      ],
+      "type": "BUYING",
+      "title": "На право заключения договора по организации питания обучающихся из семей, в установленном порядке признанными малоимущими, обучающихся с ограниченными возможностями здоровья (ОВЗ), обучающихся из семей военнослужащих (мобилизованных граждан), в том числе в Микуньском филиале ГПОУ «САТ», участниками которого могут являться только субъекты малого и среднего предпринимательства",
+      "viewDemandDate": "28.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pr6oc7c9icatjlo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pr6oc75mvkmn4kc",
+      "price": "<div class='aright'>1 198 033,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018455",
+      "filingNumber": "32615925209",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.04.2026 09:00&nbsp;МСК",
+      "summationDate": "29.04.2026 00:00",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "1101483194",
+        "title": "ГОСУДАРСТВЕННОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СЫКТЫВКАРСКИЙ АВТОМЕХАНИЧЕСКИЙ ТЕХНИКУМ\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "17.04.2026 13:43",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pr6oc7c9icatjlo",
+      "customer": [
+        {
+          "inn": "1101483194",
+          "title": "ГОСУДАРСТВЕННОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СЫКТЫВКАРСКИЙ АВТОМЕХАНИЧЕСКИЙ ТЕХНИКУМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "23.69.19.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Бетонный бортовой камень БР 100.30.15 класс В30",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pr6ij8aotedhku4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pr6ij8av90cscms",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260018389",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.04.2026 10:24",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.04.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "17.04.2026 10:24",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pr6ij8av90cscms",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "23.69.19.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Бетонный бортовой камень БР 50.20.8 класс В30",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pr6ij8ap1rac3lk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pr6ij8av90cscms",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260018389",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.04.2026 10:24",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.04.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "17.04.2026 10:24",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pr6ij8av90cscms",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.99.90.190"
+      ],
+      "type": "BUYING",
+      "title": "Капитальный ремонт территории по благоустройству ГАПОУ УКГП (общежитие), расположенного по адресу: РБ, Учалинский р-н, г. Учалы, ул. Пионерская, 6.",
+      "viewDemandDate": "27.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pr6g22f1kd5qmp8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pr6g228o9tdq4pg",
+      "price": "<div class='aright'>6 509 608,66 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018351",
+      "filingNumber": "32615922954",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.04.2026 07:00&nbsp;МСК",
+      "summationDate": "27.04.2026 00:00",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "0270001686",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ УЧАЛИНСКИЙ КОЛЛЕДЖ ГОРНОЙ ПРОМЫШЛЕННОСТИ"
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "17.04.2026 08:59",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pr6g22f1kd5qmp8",
+      "customer": [
+        {
+          "inn": "0270001686",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ УЧАЛИНСКИЙ КОЛЛЕДЖ ГОРНОЙ ПРОМЫШЛЕННОСТИ"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.35.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Мониторинг рынка ОКПД2 71.12.35.110 Кадастровые работы по постановке на кадастровый учёт ОКС с одновременной регистрацией права АО \"ДРСК\", оформление прав землепользования и установления границ охранных зон электросетевых объектов, расположенных на территории Амурской области",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pr6etk7hhkgoc0k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pr6etk7nllgflb4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Rejected",
+        "title": "Отменен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260018332",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.04.2026 08:15",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.04.2026 04:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "17.04.2026 08:15",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pr6etk7nllgflb4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "52.29.20.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "на оказание услуг по перевозке почты в Ирбейском районе (территория обслуживания 1) ОПС 663650 Ирбейское- д. Нагорная- п. Изумрудный- ОПС 663650 Ирбейское 2) ОПС 663650 Ирбейское- ОПС 663661 Александровка- д. Козыла- д. Альгинка- ОПС 663661 Александровка- ОПС 663650 Ирбейское 3) ОПС 663650 Ирбейское- д.Коростелево- с.Маловка- ОПС663650 Ирбейское- Зеленая Роща- п. Малый Ирбей- д.Латынцево- п. Малый Ирбей- п. Изумрудный- ОПС663650 Ирбейское ) Красноярского края для нужд ОП Зеленогорский почтамт УФПС Красноярского края",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pr6bireas7badok",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pr6bireh9aai6b4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000540700276",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.04.2026 06:19",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.04.2026 09:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Новосибирской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "17.04.2026 06:19",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pr6bireh9aai6b4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Новосибирской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.30.10.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 81.30.10.000 Оказание услуг по уборке территории с использованием специальной техники на объектах филиала ПАО «РусГидро» – «Волжская ГЭС им Ф.Г. Логинова",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pr64ohmjphk0sh0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pr64ohbloilhhe0",
+      "price": "<div class='aright'>5 540 089,64 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018294",
+      "filingNumber": "32615922091",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.04.2026 08:00&nbsp;МСК",
+      "summationDate": "25.05.2026 00:00",
+      "regionCodes": [
+        "Волгоградская, обл"
+      ],
+      "placementDate": "17.04.2026",
+      "organizer": {
+        "inn": "2526007482",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "17.04.2026 02:25",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pr64ohmjphk0sh0",
+      "customer": [
+        {
+          "inn": "2526007482",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРВИСНАЯ КОМПАНИЯ РУСГИДРО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "46.11.12.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по комплексному обслуживанию комнатных растений, фитомодулей, а также озеленению (посадке, уходу за растениями и уборке цветочной рассады) прилегающей территории зданий управления филиала ПАО «Россети Московский регион-Московские кабельные сети",
+      "viewDemandDate": "20.05.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pr5kjp8j94539dc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pr5kjotjbmdnhp0",
+      "price": "<div class='aright'>909 160,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018276",
+      "filingNumber": "32615921624",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "06.05.2026 11:00&nbsp;МСК",
+      "summationDate": "20.05.2026 00:00",
+      "placementDate": "16.04.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "16.04.2026 16:59",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pr5kjp8j94539dc",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.29.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора на акарицидную обработку территорий ПС от клещей ПО \"Чусовские ЭС\".",
+      "viewDemandDate": "05.05.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pr5gl807838dcuc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pr5gjuqruvfr98g",
+      "price": "<div class='aright'>80 825,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018204",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.04.2026 08:00&nbsp;МСК",
+      "summationDate": "05.05.2026 00:00",
+      "placementDate": "16.04.2026",
+      "organizer": {
+        "inn": "6671163413",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+      },
+      "placementType": "Сравнение цен",
+      "placementDateTime": "16.04.2026 14:40",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pr5gl807838dcuc",
+      "customer": [
+        {
+          "inn": "6671163413",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ УРАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.35.110"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора на выполнение работ по цифровой аэрофотосъемке объектов электросетевого хозяйства и прилегающих к ним территорий, комплекса кадастровых работ по внесению сведений в ЕГРН о земельных участках, работ по установлению границ охранных зон в отношении объектов электросетевого хозяйства 0,4-110 кВ с внесением сведений в ЕГРН",
+      "viewDemandDate": "21.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pr5eliu0q1j3sak",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pr5eliim1aa6jh8",
+      "price": "<div class='aright'>16 312 229,60 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018177",
+      "filingNumber": "32615919811",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.04.2026 11:00&nbsp;МСК",
+      "summationDate": "23.04.2026 00:00",
+      "placementDate": "16.04.2026",
+      "organizer": {
+        "inn": "7803002209",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЛЕНЭНЕРГО\""
+      },
+      "placementType": "Запрос цен по результатам предварительного отбора",
+      "placementDateTime": "16.04.2026 13:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pr5eliu0q1j3sak",
+      "customer": [
+        {
+          "inn": "7803002209",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЛЕНЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.12.120"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение СМР, ПНР, оборудование по титулу: Строительство КТП-10/0,4 кВ с тр-ром 250 кВа, ВЛ-10 кВ от опоры № 4 КВЛ-10 кВ РП-1400-МТП1157 с установкой РЛКВ-10 кВ, ПС 110 кВ № 206 Фрязино, в т.ч. ПИР, МО, г.о. Щёлково, территория Производственная, улица Производственная, земельный участок 6, кадастровый номер 50:14:0030122:758",
+      "viewDemandDate": "22.04.2026 04:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pr59mgh4dcksgps",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pr59mcse4u78h6s",
+      "price": "<div class='aright'>2 340 051,93 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018125",
+      "filingNumber": "32615918397",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.04.2026 04:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.04.2026 10:00&nbsp;МСК",
+      "summationDate": "22.04.2026 23:00",
+      "placementDate": "16.04.2026",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "Восточные электрические сети - филиал публичного акционерного общества \"Россети Московский регион\""
+      },
+      "placementType": "Запрос цен по результатам предварительного отбора",
+      "placementDateTime": "16.04.2026 10:40",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pr59mgh4dcksgps",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "45.20.21.111"
+      ],
+      "type": "BUYING",
+      "title": "Техническое обслуживание и ремонт транспортных средств марки ГАЗ на территории г. Кирова Кировской области",
+      "viewDemandDate": "30.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pr57drg5jijqfp8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pr57dr3s0t4otjg",
+      "price": "<div class='aright'>3 660 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260018085",
+      "filingNumber": "32615917817",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.04.2026 11:00&nbsp;МСК",
+      "summationDate": "07.05.2026 00:00",
+      "placementDate": "16.04.2026",
+      "organizer": {
+        "inn": "4324006553",
+        "title": "Акционерное общество \"Автотранспортное хозяйство\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "16.04.2026 09:25",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pr57drg5jijqfp8",
+      "customer": [
+        {
+          "inn": "4324006553",
+          "title": "Акционерное общество \"Автотранспортное хозяйство\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.35.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Выполнение кадастровых работ для целей оформления прав землепользования, установления охранных зон электросетевых объектов, изготовления технических планов для постановки на кадастровый учет объектов недвижимости, расположенных на территории Хабаровского края",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pr4uajgt8qu8uso",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pr4uajh364v3sac",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260018018",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.04.2026 03:57",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.04.2026 01:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "16.04.2026",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" Хабаровские электрические сети\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "16.04.2026 03:57",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pr4uajh364v3sac",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" Хабаровские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "38.2"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 38.2 «Оказание платных услуг по обращению с отходами строительства которые отнесены к V классу опасности, накапливаемых на территории Комплексной реконструкция и модернизации ГАЭС Каскада Кубанских ГЭС»",
+      "viewDemandDate": "24.04.2026 00:00",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000pr4bst6am0kgnr0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pr4bpq06ecu8ts8",
+      "price": "<div class='aright'>6 088 245,30 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Exam",
+        "title": "Работа комиссии"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260017979",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.04.2026 00:00",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.04.2026 12:00&nbsp;МСК",
+      "summationDate": "24.04.2026 00:00",
+      "placementDate": "15.04.2026",
+      "organizer": {
+        "inn": "0533001760",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+      },
+      "placementType": "Упрощенная закупка в электронной форме (среди МСП)",
+      "placementDateTime": "15.04.2026 17:19",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pr4bst6am0kgnr0",
+      "customer": [
+        {
+          "inn": "0533001760",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧИРКЕЙГЭССТРОЙ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "45.20.21.100"
+      ],
+      "type": "BUYING",
+      "title": "Техническое обслуживание и ремонт легковых транспортных средств на территории г. Арзамас Нижегородской области",
+      "viewDemandDate": "27.04.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pr49thcvt963a2s",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pr49th0j0fku5is",
+      "price": "<div class='aright'>4 880 000,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260017950",
+      "filingNumber": "32615916045",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.04.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "23.04.2026 11:00&nbsp;МСК",
+      "summationDate": "30.04.2026 00:00",
+      "placementDate": "15.04.2026",
+      "organizer": {
+        "inn": "4324006553",
+        "title": "Акционерное общество \"Автотранспортное хозяйство\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "15.04.2026 16:14",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pr49thcvt963a2s",
+      "customer": [
+        {
+          "inn": "4324006553",
+          "title": "Акционерное общество \"Автотранспортное хозяйство\""
+        }
+      ]
+    }
+  ]
+}

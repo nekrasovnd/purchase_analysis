@@ -1,0 +1,807 @@
+<datarow>
+  <total>
+    <value>626</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2786166</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/2786166</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>09.01.2025 15:00</RequestAcceptDate>
+      <RequestDate>09.01.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2412050001.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>05.12.2024 09:42</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды части нежилого отдельно стоящего здания, общей площадью 401 кв.м., расположенного по адресу: Нижегородская область, Бутурлинский район, р.п. Бутурлино, ул. Спортивная, д. 4, принадлежащего ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2412050001.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/2565268</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>05.12.2024 12:00</RequestStartDate>
+      <EndDate>10.01.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение с дополнительным этапом на повышение на право заключения договора аренды части нежилого отдельно стоящего здания, общей площадью 401 кв.м., расположенного по адресу: Нижегородская область, Бутурлинский район, р.п. Бутурлино, ул. Спортивная, д. 4, принадлежащего ПАО Сбербанк.</purchName>
+      <purchAmount>139227.2</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1733391720000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2782540</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2782540</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>10.01.2025 15:00</RequestAcceptDate>
+      <RequestDate>10.01.2025 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2412020006.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>02.12.2024 13:29</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилого помещения (гаража) площадью 61,3 кв.м. расположенного по адресу: Нижегородская область, г. Кулебаки, ул. Бутова, д. 66, принадлежащего ПАО Сбербанк на праве собственности</BidName>
+      <purchCodeTerm>SBR065-2412020006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2551764</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>02.12.2024 15:00</RequestStartDate>
+      <EndDate>16.01.2025</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилого помещения (гаража) площадью 61,3 кв.м. расположенного по адресу: Нижегородская область, г. Кулебаки, ул. Бутова, д. 66, принадлежащего ПАО Сбербанк</purchName>
+      <purchAmount>9317.6</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1733146140000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2775771</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/2775771</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>25.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>25.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411250007.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>25.11.2024 16:07</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи нежилого трехэтажного здания площадью 615,2 кв.м., гаража площадью 47,7 кв.м. и земельного участка площадью 3 279 кв.м., расположенных по адресу: Республика Татарстан, городское поселение поселок городского типа Апастово, пгт Апастово, улица Октябрьская, здание 48, принадлежащих ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411250007.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/2522699</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>25.11.2024 18:00</RequestStartDate>
+      <EndDate>26.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение с дополнительным этапом на повышение на право заключения договора купли-продажи нежилого трехэтажного здания площадью 615,2 кв.м., гаража площадью 47,7 кв.м. и земельного участка площадью 3 279 кв.м., расположенных по адресу: Республика Татарстан, городское поселение поселок городского типа Апастово, пгт Апастово, улица Октябрьская, здание 48, принадлежащих ПАО Сбербанк.</purchName>
+      <purchAmount>7972800</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732550820000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2774905</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/2774905</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>24.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>24.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411250002.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>25.11.2024 10:28</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилых помещений общей площадью 455,21 кв.м. и гаража площадью 47,7 кв.м., расположенных по адресу: Республика Татарстан, городское поселение поселок городского типа Апастово, пгт Апастово, улица Октябрьская, здание 48, принадлежащих ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411250002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/2520710</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>25.11.2024 12:00</RequestStartDate>
+      <EndDate>25.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение с дополнительным этапом на повышение на право заключения договора аренды нежилых помещений общей площадью 455,21 кв.м. и гаража площадью 47,7 кв.м., расположенных по адресу: Республика Татарстан, городское поселение поселок городского типа Апастово, пгт Апастово, улица Октябрьская, здание 48, принадлежащих ПАО Сбербанк.</purchName>
+      <purchAmount>763603.01</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732530480000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2774202</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2774202</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>19.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411220018.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.11.2024 15:55</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи нежилого помещения площадью 14,9 кв.м расположенное по адресу Владимирская область, р-н Селивановский, МО Волосатовское (сельское поселение), п. Новый Быт, ул. Шоссейная, д. 16,  принадлежащее ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411220018.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2513120</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.11.2024 18:00</RequestStartDate>
+      <EndDate>23.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи нежилого помещения площадью 14,9 кв.м расположенное по адресу Владимирская область, р-н Селивановский, МО Волосатовское (сельское поселение), п. Новый Быт, ул. Шоссейная, д. 16,  принадлежащее ПАО Сбербанк.</purchName>
+      <purchAmount>300000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732290900000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2773261</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/2773261</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>12.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411220006.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.11.2024 09:48</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи нежилого отдельно стоящего здания общей площадью 561 кв.м. и земельного участка площадью 630,87 кв. м., расположенных по адресу: Нижегородская область, Бутурлинский район, р.п. Бутурлино, ул. Спортивная, д. 4, принадлежащих ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411220006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/2511067</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>22.11.2024 12:00</RequestStartDate>
+      <EndDate>20.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение с дополнительным этапом на повышение на право заключения договора купли-продажи нежилого отдельно стоящего здания общей площадью 561 кв.м. и земельного участка площадью 630,87 кв. м., расположенных по адресу: Нижегородская область, Бутурлинский район, р.п. Бутурлино, ул. Спортивная, д. 4, принадлежащих ПАО Сбербанк.</purchName>
+      <purchAmount>7821600</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732268880000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2771651</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2771651</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>19.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411210003.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>21.11.2024 11:13</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилых помещений общей площадью 141,47 кв.м расположенных по адресу: Республика Татарстан, Буинский муниципальный район, г. Буинск, ул. Камиля Зыятдинова, д 5, пом 100, принадлежащих ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411210003.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2507069</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>21.11.2024 12:00</RequestStartDate>
+      <EndDate>23.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилых помещений общей площадью 141,47 кв.м расположенных по адресу: Республика Татарстан, Буинский муниципальный район, г. Буинск, ул. Камиля Зыятдинова, д 5, пом 100, принадлежащих ПАО Сбербанк.</purchName>
+      <purchAmount>333739.05</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732187580000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2769263</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2769263</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>18.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411190016.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.11.2024 15:32</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилых помещений общей площадью 102,8 кв. м., расположенных по адресу: Пермский край, г. Пермь, ул. Ленина, 32, принадлежащих ПАО Сбербанк на праве собственности</BidName>
+      <purchCodeTerm>SBR065-2411190016.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2500061</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>19.11.2024 16:00</RequestStartDate>
+      <EndDate>20.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилых помещений общей площадью 102,8 кв. м., расположенных по адресу: Пермский край, г. Пермь, ул. Ленина, 32, принадлежащих ПАО Сбербанк</purchName>
+      <purchAmount>81445.9</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732030320000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2769185</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/2769185</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>19.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411190015.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.11.2024 14:41</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 2-х объектов недвижимости в республике Татарстан в составе: - нежилого здания площадью 306,2 кв.м. и земельного участка площадью 380 кв.м. по адресу: муниципальный район Сармановский, сельское поселение Сармановское, село Сарманово, улица Ленина, здание 40; - нежилого помещения площадью 38,1 кв.м. и земельного участка площадью 56 кв.м. по адресу: Сармановский муниципальный район, с.п. Кавзияковское, с. Кавзияково, ул. Советская, д. 66Б, принадлежащие ПАО Сбербанк</BidName>
+      <purchCodeTerm>SBR065-2411190015.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/2499480</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>19.11.2024 15:00</RequestStartDate>
+      <EndDate>20.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение с дополнительным этапом на повышение на право заключения договора купли-продажи продажи 2-х объектов недвижимости в республике Татарстан в составе: - нежилого здания площадью 306,2 кв.м. и земельного участка площадью 380 кв.м. по адресу: муниципальный район Сармановский, сельское поселение Сармановское, село Сарманово, улица Ленина, здание 40; - нежилого помещения площадью 38,1 кв.м. и земельного участка площадью 56 кв.м. по адресу: Сармановский муниципальный район, с.п. Кав</purchName>
+      <purchAmount>4160800</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732027260000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2769184</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/2769184</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>18.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411190014.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.11.2024 14:41</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды 2-х объектов недвижимости в республике Татарстан в составе: - части нежилых помещений площадью 169,3 кв.м по адресу: муниципальный район Сармановский, сельское поселение Сармановское, село Сарманово, улица Ленина, здание 40; - нежилого здания площадью 38,1 кв.м. по адресу: Сармановский муниципальный район, с.п. Кавзияковское, с. Кавзияково, ул. Советская, д. 66Б, принадлежащих ПАО Сбербанк</BidName>
+      <purchCodeTerm>SBR065-2411190014.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/2499479</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>19.11.2024 15:00</RequestStartDate>
+      <EndDate>19.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение с дополнительным этапом на повышение на право заключения договора аренды 2-х объектов недвижимости в республике Татарстан в составе:  - части нежилых помещений площадью 169,3 кв.м по адресу: муниципальный район Сармановский, сельское поселение Сармановское, село Сарманово, улица Ленина, здание 40;  - нежилого здания площадью 38,1 кв.м. по адресу: Сармановский муниципальный район, с.п. Кавзияковское, с. Кавзияково, ул. Советская, д. 66Б, принадлежащих ПАО Сбербанк</purchName>
+      <purchAmount>531126.72</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732027260000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2768695</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2768695</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>18.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411190002.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.11.2024 09:46</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилого помещения, площадью 18,4 кв.м., расположенного по адресу: Пермский край, г. Соликамск, ул. Калийная, 130, принадлежащего ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411190002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2498516</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>19.11.2024 12:00</RequestStartDate>
+      <EndDate>20.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилого помещения, площадью 18,4 кв.м., расположенного по адресу: Пермский край, г. Соликамск, ул. Калийная, 130, принадлежащего ПАО Сбербанк.</purchName>
+      <purchAmount>5023.2</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732009560000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2768696</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2768696</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>18.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411190003.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.11.2024 09:46</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилого помещения, площадью 19,7 кв.м. (помещение № 7 на 2 этаже), расположенного по адресу: Пермский край, г. Соликамск, ул. Калийная, 130, принадлежащего ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411190003.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2498517</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>19.11.2024 12:00</RequestStartDate>
+      <EndDate>20.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилого помещения, площадью 19,7 кв.м. (помещение № 7 на 2 этаже), расположенного по адресу: Пермский край, г. Соликамск, ул. Калийная, 130, принадлежащего ПАО Сбербанк.</purchName>
+      <purchAmount>5378.1</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1732009560000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2768400</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2768400</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>25.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>25.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411180012.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.11.2024 17:50</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилого помещения общей площадью 232,5 кв.м расположенного по адресу: Республика Татарстан, муниципальный район Кайбицкий, сельское поселение Большекайбицкое, село Большие Кайбицы, улица Солнечный бульвар, дом 8, принадлежащее ПАО Сбербанк</BidName>
+      <purchCodeTerm>SBR065-2411180012.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2496900</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>18.11.2024 18:00</RequestStartDate>
+      <EndDate>27.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилого помещения общей площадью 232,5 кв.м расположенного по адресу: Республика Татарстан, муниципальный район Кайбицкий, сельское поселение Большекайбицкое, село Большие Кайбицы, улица Солнечный бульвар, дом 8, принадлежащее ПАО Сбербанк.</purchName>
+      <purchAmount>756180.48</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731952200000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2768398</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2768398</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>24.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>24.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411180011.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.11.2024 17:50</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи нежилого здания, общей площадью 368,8 кв.м и земельного участка площадью 1864,25 кв. м, расположенные по адресу: Республика Татарстан, муниципальный район Кайбицкий, сельское поселение Большекайбицкое, село Большие Кайбицы, улица Солнечный бульвар, дом 8, принадлежащие ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411180011.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2496898</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>18.11.2024 18:00</RequestStartDate>
+      <EndDate>26.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи нежилого здания, общей площадью 368,8 кв.м и земельного участка площадью 1864,25 кв. м,  расположенные по адресу: Республика Татарстан, муниципальный район Кайбицкий, сельское поселение Большекайбицкое, село Большие Кайбицы, улица Солнечный бульвар, дом 8, принадлежащие ПАО Сбербанк.</purchName>
+      <purchAmount>8102880</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731952200000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2768176</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2768176</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>18.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411180010.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.11.2024 15:50</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи нежилого помещения общей площадью 203,7 кв.м. расположенного по адресу: Республика Татарстан, г Казань, пр-кт Победы, д 17, нежилого помещения общей площадью 44 кв.м. расположенного по адресу: Республика Татарстан, Заинский р-н, Бухарайский с/с, с.Бухарай, ул.Заречная, д.37 и земельного участка 25/128 в общедолевой собственности, общей площадью 256,01 кв.м., расположенного по адресу: Республика Татарстан, Заинский муниципальный район, Бухарайское сельское поселение</BidName>
+      <purchCodeTerm>SBR065-2411180010.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2496710</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>18.11.2024 18:00</RequestStartDate>
+      <EndDate>20.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи нежилого помещения общей площадью 203,7 кв.м. расположенного по адресу: Республика Татарстан, г Казань, пр-кт Победы, д 17, нежилого помещения общей площадью 44 кв.м. расположенного по адресу: Республика Татарстан, Заинский р-н, Бухарайский с/с, с.Бухарай, ул.Заречная, д.37 и земельного участка 25/128 в общедолевой собственности, общей площадью 256,01 кв.м., расположенного по адресу: Республика Татарстан, Заинский муниципальный район</purchName>
+      <purchAmount>30789000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731945000000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2768175</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2768175</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>17.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>17.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411180009.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.11.2024 15:50</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилого помещения общей площадью 203,7 кв.м.  расположенное по адресу: Республика Татарстан, г Казань, пр-кт Победы, д 17 и нежилого помещения общей площадью 44 кв.м. расположенное по адресу: Республика Татарстан, Заинский р-н, Бухарайский с/с, с.Бухарай, ул.Заречная, д.37, принадлежащее ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411180009.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2496709</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>18.11.2024 18:00</RequestStartDate>
+      <EndDate>19.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилого помещения общей площадью 203,7 кв.м.  расположенное по адресу: Республика Татарстан, г Казань, пр-кт Победы, д 17 и нежилого помещения общей площадью 44 кв.м. расположенное по адресу: Республика Татарстан, Заинский р-н, Бухарайский с/с, с.Бухарай, ул.Заречная, д.37, принадлежащее ПАО Сбербанк.</purchName>
+      <purchAmount>3645579.6</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731945000000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2767816</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2767816</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>16.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>16.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411180006.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.11.2024 13:06</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилого помещения площадью 14,9 кв.м. расположенного по адресу: Владимирская область, р-н Селивановский, МО Волосатовское (сельское поселение), п. Новый Быт, ул. Шоссейная, д. 16, принадлежащее ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411180006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2495954</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>18.11.2024 15:00</RequestStartDate>
+      <EndDate>25.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилого помещения площадью 14,9 кв.м. расположенного по адресу: Владимирская область, р-н Селивановский, МО Волосатовское (сельское поселение), п. Новый Быт, ул. Шоссейная, д. 16, принадлежащее ПАО Сбербанк.</purchName>
+      <purchAmount>3933.6</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731935160000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2763000</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2763000</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>17.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>17.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411130008.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>13.11.2024 10:28</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи нежилого помещения общей площадью 63,3 кв. м., расположенное по адресу: Пермский край, Пермский муниципальный округ, с. Усть-Качка, ул. Победы, д. 2а, принадлежащее ПАО Сбербанк</BidName>
+      <purchCodeTerm>SBR065-2411130008.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2479670</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>13.11.2024 15:00</RequestStartDate>
+      <EndDate>19.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи нежилого помещения общей площадью 63,3 кв. м., расположенное по адресу: Пермский край, Пермский муниципальный округ, с. Усть-Качка, ул. Победы, д. 2а, принадлежащее ПАО Сбербанк.</purchName>
+      <purchAmount>1848000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731493680000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2762997</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2762997</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>12.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411130007.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>13.11.2024 10:27</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды нежилого помещения общей площадью 63,3 кв. м расположенного по адресу: Пермский край, Пермский муниципальный округ, с. Усть-Качка, ул. Победы, д. 2а, принадлежащее ПАО Сбербанк</BidName>
+      <purchCodeTerm>SBR065-2411130007.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2479667</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>13.11.2024 15:00</RequestStartDate>
+      <EndDate>16.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора аренды нежилого помещения общей площадью 63,3 кв. м расположенного по адресу: Пермский край, Пермский муниципальный округ, с. Усть-Качка, ул. Победы, д. 2а, принадлежащее ПАО Сбербанк.</purchName>
+      <purchAmount>19369.8</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731493620000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2761578</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Английский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/43/3/0/2761578</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.12.2024 15:00</RequestAcceptDate>
+      <RequestDate>18.12.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2411120005.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>12.11.2024 10:39</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора купли-продажи 2х нежилых помещений общей площадью 411,8 кв.м, расположенных по адресу: Чувашская Республика, г. Чебоксары, ул. 50 лет Октября, д.17А, принадлежащих ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2411120005.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/43/0/0/2476914</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>12.11.2024 15:00</RequestStartDate>
+      <EndDate>20.12.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Английский аукцион на повышение на право заключения договора купли-продажи 2х нежилых помещений общей площадью 411,8 кв.м, расположенных по адресу: Чувашская Республика, г. Чебоксары, ул. 50 лет Октября, д.17А, принадлежащих ПАО Сбербанк.</purchName>
+      <purchAmount>27940000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1731407940000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

@@ -1,0 +1,966 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 60,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "19.20.31.110"
+      ],
+      "type": "SMALL_PURCHASE",
+      "title": "Газ сжиженный пропан-бутан автомобильный",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pdsraimdn2alb6o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718ug0000pdsraimh9ivpha8",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmallPurchase_St_Rejected",
+        "title": "Отменена подача предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "ROST725055SP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "21.05.2025 18:19",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.05.2025 13:00&nbsp;МСК",
+      "summationDate": "",
+      "regionCodes": [
+        "Самарская, обл"
+      ],
+      "placementDate": "21.05.2025",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Малая закупка",
+      "placementDateTime": "21.05.2025 18:19",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718ug0000pdsraimh9ivpha8",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.12.29.900"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по восстановлению работоспособности (ремонту) навигационного бортового оборудования Voyager 2N, Voyager 2N LAN, Voyager-2N ГЛОНАСС Wi-Fi, АвтоГРАФ-GSM+Wi-Fi, АвтоГРАФ-GX, АвтоГРАФ-GX Wi-Fi",
+      "viewDemandDate": "06.06.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000pdm2neqine1olvg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000pdm2ne913r6fmrc",
+      "price": "<div class='aright'>7 812 700,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0474625182DP",
+      "filingNumber": "32514845326",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.05.2025 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2025 11:00&nbsp;МСК",
+      "summationDate": "10.06.2025 00:00",
+      "placementDate": "16.05.2025",
+      "organizer": {
+        "inn": "7830001927",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "16.05.2025 14:33",
+      "deposit": "156 254,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000pdm2neqine1olvg",
+      "customer": [
+        {
+          "inn": "7830001927",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.59"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Кран-манипулятор",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000pb0vr5m2fp34q6s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000pb0vr5m9vr60d4k",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "drsk_25092PR",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "11.03.2025 09:56",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.03.2025 03:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "11.03.2025",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "11.03.2025 09:56",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000pb0vr5m9vr60d4k",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.17.19.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по техническому обслуживанию и ремонту легковых автомобилей",
+      "viewDemandDate": "22.01.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p7sql5q05pg41e8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p7sql4ej1r01fjc",
+      "price": "<div class='aright'>3 843 396,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "LPCEN24103MP",
+      "filingNumber": "32414367860",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "23.12.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.01.2025 12:00&nbsp;МСК",
+      "summationDate": "23.01.2025 00:00",
+      "regionCodes": [
+        "Липецкая, обл"
+      ],
+      "placementDate": "23.12.2024",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Липецкэнерго\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "23.12.2024 14:50",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p7sql5q05pg41e8",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.41.120"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 29.10.41.120 Поставка самосвала для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_АЭС-5298-АВТО",
+      "viewDemandDate": "17.01.2025 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p6hpvbcr68s5k6g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p6hpv8giqi8o0gk",
+      "price": "<div class='aright'>5 789 332,80 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24604DP",
+      "filingNumber": "32414216317",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "20.11.2024 04:46",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.12.2024 09:00&nbsp;МСК",
+      "summationDate": "17.01.2025 12:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "20.11.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "20.11.2024 04:46",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p6hpvbcr68s5k6g",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.140"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ капитального ремонта системы авто-матической пожарной сигнализации и системы оповещения и управления эвакуацией в здании общежития ГА-ПОУ «Новозыбковский профессионально-педагогический колледж», расположенного по адресу: Брянская обл., г. Новозыбков, ул. Кубановская, д.6",
+      "viewDemandDate": "26.11.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000p6b2v1ssbv0uiv8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000p6b2v1kccj8htis",
+      "price": "<div class='aright'>3 232 672,24 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "gnppk24004MC",
+      "filingNumber": "32414198783",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "14.11.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.11.2024 08:00&nbsp;МСК",
+      "summationDate": "26.11.2024 00:00",
+      "regionCodes": [
+        "Брянская, обл"
+      ],
+      "placementDate": "14.11.2024",
+      "organizer": {
+        "inn": "3204001343",
+        "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"НОВОЗЫБКОВСКИЙ ПРОФЕССИОНАЛЬНО-ПЕДАГОГИЧЕСКИЙ КОЛЛЕДЖ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "14.11.2024 23:38",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000p6b2v1ssbv0uiv8",
+      "customer": [
+        {
+          "inn": "3204001343",
+          "title": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"НОВОЗЫБКОВСКИЙ ПРОФЕССИОНАЛЬНО-ПЕДАГОГИЧЕСКИЙ КОЛЛЕДЖ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.59"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 29.10.59 Поставка снегоболотохода на гусеничном ходу для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_28-АЭС-5796-АВТО",
+      "viewDemandDate": "20.12.2024 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p61e4csgnkdbh1g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p61e4a05cllrk6c",
+      "price": "<div class='aright'>14 280 736,27 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24532DP",
+      "filingNumber": "32414168691",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.11.2024 11:36",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.11.2024 09:00&nbsp;МСК",
+      "summationDate": "13.01.2025 12:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "07.11.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "07.11.2024 11:38",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p61e4csgnkdbh1g",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.24.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 29.10.24.000 Поставка легковых фургонов для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционных проектов N_28-АЭС-5286-АВТО, O_28-АЭС-5790-АВТО",
+      "viewDemandDate": "23.12.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p61bq0r9n6vv8dc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p61bpu5tnggicc8",
+      "price": "<div class='aright'>20 176 759,68 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24528DP",
+      "filingNumber": "32414168034",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.11.2024 10:14",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.11.2024 09:00&nbsp;МСК",
+      "summationDate": "09.01.2025 00:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "07.11.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "07.11.2024 10:25",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p61bq0r9n6vv8dc",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.59"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 29.10.59 Поставка кран-манипуляторной установки на шасси автомобиля 4х2 для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_28-АЭС-5328-АВТО",
+      "viewDemandDate": "20.01.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p612g33ll565cg4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p612fvve8rti5ok",
+      "price": "<div class='aright'>10 993 472,46 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24522DP",
+      "filingNumber": "32414167032",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.11.2024 04:50",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.01.2025 09:00&nbsp;МСК",
+      "summationDate": "06.02.2025 12:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "07.11.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "07.11.2024 04:50",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p612g33ll565cg4",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.59"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 29.10.59 Поставка автогидроподъемника на шасси автомобиля 6х6 для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_28-АЭС-5327-АВТО",
+      "viewDemandDate": "16.12.2024 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p5vsa9iqar3do9k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p5vsa6mese4t1vo",
+      "price": "<div class='aright'>24 702 979,30 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24513DP",
+      "filingNumber": "32414162567",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "06.11.2024 06:38",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.11.2024 09:00&nbsp;МСК",
+      "summationDate": "10.01.2025 12:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "06.11.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "06.11.2024 06:38",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p5vsa9iqar3do9k",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.20.23.110"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 29.20.23.110 Поставка прицепной техники для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_28-АЭС-5290-АВТО",
+      "viewDemandDate": "23.12.2024 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p5uoag2plft3cu0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p5uoadh3dqts90o",
+      "price": "<div class='aright'>9 287 866,92 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24509DP",
+      "filingNumber": "32414158778",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "05.11.2024 09:47",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.12.2024 09:00&nbsp;МСК",
+      "summationDate": "09.01.2025 12:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "05.11.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "05.11.2024 09:47",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p5uoag2plft3cu0",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.59"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 29.10.59 Поставка многофункционального крана манипулятора для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_28АЭС-5296-АВТО",
+      "viewDemandDate": "17.12.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p5o71g08rtil5io",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p5o71cu9ln97cr4",
+      "price": "<div class='aright'>47 466 480,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "gsnab24202DP",
+      "filingNumber": "32414143434",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.10.2024 07:41",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.11.2024 10:00&nbsp;МСК",
+      "summationDate": "24.12.2024 00:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "31.10.2024",
+      "organizer": {
+        "inn": "1510012774",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РУСГИДРО СНАБЖЕНИЕ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "31.10.2024 09:55",
+      "deposit": "628 930,84 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p5o71g08rtil5io",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.22.000",
+        "29.10.22.000",
+        "29.10.22.000"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 29.10.22.000 Поставка легковых бригадных автомобилей для филиалов АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск), “Приморские электрческие сети” (г. Владивосток) и \"Хабаровские электрические сети\" (г. Хабаровск) в рамках исполнения инвестиционных проектов N_28-АЭС-5291-АВТО, N_27-ХЭС-5452, O_27-ХЭС-5630, O_27-ХЭС-5633, N_25-ПЭС-5527",
+      "viewDemandDate": "20.12.2024 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p5o0u6a2gqumojs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p5o0u5bha3m21ls",
+      "price": "<div class='aright'>28 920 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24492DP",
+      "filingNumber": "32414143196",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.10.2024 04:08",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.11.2024 09:00&nbsp;МСК",
+      "summationDate": "27.12.2024 12:00",
+      "regionCodes": [
+        "Амурская, обл",
+        "Приморский, край",
+        "Хабаровский, край"
+      ],
+      "placementDate": "31.10.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "31.10.2024 04:12",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p5o0u6a2gqumojs",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.59"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 29.10.5 Поставка автогидроподъемника на шасси автомобиля 4х4 для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_28-АЭС-5297-АВТО",
+      "viewDemandDate": "03.12.2024 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p5lf60nl6lq7ppc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p5lf5u6624ecm94",
+      "price": "<div class='aright'>13 251 715,03 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24476DP",
+      "filingNumber": "32414131833",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.10.2024 04:30",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2024 09:00&nbsp;МСК",
+      "summationDate": "06.12.2024 12:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "29.10.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "29.10.2024 04:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p5lf60nl6lq7ppc",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.59"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД 2 29.10.59 Поставка грузовых бригадных автомобилей для филиала АО \"ДРСК\" \"Амурские электрические сети\" (г. Благовещенск) в рамках исполнения инвестиционного проекта N_28-АЭС-5289-АВТО",
+      "viewDemandDate": "03.12.2024 12:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p5le0b4fnp10q1g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p5le08f7ol0hkt8",
+      "price": "<div class='aright'>30 076 394,62 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "drsk_24475DP",
+      "filingNumber": "32414131806",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.10.2024 03:51",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.11.2024 09:00&nbsp;МСК",
+      "summationDate": "06.12.2024 12:00",
+      "regionCodes": [
+        "Амурская, обл"
+      ],
+      "placementDate": "29.10.2024",
+      "organizer": {
+        "inn": "2801108200",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "29.10.2024 03:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p5le0b4fnp10q1g",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "Филиал Акционерного общества \"Дальневосточная распределительная сетевая компания\" \"Амурские электрические сети\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.110"
+      ],
+      "type": "BUYING",
+      "title": "ПИР СМР Строительство новой ТП 6/0.4кВ. Строительство 2КЛ 6кВ, 2КЛ 0,4кВ от новой ТП. Строительство системы учета. Нижегородский РЭС. Заявитель ООО \"НПО АвтоМиг\" дог. №521170262 от 22.05.2024\n(Технологическое присоединение 150-670 кВт)",
+      "viewDemandDate": "11.10.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p4isd5rdtlph1o0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p4isd4kl46p7v3k",
+      "price": "<div class='aright'>3 747 814,80 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "NIHNO24512DP",
+      "filingNumber": "32414047169",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.10.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.10.2024 12:00&nbsp;МСК",
+      "summationDate": "16.10.2024 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "02.10.2024",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "02.10.2024 12:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p4isd5rdtlph1o0",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "19.20.21.325"
+      ],
+      "type": "BUYING",
+      "title": "24К7320020.0019/1. Комплексная бесперебойная поставка, доставка специализированным транспортом (авто, морским, речным), разгрузка (налив) дизельного топлива в складские емкости на Мезенской ДЭС Мезенского района Архангельского филиала ПАО «Россети Северо-Запад»",
+      "viewDemandDate": "10.01.2025 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p4gpjfs5v3fg3jo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p4gpje9o4drqesk",
+      "price": "<div class='aright'>530 860 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz24781DP",
+      "filingNumber": "32414039342",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "30.09.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.12.2024 14:00&nbsp;МСК",
+      "summationDate": "14.01.2025 00:00",
+      "regionCodes": [
+        "Архангельская, обл"
+      ],
+      "placementDate": "30.09.2024",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "30.09.2024 17:06",
+      "deposit": "10 617 200,00 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p4gpjfs5v3fg3jo",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.110"
+      ],
+      "type": "BUYING",
+      "title": "ПИР СМР Строительство новой ТП 6/0.4кВ. Строительство 2КЛ 6кВ, 2КЛ 0,4кВ от новой ТП. Строительство системы учета. Нижегородский РЭС. Заявитель ООО \"НПО АвтоМиг\" дог. №521170262 от 22.05.2024\n(Технологическое присоединение 150-670 кВт)",
+      "viewDemandDate": "22.08.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p2hkon2tnaovvpo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p2hkom21bul27ko",
+      "price": "<div class='aright'>3 747 814,80 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "NIHNO24419DP",
+      "filingNumber": "32413890804",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.08.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.08.2024 12:00&nbsp;МСК",
+      "summationDate": "28.08.2024 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "12.08.2024",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"НИЖНОВЭНЕРГО\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "12.08.2024 15:48",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p2hkon2tnaovvpo",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.13.19.000"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по восстановлению работоспособности (ремонту) навигационного бортового оборудования Voyager 2N, Voyager 2N LAN, Voyager-2N ГЛОНАСС Wi-Fi, АвтоГРАФ-GSM+Wi-Fi, АвтоГРАФ-GX, АвтоГРАФ-GX Wi-Fi\n",
+      "viewDemandDate": "17.05.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oufira4f2db7ftg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oufir9mg1g782ng",
+      "price": "<div class='aright'>2 025 100,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0474624178MA",
+      "filingNumber": "32413571741",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.05.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.05.2024 10:00&nbsp;МСК",
+      "summationDate": "21.05.2024 00:00",
+      "placementDate": "03.05.2024",
+      "organizer": {
+        "inn": "7830001927",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.05.2024 15:25",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oufira4f2db7ftg",
+      "customer": [
+        {
+          "inn": "7830001927",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДСКОГО ЭЛЕКТРИЧЕСКОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения Договора на разработку проектно-сметной документации и выполнение работ объекта: Строительство: КВЛ 10 кВ ф. 112 ЦРП «Вольгинский» для обеспечения технологического присоединения энергопринимающих устройств заявителя ООО «РегионАвтоЦентр» (ТП свыше 150 кВт 5 этап) для нужд филиала ПАО «Россети Центр и Приволжье» - «Владимирэнерго»",
+      "viewDemandDate": "06.03.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000orhhel08nuklmcs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000orhhejkaked1pg8",
+      "price": "<div class='aright'>9 010 562,40 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "VLADI24006DP",
+      "filingNumber": "32413314288",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.02.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.03.2024 10:00&nbsp;МСК",
+      "summationDate": "13.03.2024 00:00",
+      "regionCodes": [
+        "Владимирская, обл"
+      ],
+      "placementDate": "22.02.2024",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"ВЛАДИМИРЭНЕРГО\""
+      },
+      "placementType": "Запрос цен по результатам конкурентного предварительного отбора",
+      "placementDateTime": "22.02.2024 09:54",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000orhhel08nuklmcs",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    }
+  ]
+}

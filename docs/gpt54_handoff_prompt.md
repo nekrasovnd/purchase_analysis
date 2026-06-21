@@ -165,6 +165,63 @@ Tender.Pro / public company-purchases sprint status as of 2026-06-18:
   - do not promote Tender.Pro title-only matches to core; only lots from exact matched company pages are safe
 ```
 
+## Source Status Addendum: B2B-Center
+
+Include this addendum too so the next chat does not waste time re-opening the same B2B paths.
+
+```text
+B2B-Center sprint status as of 2026-06-18:
+
+- Current implementation:
+  - client: `src/purchase_analysis/clients/b2b_center.py`
+  - tests: `tests/test_b2b_center.py`
+  - source sprint: `scripts/b2b_center_prompt2_source_sprint.py`
+  - offline detail re-enrichment: `scripts/b2b_center_reenrich_saved_details.py`
+- Exact organization lookup works via public endpoint:
+  - `https://www.b2b-center.ru/api/search/organizations/`
+  - search strategy already tries `ИНН`, then `ОГРН/КПП`, then exact names through `build_search_terms(...)`
+  - exact candidate acceptance still goes only through `classify_entity_match(...)`
+- Important parsing breakthrough:
+  - `market-next` detail pages are now parsed from inline `var __pinia=...` state via `js2py`
+  - this extracts at least:
+    - subject
+    - organizer name/profile
+    - publication date
+    - application deadline
+    - positions count
+    - delivery address
+    - status bucket
+    - total price when `trade_result_money` is public
+- Anti-bot state:
+  - B2B search/list pages (`/market/?...firm_id=...` or `customer_id=...`) are currently unstable and often fall into anti-bot pages
+  - two observed public block modes:
+    - captcha/rate-limit page with text about `превышен максимальный лимит скорости просмотра страниц`
+    - plain `403 Forbidden` page with `If you are not a bot, please copy the report...`
+  - code now detects both:
+    - `is_rate_limited_page(...)`
+    - `is_forbidden_page(...)`
+  - detail parser raises explicit anti-bot error instead of silently returning empty fields
+- Best saved probe so far:
+  - batch: `b2b_center_probe_7736663049`
+  - raw detail HTML: `data/raw/b2b_center/b2b_center_probe_7736663049/`
+  - offline reenriched items: `output/source_sprints/b2b_center_probe_7736663049/items_reenriched.csv`
+  - local reenrichment outcome from saved HTML only:
+    - parsed detail cards: `6`
+    - priced rows recovered: `2`
+    - blocked detail cards: `2`
+    - priced procedures recovered:
+      - `3688284` -> `10331548 RUB без НДС`
+      - `3695172` -> `852905 RUB без НДС`
+- Current live blocker evidence:
+  - one-entity blocked batch: `output/source_sprints/b2b_center_probe_7736663049_forbidden/`
+  - in that batch exact candidate resolution still works, but list retrieval over 2024-2025 ends in overflow windows / anti-bot instead of rows
+- Rules for the next chat:
+  - do not conclude that B2B has `0` data just because a live run returns `0` rows
+  - the current limitation is transport / anti-bot, not lack of exact entity matches
+  - if new raw detail HTML or manual exports appear under local folders, run `b2b_center_reenrich_saved_details.py` before trying fresh network scraping again
+  - if live transport is retried, keep batches small and expect the blocker to be external
+```
+
 ## Mini Prompt: Source Sprint
 
 ```text

@@ -1,0 +1,1045 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 320,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.90.19.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по проведению дистанционных предрейсовых/ послерейсовых медосмотров\n",
+      "viewDemandDate": "23.06.2026 00:00",
+      "lotStageGroupTitle": "Идет прием заявок",
+      "uuid": "corebo19718ug0000psrcqs0auveovmk",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psrcqroo75bd4l4",
+      "price": "<div class='aright'>2 322 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Dmnds_Started",
+        "title": "Идет прием заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025465",
+      "filingNumber": "32616056454",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2026 06:00&nbsp;МСК",
+      "summationDate": "02.07.2026 00:00",
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "4217084532",
+        "title": "Общество с ограниченной ответственностью \"ЕВРОЭНЕРГОТРАНС\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 11:07",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psrcqs0auveovmk",
+      "customer": [
+        {
+          "inn": "4217084532",
+          "title": "Общество с ограниченной ответственностью \"ЕВРОЭНЕРГОТРАНС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.21.22.120"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение аварийного ремонта магистральной тепловой сети Ø 630 мм ТК-109 – ТК-110 с секционирующими задвижками и площадкой обслуживания в 2026г.",
+      "viewDemandDate": "09.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psrb90fpf2b1bno",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psrb909dlh16dhs",
+      "price": "<div class='aright'>3 280 432,34 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025447",
+      "filingNumber": "32616056315",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.06.2026 12:00&nbsp;МСК",
+      "summationDate": "17.06.2026 00:00",
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "6155043551",
+        "title": "Общество с ограниченной ответственностью \"Шахтинская Газотурбинная Электростанция\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 10:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psrb90fpf2b1bno",
+      "customer": [
+        {
+          "inn": "6155043551",
+          "title": "Общество с ограниченной ответственностью \"Шахтинская Газотурбинная Электростанция\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.12.10.190"
+      ],
+      "type": "BUYING",
+      "title": "Поставка пункта коммерческого учета электроэнергии 6 кВ",
+      "viewDemandDate": "17.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psraq0v2hnhet90",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psraq0a7mf0skco",
+      "price": "<div class='aright'>695 775,76 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025438",
+      "filingNumber": "32616056242",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.06.2026 12:00&nbsp;МСК",
+      "summationDate": "18.06.2026 00:00",
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "7731480563",
+        "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 10:41",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psraq0v2hnhet90",
+      "customer": [
+        {
+          "inn": "7731480563",
+          "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.22.12.110"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 42.22.12.110 Выполнение строительно-монтажных работ для технологического присоединения к электрическим сетям заявителя ООО Парк Владивосток (P_25-ПЭС-5905 ТП НС) в Приморском крае, г. Владивосток»",
+      "viewDemandDate": "22.06.2026 00:00",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718u80000psratomko11f1ec",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psratob8eqf7f9k",
+      "price": "<div class='aright'>101 864 968,98 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Dmnds_Exam_fp",
+        "title": "Работа комиссии с первыми частями заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025442",
+      "filingNumber": "32616056121",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 10:00&nbsp;МСК",
+      "summationDate": "08.07.2026 00:00",
+      "regionCodes": [
+        "Приморский, край"
+      ],
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "1510012774",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РУСГИДРО СНАБЖЕНИЕ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 10:29",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psratomko11f1ec",
+      "customer": [
+        {
+          "inn": "2801108200",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДАЛЬНЕВОСТОЧНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.30.15.299",
+        "32.30.14.119",
+        "32.30.15.112",
+        "32.30.15.113",
+        "32.30.15.111"
+      ],
+      "type": "BUYING",
+      "title": "Поставка спортивного инвентаря",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psr7pbif23e25bo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psr7pbdiirotbkk",
+      "price": "<div class='aright'>94 303,99 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Rejected",
+        "title": "Отказ от проведения закупки"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025407",
+      "filingNumber": "32616055145",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.06.2026 06:00&nbsp;МСК",
+      "summationDate": "05.06.2026 00:00",
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "8607008654",
+        "title": "ЛАНГЕПАССКОЕ ГОРОДСКОЕ МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"СПОРТИВНАЯ ШКОЛА \"ЛАНГЕПАС\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 08:04",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psr7pbif23e25bo",
+      "customer": [
+        {
+          "inn": "8607008654",
+          "title": "ЛАНГЕПАССКОЕ ГОРОДСКОЕ МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"СПОРТИВНАЯ ШКОЛА \"ЛАНГЕПАС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.30.11.120",
+        "22.23.19.111",
+        "22.23.19.111",
+        "22.23.19.111",
+        "22.23.19.111",
+        "22.23.19.111",
+        "23.99.13.121",
+        "20.30.22.170",
+        "16.10.10.111",
+        "16.10.10.111",
+        "16.10.10.111",
+        "23.51.12.115",
+        "22.21.41.112",
+        "25.99.29.121",
+        "25.99.29.121",
+        "20.30.21.130",
+        "25.73.20.120",
+        "25.73.20.120",
+        "20.16.40.140",
+        "20.16.40.140",
+        "22.23.19.190",
+        "23.63.10.000",
+        "16.21.12.111",
+        "16.21.12.111",
+        "23.62.10.000",
+        "23.62.10.000",
+        "23.62.10.000",
+        "25.94.11.120",
+        "25.94.11.120",
+        "25.94.11.120",
+        "25.94.11.120",
+        "20.52.10.110",
+        "23.64.10.110",
+        "23.64.10.110",
+        "23.64.10.110",
+        "20.30.22.120",
+        "16.23.11.130",
+        "16.23.11.130",
+        "22.23.11.000",
+        "23.31.10.121",
+        "23.31.10.122",
+        "32.91.19.190",
+        "25.94.11.120",
+        "25.94.11.120",
+        "24.10.62.212",
+        "20.52.10.110",
+        "20.16.57.120",
+        "28.14.13.162",
+        "23.64.10.110",
+        "25.72.14.190",
+        "25.12.10.190",
+        "24.10.31.000",
+        "16.23.19.000",
+        "25.94.11.190",
+        "25.94.11.190",
+        "25.94.11.190",
+        "25.94.11.190",
+        "29.32.30.233",
+        "25.99.23.000",
+        "23.91.12.120",
+        "23.91.12.120",
+        "23.99.12.110",
+        "28.21.11.111",
+        "22.19.30.138",
+        "22.29.21.000",
+        "25.72.12.111",
+        "25.72.12.111",
+        "25.72.12.111",
+        "25.72.12.111",
+        "25.99.29.190",
+        "25.73.20.120",
+        "20.52.10.190",
+        "25.12.10.190",
+        "25.99.29.190",
+        "23.64.10.120",
+        "22.23.15.000",
+        "22.23.19.190",
+        "22.23.19.190",
+        "22.23.19.190",
+        "22.23.19.190",
+        "24.42.22.121",
+        "23.64.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка строительных материалов для текущего обслуживания объектов ФГБОУ ВО \"ИГУ\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psq35dara7c6uqg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psq35ctip04bnbc",
+      "price": "<div class='aright'>2 416 630,03 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025217",
+      "filingNumber": "32616054772",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.06.2026 03:00&nbsp;МСК",
+      "summationDate": "10.06.2026 00:00",
+      "regionCodes": [
+        "Иркутская, обл"
+      ],
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "3808013278",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ИРКУТСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 05:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psq35dara7c6uqg",
+      "customer": [
+        {
+          "inn": "3808013278",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ИРКУТСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.20.13.000"
+      ],
+      "type": "BUYING",
+      "title": "Техническое обслуживание аккумуляторных батарей на ПС ЦСиП ВГОК; диагностика  (обслуживание) ПЗУ на ПС ЦСиП ВГОК; Техническое обслуживание ШУОТ, зарядно-выпрямительных устройств ПС-2, 4, 10, 11, 14, 15, 17, 18\n",
+      "viewDemandDate": "16.06.2026 00:00",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psr1su8la4ba82s",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psr1su015n3big4",
+      "price": "<div class='aright'>4 662 450,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Dmnds_Exam_sp",
+        "title": "Работа комиссии со вторыми частями заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025378",
+      "filingNumber": "32616054708",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.06.2026 06:00&nbsp;МСК",
+      "summationDate": "30.06.2026 00:00",
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "4217084532",
+        "title": "Общество с ограниченной ответственностью \"ЕВРОЭНЕРГОТРАНС\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 04:46",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psr1su8la4ba82s",
+      "customer": [
+        {
+          "inn": "4217084532",
+          "title": "Общество с ограниченной ответственностью \"ЕВРОЭНЕРГОТРАНС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по изготовлению и поставке атрибутики для обеспечения штаба студенческих отрядов",
+      "viewDemandDate": "04.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psqedbh3t08agtc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psqedb3p9b7c6u0",
+      "price": "<div class='aright'>172 335,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025350",
+      "filingNumber": "32616054238",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 12:00&nbsp;МСК",
+      "summationDate": "04.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7820006490",
+        "title": "Федеральное государственное бюджетное образовательное учреждение высшего образования \"Санкт-Петербургский государственный аграрный университет\""
+      },
+      "placementType": "Запрос котировок в эл. форме",
+      "placementDateTime": "27.05.2026 17:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psqedbh3t08agtc",
+      "customer": [
+        {
+          "inn": "7820006490",
+          "title": "Федеральное государственное бюджетное образовательное учреждение высшего образования \"Санкт-Петербургский государственный аграрный университет\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.11.43.000"
+      ],
+      "type": "BUYING",
+      "title": "Поставка тупиковой комплектной трансформаторной подстанции (КТП-К/ВК-400-10/0,4)",
+      "viewDemandDate": "09.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psqd2cte8664os0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psqd2cek2i4hf68",
+      "price": "<div class='aright'>3 844 925,16 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025339",
+      "filingNumber": "32616053953",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 12:00&nbsp;МСК",
+      "summationDate": "10.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7731480563",
+        "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.05.2026 16:45",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psqd2cte8664os0",
+      "customer": [
+        {
+          "inn": "7731480563",
+          "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "Реконструкция системы отопления здания модульного сборно-разборного РЭС Брянские электрические сети по адресу г. Брянск, ул. Речная 93Б с установкой газовых котлов (2 шт.)",
+      "viewDemandDate": "16.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psq9efteppn5btc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psq9efctln8ka38",
+      "price": "<div class='aright'>4 006 684,96 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025288",
+      "filingNumber": "32616053645",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "11.06.2026 12:00&nbsp;МСК",
+      "summationDate": "17.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7731480563",
+        "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.05.2026 16:06",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq9efteppn5btc",
+      "customer": [
+        {
+          "inn": "7731480563",
+          "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "79.90.39.190"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 79.90.39.190 Оказание услуг по организации мероприятия «День здоровья» для персонала ООО «РГЦР» и деловых партнеров из Группы РусГидро в г. Санкт-Петербурге и г. Красноярске",
+      "viewDemandDate": "04.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psqbm65l8c085vs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psqbm5rk59lnnj8",
+      "price": "<div class='aright'>1 795 626,00 руб.<br/>(в т.ч. НДС 5%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025331",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 10:00&nbsp;МСК",
+      "summationDate": "04.06.2026 00:00",
+      "regionCodes": [
+        "Красноярский, край"
+      ],
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "2466296773",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+      },
+      "placementType": "упрощенная закупка в электронной форме",
+      "placementDateTime": "27.05.2026 15:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psqbm65l8c085vs",
+      "customer": [
+        {
+          "inn": "2466296773",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.32.14.120"
+      ],
+      "type": "BUYING",
+      "title": "Поставка провода СИП",
+      "viewDemandDate": "18.06.2026 00:00",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psq9ihld6fg5mlo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psq9ih6kpjjm71o",
+      "price": "<div class='aright'>43 201 585,92 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Dmnds_Exam_sp",
+        "title": "Работа комиссии со вторыми частями заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025291",
+      "filingNumber": "32616053581",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 12:00&nbsp;МСК",
+      "summationDate": "25.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7731480563",
+        "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.05.2026 15:58",
+      "deposit": "864 031,72 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq9ihld6fg5mlo",
+      "customer": [
+        {
+          "inn": "7731480563",
+          "title": "Общество с ограниченной ответственностью БрянскЭлектро"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "28.99.39.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Мониторинг цен. МТР Чебоксарская ГЭС_ВУ АСУТП",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000psqblq6kp3gllnk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000psqblq6sn551fs0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260025330",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 15:43",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.06.2026 23:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "2466296773",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+      },
+      "placementType": "Мониторинг рынка",
+      "placementDateTime": "27.05.2026 15:43",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000psqblq6sn551fs0",
+      "customer": [
+        {
+          "inn": "2466296773",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО ЦИФРОВЫЕ РЕШЕНИЯ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.161",
+        "21.20.24.161",
+        "21.20.24.161",
+        "21.20.24.161"
+      ],
+      "type": "BUYING",
+      "title": "Поставка кровеостанавливающих материалов для стоматологической клиники",
+      "viewDemandDate": "08.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psqb28o8nvnsrao",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psqb28fpmlt2k2s",
+      "price": "<div class='aright'>267 798,41 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025326",
+      "filingNumber": "32616053389",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 07:00&nbsp;МСК",
+      "summationDate": "08.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "6658017389",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "27.05.2026 15:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psqb28o8nvnsrao",
+      "customer": [
+        {
+          "inn": "6658017389",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.99.90.190"
+      ],
+      "type": "BUYING",
+      "title": "работы по бурению скважины на водозаборе в пос. Великолукское",
+      "viewDemandDate": "05.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psqauv83s84u110",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psqauv1fgpe49g4",
+      "price": "<div class='aright'>2 482 368,33 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025323",
+      "filingNumber": "32616053270",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.06.2026 12:00&nbsp;МСК",
+      "summationDate": "09.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "3916016614",
+        "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ \"ГВАРДЕЙСКИЙ МУНИЦИПАЛЬНЫЙ ОКРУГ КАЛИНИНГРАДСКОЙ ОБЛАСТИ\" \"КОМСЕРВИС\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.05.2026 15:22",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psqauv83s84u110",
+      "customer": [
+        {
+          "inn": "3916016614",
+          "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ \"ГВАРДЕЙСКИЙ МУНИЦИПАЛЬНЫЙ ОКРУГ КАЛИНИНГРАДСКОЙ ОБЛАСТИ\" \"КОМСЕРВИС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по монтажу системы видеонаблюдения на территории Восточного участка Крепостной стены II этап (от д.42 по ул. Исаковского до ул. Тимирязева), в соответствии с заключаемым договором с ООО «СтройПодряд»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psq9v608vvidm0g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psq9t31fsacdv90",
+      "price": "<div class='aright'>0,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Exam",
+        "title": "Работа комиссии"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025298",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2026 16:00&nbsp;МСК",
+      "summationDate": "29.05.2026 00:00",
+      "regionCodes": [
+        "Смоленская, обл"
+      ],
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Запрос информации (RFI)",
+      "placementDateTime": "27.05.2026 14:47",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq9v608vvidm0g",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "30.92.40.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка колясок детских",
+      "viewDemandDate": "03.06.2026 00:00",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psq8bljaumrrjq4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psq888i063r32jc",
+      "price": "<div class='aright'>7 689 200,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Exam",
+        "title": "Работа комиссии"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025277",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 12:00&nbsp;МСК",
+      "summationDate": "03.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7805085289",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НЕВСКАЯ ПРАКТИКА\""
+      },
+      "placementType": "Запрос предложений",
+      "placementDateTime": "27.05.2026 13:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq8bljaumrrjq4",
+      "customer": [
+        {
+          "inn": "7805085289",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НЕВСКАЯ ПРАКТИКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.11.32.120"
+      ],
+      "type": "BUYING",
+      "title": "Поставка газовых генераторов",
+      "viewDemandDate": "03.06.2026 00:00",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718ug0000psq7q4sq23nhfps",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psq7ijmvn0ghtm0",
+      "price": "<div class='aright'>24 568 296,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Dmnds_Exam",
+        "title": "Работа комиссии"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025266",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 12:00&nbsp;МСК",
+      "summationDate": "03.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7805085289",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НЕВСКАЯ ПРАКТИКА\""
+      },
+      "placementType": "Запрос предложений",
+      "placementDateTime": "27.05.2026 13:34",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq7q4sq23nhfps",
+      "customer": [
+        {
+          "inn": "7805085289",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НЕВСКАЯ ПРАКТИКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "49.41.19.900"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по перевозке молочной продукции по направлению – Волгоградская область (от 5 до 20 тонн)",
+      "viewDemandDate": "09.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psq5h3vjggodq60",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psq5h3oi9scas88",
+      "price": "<div class='aright'>8 043 300,18 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025245",
+      "filingNumber": "32616051773",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 10:00&nbsp;МСК",
+      "summationDate": "09.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "2632099051",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПЯТИГОРСКИЙ МОЛОЧНЫЙ КОМБИНАТ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "27.05.2026 12:17",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq5h3vjggodq60",
+      "customer": [
+        {
+          "inn": "2632099051",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПЯТИГОРСКИЙ МОЛОЧНЫЙ КОМБИНАТ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "80.10.12.100"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по охране объектов",
+      "viewDemandDate": "04.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psq5ntlm57akga8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psq5ntdr92phtck",
+      "price": "<div class='aright'>1 490 163,60 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025249",
+      "filingNumber": "32616051752",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 07:00&nbsp;МСК",
+      "summationDate": "05.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "8901039142",
+        "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЛЯРНЫЙ КРУГ\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.05.2026 12:14",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psq5ntlm57akga8",
+      "customer": [
+        {
+          "inn": "8901039142",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПОЛЯРНЫЙ КРУГ\""
+        }
+      ]
+    }
+  ]
+}

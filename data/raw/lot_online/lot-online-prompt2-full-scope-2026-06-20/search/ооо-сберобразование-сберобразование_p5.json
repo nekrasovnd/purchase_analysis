@@ -1,0 +1,1050 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 120,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.170"
+      ],
+      "type": "BUYING",
+      "title": "Аптечки для оказания первой помощи",
+      "viewDemandDate": "10.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pt0eb6ssoqp403c",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pt0eb6n02ggc1o0",
+      "price": "<div class='aright'>209 853,00 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025976",
+      "filingNumber": "32616067430",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.06.2026 08:00&nbsp;МСК",
+      "summationDate": "10.06.2026 00:00",
+      "placementDate": "01.06.2026",
+      "organizer": {
+        "inn": "6315800040",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"САМАРСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\""
+      },
+      "placementType": "Запрос цен",
+      "placementDateTime": "01.06.2026 09:14",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pt0eb6ssoqp403c",
+      "customer": [
+        {
+          "inn": "6315800040",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"САМАРСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.20.120"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг по организации ежедневного горячего питания обучающихся по программам начального общего образования",
+      "viewDemandDate": "09.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pssonrf2b1ici5k",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pssonr75kjbh77s",
+      "price": "<div class='aright'>2 228 447,52 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025779",
+      "filingNumber": "32616067213",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.06.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.06.2026 08:00&nbsp;МСК",
+      "summationDate": "10.06.2026 00:00",
+      "placementDate": "01.06.2026",
+      "organizer": {
+        "inn": "7404012519",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 34\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "01.06.2026 08:36",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pssonrf2b1ici5k",
+      "customer": [
+        {
+          "inn": "7404012519",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 34\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "46.90.10.000"
+      ],
+      "type": "SMALL_PURCHASE",
+      "title": "Поставка хозяйственных товаров",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pt0al1tmpocnado",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pt0al1tpq2el718",
+      "price": "<div class='aright'>20 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmallPurchase_St_Dmnds_Finished",
+        "title": "Завершена подача предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260025936",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.06.2026 06:59",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.06.2026 08:00&nbsp;МСК",
+      "summationDate": "",
+      "regionCodes": [
+        "Кемеровская, обл"
+      ],
+      "placementDate": "01.06.2026",
+      "organizer": {
+        "inn": "4202020832",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+      },
+      "placementType": "Малая закупка",
+      "placementDateTime": "01.06.2026 06:59",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pt0al1tpq2el718",
+      "customer": [
+        {
+          "inn": "4202020832",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "81.21.10.000"
+      ],
+      "type": "SMALL_PURCHASE",
+      "title": "услуги и работы по комплексному обслуживанию зданий и прилегающих к зданиям территорий",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pt0aauu1a78stdk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pt0aauu4pd1vq1c",
+      "price": "<div class='aright'>89 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmallPurchase_St_Dmnds_Finished",
+        "title": "Завершена подача предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260025933",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.06.2026 06:47",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.06.2026 07:45&nbsp;МСК",
+      "summationDate": "",
+      "regionCodes": [
+        "Кемеровская, обл"
+      ],
+      "placementDate": "01.06.2026",
+      "organizer": {
+        "inn": "4202020832",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+      },
+      "placementType": "Малая закупка",
+      "placementDateTime": "01.06.2026 06:47",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pt0aauu4pd1vq1c",
+      "customer": [
+        {
+          "inn": "4202020832",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.21.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Устройство подводящей сети хозяйственно-питьевого водопровода г.п. Виллози",
+      "viewDemandDate": "10.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psvu03nm44mlkbc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psvu03fmkqmcdo4",
+      "price": "<div class='aright'>11 827 394,06 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025911",
+      "filingNumber": "32616066477",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.06.2026 00:00&nbsp;МСК",
+      "summationDate": "15.06.2026 00:00",
+      "placementDate": "31.05.2026",
+      "organizer": {
+        "inn": "4720024228",
+        "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"УПРАВЛЕНИЕ ЖИЛИЩНОКОММУНАЛЬНЫМ ХОЗЯЙСТВОМ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ВИЛЛОЗСКОЕ СЕЛЬСКОЕ ПОСЕЛЕНИЕ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "31.05.2026 23:45",
+      "deposit": "118 273,94 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psvu03nm44mlkbc",
+      "customer": [
+        {
+          "inn": "4720024228",
+          "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"УПРАВЛЕНИЕ ЖИЛИЩНОКОММУНАЛЬНЫМ ХОЗЯЙСТВОМ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ВИЛЛОЗСКОЕ СЕЛЬСКОЕ ПОСЕЛЕНИЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.21.22.110"
+      ],
+      "type": "BUYING",
+      "title": "Устройство подводящей сети хозяйственно-питьевого водопровода дер. Рассколово",
+      "viewDemandDate": "10.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psvtcodnvdh3vcs",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psvtco65e3me63o",
+      "price": "<div class='aright'>14 498 605,33 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025910",
+      "filingNumber": "32616066476",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.06.2026 00:00&nbsp;МСК",
+      "summationDate": "15.06.2026 00:00",
+      "placementDate": "31.05.2026",
+      "organizer": {
+        "inn": "4720024228",
+        "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"УПРАВЛЕНИЕ ЖИЛИЩНОКОММУНАЛЬНЫМ ХОЗЯЙСТВОМ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ВИЛЛОЗСКОЕ СЕЛЬСКОЕ ПОСЕЛЕНИЕ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "31.05.2026 23:35",
+      "deposit": "144 986,05 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psvtcodnvdh3vcs",
+      "customer": [
+        {
+          "inn": "4720024228",
+          "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"УПРАВЛЕНИЕ ЖИЛИЩНОКОММУНАЛЬНЫМ ХОЗЯЙСТВОМ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ВИЛЛОЗСКОЕ СЕЛЬСКОЕ ПОСЕЛЕНИЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "31.01.11.150",
+        "31.01.12.122"
+      ],
+      "type": "BUYING",
+      "title": "Мебель ученическая",
+      "viewDemandDate": "08.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000pssu0il58ahthis",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000pssu0ig8rucbof8",
+      "price": "<div class='aright'>97 113,38 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025854",
+      "filingNumber": "32616065099",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "30.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "07.06.2026 23:59&nbsp;МСК",
+      "summationDate": "10.06.2026 00:00",
+      "placementDate": "29.05.2026",
+      "organizer": {
+        "inn": "2311063617",
+        "title": "МУНИЦИПАЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ ДЕТСКАЯ ШКОЛА ИСКУССТВ № 2 МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ГОРОД КРАСНОДАР"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "29.05.2026 15:40",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000pssu0il58ahthis",
+      "customer": [
+        {
+          "inn": "2311063617",
+          "title": "МУНИЦИПАЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ ДЕТСКАЯ ШКОЛА ИСКУССТВ № 2 МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ГОРОД КРАСНОДАР"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "56.29.20.120"
+      ],
+      "type": "BUYING",
+      "title": "Конкурс в электронной форме на право заключения договора на право заключения договора на оказание услуг по организации ежедневного горячего питания обучающихся по программам начального общего образования в МАОУ СОШ № 4, участниками которого могут являться только субъекты малого и среднего предпринимательства",
+      "viewDemandDate": "08.06.2026 00:00",
+      "lotStageGroupTitle": "Завершен прием заявок",
+      "uuid": "corebo19718u80000psste5rnrfnjt2c",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psste5k32vv3qf8",
+      "price": "<div class='aright'>1 685 620,56 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Dmnds_Exam_fp",
+        "title": "Работа комиссии с первыми частями заявок"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025846",
+      "filingNumber": "32616064886",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.06.2026 08:00&nbsp;МСК",
+      "summationDate": "08.06.2026 00:00",
+      "placementDate": "29.05.2026",
+      "organizer": {
+        "inn": "7404012501",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ  ШКОЛА  № 4\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "29.05.2026 15:18",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psste5rnrfnjt2c",
+      "customer": [
+        {
+          "inn": "7404012501",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ  ШКОЛА  № 4\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "49.32.11.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Перевозка пассажиров легковым ТС по городу Екатеринбургу, включая выезд в населенные пункты муниципального образования Екатеринбург",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pssnkjmoum6vos8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718u80000pssnkjn37ji7tkk",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-26000667000474",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.05.2026 13:02",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.06.2026 06:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "29.05.2026",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "29.05.2026 13:02",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718u80000pssnkjn37ji7tkk",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.20.40.140",
+        "62.01.29.000",
+        "74.90.20.144",
+        "74.90.20.144"
+      ],
+      "type": "BUYING",
+      "title": "Модернизации системы защиты информации для ГБУ \"РЕСПУБЛИКАНСКИЙ ЦЕНТР ОЦЕНКИ КАЧЕСТВА ОБРАЗОВАНИЯ\"",
+      "viewDemandDate": "04.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psrcm9ki889l3vg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psrcm9d2es8qsi8",
+      "price": "<div class='aright'>1 020 024,06 руб.<br/>(в т.ч. НДС 22%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025462",
+      "filingNumber": "32616056600",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 09:00&nbsp;МСК",
+      "summationDate": "04.06.2026 00:00",
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "7707049388",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+      },
+      "placementType": "Открытый запрос цен",
+      "placementDateTime": "28.05.2026 11:24",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psrcm9ki889l3vg",
+      "customer": [
+        {
+          "inn": "7707049388",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.30.15.299",
+        "32.30.14.119",
+        "32.30.15.112",
+        "32.30.15.113",
+        "32.30.15.111"
+      ],
+      "type": "BUYING",
+      "title": "Поставка спортивного инвентаря",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psr7pbif23e25bo",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psr7pbdiirotbkk",
+      "price": "<div class='aright'>94 303,99 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Rejected",
+        "title": "Отказ от проведения закупки"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025407",
+      "filingNumber": "32616055145",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.06.2026 06:00&nbsp;МСК",
+      "summationDate": "05.06.2026 00:00",
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "8607008654",
+        "title": "ЛАНГЕПАССКОЕ ГОРОДСКОЕ МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"СПОРТИВНАЯ ШКОЛА \"ЛАНГЕПАС\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 08:04",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psr7pbif23e25bo",
+      "customer": [
+        {
+          "inn": "8607008654",
+          "title": "ЛАНГЕПАССКОЕ ГОРОДСКОЕ МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"СПОРТИВНАЯ ШКОЛА \"ЛАНГЕПАС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "20.30.11.120",
+        "22.23.19.111",
+        "22.23.19.111",
+        "22.23.19.111",
+        "22.23.19.111",
+        "22.23.19.111",
+        "23.99.13.121",
+        "20.30.22.170",
+        "16.10.10.111",
+        "16.10.10.111",
+        "16.10.10.111",
+        "23.51.12.115",
+        "22.21.41.112",
+        "25.99.29.121",
+        "25.99.29.121",
+        "20.30.21.130",
+        "25.73.20.120",
+        "25.73.20.120",
+        "20.16.40.140",
+        "20.16.40.140",
+        "22.23.19.190",
+        "23.63.10.000",
+        "16.21.12.111",
+        "16.21.12.111",
+        "23.62.10.000",
+        "23.62.10.000",
+        "23.62.10.000",
+        "25.94.11.120",
+        "25.94.11.120",
+        "25.94.11.120",
+        "25.94.11.120",
+        "20.52.10.110",
+        "23.64.10.110",
+        "23.64.10.110",
+        "23.64.10.110",
+        "20.30.22.120",
+        "16.23.11.130",
+        "16.23.11.130",
+        "22.23.11.000",
+        "23.31.10.121",
+        "23.31.10.122",
+        "32.91.19.190",
+        "25.94.11.120",
+        "25.94.11.120",
+        "24.10.62.212",
+        "20.52.10.110",
+        "20.16.57.120",
+        "28.14.13.162",
+        "23.64.10.110",
+        "25.72.14.190",
+        "25.12.10.190",
+        "24.10.31.000",
+        "16.23.19.000",
+        "25.94.11.190",
+        "25.94.11.190",
+        "25.94.11.190",
+        "25.94.11.190",
+        "29.32.30.233",
+        "25.99.23.000",
+        "23.91.12.120",
+        "23.91.12.120",
+        "23.99.12.110",
+        "28.21.11.111",
+        "22.19.30.138",
+        "22.29.21.000",
+        "25.72.12.111",
+        "25.72.12.111",
+        "25.72.12.111",
+        "25.72.12.111",
+        "25.99.29.190",
+        "25.73.20.120",
+        "20.52.10.190",
+        "25.12.10.190",
+        "25.99.29.190",
+        "23.64.10.120",
+        "22.23.15.000",
+        "22.23.19.190",
+        "22.23.19.190",
+        "22.23.19.190",
+        "22.23.19.190",
+        "24.42.22.121",
+        "23.64.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка строительных материалов для текущего обслуживания объектов ФГБОУ ВО \"ИГУ\"",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psq35dara7c6uqg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psq35ctip04bnbc",
+      "price": "<div class='aright'>2 416 630,03 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025217",
+      "filingNumber": "32616054772",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "10.06.2026 03:00&nbsp;МСК",
+      "summationDate": "10.06.2026 00:00",
+      "regionCodes": [
+        "Иркутская, обл"
+      ],
+      "placementDate": "28.05.2026",
+      "organizer": {
+        "inn": "3808013278",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ИРКУТСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "28.05.2026 05:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psq35dara7c6uqg",
+      "customer": [
+        {
+          "inn": "3808013278",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ИРКУТСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100",
+        "14.19.99.100"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по изготовлению и поставке атрибутики для обеспечения штаба студенческих отрядов",
+      "viewDemandDate": "04.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psqedbh3t08agtc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psqedb3p9b7c6u0",
+      "price": "<div class='aright'>172 335,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025350",
+      "filingNumber": "32616054238",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 12:00&nbsp;МСК",
+      "summationDate": "04.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "7820006490",
+        "title": "Федеральное государственное бюджетное образовательное учреждение высшего образования \"Санкт-Петербургский государственный аграрный университет\""
+      },
+      "placementType": "Запрос котировок в эл. форме",
+      "placementDateTime": "27.05.2026 17:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psqedbh3t08agtc",
+      "customer": [
+        {
+          "inn": "7820006490",
+          "title": "Федеральное государственное бюджетное образовательное учреждение высшего образования \"Санкт-Петербургский государственный аграрный университет\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "21.20.24.161",
+        "21.20.24.161",
+        "21.20.24.161",
+        "21.20.24.161"
+      ],
+      "type": "BUYING",
+      "title": "Поставка кровеостанавливающих материалов для стоматологической клиники",
+      "viewDemandDate": "08.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psqb28o8nvnsrao",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psqb28fpmlt2k2s",
+      "price": "<div class='aright'>267 798,41 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025326",
+      "filingNumber": "32616053389",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.06.2026 07:00&nbsp;МСК",
+      "summationDate": "08.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "6658017389",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "27.05.2026 15:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psqb28o8nvnsrao",
+      "customer": [
+        {
+          "inn": "6658017389",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.99.90.190"
+      ],
+      "type": "BUYING",
+      "title": "работы по бурению скважины на водозаборе в пос. Великолукское",
+      "viewDemandDate": "05.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psqauv83s84u110",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psqauv1fgpe49g4",
+      "price": "<div class='aright'>2 482 368,33 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025323",
+      "filingNumber": "32616053270",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.06.2026 12:00&nbsp;МСК",
+      "summationDate": "09.06.2026 00:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "3916016614",
+        "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ \"ГВАРДЕЙСКИЙ МУНИЦИПАЛЬНЫЙ ОКРУГ КАЛИНИНГРАДСКОЙ ОБЛАСТИ\" \"КОМСЕРВИС\""
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.05.2026 15:22",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psqauv83s84u110",
+      "customer": [
+        {
+          "inn": "3916016614",
+          "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ \"ГВАРДЕЙСКИЙ МУНИЦИПАЛЬНЫЙ ОКРУГ КАЛИНИНГРАДСКОЙ ОБЛАСТИ\" \"КОМСЕРВИС\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "29.10.52.190"
+      ],
+      "type": "BUYING",
+      "title": "Поставка машинокомплекта автомобиля спортивного Багги 450",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000psq1sc237vt3cm8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000psq1sbrhfstp7lo",
+      "price": "<div class='aright'>1 404 500,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260025200",
+      "filingNumber": "32616050670",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2026 07:00&nbsp;МСК",
+      "summationDate": "03.06.2026 12:00",
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "8904050391",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ СПОРТИВНАЯ ШКОЛА \"НОРД\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.05.2026 09:57",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000psq1sc237vt3cm8",
+      "customer": [
+        {
+          "inn": "8904050391",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ СПОРТИВНАЯ ШКОЛА \"НОРД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "46.49.23.000"
+      ],
+      "type": "SMALL_PURCHASE",
+      "title": "Поставка канцелярских товаров",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000pspq3gbolqab7k0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pspq3gbs15mv458",
+      "price": "<div class='aright'>20 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmallPurchase_St_Dmnds_Finished",
+        "title": "Завершена подача предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260025151",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.05.2026 05:29",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.05.2026 06:30&nbsp;МСК",
+      "summationDate": "",
+      "regionCodes": [
+        "Кемеровская, обл"
+      ],
+      "placementDate": "27.05.2026",
+      "organizer": {
+        "inn": "4202020832",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+      },
+      "placementType": "Малая закупка",
+      "placementDateTime": "27.05.2026 05:29",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000pspq3gbs15mv458",
+      "customer": [
+        {
+          "inn": "4202020832",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.70.22.150",
+        "26.70.22.150"
+      ],
+      "type": "BUYING",
+      "title": "Поставка микроскопов",
+      "viewDemandDate": "16.06.2026 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psoocqb1192us9k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psoocq1u8n415ek",
+      "price": "<div class='aright'>8 729 438,45 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024969",
+      "filingNumber": "32616045433",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "15.06.2026 07:00&nbsp;МСК",
+      "summationDate": "17.06.2026 00:00",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "6658017389",
+        "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "26.05.2026 10:17",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psoocqb1192us9k",
+      "customer": [
+        {
+          "inn": "6658017389",
+          "title": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.30.14.121",
+        "32.30.14.123"
+      ],
+      "type": "BUYING",
+      "title": "На поставку спортивных тренажеров",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000psonsaf5r7es1p8",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000psonsa5dhitr8h0",
+      "price": "<div class='aright'>806 666,67 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD260024962",
+      "filingNumber": "32616045062",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.06.2026 08:00&nbsp;МСК",
+      "summationDate": "02.06.2026 00:00",
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "8605027154",
+        "title": "Муниципальное автономное учреждение дополнительного образования \"Спортивная школа \"Вымпел\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "26.05.2026 09:35",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000psonsaf5r7es1p8",
+      "customer": [
+        {
+          "inn": "8605027154",
+          "title": "Муниципальное автономное учреждение дополнительного образования \"Спортивная школа \"Вымпел\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "32.99.59.000"
+      ],
+      "type": "SMALL_PURCHASE",
+      "title": "Товары канцелярские",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718u80000psojlqra0usf1ag",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000psojlqrdj18ldtk",
+      "price": "<div class='aright'>20 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmallPurchase_St_Rejected",
+        "title": "Отменена подача предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD260024916",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.05.2026 07:06",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.05.2026 08:05&nbsp;МСК",
+      "summationDate": "",
+      "regionCodes": [
+        "Кемеровская, обл"
+      ],
+      "placementDate": "26.05.2026",
+      "organizer": {
+        "inn": "4202020832",
+        "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+      },
+      "placementType": "Малая закупка",
+      "placementDateTime": "26.05.2026 07:06",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Asmlprc19718u80000psojlqrdj18ldtk",
+      "customer": [
+        {
+          "inn": "4202020832",
+          "title": "МУНИЦИПАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ДЕТСКАЯ ХУДОЖЕСТВЕННАЯ ШКОЛА № 3 ИМЕНИ Н.Я. КОЗЛЕНКО\""
+        }
+      ]
+    }
+  ]
+}

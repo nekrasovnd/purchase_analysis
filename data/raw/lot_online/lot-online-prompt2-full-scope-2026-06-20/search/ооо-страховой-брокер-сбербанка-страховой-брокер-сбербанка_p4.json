@@ -1,0 +1,611 @@
+{
+  "userAutorized": false,
+  "count": 13,
+  "totalCount": 80,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.12.12.190"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по разработке научно-проектной документации на проведение работ по сохранению  выявленного объекта культурного наследия \"Дом Глазуновых\", по адресу: Невский пр. д. 60 лит. И и объекта культурного наследия регионального значения \"Дом жилой страхового общества \"Саламандра и др.\" (ремонт, реставрация, приспособления для современного использования) для нужд Санкт-петербургского государственного автономного учреждения культуры \"Кинотеатр \"Аврора\"",
+      "viewDemandDate": "03.05.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000of6devcrv53olq0",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000of6deut38hv81lk",
+      "price": "<div class='aright'>28 045 158,77 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Rejected",
+        "title": "Отказ от проведения закупки"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0680623001MC",
+      "filingNumber": "32312309119",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.04.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.05.2023 09:00&nbsp;МСК",
+      "summationDate": "05.05.2023 00:00",
+      "placementDate": "19.04.2023",
+      "organizer": {
+        "inn": "7808005066",
+        "title": "\"КИНОТЕАТР \"АВРОРА\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "19.04.2023 16:56",
+      "deposit": "280 451,59 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000of6devcrv53olq0",
+      "customer": [
+        {
+          "inn": "7808005066",
+          "title": "\"КИНОТЕАТР \"АВРОРА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "71.11.22.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Комплексный ремонт отделения почтовой связи формата «Сельское ОПС» УФПС Ростовской области, расположенного по адресу: 346642, Ростовская обл., Семикаракорский р-н, хутор Страхов, Почтовый пер., дом 17",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000od5o40ctb1ptf1g",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000od5o40d3np65mlo",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-23000616300083",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.02.2023 10:54",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.03.2023 00:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "28.02.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Ростовской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "28.02.2023 10:54",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000od5o40d3np65mlo",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Ростовской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.39.19.190"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Комплексный ремонт отделения почтовой связи формата «Сельское ОПС» УФПС Ростовской области, расположенного по адресу: 346642, Ростовская обл., Семикаракорский р-н, хутор Страхов, Почтовый пер., дом 17",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000od5o40ctg54jkuk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000od5o40d3np65mlo",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-23000616300083",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.02.2023 10:54",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.03.2023 00:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "28.02.2023",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Ростовской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "28.02.2023 10:54",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000od5o40d3np65mlo",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Ростовской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.02.30.000"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг по сопровождению и технической поддержке программного продукта «Медицинская Информационная Система «Комплекс Программных Средств «Система Автоматизации Медико-Страхового Обслуживания Населения» «САМСОН»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ocjll8ca1q9h168",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ocjll83v3dn7cjk",
+      "price": "<div class='aright'>270 585,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0624423002MQ",
+      "filingNumber": "32312116542",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "14.02.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.02.2023 09:00&nbsp;МСК",
+      "summationDate": "22.02.2023 00:00",
+      "placementDate": "14.02.2023",
+      "organizer": {
+        "inn": "0816019091",
+        "title": "Бюджетное учреждение Республики Калмыкия \"Республиканский центр специализированных видов медицинской помощи №2 \"Сулда\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "14.02.2023 09:51",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ocjll8ca1q9h168",
+      "customer": [
+        {
+          "inn": "0816019091",
+          "title": "Бюджетное учреждение Республики Калмыкия \"Республиканский центр специализированных видов медицинской помощи №2 \"Сулда\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.10.1"
+      ],
+      "type": "BUYING",
+      "title": "22Т7310060.0136. Оказание медицинских услуг по санаторно-курортному лечению работников не ранее чем за пять лет до достижения ими возраста, дающего право на назначение страховой пенсии по старости в соответствии с пенсионным законодательством для нужд филиала ПАО «Россети Северо-Запад» в Республике Коми",
+      "viewDemandDate": "16.11.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000o824jmvpb7u5kjc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o824jkurnptjmkc",
+      "price": "<div class='aright'>1 500 000,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz22574DP",
+      "filingNumber": "32211785546",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "24.10.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.11.2022 12:00&nbsp;МСК",
+      "summationDate": "23.11.2022 00:00",
+      "regionCodes": [
+        "Коми, Респ"
+      ],
+      "placementDate": "24.10.2022",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "24.10.2022 09:18",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o824jmvpb7u5kjc",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.91.19.110"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение работ по капитальному ремонту кровли здания участка по переработке страховой почты, письменной корреспонденции и произведении печати по адресу: 628414, г.Сургут, ул.Привокзальная д.29 для нужд УФПС ХМАО-Югра",
+      "viewDemandDate": "25.08.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000o52n718h590501s",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000o52n6vbvpv47epo",
+      "price": "<div class='aright'>9 999 331,20 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-22000667000148",
+      "filingNumber": "32211612783",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.08.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.08.2022 06:00&nbsp;МСК",
+      "summationDate": "29.08.2022 00:00",
+      "placementDate": "11.08.2022",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "11.08.2022 06:19",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000o52n718h590501s",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Ханты-Мансийского Автономного Округа - Югра"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "27.33.11.130"
+      ],
+      "type": "BUYING",
+      "title": "Контроллеры для страхового запаса",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000o2gf9hv84l29714",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000o2gf9h9j1r40s7o",
+      "price": "<div class='aright'>7 800 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "sahae22144MQ",
+      "filingNumber": "32211457925",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "09.06.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.06.2022 10:00&nbsp;МСК",
+      "summationDate": "06.07.2022 00:00",
+      "regionCodes": [
+        "Саха /Якутия/, Респ"
+      ],
+      "placementDate": "09.06.2022",
+      "organizer": {
+        "inn": "1435117944",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"САХАЭНЕРГО\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "09.06.2022 07:37",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000o2gf9hv84l29714",
+      "customer": [
+        {
+          "inn": "1435117944",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"САХАЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "17.29.11.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Адресный ярлык к страховым мешкам ф.17",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ntbj91j7epmip1k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ntbj91jntgqpq54",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-22000745300003",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.01.2022 07:34",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.02.2022 07:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "31.01.2022",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Челябинской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "31.01.2022 07:34",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ntbj91jntgqpq54",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Челябинской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "17.29.11.110"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Адресный ярлык на сумку страховую",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ntbj91j7m8vg130",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ntbj91jntgqpq54",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-22000745300003",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.01.2022 07:34",
+      "lotNumber": 2,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "08.02.2022 07:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "31.01.2022",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Челябинской области"
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "31.01.2022 07:34",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ntbj91jntgqpq54",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Челябинской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "86.90.19.140"
+      ],
+      "type": "BUYING",
+      "title": "21К0731060.0272. Оказание услуг по санаторно-курортному лечению работников не ранее чем за пять лет до достижения ими возраста, дающего право на назначение страховой пенсии по старости в соответствии с пенсионным законодательством для нужд филиала ПАО «Россети Северо-Запад» в Республике Коми",
+      "viewDemandDate": "02.12.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nqccro44l897qlc",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nqccrngde3rc9ps",
+      "price": "<div class='aright'>2 720 900,00 руб.<br/>(без НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz21781DP",
+      "filingNumber": "32110831483",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.11.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.11.2021 10:00&nbsp;МСК",
+      "summationDate": "09.12.2021 00:00",
+      "regionCodes": [
+        "Коми, Респ"
+      ],
+      "placementDate": "18.11.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "18.11.2021 09:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nqccro44l897qlc",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Выполнение строительно-монтажных работ по объекту  филиала ПАО «Россети Кубань» Сочинские электрические сети: «Восстановление устойчивости и несущей способности, а также предотвращение смещения опоры No 62 КВЛ 110 кВ Джубгинская ТЭС-Архипо-Осиповка с совместным подвесом кабельно-воздушной линии (110 кВ) Джубга-Архипо-Осиповка по причине воздействия оползня » (Страховой случай)",
+      "viewDemandDate": "31.08.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nmjicc6rqlie10c",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nmjicbn4fppoosc",
+      "price": "<div class='aright'>17 687 618,60 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "kuben21007MC",
+      "filingNumber": "32110558860",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.08.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.08.2021 11:00&nbsp;МСК",
+      "summationDate": "08.09.2021 00:00",
+      "regionCodes": [
+        "Краснодарский, край"
+      ],
+      "placementDate": "16.08.2021",
+      "organizer": {
+        "inn": "2309001660",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ КУБАНЬ\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "16.08.2021 13:54",
+      "deposit": "353 752,37 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nmjicc6rqlie10c",
+      "customer": [
+        {
+          "inn": "2309001660",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ КУБАНЬ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "13.92.21.110"
+      ],
+      "type": "BUYING",
+      "title": "Поставка мешков для проекта Сбербанк для нужд УФПС Свердловской области",
+      "viewDemandDate": "22.04.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nh205690dvornt8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nh2055986v6le28",
+      "price": "<div class='aright'>115 404,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-21000667000045",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.04.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "16.04.2021 06:00&nbsp;МСК",
+      "summationDate": "29.04.2021 00:00",
+      "placementDate": "31.03.2021",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Свердловской области"
+      },
+      "placementType": "Аукцион",
+      "placementDateTime": "31.03.2021 14:22",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nh205690dvornt8",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Свердловской области"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "22.22.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Поставка упаковочных материалов в рамках договора с ПАО Сбербанк для нужд УФПС Нижегородской области",
+      "viewDemandDate": "10.12.2020 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nc6evk3e54qmgnc",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nc6evir8t5plu8s",
+      "price": "<div class='aright'>2 150 790,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspAuctionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RAD000-20000631700135",
+      "filingNumber": "32009744458",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "01.12.2020 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.12.2020 10:00&nbsp;МСК",
+      "summationDate": "17.12.2020 00:00",
+      "placementDate": "30.11.2020",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "Управление федеральной почтовой связи Самарской области"
+      },
+      "placementType": "Аукцион в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "30.11.2020 19:07",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nc6evk3e54qmgnc",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "Управление федеральной почтовой связи Нижегородской области"
+        }
+      ]
+    }
+  ]
+}

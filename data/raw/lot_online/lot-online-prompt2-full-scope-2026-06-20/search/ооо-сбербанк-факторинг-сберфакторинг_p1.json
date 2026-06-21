@@ -1,0 +1,55 @@
+{
+  "userAutorized": false,
+  "count": 1,
+  "totalCount": 20,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.19"
+      ],
+      "type": "BUYING",
+      "title": "21Т0731010.0254. Оказание услуг агентского факторинга с возобновляемым лимитом 500 000 000 (пятьсот миллионов) рублей 00 копеек для нужд ПАО «Россети Северо-Запад»",
+      "viewDemandDate": "08.02.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nrr13l6joolb7ss",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nrr13kilkrrj0bg",
+      "price": "<div class='aright'>291 900 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz211208DP",
+      "filingNumber": "32110987555",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "24.12.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "31.01.2022 12:00&nbsp;МСК",
+      "summationDate": "11.02.2022 00:00",
+      "regionCodes": [
+        "Санкт-Петербург, г"
+      ],
+      "placementDate": "24.12.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "24.12.2021 14:32",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nrr13l6joolb7ss",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    }
+  ]
+}

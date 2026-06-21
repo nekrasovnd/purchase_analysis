@@ -16,6 +16,7 @@ src/purchase_analysis.egg-info/entry_points.txt
 src/purchase_analysis.egg-info/requires.txt
 src/purchase_analysis.egg-info/top_level.txt
 src/purchase_analysis/clients/__init__.py
+src/purchase_analysis/clients/b2b_center.py
 src/purchase_analysis/clients/cbr.py
 src/purchase_analysis/clients/eis.py
 src/purchase_analysis/clients/lot_online.py
@@ -23,11 +24,13 @@ src/purchase_analysis/clients/roseltorg.py
 src/purchase_analysis/clients/sberb2b.py
 src/purchase_analysis/clients/sberbank_ast.py
 src/purchase_analysis/clients/tektorg.py
+src/purchase_analysis/clients/tender_pro.py
 src/purchase_analysis/clients/zakazrf.py
 src/purchase_analysis/utils/__init__.py
 src/purchase_analysis/utils/io.py
 src/purchase_analysis/utils/text.py
 tests/test_analysis_enrichment.py
+tests/test_b2b_center.py
 tests/test_documents.py
 tests/test_eis_payload.py
 tests/test_entity_resolution.py
@@ -37,4 +40,5 @@ tests/test_roseltorg_parsing.py
 tests/test_sberb2b.py
 tests/test_sberbank_ast.py
 tests/test_tektorg.py
+tests/test_tender_pro.py
 tests/test_zakazrf.py

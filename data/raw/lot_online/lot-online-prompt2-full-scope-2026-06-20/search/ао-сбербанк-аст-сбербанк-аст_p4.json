@@ -1,0 +1,991 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 100,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.12.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения Договора на выполнение работ по ремонту средств связи АСТУ для нужд ПАО «Россети Центр» (филиала «Тверьэнерго»)",
+      "viewDemandDate": "28.12.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000oa6m8almhetg680",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000oa6m89dr83o5c30",
+      "price": "<div class='aright'>1 320 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "TVREN22037DP",
+      "filingNumber": "32211963877",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.12.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.12.2022 12:00&nbsp;МСК",
+      "summationDate": "29.12.2022 00:00",
+      "regionCodes": [
+        "Тверская, обл"
+      ],
+      "placementDate": "16.12.2022",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Тверьэнерго\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "16.12.2022 15:55",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000oa6m8almhetg680",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.11.10.110"
+      ],
+      "type": "BUYING",
+      "title": "Ремонт средств АСТУ и связи",
+      "viewDemandDate": "24.11.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000o8lspkhs9j4c1q8",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o8lspjbkmot5jr8",
+      "price": "<div class='aright'>819 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "KIROV22045MP",
+      "filingNumber": "32211828875",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "08.11.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.11.2022 11:00&nbsp;МСК",
+      "summationDate": "29.11.2022 00:00",
+      "regionCodes": [
+        "Кировская, обл"
+      ],
+      "placementDate": "08.11.2022",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КИРОВЭНЕРГО\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "08.11.2022 17:34",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o8lspkhs9j4c1q8",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КИРОВЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "62.01.29.000"
+      ],
+      "type": "BUYING",
+      "title": "Услуги по сопровождению системы мониторинга оборудования АСТУ и СДТУ",
+      "viewDemandDate": "14.12.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000o8e75eml7qmep2o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000o8e75cmtjburu04",
+      "price": "<div class='aright'>3 722 181,17 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr22723DP",
+      "filingNumber": "32211817288",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "02.11.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.11.2022 11:00&nbsp;МСК",
+      "summationDate": "14.12.2022 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "02.11.2022",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "02.11.2022 18:17",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000o8e75eml7qmep2o",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.12.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Право заключения договора на выполнение работ по ремонту средств связи (АСТУ) для нужд ПАО «Россети Центр» (филиала «Смоленскэнерго»)",
+      "viewDemandDate": "07.10.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000o6p76lsdjd39bu8",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000o6p76kra5ceolb0",
+      "price": "<div class='aright'>2 556 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "SMLEN22038DP",
+      "filingNumber": "32211710237",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.09.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "30.09.2022 12:00&nbsp;МСК",
+      "summationDate": "14.10.2022 00:00",
+      "regionCodes": [
+        "Смоленская, обл"
+      ],
+      "placementDate": "22.09.2022",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Смоленскэнерго \""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "22.09.2022 15:11",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000o6p76lsdjd39bu8",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "46.52.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Поставка оборудования АСТУ для техперевооружения ПС 35/10 кВ Мишковка с заменой оборудования систем телемеханики (1шт) и каналов связи филиала ПАО «Россети Центр» - «Брянскэнерго»",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000o5bt9gvf78kvd6s",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000o5bt9foprjmafts",
+      "price": "<div class='aright'>2 109 360,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "RBREN22033MQ",
+      "filingNumber": "32211629170",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.08.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.08.2022 12:00&nbsp;МСК",
+      "summationDate": "29.08.2022 00:00",
+      "regionCodes": [
+        "Брянская, обл"
+      ],
+      "placementDate": "18.08.2022",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Брянскэнерго\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "18.08.2022 10:52",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000o5bt9gvf78kvd6s",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.30"
+      ],
+      "type": "BUYING",
+      "title": "22Т0420060.0014. Поставка запасных частей к оборудованию АСТУ нужд ПО «ЮЭС» филиала ПАО «Россети Северо-Запад» в Республике Коми",
+      "viewDemandDate": "28.06.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000o2s1hlp2bnarcf8",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000o2s1hjkhha8vpso",
+      "price": "<div class='aright'>1 160 344,25 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz22244DP",
+      "filingNumber": "32211478467",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "17.06.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "24.06.2022 10:00&nbsp;МСК",
+      "summationDate": "30.06.2022 00:00",
+      "regionCodes": [
+        "Коми, Респ"
+      ],
+      "placementDate": "17.06.2022",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "17.06.2022 09:05",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000o2s1hlp2bnarcf8",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.30"
+      ],
+      "type": "BUYING",
+      "title": "22Т0420060.0006. Поставка запасных частей к оборудованию АСТУ для нужд ПО \"ЮЭС\" филиала ПАО \"Россети Северо-Запад\" в Республике Коми",
+      "viewDemandDate": "28.03.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nv1p737mccgossk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nv1p6tq3dbdgqdg",
+      "price": "<div class='aright'>963 207,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz22073DP",
+      "filingNumber": "32211217126",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "14.03.2022 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.03.2022 10:00&nbsp;МСК",
+      "summationDate": "11.04.2022 00:00",
+      "regionCodes": [
+        "Коми, Респ"
+      ],
+      "placementDate": "14.03.2022",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "14.03.2022 09:53",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nv1p737mccgossk",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "95.12.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Право на заключение Договора на выполнение работ по ремонту средств связи (АСТУ) для нужд ПАО «Россети Центр» (филиала «Тверьэнерго»).",
+      "viewDemandDate": "21.01.2022 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ns2o0ifhff0qgkk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ns2o0hvv5ojunco",
+      "price": "<div class='aright'>1 320 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "TVREN21014DP",
+      "filingNumber": "32111013591",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "30.12.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.01.2022 12:00&nbsp;МСК",
+      "summationDate": "25.01.2022 00:00",
+      "regionCodes": [
+        "Тверская, обл"
+      ],
+      "placementDate": "30.12.2021",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "Филиал ПАО \"Россети Центр\" - \"Тверьэнерго\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "30.12.2021 14:39",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ns2o0ifhff0qgkk",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.30"
+      ],
+      "type": "BUYING",
+      "title": "21К0732070.0540. Поставка оборудования для нужд службы АСТУ Новгородского филиала ПАО «Россети Северо-Запад»",
+      "viewDemandDate": "24.12.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nre17tne052ks1s",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nre162kj6q2suu4",
+      "price": "<div class='aright'>494 643,06 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mrsz_211190DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "14.12.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.12.2021 14:30&nbsp;МСК",
+      "summationDate": "24.12.2021 00:00",
+      "regionCodes": [
+        "Новгородская, обл"
+      ],
+      "placementDate": "14.12.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПАО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Сравнение цен",
+      "placementDateTime": "14.12.2021 11:59",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nre17tne052ks1s",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПАО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "46.69.19.190"
+      ],
+      "type": "BUYING",
+      "title": "право на заключение Договора на поставку аккумуляторов для оборудования АСТУ для нужд ПАО «Россети Центр» (филиалов «Костромаэнерго»).",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nqmreuk631dseo4",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nqmreu4iqv0f6bg",
+      "price": "<div class='aright'>906 537,60 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "paorc21080MQ",
+      "filingNumber": "32110868636",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "26.11.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.12.2021 12:00&nbsp;МСК",
+      "summationDate": "06.12.2021 00:00",
+      "regionCodes": [
+        "Костромская, обл"
+      ],
+      "placementDate": "26.11.2021",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "26.11.2021 12:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nqmreuk631dseo4",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "41.10.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Ремонт средств АСТУ и связи",
+      "viewDemandDate": "06.12.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nqkft3q4132iegg",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nqkft3f56hoatgo",
+      "price": "<div class='aright'>819 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "KIROV21016MP",
+      "filingNumber": "32110859332",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "24.11.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.12.2021 11:00&nbsp;МСК",
+      "summationDate": "13.12.2021 00:00",
+      "regionCodes": [
+        "Кировская, обл"
+      ],
+      "placementDate": "24.11.2021",
+      "organizer": {
+        "inn": "5260200603",
+        "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КИРОВЭНЕРГО\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "24.11.2021 17:40",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nqkft3q4132iegg",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ФИЛИАЛ ПАО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\"-\"КИРОВЭНЕРГО\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "33.20.4"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по сопровождению системы мониторинга оборудования АСТУ и СДТУ для нужд МКС – филиала ПАО «Россети Московский регион».",
+      "viewDemandDate": "17.12.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nqa4sh2q521u0j4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nqa4sgq9cl63gkk",
+      "price": "<div class='aright'>3 723 273,78 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "rssmr21093DP",
+      "filingNumber": "32110823632",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.11.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.12.2021 11:00&nbsp;МСК",
+      "summationDate": "17.12.2021 00:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "16.11.2021",
+      "organizer": {
+        "inn": "5036065113",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+      },
+      "placementType": "Запрос предложений в электронной форме",
+      "placementDateTime": "16.11.2021 15:07",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nqa4sh2q521u0j4",
+      "customer": [
+        {
+          "inn": "5036065113",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21.10.290"
+      ],
+      "type": "BUYING",
+      "title": "Поставка оборудования АСТУ для техперевооружения РП 6-10 кВ Дятьковского РЭС с заменой систем телемеханики для нужд ПАО «Россети Центр» (филиала «Брянскэнерго»)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nq5224g93fo9ni4",
+      "participant": false,
+      "features": [
+        "SMP",
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nq52246ojg0qm30",
+      "price": "<div class='aright'>4 274 988,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "paorc21061MQ",
+      "filingNumber": "32110813878",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.11.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.11.2021 12:00&nbsp;МСК",
+      "summationDate": "22.11.2021 00:00",
+      "regionCodes": [
+        "Брянская, обл"
+      ],
+      "placementDate": "12.11.2021",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "12.11.2021 16:27",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nq5224g93fo9ni4",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.30"
+      ],
+      "type": "BUYING",
+      "title": "21Т0732070.0352 Поставка материалов и комплектующих для АСТУ для нужд Новгородского филиала ПАО «Россети Северо-Запад»",
+      "viewDemandDate": "28.09.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nnrclsujvcuerl4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nnrcjq4g82n6pak",
+      "price": "<div class='aright'>258 358,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mrsz_21636DP",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "16.09.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "22.09.2021 14:00&nbsp;МСК",
+      "summationDate": "29.09.2021 00:00",
+      "regionCodes": [
+        "Новгородская, обл"
+      ],
+      "placementDate": "16.09.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПАО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Сравнение цен",
+      "placementDateTime": "16.09.2021 14:45",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nnrclsujvcuerl4",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПАО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21"
+      ],
+      "type": "BUYING",
+      "title": "21Т0410030.0011. Выполнение работ по объекту «Модернизация комплексов телемеханики АСТУ в Кирилловском РЭС на ПС 35кВ» (номер инвестиционного проекта F_000-23-1-04.30-0032) для нужд Вологодского филиала ПАО «МРСК Северо-Запада»",
+      "viewDemandDate": "21.09.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nn745m9t61du44k",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nn745kp00p7q0qg",
+      "price": "<div class='aright'>9 540 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz21480MP",
+      "filingNumber": "32110603432",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.08.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.09.2021 12:00&nbsp;МСК",
+      "summationDate": "30.09.2021 00:00",
+      "regionCodes": [
+        "Вологодская, обл"
+      ],
+      "placementDate": "31.08.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "31.08.2021 17:13",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nn745m9t61du44k",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21"
+      ],
+      "type": "BUYING",
+      "title": "21Т0410030.0013. Выполнение работ по объекту «Модернизация комплексов телемеханики АСТУ в Вашкинском РЭС на объектах ПС 110/35/10 кВ \"Вашки\", ПС 35/10 кВ \"Новокемская\". Оснащение комплексами телемеханики АСТУ ПС 35/10 кВ \"Андреевская\", \"Ивановская\", \"Пиксимово\"» (номер инвестиционного проекта F_000-23-1-04.30-0031) для нужд Вологодского филиала ПАО «МРСК Северо-Запада»",
+      "viewDemandDate": "21.09.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nn73u9puksd2ro4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nn73u8gk224jmf0",
+      "price": "<div class='aright'>14 280 000,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz21479MP",
+      "filingNumber": "32110603351",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.08.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.09.2021 12:00&nbsp;МСК",
+      "summationDate": "30.09.2021 00:00",
+      "regionCodes": [
+        "Вологодская, обл"
+      ],
+      "placementDate": "31.08.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "31.08.2021 17:02",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nn73u9puksd2ro4",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "43.21"
+      ],
+      "type": "BUYING",
+      "title": "21Т0410030.0012. Выполнение работ по объекту «Модернизация комплексов телемеханики АСТУ в Кадуйском РЭС на объектах ПС 110/35/10 кВ «Кадуй», ПС 110/10 кВ «Поселковая», ПС 35/10 кВ «Хохлово», «Андога», «Никольское», «Великое» и «Барановская» (номер инвестиционного проекта F_000-25-1-04.30-0104) для нужд Вологодского филиала ПАО «МРСК Северо-Запада»",
+      "viewDemandDate": "16.09.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nn71727kjkkhetg",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nn7170rdda1o738",
+      "price": "<div class='aright'>19 198 800,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspCompetitionLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz21476MC",
+      "filingNumber": "32110602707",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "31.08.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.09.2021 10:00&nbsp;МСК",
+      "summationDate": "28.09.2021 00:00",
+      "regionCodes": [
+        "Вологодская, обл"
+      ],
+      "placementDate": "31.08.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Конкурс в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "31.08.2021 15:46",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nn71727kjkkhetg",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.2"
+      ],
+      "type": "BUYING",
+      "title": "21Т0210020.0038. Выполнение строительно-монтажных работ по объекту «Реконструкция каналов связи АСТУ на участке ЦУС филиала «Архэнерго» – «Архангельское РДУ», г.Архангельск, Архангельской области» (1 компл.)», ИП 000-15-2-04.40-0007",
+      "viewDemandDate": "23.08.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nm32n4rueor45h4",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nm32n3ltu62f4io",
+      "price": "<div class='aright'>1 030 084,91 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFPLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz21443MP",
+      "filingNumber": "32110526376",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "03.08.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "11.08.2021 12:00&nbsp;МСК",
+      "summationDate": "10.09.2021 00:00",
+      "regionCodes": [
+        "Архангельская, обл"
+      ],
+      "placementDate": "03.08.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос предложений в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "03.08.2021 17:13",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nm32n4rueor45h4",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "26.30"
+      ],
+      "type": "BUYING",
+      "title": "21Т0220040.0112. Поставка оборудования и материалов связи и телемеханики для выполнения строительно-монтажных работ по инвестиционным проектам: модернизация АСТУ на ПС 110 кВ №59 Софпорог (1 система), на ПС 110 кВ №57 Сосновый (1 система), на ПС 110 кВ №54 Кепа (1 система), на ПС 35 кВ №36к Белый Порог (1 система), на ПС 10 кВ №11к Костомукша (1 система) для нужд Карельского филиала ПАО \"МРСК Северо-Запада\"",
+      "viewDemandDate": "20.07.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000nkm127hc9va5ioo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000nkm12688hedltak",
+      "price": "<div class='aright'>3 189 050,57 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz21378DP",
+      "filingNumber": "32110430814",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "29.06.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "07.07.2021 15:00&nbsp;МСК",
+      "summationDate": "22.07.2021 00:00",
+      "regionCodes": [
+        "Карелия, Респ"
+      ],
+      "placementDate": "29.06.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "29.06.2021 17:33",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000nkm127hc9va5ioo",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "42.2"
+      ],
+      "type": "BUYING",
+      "title": "21Т0210020.0016. Выполнение строительно-монтажных работ по объекту «Реконструкция каналов связи АСТУ на участке ЦУС филиала «Архэнерго» – «Архангельское РДУ», г.Архангельск, Архангельской области» (1 компл.)», ИП 000-15-2-04.40-0007 для нужд  Архангельского филиала ПАО «МРСК Северо-Запада»",
+      "viewDemandDate": "24.06.2021 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ni4pthi4gqu8s7k",
+      "participant": false,
+      "features": [
+        "SMP"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ni4ptgifjboo0mg",
+      "price": "<div class='aright'>1 202 003,20 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "SmspRFQLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "mr-sz21233MQ",
+      "filingNumber": "32110237489",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.04.2021 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.05.2021 12:00&nbsp;МСК",
+      "summationDate": "24.06.2021 00:00",
+      "regionCodes": [
+        "Архангельская, обл"
+      ],
+      "placementDate": "27.04.2021",
+      "organizer": {
+        "inn": "7802312751",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+      },
+      "placementType": "Запрос котировок в электронной форме, участниками которого могут быть только субъекты малого и среднего предпринимательства",
+      "placementDateTime": "27.04.2021 15:17",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ni4pthi4gqu8s7k",
+      "customer": [
+        {
+          "inn": "7802312751",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СЕВЕРО-ЗАПАД\""
+        }
+      ]
+    }
+  ]
+}

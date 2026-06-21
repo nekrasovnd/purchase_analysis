@@ -69,13 +69,34 @@ def build_entities_frame(entity_records: list[dict[str, Any]]) -> pd.DataFrame:
     )
 
 
+def standardize_status(status_str: str) -> str:
+    if not status_str:
+        return 'unknown'
+    s = str(status_str).lower()
+    if any(x in s for x in ['отмен', 'не состоялась', 'отказ']):
+        return 'cancelled'
+    if any(x in s for x in ['завершен', 'договор', 'закрыт']):
+        return 'closed'
+    if any(x in s for x in ['комисси', 'рассмотрение', 'итог', 'оценка']):
+        return 'evaluating'
+    if any(x in s for x in ['прием', 'подача', 'процесс']):
+        return 'open'
+    return 'unknown'
+
+
 def build_procurements_frame(
-    search_rows: list[dict[str, Any]],
-    detail_rows: list[dict[str, Any]],
+    search_rows: list[dict[str, object]],
+    detail_rows: list[dict[str, object]],
     date_from: str | None = None,
     date_to: str | None = None,
 ) -> pd.DataFrame:
+    if not search_rows:
+        return pd.DataFrame()
+
     base_df = pd.DataFrame(search_rows)
+    
+    # standardize statuses
+    base_df['status_standard'] = base_df['status'].apply(standardize_status)
     if base_df.empty:
         return base_df
     detail_df = pd.DataFrame(detail_rows)
@@ -599,14 +620,18 @@ def _normal_item_key(value: object) -> str:
 
 
 def build_unit_price_benchmarks_mart(items_df: pd.DataFrame) -> pd.DataFrame:
+    empty_df = pd.DataFrame(columns=[
+        "benchmark_key", "observations", "median_unit_price_rub", 
+        "p75_unit_price_rub", "min_unit_price_rub", "max_unit_price_rub"
+    ])
     if items_df.empty or "unit_price_rub" not in items_df.columns:
-        return pd.DataFrame()
+        return empty_df
     df = items_df.copy()
     df["unit_price_rub"] = pd.to_numeric(df["unit_price_rub"], errors="coerce")
     df["quantity"] = pd.to_numeric(df.get("quantity"), errors="coerce")
     df = df[df["unit_price_rub"].notna() & (df["unit_price_rub"] > 0)].copy()
     if df.empty:
-        return pd.DataFrame()
+        return empty_df
     df["item_key"] = df["item_name"].map(_normal_item_key)
     df["benchmark_key"] = df.apply(
         lambda row: "|".join(

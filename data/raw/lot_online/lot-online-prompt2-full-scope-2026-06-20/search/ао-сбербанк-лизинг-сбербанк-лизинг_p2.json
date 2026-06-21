@@ -1,0 +1,941 @@
+{
+  "userAutorized": false,
+  "count": 20,
+  "totalCount": 60,
+  "list": [
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.110"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) погружных насосов ЭЦВ",
+      "viewDemandDate": "22.07.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000p0ng0vh8on9stt0",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000p0ng0v76br2f910",
+      "price": "<div class='aright'>9 665 107,41 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod24117DP",
+      "filingNumber": "32413757096",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.06.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "19.07.2024 12:00&nbsp;МСК",
+      "summationDate": "26.07.2024 00:00",
+      "placementDate": "28.06.2024",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "28.06.2024 11:44",
+      "deposit": "96 651,07 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000p0ng0vh8on9stt0",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (2 единицы)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p0apqngpd8oo1js",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p0apqnh2mp8biq4",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400398",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2024 15:03",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.06.2024 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "18.06.2024 15:03",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p0apqnh2mp8biq4",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (2 единицы)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000p0ah4923mo7ccio",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000p0ah492dmvujog0",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400393",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.06.2024 09:59",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "25.06.2024 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "18.06.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "18.06.2024 09:59",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000p0ah492dmvujog0",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) объектов электросетевого хозяйства для нужд ПАО «Россети Центр и Приволжье» (филиала «Нижновэнерго»)",
+      "viewDemandDate": "24.06.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ovfsd65gebb9fjg",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ovfsd50ifffn26s",
+      "price": "<div class='aright'>890 658 780,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "paorc24551DP",
+      "filingNumber": "32413647212",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "20.06.2024 12:00&nbsp;МСК",
+      "summationDate": "08.07.2024 00:00",
+      "regionCodes": [
+        "Нижегородская, обл"
+      ],
+      "placementDate": "28.05.2024",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "28.05.2024 17:58",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ovfsd65gebb9fjg",
+      "customer": [
+        {
+          "inn": "5260200603",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР И ПРИВОЛЖЬЕ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.1"
+      ],
+      "type": "BUYING",
+      "title": "ОКПД2 77.1. Услуги по лизингу автотранспортных средств в количестве 35 электромобилей для нужд сервиса каршеринга ООО \"РусГидро Каршеринг\"",
+      "viewDemandDate": "16.12.2024 10:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ovfnjn9rl6v1618",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ovfnjm33mhe25o4",
+      "price": "<div class='aright'>153 528 974,32 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "gsnab24100DP",
+      "filingNumber": "32413642065",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "28.05.2024 14:29",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.12.2024 10:00&nbsp;МСК",
+      "summationDate": "26.12.2024 10:00",
+      "regionCodes": [
+        "Москва, г"
+      ],
+      "placementDate": "28.05.2024",
+      "organizer": {
+        "inn": "1510012774",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РУСГИДРО СНАБЖЕНИЕ\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "28.05.2024 14:29",
+      "deposit": "1 131 109,24 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ovfnjn9rl6v1618",
+      "customer": [
+        {
+          "inn": "2536331086",
+          "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУСГИДРО КАРШЕРИНГ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.11.10.000"
+      ],
+      "type": "SMALL_PURCHASE_RFI",
+      "title": "Оказание услуг операционного лизинга транспортных средств (9 единиц)",
+      "viewDemandDate": "",
+      "lotStageGroupTitle": "",
+      "uuid": "gpmsps19718ug0000ov85uejtvtvnagk",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Sprcreq19718ug0000ov85uek3s1rj6fg",
+      "price": "<div class='aright'></div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PriceRequest_St_Dmnds_Finished",
+        "title": "Завершен прием коммерческих предложений"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "filingNumber": "RAD000-24000771400335",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "22.05.2024 17:41",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "29.05.2024 11:00&nbsp;МСК",
+      "summationDate": "",
+      "placementDate": "22.05.2024",
+      "organizer": {
+        "inn": "7724490000",
+        "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+      },
+      "placementType": "Запрос цен (коммерческих предложений)",
+      "placementDateTime": "22.05.2024 17:41",
+      "deposit": "",
+      "lotLink": "/etp/app/SmallPurchaseCard/page?SmallPurchaseCard.smallPurchaseEntity=MT%3Aprcreq19718ug0000ov85uek3s1rj6fg",
+      "customer": [
+        {
+          "inn": "7724490000",
+          "title": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЧТА РОССИИ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.31.10.000"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) автомобиля самосвал",
+      "viewDemandDate": "05.06.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ouutj8caacih0jo",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ouutj7vhcq75kq8",
+      "price": "<div class='aright'>27 419 042,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod24079DP",
+      "filingNumber": "32413598083",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.05.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "03.06.2024 13:00&nbsp;МСК",
+      "summationDate": "11.06.2024 00:00",
+      "placementDate": "15.05.2024",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "15.05.2024 13:10",
+      "deposit": "274 190,42 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ouutj8caacih0jo",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.129"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг по финансовой аренде (лизингу) автотранспортных средств и спецтехники",
+      "viewDemandDate": "17.04.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ot6e5bt4f9ah9e4",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ot6e5bc5qea2ovs",
+      "price": "<div class='aright'>299 213 878,20 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0503424032DP",
+      "filingNumber": "32413457422",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.04.2024 15:45",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "18.04.2024 17:00&nbsp;МСК",
+      "summationDate": "18.04.2024 00:00",
+      "placementDate": "01.04.2024",
+      "organizer": {
+        "inn": "4324006553",
+        "title": "Акционерное общество \"Автотранспортное хозяйство\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "01.04.2024 19:54",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ot6e5bt4f9ah9e4",
+      "customer": [
+        {
+          "inn": "4324006553",
+          "title": "Акционерное общество \"Автотранспортное хозяйство\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.12.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуги финансовой аренды (лизинга) равноколесного экскаватора-погрузчика",
+      "viewDemandDate": "28.03.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000os5vs2sa60g4ia0",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000os5vs2ddvb1qc2k",
+      "price": "<div class='aright'>29 531 849,89 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "czrsi24059DP",
+      "filingNumber": "32413364677",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "07.03.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "28.03.2024 11:00&nbsp;МСК",
+      "summationDate": "01.04.2024 00:00",
+      "regionCodes": [
+        "Курская, обл"
+      ],
+      "placementDate": "07.03.2024",
+      "organizer": {
+        "inn": "4632087797",
+        "title": "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ЗАКУПОК И РАЗВИТИЯ СОЦИАЛЬНЫХ ИНИЦИАТИВ ГОРОДА КУРСКА\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "07.03.2024 12:33",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000os5vs2sa60g4ia0",
+      "customer": [
+        {
+          "inn": "4629026667",
+          "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВОДОКАНАЛ ГОРОДА КУРСКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.120"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) объектов электросетевого хозяйства для нужд ПАО «Россети Центр» (филиала «Белгородэнерго»)",
+      "viewDemandDate": "14.03.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000orqnbdt8raimqhk",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000orqnbbo371ossis",
+      "price": "<div class='aright'>540 044 806,85 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "paorc24121DP",
+      "filingNumber": "32413328869",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "27.02.2024 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "14.03.2024 12:00&nbsp;МСК",
+      "summationDate": "15.03.2024 00:00",
+      "regionCodes": [
+        "Белгородская, обл"
+      ],
+      "placementDate": "27.02.2024",
+      "organizer": {
+        "inn": "6901067107",
+        "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "27.02.2024 22:34",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000orqnbdt8raimqhk",
+      "customer": [
+        {
+          "inn": "6901067107",
+          "title": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЦЕНТР\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.12.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуги финансовой аренды (лизинга) комбинированной коммунальной машины",
+      "viewDemandDate": "09.01.2024 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000oovaurn61g5237k",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000oovaur9mor6dqak",
+      "price": "<div class='aright'>56 891 438,94 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "czrsi23224DP",
+      "filingNumber": "32313102237",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "18.12.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "09.01.2024 11:00&nbsp;МСК",
+      "summationDate": "10.01.2024 00:00",
+      "regionCodes": [
+        "Курская, обл"
+      ],
+      "placementDate": "18.12.2023",
+      "organizer": {
+        "inn": "4632087797",
+        "title": "МУНИЦИПАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ЦЕНТР ЗАКУПОК И РАЗВИТИЯ СОЦИАЛЬНЫХ ИНИЦИАТИВ ГОРОДА КУРСКА\""
+      },
+      "placementType": "Конкурс в электронной форме",
+      "placementDateTime": "18.12.2023 19:08",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000oovaurn61g5237k",
+      "customer": [
+        {
+          "inn": "4629026667",
+          "title": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВОДОКАНАЛ ГОРОДА КУРСКА\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.91.10.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) электробусов особо большого класса",
+      "viewDemandDate": "06.12.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000onknlg4shbudnn4",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000onknlfj067dk4p0",
+      "price": "<div class='aright'>4 251 032 040,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0476423011DP",
+      "filingNumber": "32312963451",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.11.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "04.12.2023 09:00&nbsp;МСК",
+      "summationDate": "13.12.2023 00:00",
+      "placementDate": "15.11.2023",
+      "organizer": {
+        "inn": "7830001758",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ПАССАЖИРСКОГО АВТОМОБИЛЬНОГО ТРАНСПОРТА"
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "15.11.2023 15:48",
+      "deposit": "21 255 160,20 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000onknlg4shbudnn4",
+      "customer": [
+        {
+          "inn": "7830001758",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ПАССАЖИРСКОГО АВТОМОБИЛЬНОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.39.19.110"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) насосных агрегатов СД с электродвигателем",
+      "viewDemandDate": "04.12.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000onkbpm9iinabvcg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000onkbplt5i7bik2o",
+      "price": "<div class='aright'>70 246 983,00 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod23239DP",
+      "filingNumber": "32312959938",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.11.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "01.12.2023 12:00&nbsp;МСК",
+      "summationDate": "08.12.2023 00:00",
+      "placementDate": "15.11.2023",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "15.11.2023 08:42",
+      "deposit": "702 469,83 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000onkbpm9iinabvcg",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.12.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) автомобиля УАЗ-Комби",
+      "viewDemandDate": "09.11.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000om8u577skqv5s8o",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000om8u56npohojnsc",
+      "price": "<div class='aright'>2 436 834,40 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod23210DP",
+      "filingNumber": "32312850642",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.10.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "07.11.2023 13:00&nbsp;МСК",
+      "summationDate": "14.11.2023 00:00",
+      "placementDate": "12.10.2023",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "12.10.2023 15:09",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000om8u577skqv5s8o",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.12.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) автомобиля фургон",
+      "viewDemandDate": "07.11.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000om8tlfq477r8kjs",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000om8tlfb1rfdki1c",
+      "price": "<div class='aright'>38 628 633,60 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod23209DP",
+      "filingNumber": "32312850491",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "12.10.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "02.11.2023 13:00&nbsp;МСК",
+      "summationDate": "13.11.2023 00:00",
+      "placementDate": "12.10.2023",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "12.10.2023 14:53",
+      "deposit": "386 286,34 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000om8tlfq477r8kjs",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.12.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) автомобиля самосвал",
+      "viewDemandDate": "30.10.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000om63lha9pqge3tg",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000om63lguiogbunv0",
+      "price": "<div class='aright'>22 428 723,20 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod23207DP",
+      "filingNumber": "32312839859",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.10.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "26.10.2023 13:00&nbsp;МСК",
+      "summationDate": "03.11.2023 00:00",
+      "placementDate": "10.10.2023",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "10.10.2023 10:27",
+      "deposit": "224 287,23 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000om63lha9pqge3tg",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "77.12.11.000"
+      ],
+      "type": "BUYING",
+      "title": "Приобретение в финансовую аренду (лизинг) автомобиля самосвал",
+      "viewDemandDate": "02.11.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000om638crvkf63h7k",
+      "participant": false,
+      "features": [],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000om638cg3s0i382k",
+      "price": "<div class='aright'>22 115 204,80 руб.<br/>(в т.ч. НДС 20%)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure",
+        "title": "Закупка не состоялась"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "ufvod23206DP",
+      "filingNumber": "32312839766",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "10.10.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "31.10.2023 13:00&nbsp;МСК",
+      "summationDate": "09.11.2023 00:00",
+      "placementDate": "10.10.2023",
+      "organizer": {
+        "inn": "0275000238",
+        "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+      },
+      "placementType": "Аукцион в электронной форме (235233)",
+      "placementDateTime": "10.10.2023 10:11",
+      "deposit": "221 152,05 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000om638crvkf63h7k",
+      "customer": [
+        {
+          "inn": "0275000238",
+          "title": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УФАВОДОКАНАЛ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.91.10.190"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг финансовой аренды (лизинга) транспортного средства специализированного, для перевозки сжиженных углеводородных газов, 3644JN721 или эквивалентного",
+      "viewDemandDate": "06.10.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000olba6c8ovt81ntk",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000olba6bs3ohsu5r4",
+      "price": "<div class='aright'>11 676 196,67 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Winner_Found",
+        "title": "Заключение договора"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "gorno23008DP",
+      "filingNumber": "32312776129",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "19.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "27.09.2023 10:00&nbsp;МСК",
+      "summationDate": "06.10.2023 00:00",
+      "regionCodes": [
+        "Алтайский, край"
+      ],
+      "placementDate": "19.09.2023",
+      "organizer": {
+        "inn": "0400000132",
+        "title": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОРНО-АЛТАЙГАЗ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "19.09.2023 15:00",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000olba6c8ovt81ntk",
+      "customer": [
+        {
+          "inn": "0400000132",
+          "title": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОРНО-АЛТАЙГАЗ\""
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.91.10.190"
+      ],
+      "type": "BUYING",
+      "title": "Оказание услуг финансовой аренды (лизинга) автобусов большого класса",
+      "viewDemandDate": "06.10.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718u80000ol50jm0q24tfhmo",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718u80000ol50jlh33bb6rtg",
+      "price": "<div class='aright'>9 036 268 284,00 руб.</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Failure_Contract_Concl",
+        "title": "Закупка не состоялась. Заключение договора с ед. участником"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "0476423006DP",
+      "filingNumber": "32312767284",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "15.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "05.10.2023 09:00&nbsp;МСК",
+      "summationDate": "11.10.2023 00:00",
+      "placementDate": "15.09.2023",
+      "organizer": {
+        "inn": "7830001758",
+        "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ПАССАЖИРСКОГО АВТОМОБИЛЬНОГО ТРАНСПОРТА"
+      },
+      "placementType": "Аукцион в электронной форме",
+      "placementDateTime": "15.09.2023 12:03",
+      "deposit": "45 181 341,42 руб.",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718u80000ol50jm0q24tfhmo",
+      "customer": [
+        {
+          "inn": "7830001758",
+          "title": "САНКТ-ПЕТЕРБУРГСКОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ПАССАЖИРСКОГО АВТОМОБИЛЬНОГО ТРАНСПОРТА"
+        }
+      ]
+    },
+    {
+      "demandsCount": 0,
+      "okdp2": [
+        "64.91.10.190"
+      ],
+      "type": "BUYING",
+      "title": "оказание услуг финансовой аренды (лизинга) транспортного средства специализированного, для перевозки сжиженных углеводородных газов, 3644JN721 или эквивалентного",
+      "viewDemandDate": "28.09.2023 00:00",
+      "lotStageGroupTitle": "Завершена процедура",
+      "uuid": "corebo19718ug0000ol3jsln76in27jg",
+      "participant": false,
+      "features": [
+        "RF"
+      ],
+      "offerLink": "https://tender.lot-online.ru/etp/app/OfferCard/page?OfferCard.offerUUID=Scorebo19718ug0000ol3jsla81f3bhuc",
+      "price": "<div class='aright'>11 525 935,67 руб.<br/>(в т.ч. НДС)</div>",
+      "winnerPrice": "<div class='aright'></div>",
+      "state": {
+        "code": "PurchaseLot_St_Rejected",
+        "title": "Отказ от проведения"
+      },
+      "serverPath": "https://tender.lot-online.ru/etp",
+      "identifier": "gorno23007DP",
+      "filingNumber": "32312760473",
+      "shareDataServices": "vkontakte,telegram,messenger,skype,odnoklassniki,moimir",
+      "priceTitle": "Начальная цена",
+      "gdStartDate": "13.09.2023 00:00",
+      "lotNumber": 1,
+      "externalSiteUrl": "https://tender.lot-online.ru",
+      "gdEndDate": "21.09.2023 10:00&nbsp;МСК",
+      "summationDate": "28.09.2023 00:00",
+      "regionCodes": [
+        "Алтайский, край"
+      ],
+      "placementDate": "13.09.2023",
+      "organizer": {
+        "inn": "0400000132",
+        "title": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОРНО-АЛТАЙГАЗ\""
+      },
+      "placementType": "Запрос котировок в электронной форме",
+      "placementDateTime": "13.09.2023 15:28",
+      "deposit": "",
+      "lotLink": "/etp/app/LotCard/page?LotCard.lotEntity=LT%3Acorebo19718ug0000ol3jsln76in27jg",
+      "customer": [
+        {
+          "inn": "0400000132",
+          "title": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОРНО-АЛТАЙГАЗ\""
+        }
+      ]
+    }
+  ]
+}
