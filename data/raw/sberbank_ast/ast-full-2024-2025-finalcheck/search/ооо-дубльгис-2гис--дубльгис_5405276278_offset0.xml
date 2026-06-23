@@ -1,0 +1,831 @@
+<datarow>
+  <total>
+    <value>198</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3166417</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/3166417</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>16.01.2026 12:00</RequestAcceptDate>
+      <RequestDate>16.01.2026 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512300008.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>30.12.2025 10:58</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг публикация вакансий на сайте</BidName>
+      <purchCodeTerm>SBR028-2512300008.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3721845</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>30.12.2025 13:00</RequestStartDate>
+      <EndDate>30.01.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг публикация вакансий на сайте</purchName>
+      <purchAmount>1584000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1767092280000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3165401</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/3165401</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>22.01.2026 12:00</RequestAcceptDate>
+      <RequestDate>22.01.2026 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512290008.1</purchCode>
+      <IsSMP />
+      <purchCurrency>USD</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.12.2025 10:55</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка оргтехники</BidName>
+      <purchCodeTerm>SBR028-2512290008.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/3719229</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.12.2025 12:00</RequestStartDate>
+      <EndDate>05.02.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка оргтехники</purchName>
+      <purchAmount>65680</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1767005700000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3165402</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/3165402</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>22.01.2026 12:00</RequestAcceptDate>
+      <RequestDate>22.01.2026 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512290008.2</purchCode>
+      <IsSMP />
+      <purchCurrency>USD</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>29.12.2025 10:55</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка оргтехники</BidName>
+      <purchCodeTerm>SBR028-2512290008.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/3719229</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>29.12.2025 12:00</RequestStartDate>
+      <EndDate>05.02.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка оргтехники</purchName>
+      <purchAmount>656000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1767005700000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3164303</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/3164303</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>23.01.2026 12:00</RequestAcceptDate>
+      <RequestDate>23.01.2026 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512260014.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>26.12.2025 11:16</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка свежих фруктов, овощей и орехов</BidName>
+      <purchCodeTerm>SBR028-2512260014.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3712370</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>26.12.2025 12:00</RequestStartDate>
+      <EndDate>20.02.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка свежих фруктов, овощей и орехов</purchName>
+      <purchAmount>1809763.33</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1766747760000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3164275</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/3164275</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>23.01.2026 12:00</RequestAcceptDate>
+      <RequestDate>23.01.2026 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512260013.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>26.12.2025 11:05</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка молока</BidName>
+      <purchCodeTerm>SBR028-2512260013.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3712010</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>26.12.2025 12:00</RequestStartDate>
+      <EndDate>20.02.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка молока</purchName>
+      <purchAmount>2583000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1766747100000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3164072</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/3164072</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>23.01.2026 12:00</RequestAcceptDate>
+      <RequestDate>23.01.2026 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512260011.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>26.12.2025 09:02</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка зернового кофе, аренда и обслуживание кофемашин</BidName>
+      <purchCodeTerm>SBR028-2512260011.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/3711706</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>26.12.2025 10:00</RequestStartDate>
+      <EndDate>20.02.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка зернового кофе, аренда и обслуживание кофемашин</purchName>
+      <purchAmount>4748000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1766739720000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3163376</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/3163376</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>30.12.2025 12:00</RequestAcceptDate>
+      <RequestDate>30.12.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512250024.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>25.12.2025 13:31</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка хозяйственных расходных материалов</BidName>
+      <purchCodeTerm>SBR028-2512250024.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/3709212</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>25.12.2025 14:00</RequestStartDate>
+      <EndDate>30.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка хозяйственных расходных материалов</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1766669460000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3163340</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/3163340</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>30.12.2025 12:00</RequestAcceptDate>
+      <RequestDate>30.12.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512250023.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>25.12.2025 13:21</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка кондитерских изделий, сахара, сливок</BidName>
+      <purchCodeTerm>SBR028-2512250023.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/3709180</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>25.12.2025 14:00</RequestStartDate>
+      <EndDate>30.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка кондитерских изделий, сахара, сливок</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1766668860000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3162143</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/3162143</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>21.01.2026 12:00</RequestAcceptDate>
+      <RequestDate>21.01.2026 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512240095.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>24.12.2025 13:47</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по дизайн-поддержке со статичными макетами</BidName>
+      <purchCodeTerm>SBR028-2512240095.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/3705752</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>24.12.2025 15:00</RequestStartDate>
+      <EndDate>05.03.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по дизайн-поддержке со статичными макетами</purchName>
+      <purchAmount>7140000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1766584020000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3159056</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Квалификационный отбор (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/7/3/0/3159056</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>30.01.2026 10:00</RequestAcceptDate>
+      <RequestDate>30.01.2026 10:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512220001.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>22.12.2025 06:08</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Предварительная аккредитация (квалификационный отбор) претендентов с целью формирования реестра квалифицированных поставщиков для последующего приглашения таких поставщиков к участию в проводимых заказчиком закупках с ограниченным участием
+Предмет: Оказание услуг по организации комплексного партнерского участия компании в конференции</BidName>
+      <purchCodeTerm>SBR028-2512220001.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/7/0/0/3698242</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>22.12.2025 10:00</RequestStartDate>
+      <EndDate>30.01.2026</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Предварительная аккредитация (квалификационный отбор) претендентов с целью формирования реестра квалифицированных поставщиков для последующего приглашения таких поставщиков к участию в проводимых заказчиком закупках с ограниченным участием
+Предмет: Оказание услуг по организации комплексного партнерского участия компании в конференции</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1766383680000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3156339</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/3156339</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.12.2025 12:00</RequestAcceptDate>
+      <RequestDate>26.12.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512180001.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>18.12.2025 05:27</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по распространению информационных материалов (потокового мультимедийного контента, потокового аудио контента и статического контента)</BidName>
+      <purchCodeTerm>SBR028-2512180001.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/3686164</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>18.12.2025 09:00</RequestStartDate>
+      <EndDate>20.01.2026</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по распространению информационных материалов (потокового мультимедийного контента, потокового аудио контента и статического контента)</purchName>
+      <purchAmount>1043352</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1766035620000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3154160</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Квалификационный отбор (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/7/3/0/3154160</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.12.2025 10:00</RequestAcceptDate>
+      <RequestDate>26.12.2025 10:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512160002.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>16.12.2025 08:22</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по размещению рекламы у блогеров</BidName>
+      <purchCodeTerm>SBR028-2512160002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/7/0/0/3679413</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>16.12.2025 10:00</RequestStartDate>
+      <EndDate>26.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по размещению рекламы у блогеров</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765873320000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3153740</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/3153740</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.12.2025 13:00</RequestAcceptDate>
+      <RequestDate>19.12.2025 13:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512150026.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>15.12.2025 15:49</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание клининговых услуг</BidName>
+      <purchCodeTerm>SBR028-2512150026.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/3678064</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>15.12.2025 17:00</RequestStartDate>
+      <EndDate>22.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание клининговых услуг г. Санкт-Петербург</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765813740000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3151808</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/3151808</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.12.2025 13:00</RequestAcceptDate>
+      <RequestDate>19.12.2025 13:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512120004.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>12.12.2025 06:20</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка свежих фруктов, овощей и орехов</BidName>
+      <purchCodeTerm>SBR028-2512120004.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/3666265</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>12.12.2025 07:00</RequestStartDate>
+      <EndDate>22.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка свежих фруктов, овощей и орехов</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765520400000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3149652</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/3149652</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>15.12.2025 13:00</RequestAcceptDate>
+      <RequestDate>15.12.2025 13:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512100038.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>10.12.2025 13:47</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание курьерских услуг</BidName>
+      <purchCodeTerm>SBR028-2512100038.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/3659352</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>10.12.2025 14:00</RequestStartDate>
+      <EndDate>16.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание курьерских услуг</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765374420000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3149577</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/29/3/0/3149577</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>19.12.2025 05:00</RequestAcceptDate>
+      <RequestDate>19.12.2025 05:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512100028.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>10.12.2025 12:56</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по предоставлению доступа к платформе для поиска специалистов</BidName>
+      <purchCodeTerm>SBR028-2512100028.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/29/0/0/3659275</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>10.12.2025 14:00</RequestStartDate>
+      <EndDate>30.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по предоставлению доступа к платформе для поиска специалистов</purchName>
+      <purchAmount>2400000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1765371360000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3148164</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/3148164</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>17.12.2025 12:00</RequestAcceptDate>
+      <RequestDate>17.12.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512090021.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>09.12.2025 11:36</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка смартфонов</BidName>
+      <purchCodeTerm>SBR028-2512090021.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/3655221</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>09.12.2025 12:00</RequestStartDate>
+      <EndDate>19.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка смартфонов</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765280160000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3147955</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Квалификационный отбор (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/7/3/0/3147955</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>23.01.2026 10:00</RequestAcceptDate>
+      <RequestDate>23.01.2026 10:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512090011.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>09.12.2025 09:31</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по дизайн-поддержке с анимированными макетами</BidName>
+      <purchCodeTerm>SBR028-2512090011.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/7/0/0/3654516</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>09.12.2025 11:00</RequestStartDate>
+      <EndDate>23.01.2026</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по дизайн-поддержке с анимированными макетами</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765272660000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3147803</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/3147803</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>15.12.2025 14:00</RequestAcceptDate>
+      <RequestDate>15.12.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512090002.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>09.12.2025 05:52</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка молока</BidName>
+      <purchCodeTerm>SBR028-2512090002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/3653869</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>09.12.2025 07:00</RequestStartDate>
+      <EndDate>16.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Поставка молока</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765259520000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3146580</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ДУБЛЬГИС"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/3146580</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>22.12.2025 12:00</RequestAcceptDate>
+      <RequestDate>22.12.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2512080006.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>08.12.2025 08:39</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по техническому обслуживанию системы
+видеонаблюдения (ВН), системы контроля доступа (СКУД), тревожной охранной сигнализации на базе охранного комплекса «Мираж GSM» (ОС).</BidName>
+      <purchCodeTerm>SBR028-2512080006.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/3650866</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>08.12.2025 09:00</RequestStartDate>
+      <EndDate>30.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Оказание услуг по техническому обслуживанию системы
+видеонаблюдения (ВН), системы контроля доступа (СКУД), тревожной охранной сигнализации на базе охранного комплекса «Мираж GSM» (ОС).</purchName>
+      <purchAmount>872960</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1765183140000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

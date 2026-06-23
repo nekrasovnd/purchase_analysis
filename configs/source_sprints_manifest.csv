@@ -1,0 +1,4 @@
+batch_name,source_system,status,include_in_default_merge,has_items,item_rows,unique_procedure_numbers,unique_lot_keys,raw_source,raw_exists,notes
+ast-full-2024-2025-finalcheck,sberbank_ast,current_clean,1,1,2761,2761,2761,sberbank_ast,1,"Audited clean AST batch; current source of 2761 unique lots."
+b2b_center_prompt2_full_scope_2026-06-18,b2b_center,current_clean,1,1,400,400,400,b2b_center,1,"Clean B2B-Center batch; included in AST+B2B+EIS merge."
+eis-prompt2-full-scope-2026-06-22,eis,current_clean_control,1,1,3,3,3,eis,1,"Control EIS batch; 3 rows are cross-source duplicates in clean merge."

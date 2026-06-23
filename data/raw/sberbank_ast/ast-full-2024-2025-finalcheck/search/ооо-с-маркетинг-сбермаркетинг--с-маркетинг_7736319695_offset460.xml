@@ -1,0 +1,787 @@
+<datarow>
+  <total>
+    <value>538</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2844269</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2844269</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.02.2025 00:00</RequestAcceptDate>
+      <RequestDate>26.02.2025 00:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502170080.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.02.2025 16:43</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Размещение РИМ в МФЦ с 01.03.2025 по 31.12.2025. Заполнение АП</BidName>
+      <purchCodeTerm>SBR028-2502170080.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2776171</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>18.02.2025 00:00</RequestStartDate>
+      <EndDate>28.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Размещение РИМ в МФЦ с 01.03.2025 по 31.12.2025</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739810580000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>fc746453-eddd-4717-bc79-bab4362ece87</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №96169481 от покупателя ООО "С-МАРКЕТИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>96169481</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/fc746453-eddd-4717-bc79-bab4362ece87</objectHrefTerm>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>14.02.2025 21:10</RequestStartDate>
+      <EndDate>28.02.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>28.02.2025 13:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Срочно. Оказание услуг по организации корпоративных квиз-игр (офлайн, онлайн, гибрид)</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>96169481</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>14.02.2025 21:10</PublicDate>
+      <purchAmount>960000</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1739567400000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2842865</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2842865</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.02.2025 12:00</RequestAcceptDate>
+      <RequestDate>26.02.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502140034.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>14.02.2025 18:29</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по проведению проектов качественных маркетинговых исследований полного цикла В2С</BidName>
+      <purchCodeTerm>SBR028-2502140034.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2769373</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.02.2025 18:40</RequestStartDate>
+      <EndDate>19.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Оказание услуг по проведению проектов качественных маркетинговых исследований полного цикла В2С</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739557740000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2842599</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/2842599</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>21.02.2025 15:00</RequestAcceptDate>
+      <RequestDate>21.02.2025 15:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502140023.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>14.02.2025 15:13</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Изготовление и поставка Товара ЛОТ 2268</BidName>
+      <purchCodeTerm>SBR028-2502140023.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/2769072</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.02.2025 15:35</RequestStartDate>
+      <EndDate>27.02.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Изготовление и поставка Товара ЛОТ 2268</purchName>
+      <purchAmount>1151280</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739545980000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2841953</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2841953</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>27.02.2025 18:00</RequestAcceptDate>
+      <RequestDate>27.02.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502140011.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>14.02.2025 11:25</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Размещение рекламных материалов на региональных новостных сайтах, сайтах с определенной тематикой (автомобили, финансы, право, торговля)</BidName>
+      <purchCodeTerm>SBR028-2502140011.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2768290</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>17.02.2025 00:00</RequestStartDate>
+      <EndDate>14.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Запрос предложений на услуги по размещению рекламно-информационных материалов в сети Интернет</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739532300000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>b7098e20-f389-4323-b58e-4c5019c54cbe</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №126475284 от покупателя ООО "С-МАРКЕТИНГ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>126475284</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/b7098e20-f389-4323-b58e-4c5019c54cbe</objectHrefTerm>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>13.02.2025 16:17</RequestStartDate>
+      <EndDate>26.02.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.02.2025 15:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Выбор организации на оказание услуг по поддерживающей, комплексной и генеральной уборки в офисных помещениях ООО «С-Маркетинг».</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>126475284</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.02.2025 16:17</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1739463420000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2839406</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Отменен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2839406</CreateRequestHrefTerm>
+      <BidStatusName>Отменен(-а)</BidStatusName>
+      <RequestAcceptDate>03.03.2025 16:00</RequestAcceptDate>
+      <RequestDate>03.03.2025 16:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502120027.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>12.02.2025 15:31</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Услуги по организации выездного питания и обслуживанию (кейтеринга) на мероприятиях ООО «С-Маркетинг»</BidName>
+      <purchCodeTerm>SBR028-2502120027.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2763096</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>12.02.2025 15:45</RequestStartDate>
+      <EndDate>10.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Выбор рамочных подрядчиков на оказание услуг по организации выездного питания и обслуживанию (кейтеринга) на мероприятиях ООО «С-Маркетинг»</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Отменен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739374260000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2839399</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2839399</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>26.02.2025 00:00</RequestAcceptDate>
+      <RequestDate>26.02.2025 00:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502120026.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>12.02.2025 15:27</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Статика в ТС и квал. требования</BidName>
+      <purchCodeTerm>SBR028-2502120026.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2763088</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>12.02.2025 16:00</RequestStartDate>
+      <EndDate>28.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>услуги по размещению рекламно-информационных материалов (статика) в Транспортных Средствах для нужд ООО «С-Маркетинг» на период с 01.03.2025 по 31.12.2025. (даты начала варьрируются)</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739374020000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2839150</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2839150</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>25.02.2025 00:00</RequestAcceptDate>
+      <RequestDate>25.02.2025 00:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502120020.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>12.02.2025 13:17</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Экраны в ТС и квал. требования</BidName>
+      <purchCodeTerm>SBR028-2502120020.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2762516</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>12.02.2025 15:00</RequestStartDate>
+      <EndDate>27.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>услуги по размещению рекламно-информационных материалов на экранах в Транспортных Средствах для нужд ООО «С-Маркетинг» на период с 20.02.2025 по 31.12.2025. (даты начала варьрируются)</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739366220000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2838345</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2838345</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>19.02.2025 18:00</RequestAcceptDate>
+      <RequestDate>19.02.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502110048.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>11.02.2025 18:17</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Запрос предложений на услуги по размещению рекламных кампаний Клиентов в каналах\сообществах («посевы»)</BidName>
+      <purchCodeTerm>SBR028-2502110048.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2760387</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>12.02.2025 18:00</RequestStartDate>
+      <EndDate>30.03.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Запрос предложений на услуги по размещению рекламных кампаний Клиентов в каналах\сообществах («посевы»)</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1739297820000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2835560</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2835560</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.02.2025 18:00</RequestAcceptDate>
+      <RequestDate>14.02.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502070041.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>07.02.2025 18:36</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Выполнение работ по производству, сборке, упаковке и поставке подарочных наборов сладостей.</BidName>
+      <purchCodeTerm>SBR028-2502070041.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2746309</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>07.02.2025 19:00</RequestStartDate>
+      <EndDate>19.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Выполнение работ по производству, сборке, упаковке и поставке подарочных наборов сладостей.</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1738953360000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2835216</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2835216</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.02.2025 00:00</RequestAcceptDate>
+      <RequestDate>18.02.2025 00:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502070029.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>07.02.2025 14:47</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Тендер ТЦ Мега 2025. Заполнение АП и квал. требований</BidName>
+      <purchCodeTerm>SBR028-2502070029.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2745519</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>07.02.2025 16:00</RequestStartDate>
+      <EndDate>20.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Индор реклама в ТРЦ Мега</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738939620000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2835147</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2835147</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>14.02.2025 18:00</RequestAcceptDate>
+      <RequestDate>14.02.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502070026.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>07.02.2025 14:24</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Выполнение работ по ресайзу статичных и динамичных баннеров.</BidName>
+      <purchCodeTerm>SBR028-2502070026.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2745454</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>07.02.2025 18:00</RequestStartDate>
+      <EndDate>19.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Выполнение работ по ресайзу статичных и динамичных баннеров.</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738938240000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2835023</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2835023</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>14.02.2025 18:00</RequestAcceptDate>
+      <RequestDate>14.02.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502070023.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>07.02.2025 13:53</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Выполнение работ по созданию видеокейсов  для отраслевых премий и фестивалей.</BidName>
+      <purchCodeTerm>SBR028-2502070023.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2745359</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>07.02.2025 18:00</RequestStartDate>
+      <EndDate>19.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Выполнение работ по созданию видеокейсов  для отраслевых премий и фестивалей.</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738936380000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2834128</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Квалификационный отбор (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/7/3/0/2834128</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>04.03.2025 18:00</RequestAcceptDate>
+      <RequestDate>04.03.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502060028.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>06.02.2025 19:54</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Cоздание видеоконтента и съемка роликов</BidName>
+      <purchCodeTerm>SBR028-2502060028.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/7/0/0/2743117</objectHrefTerm>
+      <RequestStartDate>15.02.2025 10:00</RequestStartDate>
+      <EndDate>04.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <purchName>Квалификационный отбор по выбору организаций на выполнение работ по видеопродакшену.</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738871640000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2831288</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2831288</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>18.02.2025 15:00</RequestAcceptDate>
+      <RequestDate>18.02.2025 15:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502040076.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>04.02.2025 17:50</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Услуги по организации прямых трансляций для нужд ООО «С-Маркетинг»</BidName>
+      <purchCodeTerm>SBR028-2502040076.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2735621</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>04.02.2025 18:00</RequestStartDate>
+      <EndDate>19.02.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Выбор рамочных подрядчиков на оказание по организации прямых трансляций для нужд ООО «С-Маркетинг»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738691400000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2831277</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2831277</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>14.02.2025 12:00</RequestAcceptDate>
+      <RequestDate>14.02.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502040074.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>04.02.2025 17:43</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Услуги по организации трансфера для нужд ООО «С-Маркетинг»</BidName>
+      <purchCodeTerm>SBR028-2502040074.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2735613</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>04.02.2025 18:00</RequestStartDate>
+      <EndDate>19.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Выбор рамочных подрядчиков на оказание услуг по организации трансфера для нужд ООО "С-Маркетинг"</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1738690980000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2829594</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2829594</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>10.02.2025 18:00</RequestAcceptDate>
+      <RequestDate>10.02.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502030061.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>03.02.2025 14:36</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>оказание комплекса услуг по организации проведения мероприятия «Командообразующее мероприятие».</BidName>
+      <purchCodeTerm>SBR028-2502030061.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2731609</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>03.02.2025 14:40</RequestStartDate>
+      <EndDate>12.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Оказание комплекса услуг по организации проведения мероприятия «Командообразующее мероприятие».</purchName>
+      <purchAmount>400000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738593360000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2829535</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2829535</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>10.02.2025 15:00</RequestAcceptDate>
+      <RequestDate>10.02.2025 15:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502030060.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>03.02.2025 14:05</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по предоставлению кондитерских изделий в городах РФ</BidName>
+      <purchCodeTerm>SBR028-2502030060.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2731553</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>03.02.2025 14:30</RequestStartDate>
+      <EndDate>12.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Оказание услуг по предоставлению кондитерских изделий в городах РФ</purchName>
+      <purchAmount>1218360</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738591500000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2829512</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "С-МАРКЕТИНГ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/632/3/0/2829512</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>13.02.2025 19:00</RequestAcceptDate>
+      <RequestDate>13.02.2025 19:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2502030059.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>03.02.2025 13:53</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по предоставлению цветочных композиций (г.Москва)</BidName>
+      <purchCodeTerm>SBR028-2502030059.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/632/0/0/2731533</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>03.02.2025 14:30</RequestStartDate>
+      <EndDate>17.02.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Оказание услуг по предоставлению цветочных композиций</purchName>
+      <purchAmount>730000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1738590780000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

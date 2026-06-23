@@ -1,6 +1,10 @@
 __pycache__/
 *.pyc
 .playwright-cli/
+.agents/
+.cursor/
 node_modules/
 output/
 .local/
+scratch/chrome_data/
+scratch/**/chrome_data/

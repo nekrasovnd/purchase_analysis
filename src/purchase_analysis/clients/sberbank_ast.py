@@ -18,15 +18,24 @@ OUT_OF_SCOPE_SECTIONS = {
     "Реализация имущества",
     "Продажа имущества (предприятия) банкротов",
 }
+OUT_OF_SCOPE_METHOD_PATTERNS = tuple(
+    re.compile(pattern, re.IGNORECASE)
+    for pattern in (
+        r"\bпродаж[аеи]\b",
+        r"\bбанкрот\w*\b",
+    )
+)
 ASSET_SALE_SUBJECT_PATTERNS = tuple(
     re.compile(pattern, re.IGNORECASE)
     for pattern in (
+        r"\bкупл[яи]\s*-\s*продаж[аеи]\b",
         r"\bпрост\w+\s+продаж[аеи]\b",
         r"\bпроцедур\w*\s+продаж[аеи]\b",
         r"\bпродаж[аеи]\s+(?:б\s*[./-]?\s*у|бывш\w*\s+в\s+употреблен\w*)\b",
         r"\bпродаж[аеи]\s+(?:имуществ\w*|транспортн\w+\s+средств\w*|автомобил\w*|оборудовани\w*)\b",
         r"\bреализац\w+\s+(?:имуществ\w*|б\s*[./-]?\s*у|бывш\w*\s+в\s+употреблен\w*)\b",
         r"\bна\s+право\s+заключени\w+\s+договор\w+\s+(?:реализац\w+|доходн\w+\s+утилизац\w+)\b",
+        r"\bна\s+право\s+заключени\w+\s+договор\w+\s+аренд\w+.*\bнежил\w+\b",
     )
 )
 
@@ -393,6 +402,10 @@ def is_procurement_relevant(item: SberbankAstSearchItem) -> bool:
         return False
     lowered_url = item.detail_url.lower()
     if "/property/" in lowered_url or "/bankruptcy/" in lowered_url:
+        return False
+
+    method_text = normalize_spaces(" ".join([item.tender_type, item.method_name]))
+    if any(pattern.search(method_text) for pattern in OUT_OF_SCOPE_METHOD_PATTERNS):
         return False
 
     subject = normalize_spaces(item.subject)

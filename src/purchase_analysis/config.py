@@ -5,9 +5,9 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 CONFIG_DIR = ROOT_DIR / "configs"
 DATA_DIR = ROOT_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
-CURATED_DIR = DATA_DIR / "curated"
-REPORTS_DIR = DATA_DIR / "reports"
 OUTPUT_DIR = ROOT_DIR / "output"
+CURATED_DIR = OUTPUT_DIR / "curated"
+REPORTS_DIR = OUTPUT_DIR / "reports"
 DOCS_DIR = ROOT_DIR / "docs"
 NOTEBOOKS_DIR = ROOT_DIR / "notebooks"
 

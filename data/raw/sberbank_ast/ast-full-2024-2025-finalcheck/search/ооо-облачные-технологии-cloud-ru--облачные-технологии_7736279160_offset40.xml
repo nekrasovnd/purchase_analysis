@@ -1,0 +1,809 @@
+<datarow>
+  <total>
+    <value>497</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3128643</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3128643</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>01.12.2025 14:00</RequestAcceptDate>
+      <RequestDate>01.12.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511190044.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>19.11.2025 18:22</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по присоединению сетей передачи данных и пропуска трафика СПД для предоставления магистрального доступа в Интернет для нужд ООО «Облачные технологии»</BidName>
+      <purchCodeTerm>SBR028-2511190044.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3580572</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>19.11.2025 18:30</RequestStartDate>
+      <EndDate>26.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1353 - Оказание услуг по присоединению сетей передачи данных и пропуска трафика СПД для предоставления магистрального доступа в Интернет для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1763576520000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3125169</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Квалификационный отбор (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/3/3/0/3125169</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>03.12.2025 12:00</RequestAcceptDate>
+      <RequestDate>03.12.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511170041.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>17.11.2025 13:56</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>1315_Определение поставщиков, предоставляющих транспортно-экспедиционные услуги</BidName>
+      <purchCodeTerm>SBR028-2511170041.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/3/0/0/3572899</objectHrefTerm>
+      <isIncrease />
+      <RequestStartDate>17.11.2025 15:00</RequestStartDate>
+      <EndDate>03.12.2025</EndDate>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1315_Определение поставщиков, предоставляющих транспортно-экспедиционные услуги, для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1763387760000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3123884</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3123884</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>25.11.2025 12:00</RequestAcceptDate>
+      <RequestDate>25.11.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511140037.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>14.11.2025 15:36</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по организации и предоставлению каналов L3VPN</BidName>
+      <purchCodeTerm>SBR028-2511140037.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3566880</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.11.2025 16:00</RequestStartDate>
+      <EndDate>12.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1337 - Оказание услуг по организации и предоставлению каналов L3VPN для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1763134560000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3123880</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3123880</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>20.11.2025 12:00</RequestAcceptDate>
+      <RequestDate>20.11.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511140036.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>14.11.2025 15:35</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по организации и предоставлению каналов L3VPN</BidName>
+      <purchCodeTerm>SBR028-2511140036.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3566876</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>14.11.2025 15:50</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1341 - Оказание услуг по организации и предоставлению каналов L3VPN для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1763134500000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>b6401de0-4286-4b66-813c-21ec4fd8dab0</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №51473689 от покупателя ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>51473689</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/b6401de0-4286-4b66-813c-21ec4fd8dab0</objectHrefTerm>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>13.11.2025 15:15</RequestStartDate>
+      <EndDate>18.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>18.11.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>1349_1125_12147_П Кресло-мешок Груша размера 4XL</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>51473689</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>13.11.2025 15:15</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1763046900000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3121509</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3121509</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>27.11.2025 12:00</RequestAcceptDate>
+      <RequestDate>27.11.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511130005.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>13.11.2025 10:16</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Заключение рамочного договора на поставку серверных шкафов</BidName>
+      <purchCodeTerm>SBR028-2511130005.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3561628</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>13.11.2025 11:00</RequestStartDate>
+      <EndDate>26.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1224 - Заключение рамочного договора на поставку серверных шкафов для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount>294389141.64</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1763028960000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3116748</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/3116748</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>01.12.2025 17:00</RequestAcceptDate>
+      <RequestDate>01.12.2025 17:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511100011.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>10.11.2025 09:46</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг агентств по дизайн-поддержке для нужд ООО «Облачные технологии»</BidName>
+      <purchCodeTerm>SBR028-2511100011.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/3552594</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>10.11.2025 10:00</RequestStartDate>
+      <EndDate>26.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1206_Оказание услуг агентств по дизайн-поддержке для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762767960000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3115990</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3115990</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>13.11.2025 12:00</RequestAcceptDate>
+      <RequestDate>13.11.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511070027.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>07.11.2025 14:29</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Продление сертификатов активации сервиса прямой технической поддержки на оборудование и ПО Инфотекс</BidName>
+      <purchCodeTerm>SBR028-2511070027.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3547758</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>07.11.2025 15:00</RequestStartDate>
+      <EndDate>28.11.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1262 - Продление сертификатов активации сервиса прямой технической поддержки на оборудование и ПО Инфотекс для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1762525740000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3115502</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3115502</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>13.11.2025 12:00</RequestAcceptDate>
+      <RequestDate>13.11.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511070010.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>07.11.2025 10:45</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по организации и предоставлению каналов L2VPN для нужд ООО «Облачные технологии»</BidName>
+      <purchCodeTerm>SBR028-2511070010.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3546940</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>07.11.2025 11:00</RequestStartDate>
+      <EndDate>28.11.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1305 - Оказание услуг по организации и предоставлению каналов L2VPN для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762512300000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>008f8d19-26a5-4af8-bcb2-26a8008c199b</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №86422837 от покупателя ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>86422837</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/008f8d19-26a5-4af8-bcb2-26a8008c199b</objectHrefTerm>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>06.11.2025 17:59</RequestStartDate>
+      <EndDate>13.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>13.11.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>1282_1025_12004_С_Закупка смесителей для раковины</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>86422837</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>06.11.2025 17:59</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1762451940000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>9e6025a2-d714-4966-8f91-585504494952</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №133207228 от покупателя ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>133207228</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/9e6025a2-d714-4966-8f91-585504494952</objectHrefTerm>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>06.11.2025 17:41</RequestStartDate>
+      <EndDate>12.11.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>12.11.2025 14:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>1203_1025_10908_С_Подставки для зонтов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>133207228</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>06.11.2025 17:41</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1762450860000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3113626</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3113626</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>12.11.2025 14:00</RequestAcceptDate>
+      <RequestDate>12.11.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511050035.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>05.11.2025 19:04</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг по сопровождению экземпляров Систем Консультант+</BidName>
+      <purchCodeTerm>SBR028-2511050035.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3542415</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>05.11.2025 19:15</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1277 - Оказание услуг по сопровождению экземпляров Систем Консультант+ для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1762369440000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3113625</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3113625</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>11.11.2025 12:00</RequestAcceptDate>
+      <RequestDate>11.11.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2511050034.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>05.11.2025 18:49</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Поставка программного обеспечения по анализу уязвимостей веб-приложений и оценки информационной безопасности</BidName>
+      <purchCodeTerm>SBR028-2511050034.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3542308</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>05.11.2025 18:55</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1270 - Поставка программного обеспечения по анализу уязвимостей веб-приложений и оценки информационной безопасности</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1762368540000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3110784</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3110784</CreateRequestHrefTerm>
+      <BidStatusName>Состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>10.11.2025 14:00</RequestAcceptDate>
+      <RequestDate>10.11.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510310050.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.10.2025 15:00</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Оказание услуг технической поддержки серверов Nettrix для нужд ООО «Облачные технологии»</BidName>
+      <purchCodeTerm>SBR028-2510310050.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3530088</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.10.2025 16:00</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1255 - оказание услуг технической поддержки серверов Nettrix для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1761922800000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3110778</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3110778</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>12.11.2025 14:00</RequestAcceptDate>
+      <RequestDate>12.11.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510310049.1</purchCode>
+      <IsSMP />
+      <purchCurrency>USD</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.10.2025 14:59</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Ноутбук Honor MagicBook Pro 14</BidName>
+      <purchCodeTerm>SBR028-2510310049.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3530083</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.10.2025 15:30</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1290 - Поставка ноутбуков для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1761922740000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3110779</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3110779</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>12.11.2025 14:00</RequestAcceptDate>
+      <RequestDate>12.11.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510310049.2</purchCode>
+      <IsSMP />
+      <purchCurrency>USD</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.10.2025 14:59</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Ноутбук ASUS Vivobook S M5406WA-PP138W, 14”</BidName>
+      <purchCodeTerm>SBR028-2510310049.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3530083</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.10.2025 15:30</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1290 - Поставка ноутбуков для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1761922740000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3110780</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3110780</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>12.11.2025 14:00</RequestAcceptDate>
+      <RequestDate>12.11.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510310049.3</purchCode>
+      <IsSMP />
+      <purchCurrency>USD</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.10.2025 14:59</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Ноутбук Yoga Pro 7, 14,5”</BidName>
+      <purchCodeTerm>SBR028-2510310049.3</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3530083</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.10.2025 15:30</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1290 - Поставка ноутбуков для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1761922740000</sort>
+    <sort>3</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3110781</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3110781</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>12.11.2025 14:00</RequestAcceptDate>
+      <RequestDate>12.11.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510310049.4</purchCode>
+      <IsSMP />
+      <purchCurrency>USD</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.10.2025 14:59</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Ноутбук Lenovo Thinkpad T14 Gen 6, 14"</BidName>
+      <purchCodeTerm>SBR028-2510310049.4</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3530083</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.10.2025 15:30</RequestStartDate>
+      <EndDate>05.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1290 - Поставка ноутбуков для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1761922740000</sort>
+    <sort>4</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3110579</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3110579</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>07.11.2025 12:00</RequestAcceptDate>
+      <RequestDate>07.11.2025 12:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510310035.1</purchCode>
+      <IsSMP />
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.10.2025 13:41</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Закупка оборудования и ПО Код Безопасности</BidName>
+      <purchCodeTerm>SBR028-2510310035.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3529892</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.10.2025 14:00</RequestStartDate>
+      <EndDate>28.11.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1239 - Закупка оборудования и ПО Код Безопасности для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1761918060000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>3110569</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "ОБЛАЧНЫЕ ТЕХНОЛОГИИ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/48/3/0/3110569</CreateRequestHrefTerm>
+      <BidStatusName>Не состоялся(-ась)</BidStatusName>
+      <RequestAcceptDate>13.11.2025 14:00</RequestAcceptDate>
+      <RequestDate>13.11.2025 14:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2510310033.1</purchCode>
+      <IsSMP />
+      <purchCurrency>ND</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>31.10.2025 13:37</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>ПО JumpServer Enterprise Edition</BidName>
+      <purchCodeTerm>SBR028-2510310033.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/48/0/0/3529882</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>31.10.2025 14:00</RequestStartDate>
+      <EndDate>12.12.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>1247_поставка лицензионных прав на ПО JumpServer Enterprise Edition и технической поддержки для нужд ООО «Облачные технологии»</purchName>
+      <purchAmount />
+      <purchType>UTP</purchType>
+      <UnitedStateName>Не состоялся(-ась)</UnitedStateName>
+    </_source>
+    <sort>1761917820000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

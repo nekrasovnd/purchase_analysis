@@ -1,0 +1,725 @@
+<datarow>
+  <total>
+    <value>353</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2892841</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/47/3/0/2892841</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>10.04.2025 18:00</RequestAcceptDate>
+      <RequestDate>10.04.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504030032.2</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>03.04.2025 15:27</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Услуги страхования</BidName>
+      <purchCodeTerm>SBR028-2504030032.2</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/47/0/0/2942774</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>03.04.2025 17:00</RequestStartDate>
+      <EndDate>30.04.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>УСЛУГИ СТРАХОВАНИЯ</purchName>
+      <purchAmount>690000</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1743694020000</sort>
+    <sort>2</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2892487</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений (закупка, с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/45/3/0/2892487</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>14.04.2025 18:00</RequestAcceptDate>
+      <RequestDate>14.04.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504030021.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>03.04.2025 13:13</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Услуги по организации и проведению событийного мероприятия</BidName>
+      <purchCodeTerm>SBR028-2504030021.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/45/0/0/2942030</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>03.04.2025 14:00</RequestStartDate>
+      <EndDate>14.05.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <purchName>Услуги по организации и проведению событийного мероприятия</purchName>
+      <purchAmount>5871500</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1743685980000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>a6df0e5a-b721-4419-86f8-24b68a7d14a8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №84932242 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>84932242</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/a6df0e5a-b721-4419-86f8-24b68a7d14a8</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>03.04.2025 10:50</RequestStartDate>
+      <EndDate>07.04.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>07.04.2025 15:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Создание технических видеороликов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>84932242</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>03.04.2025 10:50</PublicDate>
+      <purchAmount>788400</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1743677400000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2890638</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос котировок (закупка, без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/2/3/0/2890638</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>04.04.2025 18:00</RequestAcceptDate>
+      <RequestDate>04.04.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2504020002.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>02.04.2025 10:26</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>УСЛУГИ СКЛАДСКОГО ХРАНЕНИЯ</BidName>
+      <purchCodeTerm>SBR028-2504020002.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/2/0/0/2936488</objectHrefTerm>
+      <isIncrease>false</isIncrease>
+      <RequestStartDate>02.04.2025 11:00</RequestStartDate>
+      <EndDate>30.04.2025</EndDate>
+      <PurchaseTypeType>1</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <purchName>УСЛУГИ СКЛАДСКОГО ХРАНЕНИЯ</purchName>
+      <purchAmount>94101120</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1743589560000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>7e39a606-07b7-4427-ac08-df10939856a8</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №65100974 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>65100974</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/7e39a606-07b7-4427-ac08-df10939856a8</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>01.04.2025 15:58</RequestStartDate>
+      <EndDate>03.04.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>03.04.2025 15:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Выключатель с опциональной нейтралью</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>65100974</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>01.04.2025 15:58</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1743523080000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>e9c722a0-da32-4860-9ca4-8a1b3b889973</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №70046346 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>70046346</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/e9c722a0-da32-4860-9ca4-8a1b3b889973</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>01.04.2025 09:38</RequestStartDate>
+      <EndDate>03.04.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>03.04.2025 16:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Изготовление брендированной полки</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>70046346</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>01.04.2025 09:38</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1743500280000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>c24f7bb5-6b9c-4786-ba57-c6e67f48f2bf</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №31694417 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>31694417</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/c24f7bb5-6b9c-4786-ba57-c6e67f48f2bf</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>28.03.2025 15:56</RequestStartDate>
+      <EndDate>01.04.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>01.04.2025 15:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Поставка печатной продукции</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>31694417</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>28.03.2025 15:56</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1743177360000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>25aa29b8-6f2c-4fd0-b743-70e5c7cc610b</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №36052934 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>36052934</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/25aa29b8-6f2c-4fd0-b743-70e5c7cc610b</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>26.03.2025 21:19</RequestStartDate>
+      <EndDate>31.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>31.03.2025 10:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Диоды</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>36052934</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>26.03.2025 21:19</PublicDate>
+      <purchAmount>25000</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1743023940000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>71d223ec-91e1-47e6-b94e-422ee9dac4ed</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №23486344 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>23486344</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/71d223ec-91e1-47e6-b94e-422ee9dac4ed</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>26.03.2025 18:30</RequestStartDate>
+      <EndDate>28.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>28.03.2025 16:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Подписка на электронный справочник по охране труда</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>23486344</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>26.03.2025 18:30</PublicDate>
+      <purchAmount>20000</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1743013800000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>f2b3d37c-7f42-404a-9673-ae84949dca79</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №35175627 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>35175627</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/f2b3d37c-7f42-404a-9673-ae84949dca79</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>26.03.2025 16:01</RequestStartDate>
+      <EndDate>27.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>27.03.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка специальной сумки ManiaX XL</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>35175627</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>26.03.2025 16:01</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1743004860000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>93384911-b464-488d-ae9c-a9b6c91f158c</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Подача заявок</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №49435841 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>49435841</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/93384911-b464-488d-ae9c-a9b6c91f158c</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Подача заявок</BidStatusName>
+      <RequestStartDate>24.03.2025 23:06</RequestStartDate>
+      <EndDate>28.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>28.03.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Создание видеоролика</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>49435841</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.03.2025 23:06</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Подача заявок</UnitedStateName>
+    </_source>
+    <sort>1742857560000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>ead9e0e7-74ea-4f32-b8cb-3269e3bb36fe</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №81709958 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>81709958</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/ead9e0e7-74ea-4f32-b8cb-3269e3bb36fe</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>24.03.2025 12:56</RequestStartDate>
+      <EndDate>26.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.03.2025 16:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Печать листовок</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>81709958</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.03.2025 12:56</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1742820960000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>5119f889-194c-4c23-a356-db6d5d0125f5</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №52300616 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>52300616</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/5119f889-194c-4c23-a356-db6d5d0125f5</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>24.03.2025 12:50</RequestStartDate>
+      <EndDate>26.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>26.03.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Подписка на электронный справочник по охране труда</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>52300616</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>24.03.2025 12:50</PublicDate>
+      <purchAmount>20000</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1742820600000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>51de7319-c19e-4c44-809d-f6f4d5593b6b</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №123238835 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>123238835</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/51de7319-c19e-4c44-809d-f6f4d5593b6b</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>21.03.2025 11:53</RequestStartDate>
+      <EndDate>24.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>24.03.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка колонок</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>123238835</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>21.03.2025 11:53</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1742557980000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>d2cae3d8-6018-41fa-b4f8-3d37401e2c1b</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №97362089 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>97362089</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/d2cae3d8-6018-41fa-b4f8-3d37401e2c1b</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>20.03.2025 16:07</RequestStartDate>
+      <EndDate>21.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>21.03.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка латунной стойки, провода, разъема коннектора</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>97362089</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.03.2025 16:07</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1742486820000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>b5c7e56c-8304-475e-837b-77eb0dfd2603</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №82806333 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>82806333</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/b5c7e56c-8304-475e-837b-77eb0dfd2603</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>20.03.2025 15:45</RequestStartDate>
+      <EndDate>21.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>21.03.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка колонок</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>82806333</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.03.2025 15:45</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1742485500000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>4845265e-4a25-401f-86ad-941f26b51b4f</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №131196912 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>131196912</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/4845265e-4a25-401f-86ad-941f26b51b4f</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>20.03.2025 12:51</RequestStartDate>
+      <EndDate>21.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>21.03.2025 18:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка строительных материалов</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>131196912</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.03.2025 12:51</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1742475060000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2877655</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Процедура обоснования начальной максимальной цены (без ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>28</TradeSectionId>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/RequestCreate/21/3/0/2877655</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>25.03.2025 18:00</RequestAcceptDate>
+      <RequestDate>25.03.2025 18:00</RequestDate>
+      <SourceTerm>Торги коммерческих заказчиков</SourceTerm>
+      <purchCode>SBR028-2503200012.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>20.03.2025 11:28</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>аналитика рынка</BidName>
+      <purchCodeTerm>SBR028-2503200012.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/VIP/NBT/PurchaseView/21/0/0/2885498</objectHrefTerm>
+      <RequestStartDate>20.03.2025 12:00</RequestStartDate>
+      <EndDate>31.03.2025</EndDate>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/VIP/List/PurchaseList/</SourceHrefTerm>
+      <PurchaseTypeType>3</PurchaseTypeType>
+      <purchName>Запрос КП на оказание услуг по аналитике рынка</purchName>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1742470080000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>dadf786e-547f-47df-8a01-7dc8bd36c3f4</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Отменено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №36487895 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>36487895</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/dadf786e-547f-47df-8a01-7dc8bd36c3f4</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Отменено</BidStatusName>
+      <RequestStartDate>20.03.2025 10:28</RequestStartDate>
+      <EndDate>24.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>24.03.2025 12:00</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Подписка на электронный справочник по охране труда</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>36487895</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>20.03.2025 10:28</PublicDate>
+      <purchAmount>20000</purchAmount>
+      <UnitedStateName>Отменено</UnitedStateName>
+    </_source>
+    <sort>1742466480000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+  <hits>
+    <_index>b2b_purchase_all_2022_03_18</_index>
+    <_type>_doc</_type>
+    <_id>a51b5dfb-3f43-4553-b4fe-caaf266de867</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Запрос предложений в электронной форме</PurchaseTypeName>
+      <purchStateName>Завершено</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <BidName>Запрос №113233829 от покупателя ООО "САЛЮТДЕВАЙСЫ"</BidName>
+      <TradeSectionId>0</TradeSectionId>
+      <purchCodeTerm>113233829</purchCodeTerm>
+      <objectHrefTerm>https://sberb2b.ru/request/supplier/preview/a51b5dfb-3f43-4553-b4fe-caaf266de867</objectHrefTerm>
+      <OrgName>ООО "САЛЮТДЕВАЙСЫ"</OrgName>
+      <isIncrease>0</isIncrease>
+      <BidStatusName>Завершено</BidStatusName>
+      <RequestStartDate>19.03.2025 14:09</RequestStartDate>
+      <EndDate>20.03.2025</EndDate>
+      <SourceHrefTerm>https://sberb2b.ru/request/public-requests</SourceHrefTerm>
+      <RequestDate>20.03.2025 14:07</RequestDate>
+      <PurchaseTypeType>0</PurchaseTypeType>
+      <purchName>Закупка материалов для монтажа и оказание услуг по монтажным работам</purchName>
+      <SourceTerm>SberB2B</SourceTerm>
+      <IsSMP>0</IsSMP>
+      <purchCode>113233829</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>0</needPayment>
+      <PublicDate>19.03.2025 14:09</PublicDate>
+      <purchAmount>0</purchAmount>
+      <UnitedStateName>Завершено</UnitedStateName>
+    </_source>
+    <sort>1742393340000</sort>
+    <sort>0</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

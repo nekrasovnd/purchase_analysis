@@ -7,7 +7,7 @@ import time
 
 import pandas as pd
 
-from purchase_analysis import entity_resolution
+from purchase_analysis import entity_resolution, source_sprint
 from purchase_analysis.clients import tektorg
 from purchase_analysis.config import OUTPUT_DIR, RAW_DIR
 from purchase_analysis.utils.io import ensure_dir, write_text
@@ -15,12 +15,11 @@ from purchase_analysis.utils.text import safe_slug
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_BATCH_NAME = "tektorg_prompt2_full_scope_" + datetime.now().strftime("%Y-%m-%d")
+DATE_FROM = "2024-01-01T00:00:00+05:00"
+DATE_TO = "2025-12-31T23:59:59+05:00"
 
 def read_scope(selected_inns: set[str] | None) -> list[entity_resolution.EntityIdentity]:
-    rows = entity_resolution.load_entity_scope(ROOT_DIR / "configs" / "entity_scope.csv")
-    if not selected_inns:
-        return rows
-    return [row for row in rows if row.inn in selected_inns]
+    return source_sprint.read_scope(selected_inns, scope_path=ROOT_DIR / "configs" / "entity_scope.csv")
 
 def write_frame(path: Path, rows: list[dict[str, object]]) -> pd.DataFrame:
     frame = pd.DataFrame(rows)
@@ -46,61 +45,107 @@ def main() -> None:
 
     session = tektorg.create_session(timeout=30)
     item_rows: list[dict[str, object]] = []
+    candidate_rows: list[dict[str, object]] = []
     
     unique_rows = 0
 
     for entity in scope:
         if not entity.inn:
             continue
-        print(f"[{entity.entity_name}] Searching for INN: {entity.inn}")
-        
-        page = 1
-        while True:
-            time.sleep(args.throttle)
-            print(f"  Fetching page {page}...")
-            request_xml = tektorg.build_request_xml(customer_inn=entity.inn, page=page, limit_page=100)
-            
-            try:
-                response_xml = tektorg.fetch_procedures(request_xml, session=session)
-            except Exception as e:
-                print(f"  [ERROR] fetching SOAP response: {e}")
-                break
-                
-            slug = safe_slug(f"{entity.entity_name}_{entity.inn}_p{page}")
-            write_text(raw_dir / f"{slug}.xml", response_xml)
-            
-            try:
-                response = tektorg.parse_search_response(
-                    response_xml,
-                    entity_name=entity.entity_name,
-                    customer_query=entity.inn
+        for query_field in ("customerINN", "organizerINN"):
+            print(f"[{entity.entity_name}] Searching for {query_field}: {entity.inn}")
+            page = 1
+            while True:
+                time.sleep(args.throttle)
+                print(f"  Fetching page {page}...")
+                request_xml = tektorg.build_request_xml(
+                    customer_inn=entity.inn if query_field == "customerINN" else None,
+                    organizer_inn=entity.inn if query_field == "organizerINN" else None,
+                    start_date=DATE_FROM,
+                    end_date=DATE_TO,
+                    page=page,
+                    limit_page=100,
                 )
-            except Exception as e:
-                print(f"  [ERROR] parsing SOAP XML: {e}")
-                break
-                
-            if response.fault_string:
-                print(f"  [FAULT] from API: {response.fault_string}")
-                break
-                
-            print(f"  Found {len(response.items)} items on page {page}.")
-            if not response.items:
-                break
 
-            for item in response.items:
-                unique_rows += 1
-                item_rows.append(tektorg.search_item_to_dict(item))
-                
-            if response.current_page >= response.total_pages or not response.total_pages:
-                break
-            page += 1
+                try:
+                    response_xml = tektorg.fetch_procedures(request_xml, session=session)
+                except Exception as e:
+                    print(f"  [ERROR] fetching SOAP response: {e}")
+                    break
+
+                slug = safe_slug(f"{entity.entity_name}_{query_field}_{entity.inn}_p{page}")
+                write_text(raw_dir / f"{slug}.xml", response_xml)
+
+                try:
+                    response = tektorg.parse_search_response(
+                        response_xml,
+                        entity_name=entity.entity_name,
+                        customer_query=f"{query_field}:{entity.inn}"
+                    )
+                except Exception as e:
+                    print(f"  [ERROR] parsing SOAP XML: {e}")
+                    break
+
+                if response.fault_string:
+                    print(f"  [FAULT] from API: {response.fault_string}")
+                    break
+
+                print(f"  Found {len(response.items)} items on page {page}.")
+                if not response.items:
+                    break
+
+                for item in response.items:
+                    role = "customer" if query_field == "customerINN" else "organizer"
+                    org_inn = item.customer_inn if role == "customer" else item.organizer_inn
+                    org_name = item.customer_name if role == "customer" else item.organizer_name
+
+                    decision = entity_resolution.classify_entity_match(
+                        entity,
+                        candidate_name=org_name,
+                        candidate_inn=org_inn,
+                        role=role
+                    )
+
+                    if not decision.accepted:
+                        continue
+
+                    # Enrichment candidate
+                    candidate_rows.append({
+                        "entity_key": entity.entity_id,
+                        "entity_name": entity.entity_name,
+                        "entity_inn": entity.inn,
+                        "query_used": f"{query_field}:{entity.inn}",
+                        "candidate_name": org_name,
+                        "candidate_inn": org_inn,
+                        "decision": decision.decision,
+                        "reason": decision.reason,
+                        "matched_field": decision.matched_field
+                    })
+
+                    unique_rows += 1
+                    item_rows.append(tektorg.search_item_to_dict(item))
+
+                if response.current_page >= response.total_pages or not response.total_pages:
+                    break
+                page += 1
 
     print("\n--- SPRINT SUMMARY ---")
     print(f"New Unique Lots Found: {unique_rows}")
+    print(f"Enrichment Candidates: {len(candidate_rows)}")
+    
+    item_df = pd.DataFrame(item_rows)
+    if not item_df.empty:
+        item_df = item_df.drop_duplicates(subset=["procedure_number", "lot_number"], keep="first").reset_index(drop=True)
+    candidate_df = pd.DataFrame(candidate_rows).drop_duplicates().reset_index(drop=True)
+    item_df = source_sprint.write_items_csv(
+        out_dir / "items.csv",
+        item_df.to_dict("records"),
+        default_source_system="tektorg",
+    )
+    write_frame(out_dir / "identity_enrichment_candidates.csv", candidate_df.to_dict("records"))
 
-    if item_rows:
-        write_frame(out_dir / "items.csv", item_rows)
-        print(f"Saved {len(item_rows)} items to {out_dir / 'items.csv'}")
+    if not item_df.empty:
+        print(f"Saved {len(item_df)} items to {out_dir / 'items.csv'}")
 
 if __name__ == "__main__":
     main()

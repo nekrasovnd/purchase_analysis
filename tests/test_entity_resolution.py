@@ -7,6 +7,7 @@ from purchase_analysis.entity_resolution import (
     classify_entity_match,
     load_entity_scope,
     propose_identity_enrichment,
+    parse_json_list,
     split_multi,
 )
 
@@ -20,7 +21,7 @@ class EntityResolutionTest(unittest.TestCase):
 
     def test_load_scope_preserves_enriched_identity_fields(self) -> None:
         entities = load_entity_scope(ROOT_DIR / "configs" / "entity_scope.csv")
-        self.assertEqual(len(entities), 26)
+        self.assertEqual(len(entities), 32)
         inns = [entity.inn for entity in entities]
         self.assertTrue(all(inns))
         self.assertEqual(len(inns), len(set(inns)))
@@ -29,6 +30,7 @@ class EntityResolutionTest(unittest.TestCase):
         self.assertEqual(sberbank.ogrn, "1027700132195")
         self.assertIn("773601001", sberbank.kpp_list)
         self.assertIn("Сбербанк", sberbank.brand_aliases)
+        self.assertIn("ПАО Сбербанк", sberbank.aliases)
 
     def test_build_search_terms_uses_identifiers_and_aliases(self) -> None:
         entity = next(
@@ -40,7 +42,13 @@ class EntityResolutionTest(unittest.TestCase):
         self.assertIn("7736249247", terms)
         self.assertIn("1157746652150", terms)
         self.assertIn("Домклик", terms)
+        self.assertTrue(any("ДОМКЛИК" in term.upper() for term in terms))
         self.assertEqual(len(terms), len({term.casefold() for term in terms}))
+
+    def test_aliases_must_be_json_arrays(self) -> None:
+        self.assertEqual(parse_json_list('["A", "A", "B"]', field_name="aliases"), ["A", "B"])
+        with self.assertRaisesRegex(ValueError, "JSON array"):
+            parse_json_list("A;B", field_name="aliases")
 
     def test_identifier_matches_are_accepted_for_safe_roles(self) -> None:
         entity = next(

@@ -1,0 +1,4 @@
+batch_name,source_system,status,include_in_default_merge,notes
+ast-full-2024-2025-finalcheck,sberbank_ast,current_clean,1,"Clean audited AST run; 2761 unique procedure_number+lot_number rows."
+b2b_center_prompt2_full_scope_2026-06-18,b2b_center,current_clean,1,"Clean B2B-Center run; 400 rows before cross-source dedupe."
+eis-prompt2-full-scope-2026-06-22,eis,current_clean_control,1,"Control EIS run; 3 rows, all cross-source duplicates in current clean merge."

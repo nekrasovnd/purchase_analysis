@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import csv
 from dataclasses import dataclass, field
+import json
 from pathlib import Path
 import re
 from typing import Iterable
@@ -45,6 +46,7 @@ class EntityIdentity:
     short_name: str = ""
     brand_aliases: list[str] = field(default_factory=list)
     search_terms: list[str] = field(default_factory=list)
+    aliases: list[str] = field(default_factory=list)
     eis_search_term: str = ""
     roseltorg_customer_query: str = ""
     is_priority_focus: bool = False
@@ -86,6 +88,19 @@ def split_multi(value: str | None) -> list[str]:
 
 def _parse_bool(value: str | None) -> bool:
     return normalize_spaces(value).lower() in {"1", "true", "yes", "y", "да"}
+
+
+def parse_json_list(value: str | None, *, field_name: str = "value") -> list[str]:
+    cleaned = normalize_spaces(value)
+    if not cleaned:
+        return []
+    try:
+        payload = json.loads(cleaned)
+    except json.JSONDecodeError as exc:
+        raise ValueError(f"{field_name} must be a JSON array") from exc
+    if not isinstance(payload, list) or not all(isinstance(item, str) for item in payload):
+        raise ValueError(f"{field_name} must be a JSON array of strings")
+    return _dedupe(payload)
 
 
 def _dedupe(values: Iterable[str]) -> list[str]:
@@ -170,6 +185,7 @@ def load_entity_scope(path: Path) -> list[EntityIdentity]:
                     short_name=normalize_spaces(row.get("short_name")) or strip_legal_form(entity_name),
                     brand_aliases=split_multi(row.get("brand_aliases")),
                     search_terms=split_multi(row.get("search_terms")),
+                    aliases=parse_json_list(row.get("aliases"), field_name=f"aliases row {index}"),
                     eis_search_term=normalize_spaces(row.get("eis_search_term")) or entity_name,
                     roseltorg_customer_query=normalize_spaces(row.get("roseltorg_customer_query"))
                     or entity_name.upper(),
@@ -193,6 +209,7 @@ def identity_names(entity: EntityIdentity) -> list[str]:
             entity.roseltorg_customer_query,
             *entity.brand_aliases,
             *entity.search_terms,
+            *entity.aliases,
             *legal_name_variants(entity),
             *parenthetical_terms(entity.entity_name),
         ]
@@ -224,6 +241,7 @@ def build_search_terms(
             *source_specific,
             *identifier_terms,
             *entity.search_terms,
+            *entity.aliases,
             entity.short_name,
             remove_parenthetical(entity.entity_name),
             *entity.brand_aliases,

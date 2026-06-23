@@ -1,0 +1,47 @@
+<datarow>
+  <total>
+    <value>781</value>
+    <relation>eq</relation>
+  </total>
+  <max_score />
+  <hits>
+    <_index>utp_bid_public_2020_08_11</_index>
+    <_type>_doc</_type>
+    <_id>2395679</_id>
+    <_score>0</_score>
+    <_source>
+      <PurchaseTypeName>Голландский аукцион (с ЭП)</PurchaseTypeName>
+      <purchStateName>Завершен(-а)</purchStateName>
+      <CreateRequestAlowed>0</CreateRequestAlowed>
+      <IntegratorCode></IntegratorCode>
+      <TradeSectionId>65</TradeSectionId>
+      <OrgName>АО "СБЕРБАНК - АСТ"</OrgName>
+      <CreateRequestHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/RequestCreate/30/3/0/2395679</CreateRequestHrefTerm>
+      <BidStatusName>Завершен(-а)</BidStatusName>
+      <RequestAcceptDate>12.02.2024 15:00</RequestAcceptDate>
+      <RequestDate>12.02.2024 15:00</RequestDate>
+      <SourceTerm>Реализация имущества</SourceTerm>
+      <purchCode>SBR065-2401110007.1</purchCode>
+      <purchCurrency>RUB</purchCurrency>
+      <needPayment>1</needPayment>
+      <ESG>0</ESG>
+      <PublicDate>11.01.2024 12:28</PublicDate>
+      <IntegratorCodeTerm></IntegratorCodeTerm>
+      <BidName>Право на заключение договора аренды части нежилого здания площадью 75,4 кв. м. (на 2 этаже), расположенного по адресу: Ростовская область, Мартыновский р-н, сл. Большая Мартыновка,  ул. Ленина, 51, принадлежащего ПАО Сбербанк.</BidName>
+      <purchCodeTerm>SBR065-2401110007.1</purchCodeTerm>
+      <objectHrefTerm>https://utp.sberbank-ast.ru/Property/NBT/PurchaseView/30/0/0/1510701</objectHrefTerm>
+      <isIncrease>true</isIncrease>
+      <RequestStartDate>11.01.2024 18:00</RequestStartDate>
+      <EndDate>13.02.2024</EndDate>
+      <PurchaseTypeType>2</PurchaseTypeType>
+      <SourceHrefTerm>https://utp.sberbank-ast.ru/Property/List/PurchaseList/</SourceHrefTerm>
+      <purchName>Голландский аукцион на понижение (с дополнительным этапом на повышение) на право заключения договора аренды части нежилого здания площадью 75,4 кв. м. (на 2 этаже), расположенного по адресу: Ростовская область, Мартыновский р-н, сл. Большая Мартыновка, ул. Ленина, 51, принадлежащего ПАО Сбербанк.</purchName>
+      <purchAmount>19664.32</purchAmount>
+      <purchType>UTP</purchType>
+      <UnitedStateName>Завершен(-а)</UnitedStateName>
+    </_source>
+    <sort>1704976080000</sort>
+    <sort>1</sort>
+    <sort>0</sort>
+  </hits>
+</datarow>

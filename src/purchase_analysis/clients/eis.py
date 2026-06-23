@@ -49,6 +49,7 @@ class EisSearchItem:
     price_rub: float | None
     published_at: str | None
     deadline_at: str | None
+    tender_url: str | None = None
 
 
 def create_session(timeout: int = 30) -> requests.Session:
@@ -258,6 +259,18 @@ def parse_cards(
         status_match = block.select_one(".registry-entry__header-mid__title")
         status = normalize_spaces(status_match.get_text(" ", strip=True)) if status_match else ""
         
+        tender_url = None
+        for a_tag in block.select("a[href]"):
+            href = a_tag["href"]
+            if number and number in href:
+                if "printForm" in href:
+                    continue
+                if href.startswith("/"):
+                    tender_url = f"{BASE_URL}{href}"
+                else:
+                    tender_url = href
+                break
+        
         cards.append(EisSearchItem(
             source_system="eis",
             platform_section=law,
@@ -273,6 +286,7 @@ def parse_cards(
             price_rub=price_rub,
             published_at=published_at,
             deadline_at=None,
+            tender_url=tender_url,
         ))
     return cards
 
@@ -293,4 +307,46 @@ def search_item_to_dict(item: EisSearchItem) -> dict[str, object]:
         "price_rub": item.price_rub,
         "published_at": item.published_at,
         "deadline_at": item.deadline_at,
+        "tender_url": item.tender_url,
     }
+
+
+def fetch_document_links(session: requests.Session, tender_url: str) -> list[tuple[str, str]]:
+    """Returns list of (file_name, download_url)"""
+    if not tender_url:
+        return []
+        
+    doc_url = tender_url.replace("common-info.html", "documents.html")
+    doc_url = doc_url.replace("notice_info.html", "documents.html")
+    
+    # Fallback if the link was still malformed
+    if "documents.html" not in doc_url:
+        if "regNumber=" in tender_url:
+            import urllib.parse
+            parsed = urllib.parse.urlparse(tender_url)
+            qs = urllib.parse.parse_qs(parsed.query)
+            if "regNumber" in qs:
+                doc_url = f"{BASE_URL}/epz/order/notice/ea20/view/documents.html?regNumber={qs['regNumber'][0]}"
+    
+    try:
+        resp = session.get(doc_url, timeout=30)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "lxml")
+        
+        docs = []
+        for a_tag in soup.select("a[href]"):
+            href = a_tag["href"]
+            if "file.html" in href or "download" in href or "getFile" in href or "attachment" in href:
+                name = normalize_spaces(a_tag.get_text(" ", strip=True))
+                if not name:
+                    name = a_tag.get("title", "document").strip()
+                if href.startswith("/"):
+                    href = f"{BASE_URL}{href}"
+                
+                # Check to avoid duplicate links
+                if not any(d_url == href for _, d_url in docs):
+                    docs.append((name or "document", href))
+        return docs
+    except Exception as e:
+        print(f"    [WARN] Error fetching documents from {doc_url}: {e}")
+        return []

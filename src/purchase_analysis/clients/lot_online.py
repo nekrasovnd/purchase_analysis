@@ -3,7 +3,9 @@ from __future__ import annotations
 from dataclasses import asdict, dataclass
 import json
 import re
-from urllib.parse import urljoin
+from urllib.parse import urljoin, unquote
+import cgi
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
@@ -245,3 +247,57 @@ def parse_search_items(
 
 def search_item_to_dict(item: LotOnlineSearchItem) -> dict:
     return asdict(item)
+
+
+def fetch_document_links(session: requests.Session, detail_url: str) -> list[tuple[str, str]]:
+    """Fetches the detail page and extracts all document download links.
+    Returns a list of tuples: (download_url, document_title)"""
+    try:
+        response = session.get(detail_url, timeout=30)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "lxml")
+        
+        links = []
+        for a in soup.find_all("a"):
+            href = a.get("href")
+            if href and "/etp/downloadppf" in href.lower():
+                full_url = urljoin(BASE_URL, href)
+                title = normalize_spaces(a.get_text(" ", strip=True)) or "document"
+                links.append((full_url, title))
+        return links
+    except Exception:
+        return []
+
+
+def download_file(session: requests.Session, file_url: str, output_path: Path) -> Path | None:
+    """Downloads a file and resolves the correct extension using Content-Disposition header."""
+    try:
+        response = session.get(file_url, timeout=60, stream=True)
+        response.raise_for_status()
+
+        cd = response.headers.get("Content-Disposition", "")
+        filename = ""
+        if cd:
+            if "filename*=" in cd:
+                match = re.search(r"filename\*=UTF-8''(.+)", cd, re.IGNORECASE)
+                if match:
+                    filename = unquote(match.group(1))
+            elif "filename=" in cd:
+                match = re.search(r'filename="?([^"]+)"?', cd, re.IGNORECASE)
+                if match:
+                    filename = match.group(1)
+
+        extension = ""
+        if filename and "." in filename:
+            extension = Path(filename).suffix.lower()
+
+        if extension and output_path.suffix.lower() != extension:
+            output_path = output_path.with_name(output_path.name + extension)
+
+        with open(output_path, "wb") as f:
+            for chunk in response.iter_content(chunk_size=8192):
+                f.write(chunk)
+                
+        return output_path
+    except Exception:
+        return None

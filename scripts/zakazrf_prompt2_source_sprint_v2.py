@@ -12,7 +12,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
-from purchase_analysis import entity_resolution
+from purchase_analysis import entity_resolution, source_sprint
 from purchase_analysis.clients import zakazrf
 from purchase_analysis.config import OUTPUT_DIR, RAW_DIR
 from purchase_analysis.utils.io import ensure_dir, write_text
@@ -20,13 +20,12 @@ from purchase_analysis.utils.text import normalize_spaces, safe_slug
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_BATCH_NAME = "zakazrf_prompt2_full_scope_" + datetime.now().strftime("%Y-%m-%d")
+DATE_FROM = source_sprint.DATE_FROM_DT
+DATE_TO = source_sprint.DATE_TO_DT
 
 
 def read_scope(selected_inns: set[str] | None) -> list[entity_resolution.EntityIdentity]:
-    rows = entity_resolution.load_entity_scope(ROOT_DIR / "configs" / "entity_scope.csv")
-    if not selected_inns:
-        return rows
-    return [row for row in rows if row.inn in selected_inns]
+    return source_sprint.read_scope(selected_inns, scope_path=ROOT_DIR / "configs" / "entity_scope.csv")
 
 
 def write_frame(path: Path, rows: list[dict[str, object]]) -> pd.DataFrame:
@@ -36,21 +35,23 @@ def write_frame(path: Path, rows: list[dict[str, object]]) -> pd.DataFrame:
     return frame
 
 def search_item_to_dict(item: zakazrf.ZakazRfSearchItem) -> dict[str, object]:
-    return {
-        "source_system": item.source_system,
-        "platform_section": item.platform_section,
-        "entity_name": item.entity_name,
-        "customer_query": item.customer_query,
-        "procedure_number": item.procedure_number,
-        "lot_number": item.lot_number,
-        "subject": item.subject,
-        "customer_name": item.customer_name,
-        "region": item.region,
-        "status": item.status,
-        "tender_type": item.tender_type,
-        "price_rub": item.price_rub,
-        "deadline_at": item.deadline_at,
-    }
+    return zakazrf.search_item_to_dict(item)
+
+
+def event_date(item: zakazrf.ZakazRfSearchItem) -> datetime | None:
+    for raw_value in (item.published_at, item.application_deadline, item.deadline_at):
+        if not raw_value:
+            continue
+        try:
+            return datetime.fromisoformat(raw_value)
+        except ValueError:
+            continue
+    return None
+
+
+def is_in_date_scope(item: zakazrf.ZakazRfSearchItem) -> bool:
+    current_date = event_date(item)
+    return current_date is not None and DATE_FROM <= current_date <= DATE_TO
 
 
 def extract_form_state(html_text: str) -> dict[str, str]:
@@ -149,50 +150,86 @@ def main() -> None:
     write_text(raw_dir / "registry.html", registry_html)
     main_page_id = zakazrf.parse_main_page_id(registry_html)
 
+    candidate_rows: list[dict[str, object]] = []
     item_rows: list[dict[str, object]] = []
     unique_rows = 0
 
     for entity in scope:
-        if not entity.inn:
-            continue
-            
-        print(f"[{entity.entity_name}] Searching for INN: {entity.inn}")
-        time.sleep(args.throttle)
+        search_terms = entity_resolution.build_search_terms(entity, source_system="zakazrf")
+        accepted_internal_ids = set()
         
-        try:
-            dialog_html, dialog_url = zakazrf.fetch_customer_dialog(
-                main_page_id,
-                dialog_id=f"dialog_{safe_slug(entity.inn)}",
-                session=session,
-                timeout=60,
-            )
-            context = zakazrf.parse_customer_dialog_context(dialog_html, main_page_id=main_page_id, dialog_url=dialog_url)
+        for term in search_terms:
+            print(f"[{entity.entity_name}] Searching for: {term}")
+            time.sleep(args.throttle)
             
-            customer_search_html, customer_search_url = zakazrf.search_customer_candidates(
-                context,
-                dialog_id=f"dialog_{safe_slug(entity.inn)}",
-                inn=entity.inn,
-                session=session,
-                timeout=60,
-            )
-        except Exception as e:
-            print(f"  [ERROR] fetching search page: {e}")
-            continue
+            is_inn = len(term) in (10, 12) and term.isdigit()
+            is_ogrn = len(term) in (13, 15) and term.isdigit()
             
-        slug = safe_slug(f"{entity.entity_name}_{entity.inn}")
-        write_text(raw_dir / "search" / f"{slug}.html", customer_search_html)
+            try:
+                dialog_html, dialog_url = zakazrf.fetch_customer_dialog(
+                    main_page_id,
+                    dialog_id=f"dialog_{safe_slug(term)}",
+                    session=session,
+                    timeout=60,
+                )
+                context = zakazrf.parse_customer_dialog_context(dialog_html, main_page_id=main_page_id, dialog_url=dialog_url)
+                
+                customer_search_html, customer_search_url = zakazrf.search_customer_candidates(
+                    context,
+                    dialog_id=f"dialog_{safe_slug(term)}",
+                    inn=term if is_inn else "",
+                    ogrn=term if is_ogrn else "",
+                    full_name=term if not (is_inn or is_ogrn) else "",
+                    session=session,
+                    timeout=60,
+                )
+            except Exception as e:
+                print(f"  [ERROR] fetching search page: {e}")
+                continue
+                
+            slug = safe_slug(f"{entity.entity_name}_{term}")
+            write_text(raw_dir / "search" / f"{slug}.html", customer_search_html)
+            
+            candidates = zakazrf.parse_customer_candidates(customer_search_html)
+            print(f"  Found {len(candidates)} company candidates for query '{term}'.")
+            
+            for candidate in candidates:
+                if candidate.internal_id in accepted_internal_ids:
+                    continue
+                    
+                decision = entity_resolution.classify_entity_match(
+                    entity,
+                    candidate_name=candidate.full_name,
+                    candidate_inn=candidate.inn,
+                    role="customer"
+                )
+                
+                if not decision.accepted:
+                    print(f"      [REJECTED] {candidate.full_name} ({candidate.inn}): {decision.reason}")
+                    continue
+                    
+                accepted_internal_ids.add(candidate.internal_id)
+                
+                # Enrichment candidate
+                candidate_rows.append({
+                    "entity_key": entity.entity_id,
+                    "entity_name": entity.entity_name,
+                    "entity_inn": entity.inn,
+                    "query_used": term,
+                    "candidate_name": candidate.full_name,
+                    "candidate_inn": candidate.inn,
+                    "decision": decision.decision,
+                    "reason": decision.reason,
+                    "matched_field": decision.matched_field
+                })
         
-        candidates = zakazrf.parse_customer_candidates(customer_search_html)
-        print(f"  Found {len(candidates)} company candidates.")
-        
-        for candidate in candidates:
-            # Check if this company really matches? It's searched by exact INN.
-            print(f"    -> Fetching purchases for company {candidate.internal_id}")
+        for internal_id in accepted_internal_ids:
+            print(f"    -> Fetching purchases for company {internal_id}")
             time.sleep(args.throttle)
             
             try:
                 notifications_html, notifications_url = zakazrf.fetch_notifications(
-                    candidate.internal_id,
+                    internal_id,
                     session=session,
                     timeout=60,
                 )
@@ -208,13 +245,15 @@ def main() -> None:
                 continue
                 
             for page_number, page_html, page_url in notification_pages:
-                write_text(raw_dir / "purchases" / f"{slug}_{candidate.internal_id}_p{page_number}.html", page_html)
+                # Use entity's name for slug
+                p_slug = safe_slug(f"{entity.entity_name}_{internal_id}_p{page_number}")
+                write_text(raw_dir / "purchases" / f"{p_slug}.html", page_html)
                 
                 try:
                     page_items = zakazrf.parse_notification_rows(
                         page_html,
                         entity_name=entity.entity_name,
-                        customer_query=candidate.full_name,
+                        customer_query=entity.entity_name,
                     )
                 except Exception as e:
                     print(f"      [ERROR] parsing notifications: {e}")
@@ -222,15 +261,34 @@ def main() -> None:
                     
                 print(f"      Page {page_number}: found {len(page_items)} lots.")
                 for item in page_items:
+                    if not is_in_date_scope(item):
+                        continue
                     unique_rows += 1
                     item_rows.append(search_item_to_dict(item))
 
     print("\n--- SPRINT SUMMARY ---")
     print(f"New Unique Lots Found: {unique_rows}")
+    print(f"Enrichment Candidates: {len(candidate_rows)}")
 
     if item_rows:
-        write_frame(out_dir / "items.csv", item_rows)
-        print(f"Saved {len(item_rows)} items to {out_dir / 'items.csv'}")
+        item_df = pd.DataFrame(item_rows)
+        if (
+            {"procedure_number", "lot_number"}.issubset(item_df.columns)
+            and item_df["procedure_number"].fillna("").astype(str).str.strip().ne("").any()
+        ):
+            item_df = item_df.drop_duplicates(subset=["procedure_number", "lot_number"], keep="first")
+        elif "detail_url" in item_df.columns:
+            item_df = item_df.drop_duplicates(subset=["detail_url"], keep="first")
+        item_df = item_df.drop_duplicates().reset_index(drop=True)
+        item_df = source_sprint.write_items_csv(
+            out_dir / "items.csv",
+            item_df.to_dict("records"),
+            default_source_system="zakazrf",
+        )
+        print(f"Saved {len(item_df)} items to {out_dir / 'items.csv'}")
+    if candidate_rows:
+        write_frame(out_dir / "identity_enrichment_candidates.csv", candidate_rows)
+        print(f"Saved {len(candidate_rows)} candidates to {out_dir / 'identity_enrichment_candidates.csv'}")
 
 if __name__ == "__main__":
     main()

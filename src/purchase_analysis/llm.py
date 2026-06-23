@@ -39,7 +39,7 @@ def maybe_write_llm_summary(
             (
                 "# LLM Summary\n\n"
                 "Автоматическая генерация summary пропущена: переменная окружения `OPENAI_API_KEY` не задана.\n\n"
-                "Для ручного или внешнего LLM-запуска используйте `data/reports/llm_prompt_pack.md`.\n"
+                "Для ручного или внешнего LLM-запуска используйте `output/reports/llm_prompt_pack.md`.\n"
             ),
             utf8_bom=True,
         )
@@ -90,7 +90,7 @@ def maybe_write_llm_summary(
                 "# LLM Summary\n\n"
                 "Автоматическая генерация summary завершилась с ошибкой и не повлияла на основной ETL.\n\n"
                 f"Ошибка: `{error}`\n\n"
-                "Для ручного или внешнего LLM-запуска используйте `data/reports/llm_prompt_pack.md`.\n"
+                "Для ручного или внешнего LLM-запуска используйте `output/reports/llm_prompt_pack.md`.\n"
             ),
             utf8_bom=True,
         )

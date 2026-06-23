@@ -1,35 +1,31 @@
-# Entity Resolution Protocol
+﻿# Entity Resolution Protocol
 
-Дата обновления: 2026-06-14.
+Актуальный протокол сопоставления юрлиц для source sprint парсеров.
 
-## Зачем
+## Цель
 
-Парсинг источников больше не должен начинаться с одного поля `ИНН` или одного бренда. Сначала есть проверенная карточка юрлица в `configs/entity_scope.csv`, потом каждый source sprint строит набор поисковых ключей, а результаты проходят общий фильтр идентичности.
+Искать шире, принимать в core строже. Любой источник может использовать ИНН, ОГРН, КПП, официальные названия, brand/search terms и JSON aliases для поиска, но строка попадает в clean dataset только после строгого match заказчика/организатора/покупателя.
 
-Цель: искать шире, но принимать в core строже.
+## Scope
 
-## Карточка юрлица
+Основной файл: `configs/entity_scope.csv`.
 
-`configs/entity_scope.csv` теперь хранит:
+Ключевые поля:
 
-- `entity_key` - стабильный внутренний идентификатор.
-- `inn` - основной ИНН.
-- `ogrn` - только если подтвержден локальными evidence.
-- `kpp_list` - подтвержденные КПП из EIS/AST evidence.
-- `official_name`, `short_name`, `brand_aliases`, `search_terms` - имена и алиасы для поиска.
-- `eis_search_term`, `roseltorg_customer_query` - обратная совместимость со старыми клиентами.
-- `identity_source`, `identity_confidence`, `notes` - почему данным можно доверять.
-
-Пустые поля не считаются ошибкой, если нет проверенного evidence. Нельзя заполнять ОГРН/КПП из памяти или случайной выдачи.
+- `entity_key` - стабильный ключ юрлица.
+- `inn` - основной ИНН, для текущего scope обязателен и уникален.
+- `ogrn` - только подтвержденный ОГРН.
+- `kpp_list` - `;`-разделенный список подтвержденных КПП.
+- `official_name`, `short_name`, `brand_aliases`, `search_terms` - имена и поисковые термины.
+- `aliases` - JSON-массив строк, только после review.
+- `identity_source`, `identity_confidence`, `notes` - evidence и пояснения.
 
 ## Поиск
 
-Кодовый слой: `src/purchase_analysis/entity_resolution.py`.
-
-Каждый источник должен получать запросы через:
+Source sprint должен загружать scope через `purchase_analysis.source_sprint.read_scope(...)` и строить запросы через:
 
 ```python
-build_search_terms(entity, source_system="<source>")
+entity_resolution.build_search_terms(entity, source_system="<source>")
 ```
 
 Разрешенные поисковые ключи:
@@ -37,9 +33,10 @@ build_search_terms(entity, source_system="<source>")
 - ИНН;
 - ОГРН;
 - КПП, если источник поддерживает поиск по КПП;
-- официальное название;
-- короткое название;
-- безопасные алиасы бренда;
+- официальное и короткое название;
+- `brand_aliases`;
+- `search_terms`;
+- подтвержденные JSON `aliases`;
 - source-specific query fields.
 
 ## Принятие в core
@@ -47,49 +44,42 @@ build_search_terms(entity, source_system="<source>")
 Результат источника должен пройти:
 
 ```python
-classify_entity_match(...)
+entity_resolution.classify_entity_match(...)
 ```
 
 Автоматический `accept`:
 
 - совпал `candidate_inn == entity.inn`;
 - совпал `candidate_ogrn == entity.ogrn`;
-- совпал `candidate_kpp` и одновременно точное официальное имя;
-- роль явно не является `supplier`, `operator`, `platform`, `title_mention`, `text_mention`.
+- совпал `candidate_kpp` и одновременно точное доверенное имя;
+- роль безопасна: `customer`, `buyer`, `organizer`, `заказчик`, `покупатель`, `организатор`.
 
 `review`, а не core:
 
-- совпало только название без ИНН/ОГРН/КПП;
+- совпало только название без идентификатора;
 - найден бренд в заголовке или тексте закупки;
-- источник возвращает неструктурированное совпадение.
+- источник отдаёт неструктурированное совпадение.
 
 `reject`:
 
-- совпадение только по оператору площадки;
-- совпадение по поставщику/продавцу вместо заказчика/организатора;
+- роль `supplier`, `seller`, `operator`, `platform`, `title_mention`, `text_mention`;
+- Сбербанк-АСТ найден как оператор/площадка, а не как заказчик/организатор;
 - нет точной идентичности юрлица;
-- период не 2024-2025.
+- дата вне периода 2024-2025.
 
-## Дозаполнение пустых полей
+## Enrichment
 
-Да, пустые поля можно заполнять во время парсинга, но не напрямую в `entity_scope.csv`.
+Парсер может писать candidates в `output/source_sprints/<batch>/identity_enrichment_candidates.csv`, но не должен сам менять `configs/entity_scope.csv`.
 
-Правило:
+`scripts/merge_aliases.py` - review helper:
 
-1. Источник нашел новый ОГРН/КПП/официальное имя.
-2. Сначала пишем proposed value в review/enrichment artifact с evidence.
-3. Если совпадение подтверждено точным ИНН/ОГРН или ручной проверкой, переносим в `entity_scope.csv`.
-4. Если evidence слабый, оставляем в review и не используем как core-фильтр.
+- dry-run по умолчанию;
+- пишет только JSON `aliases`;
+- запись только с `--apply` после просмотра предложений;
+- не используется как обязательный шаг pipeline.
 
-Для этого в коде есть helper `enrichment_row(...)`; source sprint должен писать такие строки в отчет источника, например `output/source_sprints/<source>/identity_enrichment_candidates.csv`.
+## Output и dedupe
 
-## Следующий source sprint
+Source sprint пишет `items.csv` через `source_sprint.write_items_csv(...)`. Стандартный локальный dedupe: `procedure_number + lot_number`, fallback на `detail_url` только если нет procedure number.
 
-Перед разбором нового источника:
-
-1. Загрузи scope через `load_entity_scope`.
-2. Для каждого юрлица построй `build_search_terms`.
-3. Сохрани raw evidence.
-4. Прогони кандидатов через `classify_entity_match`.
-5. Раздели accepted / duplicate / review / rejected.
-6. Если появились новые идентификаторы, положи их в enrichment candidates, не в core напрямую.
+Cross-source dedupe выполняет `scripts/merge_sprints.py`; default batch-и берутся из `configs/source_sprints_allowlist.csv`, полная карта batch-ов - `configs/source_sprints_manifest.csv`.
