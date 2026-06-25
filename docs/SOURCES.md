@@ -31,10 +31,10 @@ rows_after_cross_source_dedupe = 3161
 | `roseltorg_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-24: API работает, 0 результатов по всем ИНН. Источник — 44-ФЗ/223-ФЗ. |
 | `tender_pro_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-24: профили найдены (8 для ПАО Сбербанк), но закупочных процедур 0. |
 | `lot_online_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-24: JSON API работает, 0 результатов по customer_title=Сбербанк. Промышленная площадка. |
-| `etpgpb_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без exact role/identifier audit. |
-| `zakazrf_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без нового audit. |
-| `rts_tender_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без нового audit. |
-| *(нет скрипта)* `fabrikant` | candidate | Next.js App Router; INN-фильтр не раскопан. См. `docs/FABRIKANT_PLAN.md`. |
+| `etpgpb_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-26: `/api/v2/lots?customer_inn=...` фильтрует по ИНН, но возвращает имущественные торги (ИМ-номера, банкротство/залоговое имущество), а не закупки. `/api/v2/procedures/?customer_inn=...` INN-фильтр игнорируется. Текстовый поиск находит только 44-ФЗ-закупки чужих организаций где «Сбербанк» упоминается в тексте. Источник не подходит для сбора закупок Сбера. |
+| `zakazrf_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-26: сайт etp.zakazrf.ru жив, клиент (ASP.NET MVC HTML-парсинг) работает. Найдено 3 сущности с ИНН 7707083893: ОАО Октябрьское отд. №4676 (Заказчик, id=2384), ПАО Сбербанк (Банк, id=465053), филиал Ульяновское №8588 (id=471142). Для всех трёх — total_rows=0 процедур. Сбер не ведёт закупочную деятельность на ZakazRF. |
+| `rts_tender_prompt2_source_sprint_v2.py` | unavailable | Аудит 2026-06-26: домен www.rts-tender.ru недоступен (HTTP 503 на всех эндпоинтах и поддоменах). Сбой или блокировка. Повторная проверка: при восстановлении сервиса требует audit. |
+| *(нет скрипта)* `fabrikant` | candidate_blocked | Аудит 2026-06-26: архитектура Next.js App Router раскрыта полностью (RSC, Server Actions `fetchTrades`/`fetchOrganizationBySearch`). INN-фильтр в RSC GET-запросах игнорируется. Фильтрация по организатору работает только через Server Action `fetchOrganizationBySearch`, который требует авторизации. Текстовый поиск `?query=Сбербанк` без пагинации даёт только 10 из 102 результатов. Регистрация на площадке требует верификации юрлица. Источник заблокирован без auth. |
 
 ## Inclusion Policy
 
