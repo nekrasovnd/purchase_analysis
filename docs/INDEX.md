@@ -17,6 +17,7 @@
 - `RUNBOOK.md` - команды запуска source sprint, merge, aliases review, тестов.
 - `DEDUPLICATION.md` - правила dedupe и актуальная статистика 3161.
 - `CLEANUP_NOTES.md` - финальная уборка и clean batch-набор.
+- `FABRIKANT_PLAN.md` - технический план реализации Fabrikant source sprint (кандидат, не реализован).
 
 ## Протоколы и старые технические заметки
 

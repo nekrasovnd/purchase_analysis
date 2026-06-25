@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 from collections import Counter
 from dataclasses import asdict
+import dataclasses
 from datetime import date, datetime, timedelta
 from pathlib import Path
 import time
@@ -301,9 +302,20 @@ def main() -> None:
     )
     parser.add_argument("--batch-name", default=DEFAULT_BATCH_NAME)
     parser.add_argument("--inn", action="append", dest="inns", default=[])
-    parser.add_argument("--show", default="all", choices=["all", "archive"])
+    parser.add_argument(
+        "--show",
+        default="both",
+        choices=["all", "archive", "both"],
+        help="'all' = active only, 'archive' = completed only, 'both' = all + archive (default)",
+    )
     parser.add_argument("--request-timeout", type=int, default=60)
     parser.add_argument("--max-detail-pages", type=int, default=250)
+    parser.add_argument(
+        "--max-candidates-per-entity",
+        type=int,
+        default=30,
+        help="Max unique B2B org profiles to fetch per entity (prevents 120-branch explosion for ПАО Сбербанк)",
+    )
     parser.add_argument("--throttle-seconds", type=float, default=0.6)
     parser.add_argument("--browser-profile", help="Path to persistent browser profile directory (enables Playwright)")
     parser.add_argument("--resume", action="store_true", help="Resume from previous state by loading existing CSVs and skipping processed entities")
@@ -349,11 +361,14 @@ def main() -> None:
 
     processed_entity_ids = {str(r.get("entity_key")) for r in summary_rows}
     detail_fetched = 0
+    total_entities = len(scope_rows)
 
-    for entity in scope_rows:
+    for entity_idx, entity in enumerate(scope_rows, 1):
         if args.resume and entity.entity_id in processed_entity_ids:
+            print(f"[{entity_idx}/{total_entities}] skip (resume): {entity.entity_name}")
             continue
-            
+
+        print(f"[{entity_idx}/{total_entities}] {entity.entity_name} ({entity.inn}) — searching candidates...", flush=True)
         accepted_candidates: dict[tuple[str, str], b2b_center.B2BCenterOrganizationCandidate] = {}
         review_count = 0
         search_queries_tried: list[str] = []
@@ -416,87 +431,128 @@ def main() -> None:
                     elif decision.needs_review:
                         review_count += 1
 
+        # Deduplicate accepted_candidates by organization_id:
+        # Each org_id may appear twice in accepted_candidates — once as "organizer" and once as
+        # "customer" (different B2B-Center search fields: firm_id vs customer_id). Both searches
+        # are needed to catch all tenders. We dedup the org profiles themselves (avoid fetching
+        # the same org_id more than once per role), but we ALWAYS run both role_modes explicitly.
+        seen_org_ids: set[str] = set()
+        deduped_org_ids: list[str] = []
+        # INN-exact matches first, then the rest (for --max-candidates-per-entity truncation)
+        ordered_cands = sorted(
+            accepted_candidates.values(),
+            key=lambda c: (0 if c.inn == entity.inn else 1, c.organization_id),
+        )
+        org_id_to_candidate: dict[str, b2b_center.B2BCenterOrganizationCandidate] = {}
+        for cand in ordered_cands:
+            if cand.organization_id in seen_org_ids:
+                continue
+            seen_org_ids.add(cand.organization_id)
+            deduped_org_ids.append(cand.organization_id)
+            org_id_to_candidate[cand.organization_id] = cand
+            if len(deduped_org_ids) >= args.max_candidates_per_entity:
+                break
+
+        show_modes = ["all", "archive"] if args.show == "both" else [args.show]
+        print(
+            f"  candidates accepted={len(accepted_candidates)} -> deduped_orgs={len(deduped_org_ids)}"
+            f"  role_modes=[organizer,customer]  show_modes={show_modes}",
+            flush=True,
+        )
         entity_unique_rows = 0
         entity_priced_rows = 0
         entity_duplicate_rows = 0
-        for candidate in accepted_candidates.values():
-            rows = collect_window_items(
-                entity=entity,
-                candidate=candidate,
-                query_used=candidate.query,
-                show=args.show,
-                start=DATE_FROM,
-                end=DATE_TO,
-                session=session,
-                timeout=args.request_timeout,
-                raw_dir=raw_dir,
-                window_counter=window_counter,
-                overflow_rows=overflow_rows,
-                throttle_seconds=args.throttle_seconds,
-            )
-            for row in rows:
-                key = (normalize_spaces(row["source_system"]), normalize_spaces(row["procedure_number"]), "1")
-                row["existing_duplicate"] = key in existing_keys
-                if row["existing_duplicate"]:
-                    entity_duplicate_rows += 1
+        # For each unique org_id, always run BOTH role_modes to catch all tender roles
+        for org_id in deduped_org_ids:
+            base_candidate = org_id_to_candidate[org_id]
+            seen_procedure_numbers_for_candidate: set[str] = set()
+            for role_mode in ("organizer", "customer"):
+                candidate = dataclasses.replace(base_candidate, role_mode=role_mode)
+                for show_mode in show_modes:
+                    mode_rows = collect_window_items(
+                        entity=entity,
+                        candidate=candidate,
+                        query_used=candidate.query,
+                        show=show_mode,
+                        start=DATE_FROM,
+                        end=DATE_TO,
+                        session=session,
+                        timeout=args.request_timeout,
+                        raw_dir=raw_dir,
+                        window_counter=window_counter,
+                        overflow_rows=overflow_rows,
+                        throttle_seconds=args.throttle_seconds,
+                    )
+                    # Deduplicate across role_modes and show_modes by procedure_number
+                    for row in mode_rows:
+                        pnum = normalize_spaces(row.get("procedure_number", ""))
+                        if pnum and pnum in seen_procedure_numbers_for_candidate:
+                            continue
+                        if pnum:
+                            seen_procedure_numbers_for_candidate.add(pnum)
 
-                detail_url = normalize_spaces(row.get("detail_url"))
-                if detail_url and detail_url not in seen_detail_urls and detail_fetched < args.max_detail_pages:
-                    try:
-                        detail_html, final_detail_url = b2b_center.fetch_procedure_detail(
-                            detail_url,
-                            session=session,
-                            timeout=args.request_timeout,
-                        )
-                        if b2b_center.is_rate_limited_page(detail_html) or b2b_center.is_forbidden_page(detail_html):
-                            if hasattr(session, "pause_for_challenge"):
-                                session.pause_for_challenge(reason="Challenge on detail page")
-                                resp = session.current_page_content()
-                                detail_html = resp.text
-                                final_detail_url = resp.url
-                                
-                        detail_slug = safe_slug(
-                            f"{entity.entity_id}_{row['procedure_number']}_{row['role_mode']}"
-                        )
-                        write_text(raw_dir / f"{detail_slug}_detail.html", detail_html)
-                        detail = b2b_center.parse_procedure_detail(
-                            detail_html,
-                            detail_url=final_detail_url,
-                        )
-                        row.update(
-                            {
-                                "detail_subject": detail.subject,
-                                "detail_category": detail.category,
-                                "detail_quantity_text": detail.quantity_text,
-                                "detail_total_price_text": detail.total_price_text,
-                                "detail_total_price_rub": detail.total_price_rub,
-                                "detail_currency": detail.currency,
-                                "detail_published_at": detail.published_at,
-                                "detail_deadline_at": detail.deadline_at,
-                                "detail_organizer_name": detail.organizer_name,
-                                "detail_organizer_profile_url": detail.organizer_profile_url,
-                                "detail_procedure_status": detail.procedure_status,
-                                "detail_price_note": detail.price_note,
-                                "detail_location": detail.location,
-                            }
-                        )
-                        if detail.total_price_rub is not None:
-                            row["price_rub"] = detail.total_price_rub
-                            row["currency"] = detail.currency or row.get("currency") or ""
-                            row["price_source"] = "b2b_center_detail"
-                        else:
-                            row["price_source"] = ""
-                        seen_detail_urls.add(detail_url)
-                        detail_fetched += 1
-                        if args.throttle_seconds > 0:
-                            time.sleep(args.throttle_seconds)
-                    except Exception as exc:  # pragma: no cover - live transport guard
-                        row["detail_error"] = classify_transport_error(exc)
+                        key = (normalize_spaces(row["source_system"]), normalize_spaces(row["procedure_number"]), "1")
+                        row["existing_duplicate"] = key in existing_keys
+                        if row["existing_duplicate"]:
+                            entity_duplicate_rows += 1
 
-                item_rows.append(row)
-                entity_unique_rows += 1
-                if row.get("price_rub") is not None:
-                    entity_priced_rows += 1
+                        detail_url = normalize_spaces(row.get("detail_url"))
+                        if detail_url and detail_url not in seen_detail_urls and detail_fetched < args.max_detail_pages:
+                            try:
+                                detail_html, final_detail_url = b2b_center.fetch_procedure_detail(
+                                    detail_url,
+                                    session=session,
+                                    timeout=args.request_timeout,
+                                )
+                                if b2b_center.is_rate_limited_page(detail_html) or b2b_center.is_forbidden_page(detail_html):
+                                    if hasattr(session, "pause_for_challenge"):
+                                        session.pause_for_challenge(reason="Challenge on detail page")
+                                        resp = session.current_page_content()
+                                        detail_html = resp.text
+                                        final_detail_url = resp.url
+
+                                detail_slug = safe_slug(
+                                    f"{entity.entity_id}_{row['procedure_number']}_{row['role_mode']}"
+                                )
+                                write_text(raw_dir / f"{detail_slug}_detail.html", detail_html)
+                                detail = b2b_center.parse_procedure_detail(
+                                    detail_html,
+                                    detail_url=final_detail_url,
+                                )
+                                row.update(
+                                    {
+                                        "detail_subject": detail.subject,
+                                        "detail_category": detail.category,
+                                        "detail_quantity_text": detail.quantity_text,
+                                        "detail_total_price_text": detail.total_price_text,
+                                        "detail_total_price_rub": detail.total_price_rub,
+                                        "detail_currency": detail.currency,
+                                        "detail_published_at": detail.published_at,
+                                        "detail_deadline_at": detail.deadline_at,
+                                        "detail_organizer_name": detail.organizer_name,
+                                        "detail_organizer_profile_url": detail.organizer_profile_url,
+                                        "detail_procedure_status": detail.procedure_status,
+                                        "detail_price_note": detail.price_note,
+                                        "detail_location": detail.location,
+                                    }
+                                )
+                                if detail.total_price_rub is not None:
+                                    row["price_rub"] = detail.total_price_rub
+                                    row["currency"] = detail.currency or row.get("currency") or ""
+                                    row["price_source"] = "b2b_center_detail"
+                                else:
+                                    row["price_source"] = ""
+                                seen_detail_urls.add(detail_url)
+                                detail_fetched += 1
+                                if args.throttle_seconds > 0:
+                                    time.sleep(args.throttle_seconds)
+                            except Exception as exc:  # pragma: no cover - live transport guard
+                                row["detail_error"] = classify_transport_error(exc)
+
+                        item_rows.append(row)
+                        entity_unique_rows += 1
+                        if row.get("price_rub") is not None:
+                            entity_priced_rows += 1
 
         summary_rows.append(
             {
@@ -512,6 +568,21 @@ def main() -> None:
                 "window_requests": window_counter[0],
             }
         )
+        print(
+            f"  -> items={entity_unique_rows}  priced={entity_priced_rows}  windows={window_counter[0]}",
+            flush=True,
+        )
+        # Flush incremental CSVs after each entity so --resume works and progress is visible
+        write_frame(out_dir / "identity_enrichment_candidates.csv", candidate_rows)
+        write_frame(out_dir / "summary.csv", summary_rows)
+        if item_rows:
+            source_sprint.write_items_csv(
+                out_dir / "items.csv",
+                item_rows,
+                default_source_system="b2b_center",
+            )
+        if overflow_rows:
+            write_frame(out_dir / "overflow_windows.csv", overflow_rows)
 
     write_frame(out_dir / "identity_enrichment_candidates.csv", candidate_rows)
     item_df = source_sprint.write_items_csv(
@@ -522,6 +593,7 @@ def main() -> None:
     write_frame(out_dir / "summary.csv", summary_rows)
     write_frame(out_dir / "overflow_windows.csv", overflow_rows)
 
+    print(f"\nDone. total_items={len(item_df)}  detail_pages={detail_fetched}  out={out_dir}", flush=True)
     summary_payload = {
         "accepted_candidates": sum(int(row["accepted_candidates"]) for row in summary_rows),
         "review_candidates": sum(int(row["review_candidates"]) for row in summary_rows),

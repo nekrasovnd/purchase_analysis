@@ -25,15 +25,16 @@ rows_after_cross_source_dedupe = 3161
 | Script | Status | Notes |
 |---|---|---|
 | `sberbank_ast_prompt2_source_sprint_v2.py` | production | Clean AST batch уже собран и включён в allowlist. |
-| `b2b_center_prompt2_source_sprint_v2.py` | production | Clean B2B batch уже собран и включён в allowlist. |
+| `b2b_center_prompt2_source_sprint_v2.py` | production | Clean B2B batch в allowlist. Скрипт обновлён 2026-06-24: show=both, role_mode fix, incremental flush, --resume, browser-profile. |
 | `eis_prompt2_source_sprint_v2.py` | production/control | Используется для 44-ФЗ/223-ФЗ control coverage. |
-| `roseltorg_prompt2_source_sprint_v2.py` | available | Код сохранён для будущего аудита источника; локальные probe/diag артефакты удалены. |
-| `rts_tender_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без нового audit. |
+| `tektorg_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-24: SOAP API работает, но все 32 entity возвращают FAULT «Customers not found by INN». Источник — только 44-ФЗ госзакупки, Сбера нет. |
+| `roseltorg_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-24: API работает, 0 результатов по всем ИНН. Источник — 44-ФЗ/223-ФЗ. |
+| `tender_pro_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-24: профили найдены (8 для ПАО Сбербанк), но закупочных процедур 0. |
+| `lot_online_prompt2_source_sprint_v2.py` | audited_empty | Аудит 2026-06-24: JSON API работает, 0 результатов по customer_title=Сбербанк. Промышленная площадка. |
 | `etpgpb_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без exact role/identifier audit. |
-| `lot_online_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без нового clean run. |
-| `tektorg_prompt2_source_sprint_v2.py` | available | Код сохранён; SOAP source требует нового clean run. |
-| `tender_pro_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без нового audit. |
 | `zakazrf_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без нового audit. |
+| `rts_tender_prompt2_source_sprint_v2.py` | available | Код сохранён; batch не включается без нового audit. |
+| *(нет скрипта)* `fabrikant` | candidate | Next.js App Router; INN-фильтр не раскопан. См. `docs/FABRIKANT_PLAN.md`. |
 
 ## Inclusion Policy
 

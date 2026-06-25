@@ -249,7 +249,21 @@ class BrowserSession:
     def current_page_content(self) -> BrowserResponse:
         """
         Returns the current content of the page, useful after a manual challenge pause.
+        Waits for the page to finish navigating before reading content.
         """
         if not self._page:
             raise RuntimeError("Browser not started")
-        return BrowserResponse(text=self._page.content(), url=self._page.url)
+        try:
+            self._page.wait_for_load_state("domcontentloaded", timeout=15000)
+        except Exception:
+            pass  # timeout is fine — page may already be loaded
+        try:
+            self._page.wait_for_timeout(1500)  # extra buffer for JS redirects
+            content = self._page.content()
+            url = self._page.url
+        except Exception:
+            # If still navigating, wait a bit more and retry once
+            self._page.wait_for_timeout(3000)
+            content = self._page.content()
+            url = self._page.url
+        return BrowserResponse(text=content, url=url)
