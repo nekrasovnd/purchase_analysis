@@ -6,9 +6,9 @@
 
 `output/source_sprints/` содержит только clean batch-и:
 
-| Batch | Source | Items |
+| Batch | Источник | Строк |
 |---|---|---:|
-| `ast-full-2024-2025-finalcheck` | Sberbank-AST | 2761 |
+| `ast-full-2024-2025-finalcheck` | Sberbank-AST | 2 761 |
 | `b2b_center_prompt2_full_scope_2026-06-18` | B2B-Center | 400 |
 | `eis-prompt2-full-scope-2026-06-22` | EIS | 3 |
 
@@ -20,14 +20,23 @@ data/raw/b2b_center/b2b_center_prompt2_full_scope_2026-06-18
 data/raw/eis/eis-prompt2-full-scope-2026-06-22
 ```
 
-`configs/source_sprints_allowlist.csv` и `configs/source_sprints_manifest.csv` теперь содержат только эти три batch-а.
+`configs/source_sprints_allowlist.csv` и `configs/source_sprints_manifest.csv` содержат только эти три batch-а.
+
+**Демонстрационные артефакты** (добавлены 2026-06-26):
+
+| Файл | Что |
+|---|---|
+| `purchase_analysis.db` | SQLite база, генерируется из `export_to_sqlite.py` |
+| `demo_queries.sql` | 15 SQL-запросов для DB Browser |
+| `export_to_sqlite.py` | Скрипт экспорта CSV → SQLite |
+| `presentation/Defense_Speech_FINAL.docx` | Готовая защитная речь |
+| `presentation/generate_defense_speech.py` | Скрипт генерации речи |
 
 ## Что удалено из рабочего дерева
 
 - `scratch/`
 - `.agents/`
 - `.local/`, `.playwright-cli/`, `.pytest_cache/`
-- `node_modules/`, `package.json`, `package-lock.json`
 - `scripts/legacy/`
 - `scripts/__pycache__/`, `src/purchase_analysis.egg-info/`
 - старые root debug/probe файлы (`iframe_debug_*.html`, `rts_tender_scout*.py`, `etpgpb_test.py`, `output.log`, временные картинки/pdf/html)
@@ -41,7 +50,8 @@ data/raw/eis/eis-prompt2-full-scope-2026-06-22
 - Не запускай `merge_sprints.py --all` для финальной статистики.
 - Новый source sprint сначала запускай с отдельным batch name, проверяй, затем добавляй в allowlist/manifest только после audit.
 - Browser profiles и temporary scraping state не хранить в репозитории.
-- Если нужен эксперимент, используй внешний временный каталог или сразу удали его после проверки.
+- Если нужен эксперимент, используй внешний временный каталог или сразу удали после проверки.
+- `purchase_analysis.db` — регенерируется командой `python export_to_sqlite.py`. Не редактировать вручную.
 
 ## Артефакты сессии 2026-06-24 (не в allowlist)
 
@@ -52,6 +62,5 @@ data/raw/eis/eis-prompt2-full-scope-2026-06-22
 | `output/source_sprints/b2b-center-both-2026-06-24/` | Подтверждающий прогон (400 строк = старый batch) | Можно удалить; в allowlist не добавлять |
 | `data/raw/b2b_center/b2b-center-both-2026-06-24/` | Raw HTML для того же прогона | Можно удалить вместе с output |
 | `.local/b2b_profile/` | Playwright браузерный профиль для B2B-Center | Хранить локально; **не коммитить**; переиспользовать при следующем B2B-Center прогоне |
-| `iframe_debug_1.html` (в корне) | Дамп iframe при auto-resolve капчи | Удалить: `Remove-Item iframe_debug_1.html` |
 
-Каноническая чистая статистика не изменилась: **3161 уникальный лот** (AST 2761 + B2B 400, минус 3 cross-source дубля).
+Каноническая чистая статистика: **3 161 уникальный лот** (AST 2761 + B2B 400, минус 3 cross-source дубля), бюджет **30,5 млрд ₽**.
