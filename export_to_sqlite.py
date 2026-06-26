@@ -257,14 +257,14 @@ ORDER BY price_rub DESC
 "v_entity_scope_stats": """
 -- Юрлица в скопе и их представленность в данных
 SELECT
-    e.canonical_name                                            AS юрлицо,
+    e.entity_name                                               AS юрлицо,
     e.inn                                                       AS ИНН,
     COUNT(l.procedure_number)                                   AS закупок,
     ROUND(COALESCE(SUM(l.price_rub), 0) / 1e6, 1)             AS бюджет_млн,
     CASE WHEN COUNT(l.procedure_number) > 0 THEN '✅ Найдено' ELSE '❌ Нет данных' END AS статус
 FROM entity_scope e
-LEFT JOIN lots l ON l.entity_name = e.canonical_name
-GROUP BY e.canonical_name, e.inn
+LEFT JOIN lots l ON l.entity_name = e.entity_name
+GROUP BY e.entity_name, e.inn
 ORDER BY бюджет_млн DESC
 """,
 }
@@ -277,14 +277,14 @@ for view_name, sql in views.items():
 
 con.commit()
 
-# ─── Финальная проверка ───────────────────────────────────────────────────────
-print("\n── Проверка ──────────────────────────────────────────────────────────")
+# --- Финальная проверка -------------------------------------------------------
+print("\n-- Проверка ----------------------------------------------------------")
 for view_name in views:
     try:
         row = pd.read_sql(f"SELECT * FROM {view_name} LIMIT 1", con)
-        print(f"  ✓ {view_name}: {len(row.columns)} столбцов")
+        print(f"  [OK] {view_name}: {len(row.columns)} столбцов")
     except Exception as e:
-        print(f"  ✗ {view_name}: {e}")
+        print(f"  [ERR] {view_name}: {e}")
 
 size_mb = DB_PATH.stat().st_size / 1024 / 1024
 print(f"\nОК  Файл: {DB_PATH}")
